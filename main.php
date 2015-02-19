@@ -1,0 +1,111 @@
+<!--- ------------------- MAIN ------------------- -->
+
+<blockquote>
+    <p>There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it
+        is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There
+        is another theory which states that this has already happened.</p>
+    <footer>Douglas Adams</footer>
+</blockquote>
+
+<h1>Prof. Dr. Mathias Lux</h1>
+<div class="col-md-6">
+    <p class="text-justify">
+        Assoc. Prof. Dipl.-Ing. Dr. Mathias Lux is Associate Professor at the
+        Institute for Information Technology (ITEC) at Klagenfurt University. He is working on user intentions in
+        multimedia retrieval and production and emergent semantics in social multimedia computing. In his scientific
+        career he has (co-) authored more than 80 scientific publications, has served in multiple program committees
+        and as reviewer of international conferences, journals and magazines, and has organized multiple scientific
+        events. Mathias Lux is also well known for the development of the award winning and popular open source
+        tools Caliph &amp; Emir and LIRe (<a href="http://www.semanticmetadata.net" class="urlextern"
+                                             title="http://www.semanticmetadata.net" rel="nofollow">http://www.semanticmetadata.net</a>)
+        for multimedia information retrieval.
+    </p>
+
+    <p class="text-justify">
+        Dr. Mathias Lux received his M.S. in Mathematics 2004, his Ph.D. in Telematics 2006 from Graz University of
+        Technology, both with distinction, and his Habilitation (venia docendi) from Klagenfurt University in 2013.
+        He worked in industry on web-based applications, then as a junior researcher at a research center for
+        knowledge-based applications. He was research and teaching assistant at the Knowledge Management Institute
+        (KMI) of Graz University of Technology and in 2006 he started working in a post doc position at Klagenfurt
+        University, at the Institute for Information Technology.
+    </p>
+
+    <p>
+        <a href="http://www.itec.uni-klu.ac.at/~mlux/cv-mlux.pdf">Curriculum vitae - PDF version</a>
+    </p>
+
+</div>
+
+<div class="col-md-2">
+    <div class=" row text-center">
+        <img src="http://www.uni-klu.ac.at/tewi/bilder/Mathias_Lux.jpg" class="img-thumbnail img-responsive"
+             title="Prof. Mathias Lux"
+             alt="Prof. Mathias Lux" style="margin: 10px; max-height: 320px; width: auto; ">
+    </div>
+</div>
+
+<div class="col-md-4">
+    <ul>
+        <li> 1996 - 2004 Studies in Mathematics / Graz University of Technology</li>
+        <li> June 2004 Finished studies in Technical Mathematics at Graz University of Technology with distinction
+            (Dipl. Ing. ~ master degree).
+        </li>
+        <li> 1998 - 2001 Employee and contract worker in companies of the Styria Medien AG group. (Carinthia Online,
+            Media Consult Austria and Netconomy)
+        </li>
+        <li> 2001 - 2006 Junior Researcher at the Know-Center</li>
+        <li> Nov. 2006 finished doctoral studies with distinction.</li>
+        <li> 2006 - 2013 Assistant professor at the Institute for Information Technology (ITEC) at Klagenfurt
+            University
+        </li>
+        <li> Oct. 2013 Habilitation at Klagenfurt University</li>
+        <li> 2014-... Associate Professor at the Institute for Information Technology (ITEC) at Klagenfurt
+            University
+        </li>
+    </ul>
+</div>
+
+
+<h2>Contact</h2>
+<ul>
+    <li>Phone: +43 (463) 2700 3615</li>
+    <li> Fax: +43 (463) 2700 99 3615</li>
+    <li> Address: Universit&auml;tsstrasse 65-67, 9020 Klagenfurt, Austria</li>
+    <li> Email: mlux [at] itec [dot] aau [dot] at</li>
+    <li> Office: E.2.59</li>
+    <li> Consultation-Hour: Monday, 3-4 pm, note: request appointments via email.</li>
+    <li><a href="http://www.itec.uni-klu.ac.at/~mlux/cv-mlux.pdf" class="urlextern"
+           title="http://www.itec.uni-klu.ac.at/~mlux/cv-mlux.pdf" rel="nofollow">Curriculum vitae</a> (long
+        version, PDF)
+    </li>
+</ul>
+<ul>
+    <li> Google Talk: mathias.lux [at] gmail [dot] com</li>
+    <li> Skype: Call via Skype</li>
+</ul>
+<ul>
+    <li> Geo Location: <a href="http://maps.google.de/maps?q=http://mathias.lux.googlepages.com/geo-itec.kmz"
+                          class="urlextern"
+                          title="http://maps.google.de/maps?q=http://mathias.lux.googlepages.com/geo-itec.kmz"
+                          rel="nofollow">Find me here ...</a></li>
+    <li> Link to this page: <a href="http://tinyurl.com/mlux-itec" class="urlextern"
+                               title="http://tinyurl.com/mlux-itec"
+                               rel="nofollow">http://tinyurl.com/mlux-itec</a></li>
+</ul>
+
+
+<h2>Publications</h2>
+
+<p>
+    Find a list of all my publications including links to the PDFs and BibTeX entries here:
+</p>
+
+<p>
+    <a href="http://www.itec.uni-klu.ac.at/~mlux/publications.html" class="urlextern"
+       title="http://www.itec.uni-klu.ac.at/~mlux/publications.html" rel="nofollow">http://www.itec.uni-klu.ac.at/~mlux/publications.html</a>
+</p>
+
+<!--p>
+    Furthermore an incomplete list of my research related activities can be found here: <a
+        href="/~mlux/wiki/doku.php?id=research:activities" class="wikilink1" title="research:activities">Activities</a>.
+</p-->

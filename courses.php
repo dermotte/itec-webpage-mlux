@@ -38,7 +38,7 @@
 
 <h2>Summer Semester 2015</h2>
 <ul>
-    <li><a href="?id=courses/ringvorlesungss15">Ringvorlesung Informatik und Informationstechnik</a></li>
+    <li><a href="?id=courses/ringvorlesungss15">Ringvorlesung Informatik und Informationstechnik</a> - Lecture with rotating speakers for PhD students</li>
     <li><a href="?id=courses/gamesss15">Interaktive Multimedia-Anwendungen B (Computer Games)</a> - Course on
         computer games planning and development.
     </li>

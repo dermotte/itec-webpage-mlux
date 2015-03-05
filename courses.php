@@ -15,7 +15,10 @@
                 all courses have in common. Also note the list of <a href="?id=usefulsoftware">common and useful
                     software for students</a>. If you have questions on courses, open master or bachelor thesis project,
                 send me a mail. For communication please respect the office hours and the <a
-                    href="https://tools.ietf.org/html/rfc1855">netiquette</a>. </p></div>
+                    href="https://tools.ietf.org/html/rfc1855">netiquette</a>. </p>
+
+            <p> If you need a LaTeX style for a Bachelor's or Master's thesis you can consider the <a
+                    href="teaching/LatexStyleItec.zip">ITEC style </a>provided by Ingo Kofler. </p></div>
     </div>
     <div class="col-md-4">
         <div class="row text-center"><img src="images/carry.png" style="margin: 2px; max-height: 180px; width: auto">

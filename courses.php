@@ -17,8 +17,8 @@
                 send me a mail. For communication please respect the office hours and the <a
                     href="https://tools.ietf.org/html/rfc1855">netiquette</a>. </p>
 
-            <p> If you need a LaTeX style for a Bachelor's or Master's thesis you can consider the <a
-                    href="teaching/LatexStyleItec.zip">ITEC style </a>provided by Ingo Kofler. </p></div>
+            <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
+                    href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H. Kosch and some others. </p></div>
     </div>
     <div class="col-md-4">
         <div class="row text-center"><img src="images/carry.png" style="margin: 2px; max-height: 180px; width: auto">

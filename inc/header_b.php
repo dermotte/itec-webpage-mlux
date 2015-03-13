@@ -9,6 +9,8 @@
 
     <title>Prof. Dr. Mathias Lux</title>
 
+    <link rel="icon" type="image/png" href="favicon.png" />
+
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     <!-- Latest compiled and minified CSS -->

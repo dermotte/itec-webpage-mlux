@@ -83,7 +83,7 @@
             </li>
             <li><span class="glyphicon glyphicon-map-marker"></span> Office: E.2.59</li>
             <li><span class="glyphicon glyphicon-envelope"></span> Email: mlux [at] itec [dot] aau [dot] at</li>
-            <li><span class="glyphicon glyphicon-star"></span> Consultation-Hour: Monday, 3-4 pm, note: request
+            <li><span class="glyphicon glyphicon-star"></span> Consultation hours: Monday, 3-4 pm, note: request
                 appointments
                 via
                 email.
@@ -95,7 +95,7 @@
                     rel="nofollow">Curriculum vitae</a> (long
                 version, PDF)
             </li>
-            <li><span class="glyphicon glyphicon-headphones"></span> Google Talk: mathias.lux [at] gmail [dot] com</li>
+            <!--li><span class="glyphicon glyphicon-headphones"></span> Google Talk: ...</li-->
             <li><span class="glyphicon glyphicon-globe"></span> Link to this page: <a
                     href="http://www.itec.aau.at/~mlux/">http://www.itec.aau.at/~mlux/</a>
             </li>
@@ -114,6 +114,9 @@
                title="http://www.itec.uni-klu.ac.at/~mlux/publications.html" rel="nofollow">http://www.itec.uni-klu.ac.at/~mlux/publications.html</a>
         </p>
     </div>
+</div>
+<div class="row">
+    <div class="col-md-12 text-center"><span class="glyphicon glyphicon-arrow-down"></span></div>
 </div>
 <!--p>
     Furthermore an incomplete list of my research related activities can be found here: <a

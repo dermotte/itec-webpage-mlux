@@ -78,7 +78,7 @@
             in a large survey. More information and the actual data is available here: <a
                 href="?id=photointentionsdata">photointentionsdata</a></p></div>
     <div class="col-md-6"><p class="text-center">
-            <iframe src="https://www.slideshare.net/slideshow/embed_code/key/clhQoybYaBWRo" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+            <iframe src="https://docs.google.com/presentation/d/1FnnT1ZK02tPH7TiR1TZ2YjovHu65CVXjFnimpC0yMCw/embed?start=true&loop=true&delayms=3000" frameborder="0" width="480" height="389" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 <!--        <blockquote><h3>Definition of context</h3> Context is any information that can be used to characterize the
             situation of an entity. An entity is a person, place, or object that is considered relevant to the
             interaction between a user and an application, including the user and applications themselves.

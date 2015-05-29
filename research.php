@@ -4,7 +4,7 @@
     <footer>Sheldon Cooper, Big Bang Theory, Episode "The Lunar Excitation"</footer>
 </blockquote> <h2>User Intentions</h2>
 <div class="row">
-    <div class="col-md-8"><p class="text-justify"> User intentions in multimedia is a novel and promising field. It
+    <div class="col-md-6"><p class="text-justify"> User intentions in multimedia is a novel and promising field. It
             deals with the motivation <i>why</i> images and videos are taken, viewed and searched for. Research on user
             intentions includes qualitative and quantitative studies on (i) motivations for search and production of
             multimedia content, (ii) goals that users want to achieve by creating and searching multimedia content, and
@@ -77,19 +77,26 @@
         <p> We further released a test data set of 1,309 images along with the intentions of the photographers acquired
             in a large survey. More information and the actual data is available here: <a
                 href="?id=photointentionsdata">photointentionsdata</a></p></div>
-    <div class="col-md-4"><p class="text-center">
-        <blockquote><h3>Definition of context</h3> Context is any information that can be used to characterize the
+    <div class="col-md-6"><p class="text-center">
+            <iframe src="https://www.slideshare.net/slideshow/embed_code/key/clhQoybYaBWRo" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+<!--        <blockquote><h3>Definition of context</h3> Context is any information that can be used to characterize the
             situation of an entity. An entity is a person, place, or object that is considered relevant to the
             interaction between a user and an application, including the user and applications themselves.
             <footer>G. Abowd et al., "Towards a better understanding of context and context-awareness"</footer>
         </blockquote>
-        <blockquote><h3>Definition of intention</h3> <i>noun</i><br/> (1) thing intended; an aim or plan<br/>
+-->        <blockquote><h3>Definition of intention</h3> <i>noun</i><br/> (1) thing intended; an aim or plan<br/>
             (2) Medicine the healing process of a wound<br/> (3) (intentions) Logic conceptions formed by directing the
             mind towards an object<br/>
             <footer>Oxford Dictionary</footer>
         </blockquote>
         </p> </div>
-</div> <h2>Content Based Image Retrieval with LIRe</h2>
+</div>
+<!--<div class="row">
+    <div class="col-md-12">
+        <iframe src="https://www.slideshare.net/slideshow/embed_code/key/clhQoybYaBWRo" width="476" height="400" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe>
+    </div>
+</div>
+--><h2>Content Based Image Retrieval with LIRe</h2>
 <div class="col-md-8"><p class="text-justify"> LIRE (Lucene Image Retrieval) is an open source library for content based
         image retrieval. Besides providing multiple common and state of the art retrieval mechanisms it allows for easy
         use on multiple platforms. LIRE is actively used for research, teaching and commercial applications. Due to its

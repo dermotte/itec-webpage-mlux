@@ -46,8 +46,8 @@ $t = $_GET["id"];
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>
-                <li><a href="https://code.google.com/p/lire/" rel="external">LIRE</a></li>
-                <li><a href="https://code.google.com/p/lire/" rel="external">LIRE Solr</a></li>
+                <li><a href="http://www.lire-project.net/" rel="external">LIRE</a></li>
+                <li><a href="https://bitbucket.org/dermotte/liresolr" rel="external">LIRE Solr</a></li>
                 <li><a href="http://www.semanticmetadata.net" rel="external">Blog</a></li>
             </ul>
         </div><!--/.nav-collapse -->

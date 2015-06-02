@@ -10,7 +10,7 @@
 </div>
 <div class="row">
     <div class="col-md-12">
-        <h1>Prof. Dr. Mathias Lux</h1>
+        <h1>Assoc. Prof. Dr. DI Mathias Lux</h1>
     </div>
 </div>
 <div class="row">
@@ -22,8 +22,7 @@
             career he has (co-) authored more than 80 scientific publications, has served in multiple program committees
             and as reviewer of international conferences, journals and magazines, and has organized multiple scientific
             events. Mathias Lux is also well known for the development of the award winning and popular open source
-            tools Caliph &amp; Emir and LIRe (<a href="http://www.semanticmetadata.net" class="urlextern"
-                                                 title="http://www.semanticmetadata.net" rel="nofollow">http://www.semanticmetadata.net</a>)
+            tools <a href="http://www.semanticmetadata.net">Caliph &amp; Emir</a> and <a href="http://www.lire-project.net/">LIRE</a>
             for multimedia information retrieval.
         </p>
 

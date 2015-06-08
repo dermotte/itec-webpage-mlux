@@ -41,8 +41,8 @@ $t = $_GET["id"];
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li <?=($t==null || $t=="main")?"class=\"active\"":""?>><a href="index.php">Home</a></li>
-                <li <?=($t=="research")?"class=\"active\"":""?>><a href="?id=research">Research</a></li>
-                <li <?=($t=="courses")?"class=\"active\"":""?>><a href="?id=courses">Courses</a></li>
+                <li <?=($t=="research")?"class=\"active\"":""?>><a href="index.php?id=research">Research</a></li>
+                <li <?=($t=="courses")?"class=\"active\"":""?>><a href="index.php?id=courses">Courses</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>

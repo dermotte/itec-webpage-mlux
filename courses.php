@@ -18,13 +18,32 @@
                     href="https://tools.ietf.org/html/rfc1855">netiquette</a>. </p>
 
             <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
-                    href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H. Kosch and some others. </p></div>
+                    href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H. Kosch
+                and some others. </p></div>
     </div>
     <div class="col-md-4">
         <div class="row text-center"><img src="images/carry.png" style="margin: 2px; max-height: 180px; width: auto">
         </div>
     </div>
-</div> <h2>Summer Semester 2015</h2>
+</div>
+<h2>Winter Semester 2015/2016</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/esop15" class="wikilink2" title="courses:esop14">VO Einf&uuml;hrung in die
+                strukturierte und objektbasierte Programmierung</a> - Basic course on object oriented programming
+            focusing on Java as example.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=83151">PR Einf&uuml;hrung
+                in die Informatik</a> - Practical course for the introductory computer science lecture.</div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/mediainformatik2015">Introduction to
+                Media Informatics</a> - Introduction to media technologies course.</div>
+    </li>
+</ul>
+<h2>Summer Semester 2015</h2>
 <ul>
     <li><a href="?id=courses/ringvorlesungss15">Ringvorlesung Informatik und Informationstechnik</a> - Lecture with
         rotating speakers for PhD students
@@ -34,7 +53,8 @@
     </li>
     <li><a href="?id=courses/mmisss15">Multimedia Information Systems</a> - Course on multimedia information systems.
     </li>
-</ul> <h2>Winter Semester 2014/2015</h2>
+</ul>
+<h2>Winter Semester 2014/2015</h2>
 <ul>
     <li>
         <div class="li"><a href="?id=courses/sem14" title="courses:sem11">Seminar aus Angewandte Informatik</a> -

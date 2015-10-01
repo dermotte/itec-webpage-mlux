@@ -25,7 +25,11 @@
 
 <body class="">
 <?php
+if (array_key_exists("id", $_GET)) {
     $t = $_GET["id"];
+} else {
+    $t = null;
+}
 ?>
 <nav class="navbar navbar-default navbar-static-top">
     <div class="container">

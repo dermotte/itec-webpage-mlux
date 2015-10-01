@@ -1,10 +1,10 @@
 <?php include("inc/header_b.php"); ?>
 <?php
 try {
-    $t = $_GET["id"];
-    if ($t == null) {
+    if (!array_key_exists("id", $_GET)) {
         include("main.php");
     } else {
+        $t = $_GET["id"];
         if (preg_match("/^[a-z0-9]+$/", $t)) {
             if(!@include($t . ".php")) throw new Exception("No such page!");
         } elseif (preg_match("/^courses\/[a-z0-9]+$/", $t)) {

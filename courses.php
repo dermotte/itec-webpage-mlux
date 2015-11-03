@@ -29,13 +29,14 @@
 <h2>Winter Semester 2015/2016</h2>
 <ul>
     <li>
-        <div class="li"><a href="?id=courses/esop15" class="wikilink2" title="courses:esop14">VO Einf&uuml;hrung in die
+        <div class="li"><a href="?id=courses/esop15">VO Einf&uuml;hrung in die
                 strukturierte und objektbasierte Programmierung</a> - Basic course on object oriented programming
             focusing on Java as example.
         </div>
     </li>
     <li>
-        <div class="li"><a href="https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=83151">PR Einf&uuml;hrung
+<!--        <div class="li"><a href="https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=83151">PR Einf&uuml;hrung-->
+        <div class="li"><a href="?id=courses/einfuehrungindieinformatikws1516">PR Einf&uuml;hrung
                 in die Informatik</a> - Practical course for the introductory computer science lecture.</div>
     </li>
     <li>

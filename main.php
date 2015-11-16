@@ -109,8 +109,7 @@
         </p>
 
         <p>
-            <a href="http://www.itec.uni-klu.ac.at/~mlux/publications.html" class="urlextern"
-               title="http://www.itec.uni-klu.ac.at/~mlux/publications.html" rel="nofollow">http://www.itec.uni-klu.ac.at/~mlux/publications.html</a>
+            <a href="http://www.itec.uni-klu.ac.at/~mlux/publications.html">http://www.itec.uni-klu.ac.at/~mlux/publications.html</a> 
         </p>
     </div>
 </div>

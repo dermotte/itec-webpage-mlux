@@ -15,7 +15,7 @@
                 all courses have in common. Also note the list of <a href="?id=usefulsoftware">common and useful
                     software for students</a>. If you have questions on courses, open master or bachelor thesis project,
                 send me a mail. For communication please respect the office hours and the <a
-                    href="https://tools.ietf.org/html/rfc1855">netiquette</a>. </p>
+                    href="https://tools.ietf.org/html/rfc1855">netiquette</a>.</p>
 
             <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
                     href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H. Kosch

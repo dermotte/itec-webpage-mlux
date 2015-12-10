@@ -5,7 +5,7 @@
 
             <p>
                 This page points out some tool useful for several tasks given in diverse courses. Tools give here are
-                free (at least for personal or academic use)
+                free (at least for personal or academic use).
             </p>
 
         </div>
@@ -64,13 +64,11 @@
                     </div>
                 </li>
                 <li>
-                    <div><a href="http://camstudio.org/" re="external"
-                            >Camstudio</a>: Screen recording
+                    <div><a href="http://camstudio.org/">Camstudio</a>: Screen recording
                     </div>
                 </li>
                 <li>
-                    <div><a href="http://www.fraps.com/" re="external"
-                            >Fraps</a>: Screen capture (3D, Shareware)
+                    <div><a href="http://www.fraps.com/">Fraps</a>: Screen capture (3D, Shareware)
                     </div>
                 </li>
             </ul>

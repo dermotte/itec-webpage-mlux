@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>new Password() - dead simple</title>
+
+    <link rel="icon" type="image/png" href="../favicon.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+    <!--    <link rel="stylesheet" href="http://bootswatch.com/superhero/bootstrap.min.css">-->
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+</head>
+<body>
+<div class="container">
+    <h1 style="margin-bottom: 40px;">new Password()</h1>
+
+    <div class="row">
+        <div class="col-md-4">
+            <button style="margin-top: 10px ;margin-bottom: 10px;" class="btn btn-primary btn-block"
+                    onClick="javascript:getNewPassword();">
+                Generate new password
+            </button>
+        </div>
+        <div class="col-md-8">
+            <label for="inputPassword" class="sr-only">Password</label>
+            <input style="margin-top: 10px ;margin-bottom: 10px;" type="text" id="inputPassword" class="form-control"
+                   placeholder="Password">
+        </div>
+    </div>
+    <div class="row" style="margin-top: 40px" id="resultRow" hidden="true">
+        <div class="col-md-4">
+            <span id="passwordmeta">&nbsp;</span>&nbsp; <a data-toggle="collapse" href="#myCollapse" aria-expanded="false" aria-controls="collapseExample">
+            <span class="glyphicon glyphicon-info-sign"> </span>
+        </a>
+        </div>
+        <div class="col-md-8">
+            <div class="progress" id="progress" hidden="true">
+                <div id="myProgress" class="progress-bar progress-bar-danger" role="progressbar" aria-valuenow="40"
+                     aria-valuemin="0"
+                     aria-valuemax="100" style="width: 1%"><span class="sr-only">40% Complete (success)</span></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="row" style="margin-top: 40px">
+        <div class="col-md-12">
+            <div class="collapse" id="myCollapse">
+                <h2>More statistics:</h2>
+                <table class="table">
+                    <tr>
+                        <td>Cracking offline with 10,000,000,000 tries / second:</td>
+                        <td><span id="tryofflinefast">&nbsp;</span></td>
+                    </tr>
+                    <tr>
+                        <td>Cracking offline with 1000 tries / second:</td>
+                        <td><span id="tryofflineslow">&nbsp;</span></td>
+                    </tr>
+                    <tr>
+                        <td>Crackingonline, throttled to 100 tries / hour:</td>
+                        <td><span id="tryonlineslow">&nbsp;</span></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+<!-- Bootstrap core JavaScript
+================================================== -->
+<!-- Placed at the end of the document so the pages load faster -->
+<script src="bootstrap/js/bootstrap.min.js"></script>
+<!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+<!--script src="../../assets/js/ie10-viewport-bug-workaround.js"></script-->
+
+<script type="text/javascript" src="zxcvbn.js">
+</script>
+
+<script language="JavaScript">
+    function getNewPassword() {
+        var length = Math.floor(Math.random() * 7 + 6);
+        var password = "";
+        for (var i = 0; i < length; i++) {
+            var myChar = Math.floor(Math.random() * 93 + 33);
+            while (myChar == 96 || myChar == 94 || myChar == 39)
+                myChar = Math.floor(Math.random() * 93 + 33);
+            password += String.fromCharCode(myChar);
+        }
+        $('#inputPassword').val(password);
+        checkPassword();
+    }
+
+    function checkPassword() {
+        $("#progress").show();
+        $("#resultRow").show();
+        password = $('#inputPassword').val();
+        console.log(password);
+        pwdmeta = zxcvbn(password);
+        console.log(pwdmeta);
+
+        var bar = document.getElementById("myProgress");
+        var progress = Math.log(pwdmeta.crack_times_seconds.online_no_throttling_10_per_second) * 3.5;
+
+
+        bar.style.width = progress + "%";
+        console.log(progress);
+        bar.className = "progress-bar progress-bar-danger";
+        if (progress > 60)
+            bar.className = "progress-bar progress-bar-success";
+        else if (progress > 50)
+            bar.className = "progress-bar progress-bar-warning";
+
+        $('#passwordmeta').html("It takes " +
+                pwdmeta.crack_times_display.online_no_throttling_10_per_second + " to crack this password by trying it online (10 tries/sec).");
+
+        $("#tryofflinefast").html(pwdmeta.crack_times_display.offline_fast_hashing_1e10_per_second);
+        $("#tryofflineslow").html(pwdmeta.crack_times_display.offline_slow_hashing_1e4_per_second);
+        $("#tryonlineslow").html(pwdmeta.crack_times_display.online_throttling_100_per_hour);
+
+    }
+
+    $(function () {
+        $("#inputPassword").keyup(checkPassword);
+    });
+
+</script>
+</body>
+</html>

@@ -62,7 +62,7 @@
                 <h2>More statistics:</h2>
                 <table class="table">
                     <tr>
-                        <td>Cracking offline with 10,000,000,000 tries / second:</td>
+                        <td>Cracking offline with 10<sup>10</sup> tries / second:</td>
                         <td><span id="tryofflinefast">&nbsp;</span></td>
                     </tr>
                     <tr>
@@ -113,6 +113,8 @@
         var bar = document.getElementById("myProgress");
         var progress = Math.log(pwdmeta.crack_times_seconds.online_no_throttling_10_per_second) * 3.5;
 
+        if (pwdmeta.crack_times_display.online_no_throttling_10_per_second == "centuries")
+            progress = 100;
 
         bar.style.width = progress + "%";
         console.log(progress);

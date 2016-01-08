@@ -89,13 +89,12 @@
 
 <script language="JavaScript">
     function getNewPassword() {
-        var length = Math.floor(Math.random() * 7 + 6);
+        var letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.,:;#+~*<>@0123456789!\"§$%&/()=?\\}][{";
+        var length = Math.floor(Math.random() * 7 + 7);
         var password = "";
         for (var i = 0; i < length; i++) {
-            var myChar = Math.floor(Math.random() * 93 + 33);
-            while (myChar == 96 || myChar == 94 || myChar == 39)
-                myChar = Math.floor(Math.random() * 93 + 33);
-            password += String.fromCharCode(myChar);
+            var myChar = Math.floor(Math.random() * letters.length);
+            password += letters.charAt(myChar);
         }
         $('#inputPassword').val(password);
         checkPassword();

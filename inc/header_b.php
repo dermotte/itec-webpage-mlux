@@ -21,6 +21,10 @@
     <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css">
 
     <!-- Latest compiled and minified JavaScript -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script src="bootstrap/js/bootstrap.min.js"></script>
+    <script src="js/jquery.rss.min.js"></script>
+
     <script src="bootstrap/js/bootstrap.min.js"></script></head>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">

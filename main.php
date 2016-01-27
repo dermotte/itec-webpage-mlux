@@ -71,7 +71,17 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-md-6">
+    <div class="col-md-4">
+        <h2>Publications</h2>
+
+        <p>
+            Find a list of all my publications including links to the PDFs and BibTeX entries here:
+        </p>
+
+        <p>
+            <a href="http://www.itec.uni-klu.ac.at/~mlux/publications.html">http://www.itec.uni-klu.ac.at/~mlux/publications.html</a>
+        </p>
+
         <h2>Contact</h2>
         <ul class="list-unstyled">
             <li><span class="glyphicon glyphicon-phone"></span> Phone: +43 (463) 2700 3615</li>
@@ -101,16 +111,22 @@
         </ul>
 
     </div>
-    <div class="col-md-6">
-        <h2>Publications</h2>
+    <div class="col-md-8">
+        <h2>News</h2>
 
-        <p>
-            Find a list of all my publications including links to the PDFs and BibTeX entries here:
-        </p>
+        <div id="rss-feeds"></div>
 
-        <p>
-            <a href="http://www.itec.uni-klu.ac.at/~mlux/publications.html">http://www.itec.uni-klu.ac.at/~mlux/publications.html</a> 
-        </p>
+        <script>
+            jQuery(function($) {
+                $("#rss-feeds").rss("http://www.semanticmetadata.net/feed/",
+                    {
+                        limit: 6,
+                        layoutTemplate: "<ul>{entries}</ul>",
+                        entryTemplate: '<li><a href="{url}">{title}</a><br/>{shortBodyPlain} ...</li>',
+                        effect: 'slideFastSynced'
+                    })
+            })
+        </script>
     </div>
 </div>
 <div class="row">

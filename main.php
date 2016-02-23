@@ -1,12 +1,20 @@
 <!--- ------------------- MAIN ------------------- -->
 
 <div class="row">
-    <blockquote>
-        <p>There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it
-            is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable. There
-            is another theory which states that this has already happened.</p>
-        <footer>Douglas Adams</footer>
-    </blockquote>
+    <div class="col-md-8">
+        <blockquote>
+            <p>There is a theory which states that if ever anybody discovers exactly what the Universe is for and why it
+                is here, it will instantly disappear and be replaced by something even more bizarre and inexplicable.
+                There
+                is another theory which states that this has already happened.</p>
+            <footer>Douglas Adams</footer>
+        </blockquote>
+    </div>
+    <div class="col-md-4" style="background-color: #63768A; border-radius: 10pt">
+        <a href="http://itec.aau.at">
+            <img class="img-responsive" src="images/aau-logo_transparent.png">
+        </a>
+    </div>
 </div>
 <div class="row">
     <div class="col-md-12">
@@ -22,7 +30,8 @@
             career he has (co-) authored more than 80 scientific publications, has served in multiple program committees
             and as reviewer of international conferences, journals and magazines, and has organized multiple scientific
             events. Mathias Lux is also well known for the development of the award winning and popular open source
-            tools <a href="http://www.semanticmetadata.net">Caliph &amp; Emir</a> and <a href="http://www.lire-project.net/">LIRE</a>
+            tools <a href="http://www.semanticmetadata.net">Caliph &amp; Emir</a> and <a
+                href="http://www.lire-project.net/">LIRE</a>
             for multimedia information retrieval.
         </p>
 
@@ -117,7 +126,7 @@
         <div id="rss-feeds"></div>
 
         <script>
-            jQuery(function($) {
+            jQuery(function ($) {
                 $("#rss-feeds").rss("http://www.semanticmetadata.net/feed/",
                     {
                         limit: 6,

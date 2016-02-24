@@ -24,6 +24,7 @@
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="js/jquery.rss.min.js"></script>
+    <script src="js/showdown.min.js"></script>
 
     <script src="bootstrap/js/bootstrap.min.js"></script></head>
 
@@ -66,6 +67,3 @@ if (array_key_exists("id", $_GET)) {
 </nav>
 
 <div class="container">
-
-    <div class="starter-template">
-        <!--p><img src="images/logo.png" width="100%"/></p-->

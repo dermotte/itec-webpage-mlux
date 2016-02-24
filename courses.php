@@ -26,6 +26,26 @@
         </div>
     </div>
 </div>
+<h2>Summer Semester 2016</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss16.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> - Course on computer
+            games planning and development.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/einfuehrungindieinformatik-ss16.md">PR Einf&uuml;hrung
+                in die Informatik</a> - Practical course for the introductory computer science lecture.
+        </div>
+    </li>
+    <li>
+        <div class="li">
+            <a href="?id=courses/seminardms-ss16.md">
+                Seminar in Distributed Systems
+            </a> - Practical course for the introductory computer science lecture.
+        </div>
+    </li>
+</ul>
 <h2>Winter Semester 2015/2016</h2>
 <ul>
     <li>
@@ -34,14 +54,16 @@
             focusing on Java as example.
         </div>
     </li>
+
     <li>
-<!--        <div class="li"><a href="https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=83151">PR Einf&uuml;hrung-->
         <div class="li"><a href="?id=courses/einfuehrungindieinformatikws1516">PR Einf&uuml;hrung
-                in die Informatik</a> - Practical course for the introductory computer science lecture.</div>
+                in die Informatik</a> - Practical course for the introductory computer science lecture.
+        </div>
     </li>
     <li>
         <div class="li"><a href="?id=courses/mediainformatik2015">Introduction to
-                Media Informatics</a> - Introduction to media technologies course.</div>
+                Media Informatics</a> - Introduction to media technologies course.
+        </div>
     </li>
 </ul>
 <h2>Summer Semester 2015</h2>

@@ -10,7 +10,7 @@
             <footer>Douglas Adams</footer>
         </blockquote>
     </div>
-    <div class="col-md-4" style="background-color: #63768A; border-radius: 10pt">
+    <div class="col-md-4 hidden-sm hidden-xs" style="background-color: #63768A; border-radius: 10pt">
         <a href="http://itec.aau.at">
             <img class="img-responsive" src="images/aau-logo_transparent.png">
         </a>

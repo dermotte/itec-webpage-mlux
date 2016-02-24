@@ -6,17 +6,22 @@ try {
     } else {
         $t = $_GET["id"];
         if (preg_match("/^[a-z0-9\-]+$/", $t)) {
-            if(!@include($t . ".php")) throw new Exception("No such page!");
-        } elseif (preg_match("/^courses\/[a-z0-9\-]+\.md$/", $t)) {
+            if (!@include($t . ".php")) throw new Exception("No such page!");
+        } elseif (preg_match("/^(courses)?\/[a-z0-9\-]+\.md$/", $t)) {
             echo "<div id=\"content\"/>";
             echo "<script language=\"JavaScript\">var converter = new showdown.Converter();
-            $.get( \"" . $t . "\", function( data ) {
-                $(\"#content\").html(converter.makeHtml( data ));
-            });
-            </script>
-            ";
+                        $.get( \"" . $t . "\", function( data ) {
+                        console.log(data);
+                            $(\"#content\").html(converter.makeHtml( data ));
+                        }).error(function(result) {
+                            $(\"#content\").html(\"<h1>No such page!</h1>\");
+                        } );
+                        </script>
+                        ";
         } elseif (preg_match("/^courses\/[a-z0-9\-]+$/", $t)) {
-            if(!@include($t . ".html")) throw new Exception("No such page!");
+            if (!@include($t . ".html")) throw new Exception("No such page!");
+        } else {
+            throw new Exception("No such page!");
         }
     }
 } catch (Exception $e) {

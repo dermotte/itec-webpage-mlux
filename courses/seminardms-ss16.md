@@ -47,4 +47,7 @@ The final presentation should take 10 minutes (no more and no less) and should s
 
 # Topics
 
-tba.
+* Image labeling / obeject detection through deep learning
+* Content based image retrieval through deep learning
+* Personalization in image retrieval
+* ... more to come.

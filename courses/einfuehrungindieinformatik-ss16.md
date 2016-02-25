@@ -3,5 +3,5 @@
 ## Zwischenergebnisse
 tba.
 
-# Zusätzlich Informationen
+# Zus&auml;tzliche Informationen
 * [AAU Kursbeschreibung](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=83244)

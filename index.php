@@ -8,7 +8,7 @@ try {
         if (preg_match("/^[a-z0-9\-]+$/", $t)) {
             if (!@include($t . ".php")) throw new Exception("No such page!");
         } elseif (preg_match("/^(courses)?\/[a-z0-9\-]+\.md$/", $t)) {
-            echo "<div id=\"content\"/>";
+            echo "<div class=\"row\" id=\"content\"/>";
             echo "<script language=\"JavaScript\">var converter = new showdown.Converter();
                         $.get( \"" . $t . "\", function( data ) {
                         console.log(data);

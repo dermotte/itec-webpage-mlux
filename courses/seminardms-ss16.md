@@ -11,7 +11,7 @@ scientific paper.
 1. Di, 15.03. 2016 - Start presentation
 1. Di, 10.05. 2016 - Intermediate presentations
 1. Di, 07.06. 2016 - Final presentations I
-1. Di, 14.06. 2016 - Final presentations II
+1. Di, 14.06. 2016 - Final presentations II 
 
 # Modalities
 
@@ -56,3 +56,4 @@ The final presentation should take 10 minutes (no more and no less) and should s
 * **Image Saliency / salient objects in images**. Start with the citations of Toet, Alexander. "Computational versus psychophysical bottom-up image saliency: A comparative evaluation study." Pattern Analysis and Machine Intelligence, IEEE Transactions on 33.11 (2011): 2131-2146.
 * **Video summaries: current state of the art**. Start with the citations of Potapov, Danila, et al. "Category-specific video summarization." Computer Vision–ECCV 2014. Springer International Publishing, 2014. 540-555.
 * **State of the Art in Image Haze Removal**. Start with He, Kaiming, Jian Sun, and Xiaoou Tang. "Single image haze removal using dark channel prior." Pattern Analysis and Machine Intelligence, IEEE Transactions on 33.12 (2011): 2341-2353., then [related papers](https://scholar.google.com/scholar?q=related:HVnj56GdVcgJ:scholar.google.com)
+* **Query expansion in object retrieval**. Start with Chum, Ondrej, et al. "Total recall II: Query expansion revisited." Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on. IEEE, 2011., then [related papers](https://scholar.google.com/scholar?q=related:z_YhgJZWjUwJ:scholar.google.com/)

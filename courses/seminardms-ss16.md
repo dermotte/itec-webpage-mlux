@@ -1,4 +1,4 @@
-# Seminar aus Angewandte Informatik (2016)
+# Seminar Distributed MM Systems (2016)
 In this seminar on distributed multimedia systems your task is to pick a specific topic from this field and study,
 assess, summarize and discuss related literature in your own paper. All in all your seminar thesis should give an
 overview on the state of the art for unaware readers. Note at that point that your seminar paper is assessed as a

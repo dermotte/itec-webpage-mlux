@@ -40,8 +40,8 @@ is done within one single weekend.
 
 # Tutorial
 Associated with the course is the [Tutorium zu Interaktive Multimedia-Anwendungen B (Computer Games)](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=86382) 
-held by Fabian Schober. While the main course as is is not necessarily about the __programming__ aspect games, the 
-tutorial is. Fabian Schober has experience on several game development platforms including Unity, libGDX, Phaser 
+held by Fabian Schober. While the main course as is is not necessarily about the __programming__ aspect of games, the 
+tutorial definitely is. Fabian Schober has experience on several game development platforms including Unity, libGDX, Phaser 
 and Unreal and is willing to share his experience. In the tutorial he will focus on bringing you up to speed for the 
 practical assignments. Please make sure you are enrolled.    
 

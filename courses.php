@@ -42,7 +42,7 @@
         <div class="li">
             <a href="?id=courses/seminardms-ss16.md">
                 Seminar in Distributed Systems
-            </a> - Practical course for the introductory computer science lecture.
+            </a> - Seminar in the master studies on computer science focusing on distributed multimedia systems.
         </div>
     </li>
 </ul>

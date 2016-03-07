@@ -46,7 +46,7 @@ and Unreal and is willing to share his experience. In the tutorial he will focus
 practical assignments. Please make sure you are enrolled.    
 
 # Schedule
-All courses start c.t. if not otherwise noted.
+All courses start c.t. if not otherwise noted. Slides can be found [in the slides repository on Google Drive](https://drive.google.com/folderview?id=0B8x2stWZlk6US0dmbW5MaTJNUTg&usp=sharing).
 
 | Day    | Time   | Place  | Topic | Reading |
 |:------|:------|:------|:---|:---|
@@ -54,6 +54,6 @@ All courses start c.t. if not otherwise noted.
 | Mo, 14.3. | 12-14 | E.2.42 | Games Business & Age Ratings | [Text - The Ups And Downs Of The Casual Gaming Market](http://www.thesixthaxis.com/2013/08/22/the-ups-and-downs-of-the-casual-gaming-market/) |
 | Mo, 4.4.  | 12-14 | E.2.42 | History of Computer Games    | [Video - Free to Play](http://store.steampowered.com/app/245550/) |
 | Mo, 11.4. | 12-14 | E.2.42 | Game Project 101             | [Text - Postmortem Shadow of Mordor](http://www.gamasutra.com/view/news/234421/Postmortem_Monolith_Productions_Middleearth_Shadow_of_Mordor.php) |
-| Mo, 15.4. | 15-16:30 s.t. | HS C | Game Jam Keynote Presentations    | [FYI: 3rd Klagenfurt Game Jam](http://itec.aau.at/gamejam/) |
+| Fr, 15.4. | 15-16:30 s.t. | HS C | Game Jam Keynote Presentations    | [FYI: 3rd Klagenfurt Game Jam](http://itec.aau.at/gamejam/) |
 | ~~Mo, 18.4.~~ | ~~12-14~~ | ~~E.2.42~~ | Canceled    |  |
 | tba. | | | | |

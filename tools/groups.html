@@ -19,15 +19,18 @@
     <script language="JavaScript">
         function createGroups() {
             var myLines = $("#lines").val();
-            var lineArray = myLines.split('\n');
+            var lineArrayTmp = myLines.split('\n');
+            var lineArray = new Array();
             var numGroups = $("#groups").val();
             var groupOut = new Array();
             for (var i = 0; i < numGroups; i++) {
                 groupOut[i] = "";
-
             }
-            for (var i = 0; i < lineArray.length; i++) {
-                lineArray[i] = lineArray[i].trim();
+            for (var i = 0; i < lineArrayTmp.length; i++) {
+                lineArrayTmp[i] = lineArrayTmp[i].trim();
+                if (lineArrayTmp[i].length > 1) {
+                    lineArray.push(lineArrayTmp[i]);
+                }
             }
             shuffle(lineArray);
             for (i = 0; i < lineArray.length; i++) {

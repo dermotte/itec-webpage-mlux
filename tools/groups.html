@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random groups</title>
+    <link rel="icon" type="image/png" href="../favicon.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script language="JavaScript">
+        function createGroups() {
+            var myLines = $("#lines").val();
+            var lineArray = myLines.split('\n');
+            var numGroups = $("#groups").val();
+            var groupOut = new Array();
+            for (var i = 0; i < numGroups; i++) {
+                groupOut[i] = "";
+
+            }
+            for (var i = 0; i < lineArray.length; i++) {
+                lineArray[i] = lineArray[i].trim();
+            }
+            shuffle(lineArray);
+            for (i = 0; i < lineArray.length; i++) {
+                groupOut[i%numGroups] += "<a href='#' class='list-group-item'>"+lineArray[i]+"</a>"
+            }
+            var out = "";
+            for (var i = 0; i < groupOut.length; i++) {
+                groupOut[i] = '<div class="col-sm-4"><div class="list-group"><div class="list-group-item-heading"><h4>Group #'+(i+1)+'</h4></div> '+groupOut[i]+'</div></div>';
+                out += groupOut[i];
+            }
+            console.log(groupOut);
+            $("#mygroups").html(out);
+            $("#output-tab").tab('show');
+            return true;
+        }
+
+        function shuffle(myArray) {
+            var j, x, i;
+            for (i = myArray.length; i; i -= 1) {
+                j = Math.floor(Math.random() * i);
+                x = myArray[i - 1];
+                myArray[i - 1] = myArray[j];
+                myArray[j] = x;
+            }
+        }
+        $('#myTabs a').click(function (e) {
+            e.preventDefault();
+            $(this).tab('show');
+        })
+    </script>
+</head>
+<body>
+<div class="container">
+
+    <ul id="myTabs" role="tablist" class="nav nav-pills">
+        <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>
+        <li role="presentation"><a href="#output" id="output-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Groups</a></li>
+    </ul>
+
+    <div class="tab-content">
+        <div role="tabpanel" class="tab-pane fade in active" id="home">
+            <div class="row">
+                <div class="col-sm-12"><h1>Create Groups Randomly</h1></div>
+            </div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="form-group">
+                        <label for="lines">Lines to group:</label>
+                        <textarea class="form-control" id="lines" placeholder="" rows="10"></textarea>
+                    </div>
+
+                </div>
+                <div class="col-sm-4">
+                    <h3>How to do that?</h3>
+                    <p>Groups are randomly built from the lines in the textarea. Just copy and paste a column from for instance
+                        Excel to the text box and hit ths button.</p>
+                    <div class="form-group">
+                        <label for="lines">How many groups:</label>
+                        <input class="form-control" id="groups" placeholder="5" type="number" value="3"/>
+                    </div>
+                    <button type="submit" class="btn btn-default" onclick="createGroups()">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div role="tabpanel" class="tab-pane fade" id="output">
+            <div class="row" id="mygroups" style="margin-top: 2em">
+
+            </div>
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

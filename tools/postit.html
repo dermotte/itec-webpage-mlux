@@ -1,0 +1,107 @@
+<html>
+<head>
+    <title>Post-It Board</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link href='https://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
+    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">
+    <style type="text/css">
+        #board {
+            font-family: monospace;
+            background-color: #260D04;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+
+        .post-it {
+            position: absolute !important;
+            width: 160px;
+            background-color: #FEF1B5;
+            box-shadow: -2px 2px 5px #555;
+            overflow: hidden;
+            font-family: 'Merienda One';
+            font-size: 12pt;
+        }
+
+        .post-it .header {
+            background-color:#FEE5AC;
+            text-align: right;
+            padding: 2px;
+        }
+
+        .post-it .header:hover {
+            background-color: #FFFACD;
+        }
+
+        .post-it .header a, .post-it .header a:visited {
+            text-decoration: none;
+            color: #603311;
+            font-weight: bold;
+        }
+
+        .post-it .header a:hover {
+            color: #D19275;
+        }
+
+        .post-it .content {
+            padding: 10px;
+            min-height: 70px;
+            outline: none;
+        }
+    </style>
+</head>
+<body id="board">
+<div style="position: fixed; left: 1em; top: 1em"><a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a></div>
+
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
+<script language="JavaScript">
+    var postNumber = 0
+
+    var Board = function( selector ) {
+        var $elem = $( selector );
+
+        function initialize() {
+            // $elem.on("click", newPostIt);
+        };
+
+        initialize();
+    };
+
+    var PostIt = function() {
+
+        function initialize() {
+            $("#board").append('<div class="post-it" id="'+postNumber+'"><div class="header"><a class="close" href="#"><i class="fa fa-close"></a></div><div contenteditable="true" class="content"></div></div>')
+            $("#"+postNumber).css({'top': $(window).height()/2*Math.random(), 'left': $(window).width()/2*Math.random()});
+            $(".post-it").draggable({handle: ".header"});
+            $(".post-it").resizable();
+            $(".content").on("click", stopPostItCreation);
+            $("a.close").on("click", deletePostIt);
+        };
+
+        function stopPostItCreation(e){
+            e.stopPropagation();
+        };
+
+        function deletePostIt(e){
+            e.stopPropagation();
+            var $parent = $(this.parentElement.parentElement);
+            $parent.remove();
+        };
+
+        initialize();
+    };
+
+    $(function() {
+        new Board('#board');
+        // newPostIt();
+    });
+
+    function newPostIt() {
+        new PostIt;
+        postNumber += 1;
+    };
+</script>
+</body>
+</html>

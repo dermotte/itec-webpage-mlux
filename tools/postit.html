@@ -6,6 +6,10 @@
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">
     <style type="text/css">
+        body {
+            font-family: 'Merienda One';
+            color: whitesmoke;
+        }
         #board {
             font-family: monospace;
             background-color: #260D04;
@@ -16,7 +20,7 @@
 
         .post-it {
             position: absolute !important;
-            width: 160px;
+            width: 280px;
             background-color: #FEF1B5;
             box-shadow: -2px 2px 5px #555;
             overflow: hidden;
@@ -27,6 +31,7 @@
         .post-it .header {
             background-color:#FEE5AC;
             text-align: right;
+            min-height: 16px;
             padding: 2px;
         }
 
@@ -46,13 +51,15 @@
 
         .post-it .content {
             padding: 10px;
-            min-height: 70px;
+            min-height: 220px;
             outline: none;
+            color: black;
         }
     </style>
 </head>
 <body id="board">
 <div style="position: fixed; left: 1em; top: 1em"><a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a></div>
+<div style="position: fixed; right: 1em; bottom: 1em;">simple Post-It wall | 2016 | Mathias Lux | <a style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662"><i class="fa fa-code"></i> inspiration</a></div>
 
 <script src="http://code.jquery.com/jquery-1.9.1.js"></script>
 <script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>

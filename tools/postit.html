@@ -1,15 +1,19 @@
 <html>
 <head>
     <title>Post-It Board</title>
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <script src="../js/jquery-2.2.1.min.js"></script>
+    <script src="../js/jquery-ui.min.js"></script>
+    <script src="../js/jquery.ui.touch-punch.min.js"></script>
+    <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">
+    <!--<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">-->
     <style type="text/css">
         body {
             font-family: 'Merienda One';
             color: whitesmoke;
         }
+
         #board {
             font-family: monospace;
             background-color: #260D04;
@@ -22,14 +26,14 @@
             position: absolute !important;
             width: 280px;
             background-color: #FEF1B5;
-            box-shadow: -2px 2px 5px #555;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
             overflow: hidden;
             font-family: 'Merienda One';
             font-size: 12pt;
         }
 
         .post-it .header {
-            background-color:#FEE5AC;
+            background-color: #FEE5AC;
             text-align: right;
             min-height: 16px;
             padding: 2px;
@@ -55,19 +59,91 @@
             outline: none;
             color: black;
         }
+
+        .newPostIt {
+            position: fixed;
+            left: 1em;
+            top: 1em;
+        }
+
+        .footer {
+            position: fixed; right: 1em; bottom: 1em;
+        }
+    </style>
+    <style type="text/css" media="print">
+        body {
+            font-family: 'Merienda One';
+            color: whitesmoke;
+        }
+
+        #board {
+            font-family: monospace;
+            background-color: #FFFFFF;
+            margin: 0;
+            padding: 0;
+            position: relative;
+        }
+
+        .post-it {
+            position: absolute !important;
+            width: 280px;
+            background-color: #FEF1B5;
+            box-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+            overflow: hidden;
+            font-family: 'Merienda One';
+            font-size: 12pt;
+        }
+
+        .post-it .header {
+            background-color: #FEE5AC;
+            text-align: right;
+            min-height: 16px;
+            padding: 2px;
+        }
+
+        .post-it .header:hover {
+            background-color: #FFFACD;
+        }
+
+        .post-it .header a, .post-it .header a:visited {
+            text-decoration: none;
+            color: #603311;
+            font-weight: bold;
+        }
+
+        .post-it .header a:hover {
+            color: #D19275;
+        }
+
+        .post-it .content {
+            padding: 10px;
+            min-height: 220px;
+            outline: none;
+            color: black;
+        }
+
+        .newPostIt {
+            visibility: hidden;
+        }
+
+        .footer {
+            visibility: hidden;
+        }
     </style>
 </head>
 <body id="board">
-<div style="position: fixed; left: 1em; top: 1em"><a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a></div>
-<div style="position: fixed; right: 1em; bottom: 1em;">simple Post-It wall | 2016 | Mathias Lux | <a style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662"><i class="fa fa-code"></i> inspiration</a></div>
+<div class="newPostIt"><a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i
+        class="fa fa-plus-circle"></i></a></div>
+<div class="footer" >simple Post-It wall | 2016 | Mathias Lux | <a
+        style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662"><i
+        class="fa fa-code"></i> inspiration</a></div>
 
-<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
-<script src="http://code.jquery.com/ui/1.10.1/jquery-ui.js"></script>
 <script language="JavaScript">
     var postNumber = 0
+    var postitArray = new Array();
 
-    var Board = function( selector ) {
-        var $elem = $( selector );
+    var Board = function (selector) {
+        var $elem = $(selector);
 
         function initialize() {
             // $elem.on("click", newPostIt);
@@ -76,22 +152,25 @@
         initialize();
     };
 
-    var PostIt = function() {
-
+    var PostIt = function () {
         function initialize() {
-            $("#board").append('<div class="post-it" id="'+postNumber+'"><div class="header"><a class="close" href="#"><i class="fa fa-close"></a></div><div contenteditable="true" class="content"></div></div>')
-            $("#"+postNumber).css({'top': $(window).height()/2*Math.random(), 'left': $(window).width()/2*Math.random()});
+            $("#board").append('<div class="post-it" id="' + postNumber + '"><div class="header"><a class="close" href="#"><i class="fa fa-close"></a></div><div contenteditable="true" class="content"></div></div>')
+            $("#" + postNumber).css({
+                'top': $(window).height() / 2 * Math.random(),
+                'left': $(window).width() / 2 * Math.random()
+            });
             $(".post-it").draggable({handle: ".header"});
             $(".post-it").resizable();
             $(".content").on("click", stopPostItCreation);
+            $(".content").on("change", console.log($(".content").html()));
             $("a.close").on("click", deletePostIt);
         };
 
-        function stopPostItCreation(e){
+        function stopPostItCreation(e) {
             e.stopPropagation();
         };
 
-        function deletePostIt(e){
+        function deletePostIt(e) {
             e.stopPropagation();
             var $parent = $(this.parentElement.parentElement);
             $parent.remove();
@@ -100,15 +179,16 @@
         initialize();
     };
 
-    $(function() {
+    $(function () {
         new Board('#board');
         // newPostIt();
     });
 
     function newPostIt() {
-        new PostIt;
+        postitArray.push(new PostIt);
         postNumber += 1;
-    };
+    }
+    ;
 </script>
 </body>
 </html>

@@ -28,20 +28,20 @@
     </div>
     <div class="row">
         <div class="col-md-3 col-sm-6">
-            <p>Create random groups from Excel and per line text lists.</p>
             <a href="groups.html" class="btn btn-success btn-lg btn-block">Random Groups</a>
+            <p>Create random groups from Excel and per line text lists.</p>
         </div>
         <div class="col-md-3 col-sm-6">
-            <p>Create Post-It like text notes in the browser.</p>
             <a href="postit.html" class="btn btn-success btn-lg btn-block">Post-Its</a>
+            <p>Create Post-It like text notes in the browser.</p>
         </div>
         <div class="col-md-3 col-sm-6">
-            <p>Fake identities based on real names ready to use.</p>
             <a href="../identity" class="btn btn-success btn-lg btn-block">Identities</a>
+            <p>Fake identities based on real names ready to use.</p>
         </div>
         <div class="col-md-3 col-sm-6">
-            <p>Random password generator with approximate strength.</p>
             <a href="../pwd" class="btn btn-success btn-lg btn-block">Passwords</a>
+            <p>Random password generator with approximate strength.</p>
         </div>
     </div>
 </div>

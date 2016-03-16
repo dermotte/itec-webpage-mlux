@@ -161,25 +161,33 @@
         initialize();
     };
 
-    var PostIt = function (id, text, x, y) {
+    var PostIt = function (id, text, x, y, width, height) {
 //        this.pId = id;
         this.y = y;
         this.x = x;
+        this.width = width;
+        this.height = height;
         this.pText = text;
 
         function initialize() {
             $("#board").append('<div class="post-it" id="' + id + '"><div class="header"><a class="close" id="close'+id+'" href="#"><i class="fa fa-close"></a></div><div contenteditable="true" id="content'+id+'" class="content"></div></div>')
-            $("#" + id).resizable();
+            $("#" + id).resizable({
+                stop: function (event, ui ) {
+                    postitArray[id].width = ui.size.width;
+                    postitArray[id].height = ui.size.height;
+                    storage.set('postitarray', postitArray);
+                }
+            });
             $("#" + id).css({
                 'top': y,
-                'left': x
+                'left': x,
+                'width': width,
+                'min-height': height
             });
             $("#content"+id).html(text);
             $("#"+id).draggable({
                 handle: ".header",
                 stop: function () {
-                    // todo: change the position in the JSON file.
-                    // alert("stopped " + id);
                     postitArray[id].x = $("#"+id).position().left;
                     postitArray[id].y = $("#"+id).position().top;
                     storage.set('postitarray', postitArray);
@@ -212,7 +220,7 @@
         // now show on Screen ...
         if (postitArray[0] != undefined) {
             for (var i = 0; i < postitArray.length; i++) {
-                new PostIt(i, postitArray[i].pText, postitArray[i].x, postitArray[i].y);
+                new PostIt(i, postitArray[i].pText, postitArray[i].x, postitArray[i].y, postitArray[i].width, postitArray[i].height);
                 postNumber++;
             }
         }
@@ -249,7 +257,7 @@
 
     function newPostIt() {
         postNumber += 1;
-        postitArray[postNumber] = new PostIt(postNumber, "", Math.round($(window).width() / 8 + $(window).width() / 2 * Math.random()), Math.round($(window).height() / 8 + $(window).height() / 2 * Math.random()));
+        postitArray[postNumber] = new PostIt(postNumber, "", Math.round($(window).width() / 8 + $(window).width() / 2 * Math.random()), Math.round($(window).height() / 8 + $(window).height() / 2 * Math.random()), 280, 280);
         storage.set('postitarray', postitArray);
         console.log(postNumber)
         console.log(postitArray);

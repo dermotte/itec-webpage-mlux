@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-    <!--<link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.10.1/themes/base/jquery-ui.css">-->
+    <link rel="stylesheet" type="text/css" href="../css/jquery-ui.css">
     <style type="text/css">
         body {
             font-family: 'Merienda One';
@@ -169,6 +169,7 @@
 
         function initialize() {
             $("#board").append('<div class="post-it" id="' + id + '"><div class="header"><a class="close" id="close'+id+'" href="#"><i class="fa fa-close"></a></div><div contenteditable="true" id="content'+id+'" class="content"></div></div>')
+            $("#" + id).resizable();
             $("#" + id).css({
                 'top': y,
                 'left': x
@@ -184,7 +185,6 @@
                     storage.set('postitarray', postitArray);
                 }
             });
-            $(".post-it").resizable();
 //            $(".content").on("click", stopPostItCreation);
             $("#content"+id).on("input",
                     function() {
@@ -245,12 +245,11 @@
         postitArray = new Array();
         postNumber = -1;
         storage.remove('postitarray');
-        $(window).reload();
     }
 
     function newPostIt() {
         postNumber += 1;
-        postitArray[postNumber] = new PostIt(postNumber, "", Math.round($(window).width() / 2 * Math.random()), Math.round($(window).height() / 2 * Math.random()));
+        postitArray[postNumber] = new PostIt(postNumber, "", Math.round($(window).width() / 8 + $(window).width() / 2 * Math.random()), Math.round($(window).height() / 8 + $(window).height() / 2 * Math.random()));
         storage.set('postitarray', postitArray);
         console.log(postNumber)
         console.log(postitArray);

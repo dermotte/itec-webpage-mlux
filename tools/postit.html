@@ -130,16 +130,16 @@
     </style>
 </head>
 <body id="board">
-<div class="newPostIt"><a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i
-        class="fa fa-plus-circle"></i></a></div>
+<div class="newPostIt">
+    <a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a> &nbsp;
+    <a id="sharelink" style="color:whitesmoke; text-decoration: none;font-size: 2em;" href="?"><i class="fa fa-share-alt"></i></a>
+</div>
 <div class="newPostIt" id="savebutton" style="top: 4em"><a href="javascript:mode=1;saveData()" style="color: whitesmoke; font-size: 2em;"><i
         class="fa fa-save"></i></a></div>
+
 <div class="wipeBoard"><a href="javascript:resetBoard()" style="color: whitesmoke; font-size: 2em;"><i
         class="fa fa-trash"></i></a></div>
-<div class="footer" >simple Post-It wall | 2016 | Mathias Lux |
-    <a id="sharelink" style="color:whitesmoke; text-decoration: none" href="?">
-        <i class="fa fa-share-alt"></i>
-    </a> |
+<div class="footer" >simple sticky notes wall | 2016 | Mathias Lux |
     <a style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662">
         <i class="fa fa-code"></i> inspiration
     </a>

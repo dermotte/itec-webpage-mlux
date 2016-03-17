@@ -118,11 +118,18 @@
 <body id="board">
 <div class="newPostIt"><a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i
         class="fa fa-plus-circle"></i></a></div>
+<div class="newPostIt" id="savebutton" style="top: 4em"><a href="javascript:mode=1;saveData()" style="color: whitesmoke; font-size: 2em;"><i
+        class="fa fa-save"></i></a></div>
 <div class="wipeBoard"><a href="javascript:resetBoard()" style="color: whitesmoke; font-size: 2em;"><i
         class="fa fa-trash"></i></a></div>
-<div class="footer" >simple Post-It wall | 2016 | Mathias Lux | <a
-        style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662"><i
-        class="fa fa-code"></i> inspiration</a></div>
+<div class="footer" >simple Post-It wall | 2016 | Mathias Lux |
+    <a id="sharelink" style="color:whitesmoke; text-decoration: none" href="?">
+        <i class="fa fa-share-alt"></i>
+    </a> |
+    <a style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662">
+        <i class="fa fa-code"></i> inspiration
+    </a>
+</div>
 
 <div id="dialog-confirm-delete"  class="confirmdialog" title="Empty the board?">
     <p class="confirmdialog"><i  style="float:left; margin:10px 20px 20px 0; font-size: 32pt" class="fa fa-warning"></i></span>All notes will be permanently deleted and cannot be recovered. Are you sure?</p>
@@ -131,6 +138,7 @@
 <script language="JavaScript">
     var postNumber = -1;
     var postitArray = new Array();
+    var mode = 1; // 1 is local storage, 2 is URL.
 
     var Board = function (selector) {
         var $elem = $(selector);
@@ -156,7 +164,7 @@
                 stop: function (event, ui ) {
                     postitArray[id].width = ui.size.width;
                     postitArray[id].height = ui.size.height;
-                    storage.set('postitarray', postitArray);
+                    saveData();
                 }
             });
             $("#" + id).css({
@@ -171,7 +179,7 @@
                 stop: function () {
                     postitArray[id].x = $("#"+id).position().left;
                     postitArray[id].y = $("#"+id).position().top;
-                    storage.set('postitarray', postitArray);
+                    saveData();
                 }
             });
 //            $(".content").on("click", stopPostItCreation);
@@ -179,7 +187,7 @@
                     function() {
                         var $this = $(this);
                         postitArray[id].pText = $("#content"+id).html();
-                        storage.set('postitarray', postitArray);
+                        saveData();
                     }
             );
             $("#close"+id).on("click", deletePostIt);
@@ -191,7 +199,7 @@
             $parent.remove();
             postitArray[id] = null;
             console.log(postitArray);
-            storage.set('postitarray', postitArray);
+            saveData();
         };
         initialize();
     };
@@ -208,9 +216,15 @@
 
     $(function () {
         new Board('#board');
-        // storage.remove('postitarray');
-        console.log(storage.get('postitarray'));
-        var tmp = storage.get('postitarray');
+        var tmp;
+        // check if the data comes from local storage or URL ...
+        console.log(decodeURIComponent(getSearchParameters()["d"]));
+        if (getSearchParameters()["d"] != undefined) {
+            mode = 2; // don't overwrite the local storage ...
+            tmp = JSON.parse(decodeURIComponent(getSearchParameters()["d"]));
+        } else {
+            tmp = storage.get('postitarray');
+        }
         if (tmp != undefined) {
             for (var i = 0; i < tmp.length; i++) {
                 if (tmp[i] != undefined) {
@@ -243,10 +257,12 @@
         });
 
         $( "#dialog-confirm-delete" ).dialog("close");
+
+        saveData();
     });
 
     $( window ).unload(function() {
-        storage.set('postitarray', postitArray);
+        saveData();
     });
 
     // resets the whole board to empty.
@@ -257,12 +273,34 @@
     function newPostIt() {
         postNumber += 1;
         postitArray[postNumber] = new PostIt(postNumber, "", Math.round($(window).width() / 8 + $(window).width() / 2 * Math.random()), Math.round($(window).height() / 8 + $(window).height() / 2 * Math.random()), 280, 280);
-        storage.set('postitarray', postitArray);
+        saveData();
         console.log(postNumber)
         console.log(postitArray);
         console.log(storage.get('postitarray'));
     }
-    ;
+
+    function saveData() {
+        if (mode==1) storage.set('postitarray', postitArray);
+        $("#sharelink").attr("href", "?d=" + encodeURIComponent(JSON.stringify(postitArray)));
+        if (mode!=1) $("#savebutton").show();
+        else $("#savebutton").hide();
+    }
+
+
+    function getSearchParameters() {
+        var prmstr = window.location.search.substr(1);
+        return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : {};
+    }
+
+    function transformToAssocArray( prmstr ) {
+        var params = {};
+        var prmarr = prmstr.split("&");
+        for ( var i = 0; i < prmarr.length; i++) {
+            var tmparr = prmarr[i].split("=");
+            params[tmparr[0]] = tmparr[1];
+        }
+        return params;
+    }
 </script>
 </body>
 </html>

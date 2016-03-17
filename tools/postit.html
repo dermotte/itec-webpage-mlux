@@ -11,12 +11,13 @@
     <link rel="stylesheet" type="text/css" href="../css/jquery-ui.css">
     <style type="text/css">
         body {
-            font-family: 'Merienda One';
+            font-family: 'Open Sans';
             color: whitesmoke;
         }
 
         #board {
-            font-family: monospace;
+            font-family: 'Open Sans';
+            font-size: 12pt;
             background-color: #260D04;
             margin: 0;
             padding: 0;
@@ -36,8 +37,9 @@
         .post-it .header {
             background-color: #FEE5AC;
             text-align: right;
-            min-height: 16px;
+            min-height: 24px;
             padding: 2px;
+            font-size: 22pt;
         }
 
         .post-it .header:hover {
@@ -65,21 +67,30 @@
             position: fixed;
             left: 1em;
             top: 1em;
+            font-size: 12pt;
         }
 
         .wipeBoard {
             position: fixed;
             right: 1em;
             top: 1em;
+            font-size: 12pt;
         }
 
         .footer {
             position: fixed; right: 1em; bottom: 1em;
+            font-size: 8pt;
         }
+
+        .confirmdialog {
+            font-family: 'Open Sans';
+            font-size: 12pt;
+        }
+
     </style>
     <style type="text/css" media="print">
         body {
-            font-family: 'Merienda One';
+            font-family: 'Open Sans';
             color: whitesmoke;
         }
 
@@ -112,6 +123,10 @@
 <div class="footer" >simple Post-It wall | 2016 | Mathias Lux | <a
         style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662"><i
         class="fa fa-code"></i> inspiration</a></div>
+
+<div id="dialog-confirm-delete"  class="confirmdialog" title="Empty the board?">
+    <p class="confirmdialog"><i  style="float:left; margin:10px 20px 20px 0; font-size: 32pt" class="fa fa-warning"></i></span>All notes will be permanently deleted and cannot be recovered. Are you sure?</p>
+</div>
 
 <script language="JavaScript">
     var postNumber = -1;
@@ -178,7 +193,6 @@
             console.log(postitArray);
             storage.set('postitarray', postitArray);
         };
-
         initialize();
     };
 
@@ -206,19 +220,38 @@
             }
             if (postitArray.length > 0) buildNotes();
         }
+
+        $( "#dialog-confirm-delete" ).dialog({
+            resizable: false,
+            height: 280,
+            width: 360,
+            modal: true,
+            buttons: {
+                Clear: function() {
+                    for (var i = 0; i <= postNumber; i++) {
+                        $("#"+i).remove();
+                    }
+                    postitArray = new Array();
+                    postNumber = -1;
+                    storage.remove('postitarray');
+                    $( this ).dialog( "close" );
+                },
+                Cancel: function() {
+                    $( this ).dialog( "close" );
+                }
+            }
+        });
+
+        $( "#dialog-confirm-delete" ).dialog("close");
     });
 
     $( window ).unload(function() {
         storage.set('postitarray', postitArray);
     });
 
+    // resets the whole board to empty.
     function resetBoard() {
-        for (var i = 0; i <= postNumber; i++) {
-            $("#"+i).remove();
-        }
-        postitArray = new Array();
-        postNumber = -1;
-        storage.remove('postitarray');
+        $( "#dialog-confirm-delete" ).dialog("open");
     }
 
     function newPostIt() {

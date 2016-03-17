@@ -5,6 +5,8 @@
     <script src="../js/jquery-ui.min.js"></script>
     <script src="../js/jquery.ui.touch-punch.min.js"></script>
     <script src="../js/loStorage.min.js"></script>
+    <script src="../js/jsurl.js"></script>
+    <script src="../js/lz-string.js"></script>
     <link rel="stylesheet" href="../css/font-awesome.min.css">
     <link href='https://fonts.googleapis.com/css?family=Merienda+One' rel='stylesheet' type='text/css'>
     <link href='https://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
@@ -235,10 +237,10 @@
         new Board('#board');
         var tmp;
         // check if the data comes from local storage or URL ...
-//        console.log(decodeURIComponent(getSearchParameters()["d"]));
+        console.log(decodeURIComponent(getSearchParameters()["d"]));
         if (getSearchParameters()["d"] != undefined) {
             mode = 2; // don't overwrite the local storage ...
-            tmp = JSON.parse(decodeURIComponent(getSearchParameters()["d"]));
+            tmp = JSURL.parse(LZString.decompressFromEncodedURIComponent(getSearchParameters()["d"]));
         } else {
             tmp = storage.get('postitarray');
         }
@@ -298,7 +300,7 @@
 
     function saveData() {
         if (mode==1) storage.set('postitarray', postitArray);
-        $("#sharelink").attr("href", "?d=" + encodeURIComponent(JSON.stringify(postitArray)));
+        $("#sharelink").attr("href", "?d=" + LZString.compressToEncodedURIComponent(JSURL.stringify(postitArray)));
         if (mode!=1) $("#savebutton").show();
         else $("#savebutton").hide();
     }

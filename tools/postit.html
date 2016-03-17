@@ -70,6 +70,8 @@
             left: 1em;
             top: 1em;
             font-size: 12pt;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+            z-index: 1000;
         }
 
         .wipeBoard {
@@ -77,10 +79,14 @@
             right: 1em;
             top: 1em;
             font-size: 12pt;
+            text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+            z-index: 1000;
         }
 
         .footer {
-            position: fixed; right: 1em; bottom: 1em;
+            position: fixed;
+            right: 1em;
+            bottom: 1em;
             font-size: 8pt;
         }
 
@@ -131,22 +137,27 @@
 </head>
 <body id="board">
 <div class="newPostIt">
-    <a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a> &nbsp;
-    <a id="sharelink" style="color:whitesmoke; text-decoration: none;font-size: 2em;" href="?"><i class="fa fa-share-alt"></i></a>
+    <a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a>
+    &nbsp;
+    <a id="sharelink" style="color:whitesmoke; text-decoration: none;font-size: 2em;" href="?"><i
+            class="fa fa-share-alt"></i></a>
 </div>
-<div class="newPostIt" id="savebutton" style="top: 4em"><a href="javascript:mode=1;saveData()" style="color: whitesmoke; font-size: 2em;"><i
+<div class="newPostIt" id="savebutton" style="top: 4em"><a href="javascript:mode=1;saveData()"
+                                                           style="color: whitesmoke; font-size: 2em;"><i
         class="fa fa-save"></i></a></div>
 
 <div class="wipeBoard"><a href="javascript:resetBoard()" style="color: whitesmoke; font-size: 2em;"><i
         class="fa fa-trash"></i></a></div>
-<div class="footer" >simple sticky notes wall | 2016 | Mathias Lux |
+<div class="footer">simple sticky notes wall | 2016 | Mathias Lux |
     <a style=" color:whitesmoke; text-decoration: none" href="https://gist.github.com/shmeadyy/7324662">
         <i class="fa fa-code"></i> inspiration
     </a>
 </div>
 
-<div id="dialog-confirm-delete"  class="confirmdialog" title="Empty the board?">
-    <p class="confirmdialog"><i  style="float:left; margin:10px 20px 20px 0; font-size: 32pt" class="fa fa-warning"></i></span>All notes will be permanently deleted and cannot be recovered. Are you sure?</p>
+<div id="dialog-confirm-delete" class="confirmdialog" title="Empty the board?">
+    <p class="confirmdialog"><i style="float:left; margin:10px 20px 20px 0; font-size: 32pt"
+                                class="fa fa-warning"></i></span>All notes will be permanently deleted and cannot be
+        recovered. Are you sure?</p>
 </div>
 
 <script language="JavaScript">
@@ -165,7 +176,9 @@
     };
 
     var PostIt = function (id, text, x, y, width, height) {
-//        this.pId = id;
+        // check for sanity:
+        if (x < 0) x = 0;
+        if (y < 0) y = 0;
         this.y = y;
         this.x = x;
         this.width = width;
@@ -177,9 +190,9 @@
 //                    '<span id="colors'+id+'">' +
 //                    '<a class="colorchangebutton" id="color'+id+'" href="javascript:"><i style="color: green" class="fa fa-circle "></i></a></span> ' +
 //                    '<a class="colorchangebutton" id="color'+id+'" href="javascript:$(\'#colors'+id+'\').slideToggle()"><i class="fa fa-circle "></i></a> ' +
-                    '<a  class="colorchangebutton" id="close'+id+'" href="#"><i class="fa fa-close"></i></a></div><div contenteditable="true" id="content'+id+'" class="content"></div></div>')
+                    '<a  class="colorchangebutton" id="close' + id + '" href="#"><i class="fa fa-close"></i></a></div><div contenteditable="true" id="content' + id + '" class="content"></div></div>')
             $("#" + id).resizable({
-                stop: function (event, ui ) {
+                stop: function (event, ui) {
                     postitArray[id].width = ui.size.width;
                     postitArray[id].height = ui.size.height;
                     saveData();
@@ -191,29 +204,29 @@
                 'width': width,
                 'height': height
             });
-            $("#content"+id).html(text);
-            $("#colors"+id).toggle();
-            $("#"+id).draggable({
+            $("#content" + id).html(text);
+            $("#colors" + id).toggle();
+            $("#" + id).draggable({
                 handle: ".header",
                 stop: function () {
-                    postitArray[id].x = $("#"+id).position().left;
-                    postitArray[id].y = $("#"+id).position().top;
+                    postitArray[id].x = $("#" + id).position().left;
+                    postitArray[id].y = $("#" + id).position().top;
                     saveData();
                 }
             });
 //            $(".content").on("click", stopPostItCreation);
-            $("#content"+id).on("input",
-                    function() {
+            $("#content" + id).on("input",
+                    function () {
                         var $this = $(this);
-                        postitArray[id].pText = $("#content"+id).html();
+                        postitArray[id].pText = $("#content" + id).html();
                         saveData();
                     }
             );
-            $("#close"+id).on("click", deletePostIt);
+            $("#close" + id).on("click", deletePostIt);
         };
 
         function deletePostIt(e) {
-            $("#"+id).remove();
+            $("#" + id).remove();
             var $parent = $(this.parentElement.parentElement);
             $parent.remove();
             postitArray[id] = null;
@@ -254,39 +267,39 @@
             if (postitArray.length > 0) buildNotes();
         }
 
-        $( "#dialog-confirm-delete" ).dialog({
+        $("#dialog-confirm-delete").dialog({
             resizable: false,
             height: 280,
             width: 360,
             modal: true,
             buttons: {
-                Clear: function() {
+                Clear: function () {
                     for (var i = 0; i <= postNumber; i++) {
-                        $("#"+i).remove();
+                        $("#" + i).remove();
                     }
                     postitArray = new Array();
                     postNumber = -1;
                     storage.remove('postitarray');
-                    $( this ).dialog( "close" );
+                    $(this).dialog("close");
                 },
-                Cancel: function() {
-                    $( this ).dialog( "close" );
+                Cancel: function () {
+                    $(this).dialog("close");
                 }
             }
         });
 
-        $( "#dialog-confirm-delete" ).dialog("close");
+        $("#dialog-confirm-delete").dialog("close");
 
         saveData();
     });
 
-    $( window ).unload(function() {
+    $(window).unload(function () {
         saveData();
     });
 
     // resets the whole board to empty.
     function resetBoard() {
-        $( "#dialog-confirm-delete" ).dialog("open");
+        $("#dialog-confirm-delete").dialog("open");
     }
 
     function newPostIt() {
@@ -299,9 +312,9 @@
     }
 
     function saveData() {
-        if (mode==1) storage.set('postitarray', postitArray);
+        if (mode == 1) storage.set('postitarray', postitArray);
         $("#sharelink").attr("href", "?d=" + LZString.compressToEncodedURIComponent(JSURL.stringify(postitArray)));
-        if (mode!=1) $("#savebutton").show();
+        if (mode != 1) $("#savebutton").show();
         else $("#savebutton").hide();
     }
 
@@ -311,10 +324,10 @@
         return prmstr != null && prmstr != "" ? transformToAssocArray(prmstr) : {};
     }
 
-    function transformToAssocArray( prmstr ) {
+    function transformToAssocArray(prmstr) {
         var params = {};
         var prmarr = prmstr.split("&");
-        for ( var i = 0; i < prmarr.length; i++) {
+        for (var i = 0; i < prmarr.length; i++) {
             var tmparr = prmarr[i].split("=");
             params[tmparr[0]] = tmparr[1];
         }

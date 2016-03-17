@@ -140,7 +140,9 @@
     <a href="javascript:newPostIt()" style="color: whitesmoke; font-size: 2em;"><i class="fa fa-plus-circle"></i></a>
     &nbsp;
     <a id="sharelink" style="color:whitesmoke; text-decoration: none;font-size: 2em;" href="?"><i
-            class="fa fa-share-alt"></i></a>
+            class="fa fa-share-alt"></i></a> &nbsp;
+    <a style="color:whitesmoke; text-decoration: none;font-size: 2em;" href="javascript:changeFontSize()"><i
+            class="fa fa-font"></i></a>
 </div>
 <div class="newPostIt" id="savebutton" style="top: 4em"><a href="javascript:mode=1;saveData()"
                                                            style="color: whitesmoke; font-size: 2em;"><i
@@ -163,6 +165,8 @@
 <script language="JavaScript">
     var postNumber = -1;
     var postitArray = new Array();
+    var fontSizeArray = new Array(12, 14, 16, 18, 22, 24, 8, 10);
+    var currentFontSize = 0;
     var mode = 1; // 1 is local storage, 2 is URL.
 
     var Board = function (selector) {
@@ -332,6 +336,11 @@
             params[tmparr[0]] = tmparr[1];
         }
         return params;
+    }
+
+    function changeFontSize() {
+        currentFontSize = (currentFontSize+1)%fontSizeArray.length;
+        $(".post-it").css("font-size", fontSizeArray[currentFontSize] + "pt");
     }
 </script>
 </body>

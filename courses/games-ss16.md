@@ -54,7 +54,7 @@ Follow the tutorial on [http://www.zekechan.net/getting-started-html5-game-devel
 After completing the tutorial, play the game (with a friend, or implement a simple AI opponent). In respect to game mechanics, find some aspects of the game you would change (if you have not already done so) and document them. If possible, apply these changes by adjusting the code and/or assets.
 
 #### Hand in the Assignment
-Zip your whole project and upload the file to Moodle.
+Zip your whole project and upload it to the [submission survey](http://www.semanticmetadata.net/surveys/index.php/841746) until end of Fr., April 8, 2016.
 
 #### Tutorial
 Due to the upcoming Easter holidays, the Tutorial for Programming Assignment \#1 takes place on **March 14th, 10:00 - 12:00** in room **E.1.42**. Apart from this, Fabian Schober can be reached anytime via mail to *fabian.schober@aau.at*.

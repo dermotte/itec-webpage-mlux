@@ -34,7 +34,7 @@
         </div>
     </li>
     <li>
-        <div class="li"><a href="?id=courses/einfuehrungindieinformatik-ss16.md">PR Einf&uuml;hrung
+        <div class="li"><a href="?id=courses/einfuehrungindieinformatikss16">PR Einf&uuml;hrung
                 in die Informatik</a> - Practical course for the introductory computer science lecture.
         </div>
     </li>

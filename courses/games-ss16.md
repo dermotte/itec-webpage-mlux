@@ -73,8 +73,43 @@ Due to the upcoming Easter holidays, the Tutorial for Programming Assignment \#1
     * Start Mongoose. Mongoose itself has no Window GUI, but a tray icon. If it is there, Mongoose is running. You can also stop the server using this this icon.
     * Browse to [http://localhost:8080/index.html](http://localhost:8080/index.html) (or change to fit your HTML-file's name). Your game is displayed there.
     
-## Programming Assignment \#2: tba.
-This will be announced soon.
+## Programming Assignment \#2: 2D Arcade game
+* **Platform**: Web 
+* **Framework**: Phaser 
+* **Language**: Javascript
+
+Your task is to implement a **simple** 2-dimensional Arcade game. Your game should at least contain some graphics, basic movements and an additional (game) feature.
+
+####Game types
+You can decide on the type of your game. You may create a Platformer (e.g. [Commander Keen](https://www.youtube.com/watch?v=oP1sV_MLHRI)), a Shoot 'em up (e.g. [1942](https://www.youtube.com/watch?v=AlXf77Hheeo)), a Side-Scroller (e.g. [Jump Bug](https://www.youtube.com/watch?v=yB4vuzMi578)) or any other game the like.
+
+####Detailed Information
+Keep it simple! Use simple art and implement the basic movements (left, right, jump,... depending on the type of your game). No menus, only one level. You can use any tutorial as a starting point. But do not only follow the tutorial, **extend** it by at least one additional feature. Like:
+
+* Enemies
+* Additional movement
+* Shooting
+* Moving platforms
+* Traps, Pits
+* Animation(s)
+* etc.
+
+You may use other tutorials and examples on how to implement the additional feature, but note that it may not be a part of the original tutorial.
+
+####Examples
+* [This tutorial](https://software.intel.com/en-us/html5/hub/blogs/how-to-make-a-sidescroller-game-with-html5) can be used to start with. The additional feature may be a double-jump mechanic.
+* [Another tutorial](http://www.emanueleferonato.com/2015/03/16/html5-prototype-of-an-endless-runner-game-like-spring-ninja/) to start with, which may be extended by bouncy platforms or some graphics.
+
+####Tips and Resources
+* Just google for Phaser tutorials. There are plenty of them. :-)
+* The [Phaser Examples page](http://phaser.io/examples) is a good place to look for guidance and ideas for features.
+* You can use the [Tiled Map Editor](http://www.mapeditor.org/) to create a level. Otherwise, hardcode it.
+* The [OpenGameArt page](http://opengameart.org/) and the [assets of Kenney](http://kenney.nl/assets) are  great sources for all kinds of graphics.
+
+####Tutorial
+* On the Programming Assignment \#2: Tuesday, **April 12<sup>th</sup>, 10:00 - 12:00** in room **E.2.69**.
+* On [Git](https://git-scm.com/), [Github](https://github.com/) and additional help on your game: **tba**
+* Additional questions? Send a mail to *fabian.schober@aau.at*
     
 ## Final Project
 For the final project you have to create a game including 

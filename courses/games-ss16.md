@@ -108,7 +108,7 @@ You may use other tutorials and examples on how to implement the additional feat
 
 ####Tutorial
 * On the Programming Assignment \#2: Tuesday, **April 12<sup>th</sup>, 10:00 - 12:00** in room **E.2.69**.
-* On [Git](https://git-scm.com/), [Github](https://github.com/) and additional help on your game: **tba**
+* On [Git](https://git-scm.com/), [Github](https://github.com/) and additional help on your game: Wednesday, **April 13th, 13:00 - 15:00** in room **E.2.37**
 * Additional questions? Send a mail to *fabian.schober@aau.at*
     
 ## Final Project

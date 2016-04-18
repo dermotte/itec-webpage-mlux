@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Random groups</title>
+    <link rel="icon" type="image/png" href="../favicon.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">
+    <script src="../js/jquery-2.2.1.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script language="JavaScript">
+        var myTimer;
+        var startTime;
+        var maxTime = 90*1000;
+        var running = false;
+
+        function startStop() {
+            if (!running) {
+                startTime = (new Date()).getTime();
+                running = true;
+                $("#startButton").html("Stop");
+                $("#plusButton").hide();
+                $("#minusButton").hide();
+            } else {
+                running = false;
+                $("#startButton").html("Start");
+                $("body").css("background-color","#2b3e50");
+                $("#plusButton").show();
+                $("#minusButton").show();
+            }
+        }
+
+        function addMaxTime(summand) {
+            if (maxTime>30*1000) maxTime += summand;
+        }
+
+        function showTime() {
+            var current = maxTime;
+            if (running) {
+                var now = (new Date()).getTime();
+                current = maxTime - (now - startTime);
+                if (current <= 0) {
+                    current = 0;
+                    $("body").css("background-color","red");
+                    $("#startButton").html("Reset");
+                }
+            }
+            var min = Math.floor(current / (1000 * 60));
+            var sec =  Math.floor((current / (1000))%60);
+            var tenth =  Math.floor((current % 1000) / 100);
+            var timeString = (min<10 ?"0":"") + min + ":" + (sec<10 ?"0":"") + sec + "." + tenth;
+            $("#myTime").html(timeString);
+        }
+
+        $( document ).ready(function() {
+            setInterval(showTime, 50);
+        });
+    </script>
+    <style type="text/css">
+        .counter {
+            font-size: 22vw;
+        }
+    </style>
+</head>
+<body>
+<div class="container-fluid">
+<div class="row">
+    <div class="col-md-12 col-sm-12">
+        <p id="myTime" class="text-center counter" onclick="startStop()">00:30:00</p>
+    </div>
+</div>
+<div class="row">
+    <div class="col-md-4 text-center">
+        <a href="javascript:addMaxTime(-30*1000)" class="btn btn-info btn-lg" id="plusButton">- 30 seconds</a>
+    </div>
+    <div class="col-md-4 text-center">
+        <a href="javascript:startStop()" class="btn btn-info btn-lg" id="startButton">Start</a>
+    </div>
+    <div class="col-md-4 text-center">
+        <a href="javascript:addMaxTime(30*1000)" class="btn btn-info btn-lg" id="minusButton">+ 30 seconds</a>
+    </div>
+</div>
+
+</div>
+
+</body>
+</html>

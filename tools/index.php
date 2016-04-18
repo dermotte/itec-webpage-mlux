@@ -43,6 +43,10 @@
             <a href="../pwd" class="btn btn-success btn-lg btn-block">Passwords</a>
             <p>Random password generator with approximate strength.</p>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <a href="timer.html" class="btn btn-success btn-lg btn-block">Countdown</a>
+            <p>Simple countdown timer for presentations.</p>
+        </div>
     </div>
 </div>
 

@@ -37,7 +37,11 @@ All courses start c.t. if not otherwise noted. Slides can be found [in the slide
 | Mo, 11.4. | 12-14 | E.2.42 | Game Project 101             | [Text - Postmortem Shadow of Mordor](http://www.gamasutra.com/view/news/234421/Postmortem_Monolith_Productions_Middleearth_Shadow_of_Mordor.php) |
 | Fr, 15.4. | 15-16:30 s.t. | HS C | Game Jam Keynote Presentations    | [FYI: 3rd Klagenfurt Game Jam](http://itec.aau.at/gamejam/) |
 | ~~Mo, 18.4.~~ | ~~12-14~~ | ~~E.2.42~~ | Canceled    |  |
+| Mo, 25.4. | 12-14 | E.2.42 | Game Project 101  -> Game Design  | [Text - Postmortem Goat Simulator](http://gamasutra.com/blogs/ArminIbrisagic/20150220/236427/Goat_Simulator_Post_Mortem.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraNews+%28Gamasutra+News%29) |
+| Mo, 2.05. | 12-14 | E.2.42 | Game Design  | [Text - Doom's horseshoe level design](http://www.gamasutra.com/blogs/HamishTodd/20150217/236516/Level_design_Dooms_quothorseshoequot.php) |
 | tba. | | | | |
+
+
 
 
 # Assignments

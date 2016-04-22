@@ -16,30 +16,41 @@
 
     <!-- Latest compiled and minified JavaScript -->
     <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="../css/font-awesome.min.css"/>
     <script language="JavaScript">
         var myTimer;
         var startTime;
-        var maxTime = 90*1000;
+        var maxTime = 90 * 1000;
         var running = false;
 
         function startStop() {
             if (!running) {
                 startTime = (new Date()).getTime();
                 running = true;
-                $("#startButton").html("Stop");
+                $("#startButton").html("<i class=\"fa fa-stop-circle\"></i> ");
                 $("#plusButton").hide();
                 $("#minusButton").hide();
+                $("#setsecs").hide();
             } else {
                 running = false;
-                $("#startButton").html("Start");
-                $("body").css("background-color","#2b3e50");
+                $("#startButton").html("<i class=\"fa fa-play-circle\"></i> ");
+                $("body").css("background-color", "#2b3e50");
                 $("#plusButton").show();
                 $("#minusButton").show();
+                $("#setsecs").show();
             }
         }
 
         function addMaxTime(summand) {
-            if (maxTime>30*1000) maxTime += summand;
+            if (maxTime > 30 * 1000 || summand > 0) maxTime += summand;
+        }
+
+        function setSeconds() {
+            console.log($("#setsecs").val());
+            var num = parseInt($("#setsecs").val());
+            if (!isNaN(num) && num > 0)
+                maxTime = num*1000;
+            console.log(maxTime)
         }
 
         function showTime() {
@@ -49,18 +60,18 @@
                 current = maxTime - (now - startTime);
                 if (current <= 0) {
                     current = 0;
-                    $("body").css("background-color","red");
-                    $("#startButton").html("Reset");
+                    $("body").css("background-color", "red");
+                    $("#startButton").html("<i class=\"fa fa-refresh\"></i> ");
                 }
             }
             var min = Math.floor(current / (1000 * 60));
-            var sec =  Math.floor((current / (1000))%60);
-            var tenth =  Math.floor((current % 1000) / 100);
-            var timeString = (min<10 ?"0":"") + min + ":" + (sec<10 ?"0":"") + sec + "." + tenth;
+            var sec = Math.floor((current / (1000)) % 60);
+            var tenth = Math.floor((current % 1000) / 100);
+            var timeString = (min < 10 ? "0" : "") + min + ":" + (sec < 10 ? "0" : "") + sec + "." + tenth;
             $("#myTime").html(timeString);
         }
 
-        $( document ).ready(function() {
+        $(document).ready(function () {
             setInterval(showTime, 50);
         });
     </script>
@@ -68,24 +79,47 @@
         .counter {
             font-size: 22vw;
         }
+
+        .btn-lg {
+            border-radius: 12px;
+            font-size: 3vw;
+        }
+
+        .input-group {
+            border-radius: 12px;
+            font-size: 3vw;
+        }
+
+        .input-group-lg {
+            border-radius: 12px;
+            font-size: 3vw;
+        }
+
     </style>
 </head>
 <body>
 <div class="container-fluid">
-<div class="row">
-    <div class="col-md-12 col-sm-12">
-        <p id="myTime" class="text-center counter" onclick="startStop()">00:30:00</p>
+    <div class="row">
+        <div class="col-md-12 col-sm-12">
+            <p id="myTime" class="text-center counter" onclick="startStop()">00:30:00</p>
+        </div>
     </div>
-</div>
-<div class="row">
-    <div class="col-md-4 text-center">
-        <a href="javascript:addMaxTime(-30*1000)" class="btn btn-info btn-lg" id="plusButton">- 30 seconds</a>
-    </div>
-    <div class="col-md-4 text-center">
-        <a href="javascript:startStop()" class="btn btn-info btn-lg" id="startButton">Start</a>
-    </div>
-    <div class="col-md-4 text-center">
-        <a href="javascript:addMaxTime(30*1000)" class="btn btn-info btn-lg" id="minusButton">+ 30 seconds</a>
+    <div class="row">
+        <div class="col-md-2 text-center">
+            <a href="javascript:addMaxTime(-30*1000)" role="button" class="btn btn-info btn-lg" id="plusButton"><i
+                    class="fa fa-minus"></i></a>
+        </div>
+        <div class="col-md-2 text-center">
+            <a href="javascript:addMaxTime(30*1000)" role="button" class="btn btn-info btn-lg" id="minusButton"><i
+                    class="fa fa-plus"></i> </a>
+        </div>
+        <div class="col-md-4 text-center">
+            <a href="javascript:startStop()" role="button" class="btn btn-primary btn-lg" id="startButton"><i
+                    class="fa fa-play-circle"></i> </a>
+        </div>
+        <div class="col-md-4 text-center">
+            <input id="setsecs" type="text" style="padding-right: 2vw; font-size: 3vw; border-radius: 12px; width: 80%; text-align: right" onkeyup="setSeconds()" placeholder="set seconds">
+        </div>
     </div>
 </div>
 

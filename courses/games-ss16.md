@@ -36,13 +36,13 @@ All courses start c.t. if not otherwise noted. Slides can be found [in the slide
 | Mo, 4.4.  | 12-14 | E.2.42 | History of Computer Games    | [Video - Free to Play](http://store.steampowered.com/app/245550/) |
 | Mo, 11.4. | 12-14 | E.2.42 | Game Project 101             | [Text - Postmortem Shadow of Mordor](http://www.gamasutra.com/view/news/234421/Postmortem_Monolith_Productions_Middleearth_Shadow_of_Mordor.php) |
 | Fr, 15.4. | 15-16:30 s.t. | HS C | Game Jam Keynote Presentations    | [FYI: 3rd Klagenfurt Game Jam](http://itec.aau.at/gamejam/) |
-| ~~Mo, 18.4.~~ | ~~12-14~~ | ~~E.2.42~~ | Canceled    |  |
+| ~~Mo, 18.4.~~ | ~~12-14~~ | ~~E.2.42~~ | cancelled    |  |
 | Mo, 25.4. | 12-14 | E.2.42 | Game Project 101  -> Game Design  | [Text - Postmortem Goat Simulator](http://gamasutra.com/blogs/ArminIbrisagic/20150220/236427/Goat_Simulator_Post_Mortem.php?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+GamasutraNews+%28Gamasutra+News%29) |
 | Mo, 2.5.  | 12-14 | E.2.42 | Game Design  | [Text - Doom's horseshoe level design](http://www.gamasutra.com/blogs/HamishTodd/20150217/236516/Level_design_Dooms_quothorseshoequot.php) |
-| Mo, 9.5.  | 12-14 | E.2.42 | Game Development - Game Loop and 2D Graphics | tba. |
-| Mo, 23.5. | 12-14 | E.2.42 | Game Development - Linear Algebra and 3D Graphics | tba. |
-| Mo, 30.5. | 12-14 | E.2.42 | Game Development - Input, Sound &amp; Physics  | tba. |
-| tba. | | | | |
+| ~~Mo, 9.5.~~  | ~~12-14~~ | ~~E.2.42~~ | cancelled |  |
+| Mo, 23.5. | 12-14 | E.2.42 | Game Development - Game Loop and 2D Graphics | tba. |
+| Mo, 30.5. | 12-14 | E.2.42 | Game Development - Linear Algebra and 3D Graphics | tba. |
+| Mo, 6.6.  | 12-14 | E.2.42 | Game Development - Input, Sound &amp; Physics  | tba. |
 | Mo, 13.6. | 12-14 | E.2.42 | Student presentations  | na. |
 | Mo, 20.6. | 12-14 | E.2.42 | Student presentations &amp; final exam  | na. |
 

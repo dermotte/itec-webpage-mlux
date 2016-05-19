@@ -115,6 +115,9 @@ You may use other tutorials and examples on how to implement the additional feat
 * You can use the [Tiled Map Editor](http://www.mapeditor.org/) to create a level. Otherwise, hardcode it.
 * The [OpenGameArt page](http://opengameart.org/) and the [assets of Kenney](http://kenney.nl/assets) are  great sources for all kinds of graphics.
 
+#### Hand in the Assignment
+Zip your whole project and upload it (URL tba.) until end of Tue., May 31st, 2016.
+
 ####Tutorial
 * On the Programming Assignment \#2: Tuesday, **April 12<sup>th</sup>, 10:00 - 12:00** in room **E.2.69**.
 * On [Git](https://git-scm.com/), [Github](https://github.com/) and additional help on your game: Wednesday, **April 13th, 13:00 - 15:00** in room **E.2.37**

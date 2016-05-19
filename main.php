@@ -73,9 +73,8 @@
                 University
             </li>
             <li> Oct. 2013 Habilitation at Klagenfurt University</li>
-            <li> 2014-... Associate Professor at the Institute for Information Technology (ITEC) at Klagenfurt
-                University
-            </li>
+            <li> Currently Associate Professor at the Institute for Information Technology (ITEC) at Klagenfurt
+                University and vice chairperson of the senate of Klagenfurt University</li>
         </ul>
     </div>
 </div>

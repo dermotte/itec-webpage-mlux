@@ -116,7 +116,7 @@ You may use other tutorials and examples on how to implement the additional feat
 * The [OpenGameArt page](http://opengameart.org/) and the [assets of Kenney](http://kenney.nl/assets) are  great sources for all kinds of graphics.
 
 #### Hand in the Assignment
-Zip your whole project and upload it (URL tba.) until end of Tue., May 31st, 2016.
+Zip your whole project and upload it [to the survey](http://www.semanticmetadata.net/surveys/index.php/survey/index/sid/274185/) until end of Tue., May 31st, 2016.
 
 ####Tutorial
 * On the Programming Assignment \#2: Tuesday, **April 12<sup>th</sup>, 10:00 - 12:00** in room **E.2.69**.

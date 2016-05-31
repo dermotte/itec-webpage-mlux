@@ -129,10 +129,15 @@ For the final project you have to create a game including
 1. a game concept document, 
 2. the actual game implementation ready to test,
 3. a post mortem discussing the pitfalls, lessons learned and process of making the game, and
-4. a final presentation.
+4. a final presentation (8 Minutes maximum, see below for details).
 
 You are free to choose the platform for making the game. Games should be made in groups of three to four people.  
 
 Like last year, you can do your final project as part of the [3rd Klagenfurt Game Jam](http://itec.aau.at/gamejam/). 
 This is the recommended way and a great opportunity to learn __a lot__ about actually making games and most of the work 
 is done within one single weekend. 
+
+### Final Presentation
+The presentation should feature (i) a rough technical outline and eventual unusual technical achievements, (ii) the 
+concept in brief words, (iii) a few words on the post mortem, and last but not least (iv) the gameplay either live or as 
+a recorded teaser video. 

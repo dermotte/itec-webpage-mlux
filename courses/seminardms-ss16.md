@@ -10,8 +10,8 @@ scientific paper.
 1. Di, 08.03. 2016 - LaTeX, Q&A (optional)
 1. Di, 15.03. 2016 - Start presentation
 1. Di, 10.05. 2016 - Intermediate presentations
-1. Di, 07.06. 2016 - Final presentations I
-1. Di, 14.06. 2016 - Final presentations II 
+1. Di, 07.06. 2016 - Final presentations I (starts s.t. at 10.oo am)
+1. ~~ Di, 14.06. 2016 - Final presentations II ~~
 
 # Modalities
 

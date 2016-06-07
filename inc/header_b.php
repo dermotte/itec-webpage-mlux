@@ -27,10 +27,8 @@
     <script src="js/jquery.rss.min.js"></script>
     <script src="js/showdown.js"></script>
 
-    <script src="bootstrap/js/bootstrap.min.js"></script></head>
-
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-
+</head>
 
 <body class="">
 <?php
@@ -58,15 +56,15 @@ if (array_key_exists("id", $_GET)) {
                 <li <?=($t=="courses")?"class=\"active\"":""?>><a href="index.php?id=courses">Courses</a></li>
             </ul>
             <ul class="nav navbar-nav navbar-right">
-<!--                <li class="dropdown">-->
-<!--                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links<span class="caret"></span></a>-->
-<!--                    <ul class="dropdown-menu">-->
-<!--                        <li><a href="index.php?id=courses/games-ss16.md">Games WS 2016</a></li>-->
-<!--                        <li><a href="index.php?id=courses/seminardms-ss16.md">Seminar WS 2016</a></li>-->
-<!--                        <li><a href="index.php?id=courses/einfuehrungindieinformatikss16">Einf&uuml;rung in die Informatik SS 2016</a></li>-->
-<!--                        <!--li role="separator" class="divider"></li-->-->
-<!--                    </ul>-->
-<!--                </li>-->
+                <li class="dropdown">
+                    <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links<span class="caret"></span></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="index.php?id=courses/games-ss16.md">VK Games '16</a></li>
+                        <li><a href="index.php?id=courses/seminardms-ss16.md">Seminar DMS '16</a></li>
+                        <li><a href="index.php?id=courses/einfuehrungindieinformatikss16">PR Einf&uuml;rung '16</a></li>
+                        <!--li role="separator" class="divider"></li-->
+                    </ul>
+                </li>
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>
                 <li><a href="http://www.lire-project.net/" rel="external">LIRE</a></li>
                 <li><a href="https://bitbucket.org/dermotte/liresolr" rel="external">LIRE Solr</a></li>

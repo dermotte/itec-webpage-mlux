@@ -26,6 +26,21 @@
         </div>
     </div>
 </div>
+<h2>Winter Semester 2016/2017</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/esop16">VO Einf&uuml;hrung in die
+                strukturierte und objektbasierte Programmierung</a> - Basic course on object oriented programming
+            focusing on Java as example.
+        </div>
+    </li>
+
+    <li>
+        <div class="li"><a href="?id=courses/einfuehrungindieinformatikws1617">PR Einf&uuml;hrung
+                in die Informatik</a> - Practical course for the introductory computer science lecture.
+        </div>
+    </li>
+</ul>
 <h2>Summer Semester 2016</h2>
 <ul>
     <li>

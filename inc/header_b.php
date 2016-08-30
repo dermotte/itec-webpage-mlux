@@ -59,9 +59,9 @@ if (array_key_exists("id", $_GET)) {
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="index.php?id=courses/games-ss16.md">VK Games '16</a></li>
-                        <li><a href="index.php?id=courses/seminardms-ss16.md">Seminar DMS '16</a></li>
-                        <li><a href="index.php?id=courses/einfuehrungindieinformatikss16">PR Einf&uuml;rung '16</a></li>
+                        <li><a href="index.php?id=courses/esop16">ESOP WS 2016/2017</a></li>
+<!--                        <li><a href="index.php?id=courses/seminardms-ss16.md">Seminar DMS '16</a></li>-->
+                        <li><a href="index.php?id=courses/einfuehrungindieinformatikws1617">PR Einf&uuml;rung WS 2016/2017</a></li>
                         <!--li role="separator" class="divider"></li-->
                     </ul>
                 </li>

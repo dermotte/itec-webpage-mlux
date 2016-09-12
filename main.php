@@ -52,7 +52,7 @@
 
     <div class="col-md-2">
         <div class=" row text-center">
-            <img src="http://www.uni-klu.ac.at/tewi/bilder/Mathias_Lux.jpg" class="img-thumbnail img-responsive"
+            <img src="images/Mathias_Lux_2016.jpg" class="img-thumbnail img-responsive"
                  title="Prof. Mathias Lux"
                  alt="Prof. Mathias Lux" style="margin: 10px; max-height: 320px; width: auto; ">
         </div>

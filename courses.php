@@ -19,7 +19,8 @@
 
             <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
                     href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H. Kosch
-                and some others. </p></div>
+                and some others. </p>
+            <p> Finally, there are quite some questions that come up every year, so I have a list of <a href="?id=courses/faq.md">frequently asked questions (FAQ)</a> and their answers. </p></div>
     </div>
     <div class="col-md-4">
         <div class="row text-center"><img src="images/carry.png" style="margin: 2px; max-height: 180px; width: auto">

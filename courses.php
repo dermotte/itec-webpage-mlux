@@ -41,6 +41,12 @@
                 in die Informatik</a> - Practical course for the introductory computer science lecture.
         </div>
     </li>
+    <li>
+        <div class="li"><a href="?id=courses/games-ws1617.md">Introduction to Computer Game Production</a> - ERASMUS lecture in Toulouse on computer
+            games production and development.
+        </div>
+    </li>
+
 </ul>
 <h2>Summer Semester 2016</h2>
 <ul>

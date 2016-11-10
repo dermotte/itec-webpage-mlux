@@ -17,8 +17,8 @@ tba.
 | Day        | Time   | Place  | Topic | Reading |
 |:------|:------|:------|:---|:---|
 | Tu, 22.11. | 10-12 | na. | Introduction and motivation  | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
-| Tu, 22.11. | 14-16 | na. | Game Development - Game Loop and 2D Graphics | tba. |
-| Fr, 25.11. | 10-12 | na. | Game Development - Linear Algebra and 3D Graphics | tba. |
+| Tu, 22.11. | 14-16 | na. | Game Development - Game Design (selected topics) and Game Loop  | tba. |
+| Fr, 25.11. | 10-12 | na. | Game Development - 2D Graphics | tba. |
 | Fr, 25.11. | 14-16 | na. | Game Development - Input, Sound &amp; Physics | tba. |
 
 

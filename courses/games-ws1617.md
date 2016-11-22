@@ -8,7 +8,7 @@ testing.
 The course has already taken place in previous years at Klagenfurt University, so you might take a look at the
 [2015 web page](?id=courses/gamesss15) or the [2014 web page](?id=courses/gamesss14). 
 
-#### Schedule
+# Schedule
 
 
 | Day        | Time   | Place  | Topic | Reading |

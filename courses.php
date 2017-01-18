@@ -7,26 +7,50 @@
     <div class="col-md-8 panel panel-default">
         <div class="panel-body"><p class="text-justify"> This and the subsequent pages give some overview on my teaching
                 activities. A thing to note before the list: Recommended reading for all students is: "<a
-                    href="http://portal.acm.org/citation.cfm?id=1284635&amp;coll=Portal&amp;dl=GUIDE&amp;CFID=47044173&amp;CFTOKEN=25735463"
-                    rel="external">Why you can&#039;t cite Wikipedia in my class</a>" by Neil L. Waters, which reflects
+                        href="http://portal.acm.org/citation.cfm?id=1284635&amp;coll=Portal&amp;dl=GUIDE&amp;CFID=47044173&amp;CFTOKEN=25735463"
+                        rel="external">Why you can&#039;t cite Wikipedia in my class</a>" by Neil L. Waters, which
+                reflects
                 my opinion very well. Also for writing any text I recommend taking a look at <a
-                    href="http://www.perspektive-mittelstand.de/PR-Tipps-und-Regeln-fuer-professionelle-Zeitungsartikel/management-wissen/1636.html">how
+                        href="http://www.perspektive-mittelstand.de/PR-Tipps-und-Regeln-fuer-professionelle-Zeitungsartikel/management-wissen/1636.html">how
                     newspaper articles are written (german)</a>. Furthermore, there are some <a href="?id=modalities">modalities</a>
                 all courses have in common. Also note the list of <a href="?id=usefulsoftware">common and useful
                     software for students</a>. If you have questions on courses, open master or bachelor thesis project,
                 send me a mail. For communication please respect the office hours and the <a
-                    href="https://tools.ietf.org/html/rfc1855">netiquette</a>.</p>
+                        href="https://tools.ietf.org/html/rfc1855">netiquette</a>.</p>
 
             <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
-                    href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H. Kosch
+                        href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H.
+                Kosch
                 and some others. </p>
-            <p> Finally, there are quite some questions that come up every year, so I have a list of <a href="?id=courses/faq.md">frequently asked questions (FAQ)</a> and their answers. </p></div>
+            <p> Finally, there are quite some questions that come up every year, so I have a list of <a
+                        href="?id=courses/faq.md">frequently asked questions (FAQ)</a> and their answers. </p></div>
     </div>
     <div class="col-md-4">
         <div class="row text-center"><img src="images/carry.png" style="margin: 2px; max-height: 180px; width: auto">
         </div>
     </div>
 </div>
+<h2>Summer Semester 2017</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss17.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer
+            games planning and development.
+        </div>
+    </li>
+    <li>
+        <a href="?id=courses/mmisss17">Multimedia Information Systems</a> - Course on multimedia information systems and
+        visual information retrieval.
+    </li>
+
+    <li>
+        <div class="li">
+            <a href="?id=courses/seminardms-ss17.md">
+                Seminar in Distributed Systems
+            </a> - Seminar in the master studies on computer science focusing on distributed multimedia systems.
+        </div>
+    </li>
+</ul>
 <h2>Winter Semester 2016/2017</h2>
 <ul>
     <li>
@@ -42,7 +66,8 @@
         </div>
     </li>
     <li>
-        <div class="li"><a href="?id=courses/games-ws1617.md">Introduction to Computer Game Production</a> - ERASMUS lecture in Toulouse on computer
+        <div class="li"><a href="?id=courses/games-ws1617.md">Introduction to Computer Game Production</a> - ERASMUS
+            lecture in Toulouse on computer
             games production and development.
         </div>
     </li>
@@ -51,7 +76,8 @@
 <h2>Summer Semester 2016</h2>
 <ul>
     <li>
-        <div class="li"><a href="?id=courses/games-ss16.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> - Course on computer
+        <div class="li"><a href="?id=courses/games-ss16.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer
             games planning and development.
         </div>
     </li>
@@ -318,17 +344,18 @@
     <ul>
         <li>
             <div class="li"><a
-                    href="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60380"
-                    rel="external"
-                    title="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60380">PR Einf&uuml;hrung
+                        href="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60380"
+                        rel="external"
+                        title="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60380">PR
+                    Einf&uuml;hrung
                     in die Informatik</a> - Practical part of an introductory course to computer science.
             </div>
         </li>
         <li>
             <div class="li"><a
-                    href="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60526"
-                    rel="external"
-                    title="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60526"> PR
+                        href="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60526"
+                        rel="external"
+                        title="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=60526"> PR
                     Rechnernetze</a> - Practical part of a course on computer networks
             </div>
         </li>
@@ -348,9 +375,9 @@
         </li>
         <li>
             <div class="li"><a
-                    href="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=57089"
-                    rel="external"
-                    title="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=57089">PR
+                        href="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=57089"
+                        rel="external"
+                        title="https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&amp;rlvkey=57089">PR
                     Compiler Construction</a> - Practical course on compiler construction
             </div>
         </li>

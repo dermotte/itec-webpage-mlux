@@ -62,7 +62,10 @@ if (array_key_exists("id", $_GET)) {
                         <li><a href="index.php?id=courses/esop16">VO ESOP WS 2016/2017</a></li>
 <!--                        <li><a href="index.php?id=courses/seminardms-ss16.md">Seminar DMS '16</a></li>-->
                         <li><a href="index.php?id=courses/einfuehrungindieinformatikws1617">PR Einf&uuml;hrung WS 2016/2017</a></li>
-                        <!--li role="separator" class="divider"></li-->
+                        <li role="separator" class="divider"></li>
+                        <li><a href="index.php?id=courses/mmisss17">Multimedia Information Systems SS 2017</a></li>
+                        <li><a href="index.php?id=courses/games-ss17.md">Games SS 2017</a></li>
+                        <li><a href="index.php?id=courses/seminardms-ss17.md">Seminar Distributed Systems SS 2017</a></li>
                     </ul>
                 </li>
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>

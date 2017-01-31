@@ -27,7 +27,7 @@ and Unreal and is willing to share his experience. In the tutorial he will focus
 practical assignments. Please make sure you are enrolled.    
 
 #### Schedule
-All courses start c.t. if not otherwise noted. Slides can be found [in the slides repository on Google Drive](https://drive.google.com/folderview?id=0B8x2stWZlk6US0dmbW5MaTJNUTg&usp=sharing).
+All courses start c.t. if not otherwise noted. All slides can be found [in a single ZIP archive](teaching/games16/slides.zip).
 
 | Day    | Time   | Place  | Topic | Reading |
 |:------|:------|:------|:---|:---|

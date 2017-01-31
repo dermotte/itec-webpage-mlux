@@ -41,7 +41,9 @@
             He worked in industry on web-based applications, then as a junior researcher at a research center for
             knowledge-based applications. He was research and teaching assistant at the Knowledge Management Institute
             (KMI) of Graz University of Technology and in 2006 he started working in a post doc position at Klagenfurt
-            University, at the Institute for Information Technology.
+            University, at the Institute for Information Technology. Currently he is vice chairman of the senate of
+            Klagenfurt University in the second term and chairman of the curriculum committee for the master program
+            Game Studies and Engineering.
         </p>
 
         <p>

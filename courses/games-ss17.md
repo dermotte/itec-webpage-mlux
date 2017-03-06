@@ -25,13 +25,13 @@ Associated with the course is the [Tutorium zu Interaktive Multimedia-Anwendunge
 #### Schedule
 All courses start c.t. if not otherwise noted.
  
-| Day    | Time   | Place  | Topic | Reading |
+| Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Mo, 6.3.  | 12-14 | E.2.42 | Introduction and motivation  | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
 | Mo, 13.3. | 12-14 | E.2.42 | Games Business & Age Ratings | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 20.3. | 12-14 | E.2.42 | Game Project 101 | [Video - GDC Use Case: Life is Strange](http://www.gdcvault.com/play/1023468/-Life-is-Strange-Case) |
 | Mo, 27.3. | 12-14 | E.2.42 | Game Design 101 | [Video - 17. Psychology of Games](http://store.steampowered.com/app/534600/) |
-| Mo, 3.4. | 12-14 | E.2.42 | Game Development - Game Loop and 2D Graphics | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) |
+| Mo, 3.4. | 12-14 | E.2.42 | Game Development - Game Loop and 2D Graphics | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) and the [Tutorial](http://www.crystalcodepalace.com/traceryTut.html) |
 | Mo, 24.4. | 12-14 | E.2.42 | Game Development - Linear Algebra and 3D Graphics |  |
 | Fr, 28.4. | tba. | tba | Game Jam keynote speeches |  |
 | Mo, 15.5. | 12-14 | E.2.42 | Game Development - Input, Sound &amp; Physics |  |

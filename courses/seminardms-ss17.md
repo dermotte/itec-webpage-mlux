@@ -40,3 +40,4 @@ The final presentation should take 10 minutes (no more and no less) and should s
 Bring along yourself or choose a subtopic from the repository of [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers).
 
 1. Hofmeister - CNNs
+1. Steiner - [Image: Segmentation / Object Detection](https://github.com/terryum/awesome-deep-learning-papers#image-segmentation--object-detection) 

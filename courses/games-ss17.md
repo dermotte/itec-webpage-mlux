@@ -49,6 +49,33 @@ All courses start c.t. if not otherwise noted.
 * **Start at:** Monday 13.3. 2017
 * **Deadline for submission:**  Friday 24.3. 2017
 
+#### Code the game
+Follow the tutorial on [http://www.zekechan.net/getting-started-html5-game-development-pong1](http://www.zekechan.net/getting-started-html5-game-development-pong1/) and implement a **Pong clone** using Phaser. You can use all code snippets and assets provided by this tutorial, but be sure to comprehend the individual steps.
+
+#### Analyze and Adapt the Game
+After completing the tutorial, play the game (with a friend, or implement a simple AI opponent). In respect to game mechanics, find some aspects of the game you would change (if you have not already done so) and document them. If possible, apply these changes by adjusting the code and/or assets.
+
+#### Hand in the Assignment
+Zip your whole project and upload it until end of Fr., March 24, 2017.
+
+#### Tutorial
+Due to the upcoming Easter holidays, the Tutorial for Programming Assignment \#1 takes place on **March 14th, 10:00 - 12:00** in room **E.1.42**. Apart from this, Fabian Schober can be reached anytime via mail to *fabian.schober@aau.at*.
+
+#### Tips
+* A project template with an HTML file, a Phaser package and all assets can be downloaded from [https://github.com/zekechan/phaser-html5-tutorial-pong/releases/download/1.0/1-Empty_project.zip](https://github.com/zekechan/phaser-html5-tutorial-pong/releases/download/1.0/1-Empty_project.zip).
+* Javascript itself requires no dedicated IDE like IntelliJ IDEA to be coded and run. You can use any Texteditor (although one with syntax highlighting is strongly suggested :-) ). In the Tutorial, we will use **WebStorm**.
+* If you use WebStorm, you already have a webserver included in the IDE. But you have to create a project:
+   * Open Webstorm and create a new *Empty Project*.
+   * Copy the Pong project template into your project folder.
+   * Right click *index.html* and *Run* it. Your browser should open.
+   * If you want to debug Javascript in Webstorm, you have to press *Debug*. You may have to additionally install a plugin for your browser (Chrome needs this). 
+* If you use a text editor (and NOT WebStorm) and have no webserver (simply opening the files in your browser will not work) installed, you can use Google's **Mongoose**:
+    * Download the executable file (*mongoose-5.0.exe* for Windows, etc.) from [https://code.google.com/archive/p/mongoose/downloads](https://code.google.com/archive/p/mongoose/downloads).
+    * Copy the executable file to your project folder (next to *index.html*).
+    * Start Mongoose. Mongoose itself has no Window GUI, but a tray icon. If it is there, Mongoose is running. You can also stop the server using this this icon.
+    * Browse to [http://localhost:8080/index.html](http://localhost:8080/index.html) (or change to fit your HTML-file's name). Your game is displayed there.
+    
+
 ## Programming Assignment \#2: 2D Arcade game
 * **Platform**: Web 
 * **Framework**: Phaser 

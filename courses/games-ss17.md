@@ -46,10 +46,14 @@ All courses start c.t. if not otherwise noted.
 * **Platform**: Web 
 * **Framework**: Phaser 
 * **Language**: Javascript
+* **Start at:** Monday 13.3. 2017
+* **Deadline for submission:**  Friday 24.3. 2017
 
 ## Programming Assignment \#2: 2D Arcade game
 * **Platform**: Web 
 * **Framework**: Phaser 
 * **Language**: Javascript
+* **Start at:** Monday 27.3. 2017
+* **Deadline for submission:**  Thursday, 27.4. 2017
 
 Your second task is to implement a **simple** 2-dimensional Arcade game. Your game should at least contain some graphics, basic movements and an additional (game) feature.

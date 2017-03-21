@@ -24,7 +24,7 @@ relations, benefit etc. This is also called a comparative study.
 
 Your paper is a scientific article. It has to match scientific quality in terms of citations, argumentation, facts, readability, and so on.
 Your paper has to follow the [ACM SIG Proceeding style](http://www.acm.org/sigs/publications/proceedings-templates").
-The final paper has to have 5000 words, which is around 6 pages in the given style. Make sure you use LaTeX for writing.
+The final paper has to have 5000 words, which is around 6 pages in the given style. Make sure you use LaTeX for writing. There is an [example on Overleaf](https://www.overleaf.com/read/mgwxzcgvqcbs).
 
 # Presentations
 Each of the participants has to give two presentations.

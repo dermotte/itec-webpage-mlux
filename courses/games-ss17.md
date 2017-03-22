@@ -27,9 +27,9 @@ All courses start c.t. if not otherwise noted.
  
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
-| Mo, 6.3.  | 12-14 | E.2.42 | Introduction and motivation  | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
-| Mo, 13.3. | 12-14 | E.2.42 | Games Business & Age Ratings | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
-| Mo, 20.3. | 12-14 | E.2.42 | Game Project 101 | [Video - GDC Use Case: Life is Strange](http://www.gdcvault.com/play/1023468/-Life-is-Strange-Case) |
+| Mo, 6.3.  | 12-14 | E.2.42 | Introduction and motivation [slides](/~mlux/teaching/games17/games-ss17-01-modalities-first-project.pdf) | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
+| Mo, 13.3. | 12-14 | E.2.42 | Games Business & Age Ratings [slides](/~mlux/teaching/games17/games-ss17-02-business-ratings.pdf) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
+| Mo, 20.3. | 12-14 | E.2.42 | Game Project 101 [slides](/~mlux/teaching/games17/games-ss17-04-game-software-design.pdf) | [Video - GDC Use Case: Life is Strange](http://www.gdcvault.com/play/1023468/-Life-is-Strange-Case) |
 | Mo, 27.3. | 12-14 | E.2.42 | Game Design 101 | [Video - 17. Psychology of Games](http://store.steampowered.com/app/534600/) |
 | Mo, 3.4. | 12-14 | E.2.42 | Game Development - Game Loop and 2D Graphics | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) and the [Tutorial](http://www.crystalcodepalace.com/traceryTut.html) |
 | Mo, 24.4. | 12-14 | E.2.42 | Game Development - Linear Algebra and 3D Graphics |  |
@@ -56,7 +56,7 @@ Follow the tutorial on [http://www.zekechan.net/getting-started-html5-game-devel
 After completing the tutorial, play the game (with a friend, or implement a simple AI opponent). In respect to game mechanics, find some aspects of the game you would change (if you have not already done so) and document them. If possible, apply these changes by adjusting the code and/or assets.
 
 #### Hand in the Assignment
-Zip your whole project and upload it until end of Fr., March 24, 2017.
+Zip your whole project and send it to Fabian Schober (Fabian.Schober@aau.at) until Friday 24.3. 2017 midnight.
 
 #### Tutorial
 Due to the upcoming Easter holidays, the Tutorial for Programming Assignment \#1 takes place on **March 14th, 10:00 - 12:00** in room **E.1.42**. Apart from this, Fabian Schober can be reached anytime via mail to *fabian.schober@aau.at*.

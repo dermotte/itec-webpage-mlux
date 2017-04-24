@@ -30,11 +30,11 @@ All courses start c.t. if not otherwise noted.
 | Mo, 6.3.  | 12-14 | E.2.42 | Introduction and motivation [slides](/~mlux/teaching/games17/games-ss17-01-modalities-first-project.pdf) | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
 | Mo, 13.3. | 12-14 | E.2.42 | Games Business & Age Ratings [slides](/~mlux/teaching/games17/games-ss17-02-business-ratings.pdf) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 20.3. | 12-14 | E.2.42 | Game Project 101 [slides](/~mlux/teaching/games17/games-ss17-04-game-software-design.pdf) | [Video - GDC Use Case: Life is Strange](http://www.gdcvault.com/play/1023468/-Life-is-Strange-Case) |
-| Mo, 27.3. | 12-14 | E.2.42 | Game Development - Game Loop [slides](/~mlux/teaching/games17/games-ss17-06-game-dev-game-loop.pdf)| [Video - 17. Psychology of Games](http://store.steampowered.com/app/534600/) |
-| Mo, 3.4. | 12-14 | E.2.42 | Game Development - 2D Graphics | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) and the [Tutorial](http://www.crystalcodepalace.com/traceryTut.html) |
-| Mo, 24.4. | 12-14 | E.2.42 | Game Development - Linear Algebra and 3D Graphics |  |
+| Mo, 27.3. | 12-14 | E.2.42 | Game Development - Game Loop [slides](/~mlux/teaching/games17/games-ss17-06-game-dev-game-loop.pdf), [src](/~mlux/teaching/games17/gameloopdemo.zip)| [Video - 17. Psychology of Games](http://store.steampowered.com/app/534600/) |
+| Mo, 3.4. | 12-14 | E.2.42 | Game Development - 2D Graphics [slides](/~mlux/teaching/games17/games-ss17-07-game-dev-2d-graphics.pdf), [src](/~mlux/teaching/games17/tiledemo.zip) | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) and the [Tutorial](http://www.crystalcodepalace.com/traceryTut.html) |
+| Mo, 24.4. | 12-14 | E.2.42 | Game Development - Input &amp; Sound |  |
 | Fr, 28.4. | tba. | tba | Game Jam keynote speeches |  |
-| Mo, 15.5. | 12-14 | E.2.42 | Game Development - Input, Sound &amp; Physics |  |
+| Mo, 15.5. | 12-14 | E.2.42 | Game Development - Physics |  |
 | Mo, 29.5. | 12-14 | E.2.42 | Introduction to Game Design |  |
 | Mo, 12.6. | 12-14 | E.2.42 | Computer Game History |  |
 | Mo, 19.6. | 12-14 | E.2.42 | Presentations |  |

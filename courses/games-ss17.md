@@ -34,6 +34,7 @@ All courses start c.t. if not otherwise noted.
 | Mo, 3.4. | 12-14 | E.2.42 | Game Development - 2D Graphics [slides](/~mlux/teaching/games17/games-ss17-07-game-dev-2d-graphics.pdf), [src](/~mlux/teaching/games17/tiledemo.zip) | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) and the [Tutorial](http://www.crystalcodepalace.com/traceryTut.html) |
 | Mo, 24.4. | 12-14 | E.2.42 | Game Development - Input &amp; Sound |  |
 | Fr, 28.4. | tba. | tba | Game Jam keynote speeches |  |
+| Mo, 08.5. | 12-14 | E.2.42 | Game Development - Introduction to 3D Games |  |
 | Mo, 15.5. | 12-14 | E.2.42 | Game Development - Physics |  |
 | Mo, 29.5. | 12-14 | E.2.42 | Introduction to Game Design |  |
 | Mo, 12.6. | 12-14 | E.2.42 | Computer Game History |  |

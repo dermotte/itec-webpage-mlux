@@ -47,6 +47,10 @@
             <a href="timer.html" class="btn btn-success btn-lg btn-block">Countdown</a>
             <p>Simple countdown timer for presentations.</p>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <a href="timer/index.html" class="btn btn-success btn-lg btn-block">Interval Timer</a>
+            <p>Simple interval timer for sports.</p>
+        </div>
     </div>
 </div>
 

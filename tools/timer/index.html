@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Simple Interval Timer</title>
+    <link rel="manifest" href="/manifest.json">
+    <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600,800,900" rel="stylesheet" type="text/css">
+    <script language="JavaScript" src="js/progressbar.min.js"></script>
+    <link href="./font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="./css/intervaltimer.css" rel="stylesheet" type="text/css"/>
+
+    <script language="JavaScript">
+
+    </script>
+</head>
+<body>
+
+<div id="container"></div>
+
+<div id="controls">
+    <i class="fa fa-play-circle" onclick="startAnimation()"></i>
+</div>
+
+<script language="JavaScript">
+    var roundLength = 30;
+    var pauseLength = 5;
+    var beep = new Audio("sfx/beep.wav");
+    var tada = new Audio("sfx/tada.wav");
+    var iuh = new Audio("sfx/iuh.wav");
+    var lastValue = 0;
+    var current = 1; // 0 ... pause, 1 ... round
+
+    var bar = new ProgressBar.Circle(container, {
+        strokeWidth: 12,
+        color: '#225378',
+        trailColor: '#225378',
+        trailWidth: 1,
+        easing: 'linear',
+        duration: 1000 * roundLength,
+        svgStyle: null,
+        text: {
+            value: '',
+            alignToBottom: true
+        },
+        from: {color: '#225378'},
+        to: {color: '#EB7F00'},
+        // Set default step function for all animate calls
+        step: (state, bar) => {
+            if (current == 1) bar.path.setAttribute('stroke', '#225378');
+            else if (current == 0) bar.path.setAttribute('stroke', '#EB7F00');
+            var value = Math.round(bar.value() * roundLength);
+            if (lastValue != value) {
+                if (current == 1 && value > roundLength - 3) {
+                    beep.play();
+                }
+            }
+            if (current == 1) {
+                if (value === 0 ) {
+                    bar.setText('');
+                } else {
+                    bar.setText(value);
+                    lastValue = value;
+                }
+            } else {
+                bar.setText("wait");
+            }
+
+
+            // bar.text.style.color = state.color;
+        }
+    });
+    bar.text.style.fontFamily = '"Raleway", Helvetica, sans-serif';
+    bar.text.style.fontSize = '24vw';
+
+
+    function startAnimation() {
+        nextAnimation();
+    }
+
+    function nextAnimation() {
+        bar.set(0);
+        if (current == 0) { // it's a pause
+            current = 1; // set to round
+            beep.play();
+            bar.animate(1.0, {duration: roundLength*1000, color: '#225378'},
+                function () {
+                    tada.play();
+                    nextAnimation();
+                });  // Number from 0.0 to 1.0
+        } else {
+            current = 0; // set to pause;
+            bar.animate(1.0, {duration: pauseLength*1000, color: '#EB7F00'},
+                function () {
+                    // tada.play();
+                    nextAnimation();
+                });  // Number from 0.0 to 1.0
+        }
+        // iuh.play();
+    }
+</script>
+</body>
+</html>

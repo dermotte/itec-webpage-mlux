@@ -40,5 +40,6 @@ The final presentation should take 10 minutes (no more and no less) and should s
 Bring along yourself or choose a subtopic from the repository of [Awesome Deep Learning Papers](https://github.com/terryum/awesome-deep-learning-papers).
 
 1. Hofmeister W. - CNNs
+1. Krumpholz M. - Deep Neural Networks are Easily Fooled
 1. Steiner M. - [Image: Segmentation / Object Detection](https://github.com/terryum/awesome-deep-learning-papers#image-segmentation--object-detection) 
 1. Steiner J. - [Unsupervised / Generative Models](https://github.com/terryum/awesome-deep-learning-papers#unsupervised--generative-models)

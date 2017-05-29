@@ -32,13 +32,13 @@ All courses start c.t. if not otherwise noted.
 | Mo, 20.3. | 12-14 | E.2.42 | Game Project 101 [slides](/~mlux/teaching/games17/games-ss17-04-game-software-design.pdf) | [Video - GDC Use Case: Life is Strange](http://www.gdcvault.com/play/1023468/-Life-is-Strange-Case) |
 | Mo, 27.3. | 12-14 | E.2.42 | Game Development - Game Loop [slides](/~mlux/teaching/games17/games-ss17-06-game-dev-game-loop.pdf), [src](/~mlux/teaching/games17/gameloopdemo.zip)| [Video - 17. Psychology of Games](http://store.steampowered.com/app/534600/) |
 | Mo, 3.4. | 12-14 | E.2.42 | Game Development - 2D Graphics [slides](/~mlux/teaching/games17/games-ss17-07-game-dev-2d-graphics.pdf), [src](/~mlux/teaching/games17/tiledemo.zip) | [Video - Tracery / Kate Compton (~10 minutes, leave out the rest)](https://youtu.be/W_okgL6HJX8?t=15m58s) and the [Tutorial](http://www.crystalcodepalace.com/traceryTut.html) |
-| Mo, 24.4. | 12-14 | E.2.42 | Game Development - Input &amp; Sound |  |
+| Mo, 24.4. | 12-14 | E.2.42 | Game Development - Input &amp; Sound [slides](/~mlux/teaching/games17/games-ss17-08-game-dev-input_sound.pdf) |  |
 | Fr, 28.4. | tba. | tba | Game Jam keynote speeches |  |
-| Mo, 08.5. | 12-14 | E.2.42 | Game Development - Introduction to 3D Games |  |
-| Mo, 15.5. | 12-14 | E.2.42 | Game Development - Physics |  |
-| Mo, 29.5. | 12-14 | E.2.42 | Introduction to Game Design |  |
-| Mo, 12.6. | 12-14 | E.2.42 | Computer Game History |  |
-| Mo, 19.6. | 12-14 | E.2.42 | Presentations |  |
+| Mo, 01.5. | 12-14 | E.2.42 | Game Development - Introduction to 3D Games [slides](/~mlux/teaching/games17/games-ss17-09-intro-3d.pdf) |  |
+| Mo, 08.5. | 12-14 | E.2.42 | Game Development - Physics [slides](/~mlux/teaching/games17/games-ss17-10-game-dev-physics.pdf) |  |
+| Mo, 15.5. | 12-14 | E.2.42 | Introduction to Game Design [slides](/~mlux/teaching/games17/games-ss17-05-game-design.pdf) |  |
+| Mo, 29.5 | 12-14 | E.2.42 | Computer Game History [slides](/~mlux/teaching/games17/games-ss17-03-history.pdf) |  |
+| ~~Mo, 19.6.~~ | ~~12-14~~ | ~~E.2.42~~ | ~~Presentations~~ |  |
 | Mo, 26.6. | 12-14 | E.2.42 | Exam & Presentations |  |
 
 

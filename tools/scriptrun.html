@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Run JavaScrip in the browser</title>
+    <link rel="icon" type="image/png" href="../favicon.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">
+    <script src="../js/jquery-2.2.1.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script language="JavaScript">
+
+        function runScript(script) {
+            eval(script);
+            return true;
+        }
+
+        $(document).ready(function () {
+            // setOther();
+        })
+
+    </script>
+    <style type="text/css">
+        textarea#scripttext {
+            font-family: "Source Code Pro", monospace;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1>Run JavaScript in the browser ...</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-sm-12">
+            <div class="form-group">
+                <textarea id="scripttext" class="form-control" rows="12"></textarea>
+            </div>
+            <div class="form-group">
+                <div class="col-sm-2">
+                    <button type="submit" onclick="runScript($('#scripttext').val());" class="btn btn-default">Run
+                        Code
+                    </button>
+                </div>
+                <div class="col-sm-2">
+                    <a href="javascript:$('#scripttext').val('var i = 42;\nvar j = 3;\nvar k = i + j;\nconsole.log(k);\n')"
+                       class="btn btn-link">Example Variable</a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="javascript:$('#scripttext').val('var i = 42;\nif (i%2 == 0) console.log(\'i is an even number\');\nelse console.log(\'i is an odd number\');\n')"
+                       class="btn btn-link">Example Condition</a>
+                </div>
+                <div class="col-sm-2">
+                    <a href="javascript:$('#scripttext').val('for (i=1; i<10; i++) {\n    console.log(i*3)\n}\n')"
+                       class="btn btn-link">Example Loop</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row" style="margin-top: 12pt;">
+        <div class="col-sm-12">
+            <div class="small" style="text-align: right">Hit F12 key to show the JavaScript console on Chrome</div>
+        </div>
+    </div>
+</div>
+
+
+</body>
+</html>

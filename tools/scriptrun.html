@@ -6,6 +6,7 @@
     <link rel="icon" type="image/png" href="../favicon.png"/>
 
     <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet">
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
@@ -17,8 +18,17 @@
     <!-- Latest compiled and minified JavaScript -->
     <script src="../bootstrap/js/bootstrap.min.js"></script>
     <script language="JavaScript">
+        var line = 0;
+        function print(textOut) {
+            $('#myoutput').append(
+                (line < 10 ? "0" : "") + line++ + ": " + textOut + "<br/>");
+        }
 
         function runScript(script) {
+            // reset the output ...
+            $('#myoutput').text("");
+            line = 0;
+            // eval the script ...
             eval(script);
             return true;
         }
@@ -32,6 +42,18 @@
         textarea#scripttext {
             font-family: "Source Code Pro", monospace;
         }
+
+        #myoutput {
+            font-family: "Source Code Pro", monospace;
+        }
+
+        #scripttext {
+            top: 0;
+            right: 0;
+            bottom: 0;
+            left: 0;
+            height: 250px;
+        }
     </style>
 </head>
 <body>
@@ -43,37 +65,56 @@
     </div>
     <div class="row">
         <div class="col-sm-12">
-            <div class="form-group">
-                <textarea id="scripttext" class="form-control" rows="12"></textarea>
-            </div>
-            <div class="form-group">
-                <div class="col-sm-2">
-                    <button type="submit" onclick="runScript($('#scripttext').val());" class="btn btn-default">Run
-                        Code
-                    </button>
-                </div>
-                <div class="col-sm-2">
-                    <a href="javascript:$('#scripttext').val('var i = 42;\nvar j = 3;\nvar k = i + j;\nconsole.log(k);\n')"
-                       class="btn btn-link">Example Variable</a>
-                </div>
-                <div class="col-sm-2">
-                    <a href="javascript:$('#scripttext').val('var i = 42;\nif (i%2 == 0) console.log(\'i is an even number\');\nelse console.log(\'i is an odd number\');\n')"
-                       class="btn btn-link">Example Condition</a>
-                </div>
-                <div class="col-sm-2">
-                    <a href="javascript:$('#scripttext').val('for (i=1; i<10; i++) {\n    console.log(i*3)\n}\n')"
-                       class="btn btn-link">Example Loop</a>
-                </div>
-            </div>
+            <div id="scripttext">for (i = 0; i < 10; i++) {
+    print(i);
+}</div>
         </div>
+    </div>
+    <div class="row" style="margin-top: 2em">
+            <div class="col-sm-2">
+                <button type="submit" onclick="runScript(editor.getValue());" class="btn btn-default">Run
+                    Code
+                </button>
+            </div>
+            <div class="col-sm-2">
+                <a href="javascript:editor.session.setValue('var i = 42;\nvar j = 3;\nvar k = i + j;\nprint(k);\n')"
+                   class="btn btn-link">Example Variable</a>
+            </div>
+            <div class="col-sm-2">
+                <a href="javascript:editor.session.setValue('var i = 42;\nif (i%2 == 0) print(\'i is an even number\');\nelse print(\'i is an odd number\');\n')"
+                   class="btn btn-link">Example Condition</a>
+            </div>
+            <div class="col-sm-2">
+                <a href="javascript:editor.session.setValue('var i = 0;\nwhile (i++<10) {\n\tprint(i*3);\n}\n')"
+                   class="btn btn-link">Example Loop</a>
+            </div>
+            <div class="col-sm-2">
+                <a href="javascript:editor.session.setValue('// compute pi using the Newton / Euler Convergence Transformation\nvar sum = 0;\nfor (k=0; k<50; k++) {\n\tvar upper = 1;\n\tfor (i = 1; i<=k;i++) upper*=i;\n\tupper = Math.pow(2,k)*Math.pow(upper,2);\n\tvar lower = 1;\n\tfor (i = 1; i<=2*k+1;i++) lower*=i;\n\tsum += upper/lower;\n}\nprint(sum*2);')"
+                   class="btn btn-link">Compute Pi</a>
+            </div>
     </div>
     <div class="row" style="margin-top: 12pt;">
         <div class="col-sm-12">
             <div class="small" style="text-align: right">Hit F12 key to show the JavaScript console on Chrome</div>
         </div>
     </div>
+    <div class="row" style="margin-top: 12pt;">
+        <div class="col-sm-12" id="myoutput">
+
+        </div>
+    </div>
 </div>
 
+<script src="https://cdnjs.cloudflare.com/ajax/libs/ace/1.2.8/ace.js" type="text/javascript" charset="utf-8"></script>
+<script>
+    var editor = ace.edit("scripttext");
+    editor.setTheme("ace/theme/github");
+    editor.getSession().setMode("ace/mode/javascript");
+    editor.setOptions({
+        fontFamily: "Source Code Pro",
+        fontSize: "12pt"
+    });
+</script>
 
 </body>
 </html>

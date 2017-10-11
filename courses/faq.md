@@ -9,7 +9,7 @@ Bitte nehmen Sie die Anmeldung selbst vor. Ist die Abmeldefrist abgelaufen, dann
 Bei der Vorlesung ist keine Aufnahme nötig, eine Anmeldung können Sie selbst vornehmen. Anmeldung zur Vorlesungsprüfung setzt keine Anmeldung oder Aufnahme zur Vorlesung voraus. Ist bei einer Vorlesung Moodle als Unterstützende Plattform aktiviert, so erhalten Sie nur Zugriff nach der Aufnahme. In einem solchen Fall nehme ich die Aufnahme regelmäßig für alle Studierenden vor. 
 
 ### Können Sie mich von der Vorlesung (VO) abmelden?
-Nein. Eine Abmeldung von Studierenden ist für LV-Leiter technisch nicht umgesetzt. Ich kann Studierende vom Status "aufgenommen" in den Status "angemeldet" setzen. 
+Nein. Eine Abmeldung von Studierenden ist für LV-Leiter technisch nicht umgesetzt. Ich kann Studierende vom Status "aufgenommen" in den Status "angemeldet" setzen. Studierende sollten die Abmeldung dann selbst zeitgerecht vornehmen.
 
 ### Können Sie mich bei der Übung (PR) anmelden?
 Bitte nehmen Sie die Anmeldung selbst vor. Ist die Übung überbelegt, dann melden Sie sich bitte bei einer gleichlautenden Übung und einem anderen Übungsleiter an. Ist die Abmeldefrist abgelaufen und die Übung nicht überbelegt, dann setzen Sie mich davon in Kenntnis. Ist die Anmeldung technisch nicht möglich, dann setzen Sie sich bitte mit dem zentralen Informationsdienst ([ZID](https://zid.aau.at/?q=content/home)) in Verbindung. 

@@ -1,15 +1,15 @@
 # FAQ: Frequently Asked Questions
 
-Jedes Jahr treten dieselben Fragen. Ich verstehe natürlich die Wichtigkeit der Beantwortung aber um Emails zu sparen, hier ein paar Antworten.
+Fragen wiederholen sich oft. Ich verstehe natürlich die Wichtigkeit der Beantwortung, aber um Emails zu sparen, hier ein paar Antworten.
 
 ### Können Sie mich bei der Vorlesung (VO) anmelden?
 Bitte nehmen Sie die Anmeldung selbst vor. Ist die Abmeldefrist abgelaufen, dann setzen Sie mich davon in Kenntnis. Liegt ein technisches Problem vor, dann wenden Sie sich bitte an den zentralen Informationsdienst ([ZID](https://zid.aau.at/?q=content/home)).
 
 ### Können Sie mich in die Vorlesung (VO) aufnehmen?
-Bei der Vorlesung ist keine Aufnahme nötig, eine Anmeldung können Sie selbst vornehmen. Anmeldung zur Vorlesungsprüfung setzt keine Anmeldung / Aufnahme zur Vorlesung voraus.   
+Bei der Vorlesung ist keine Aufnahme nötig, eine Anmeldung können Sie selbst vornehmen. Anmeldung zur Vorlesungsprüfung setzt keine Anmeldung oder Aufnahme zur Vorlesung voraus. Ist bei einer Vorlesung Moodle als Unterstützende Plattform aktiviert, so erhalten Sie nur Zugriff nach der Aufnahme. In einem solchen Fall nehme ich die Aufnahme regelmäßig für alle Studierenden vor. 
 
 ### Können Sie mich von der Vorlesung (VO) abmelden?
-Nein. Eine Abmeldung von Studierenden ist für LV-Leiter technisch nicht umgesetzt.
+Nein. Eine Abmeldung von Studierenden ist für LV-Leiter technisch nicht umgesetzt. Ich kann Studierende vom Status "aufgenommen" in den Status "angemeldet" setzen. 
 
 ### Können Sie mich bei der Übung (PR) anmelden?
 Bitte nehmen Sie die Anmeldung selbst vor. Ist die Übung überbelegt, dann melden Sie sich bitte bei einer gleichlautenden Übung und einem anderen Übungsleiter an. Ist die Abmeldefrist abgelaufen und die Übung nicht überbelegt, dann setzen Sie mich davon in Kenntnis. Ist die Anmeldung technisch nicht möglich, dann setzen Sie sich bitte mit dem zentralen Informationsdienst ([ZID](https://zid.aau.at/?q=content/home)) in Verbindung. 

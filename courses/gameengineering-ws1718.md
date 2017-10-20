@@ -11,7 +11,7 @@ project.
 
 ## Topics
 
-1. Introduction & Computer Game History
+1. Introduction & Computer Game History -> [slides](https://docs.google.com/presentation/d/1gq36I_BVbW4B2TLZEPpEMwaJpoZVtgYpkqiJ6-GkLxw/edit?usp=sharing)
 2. Game Projects: Processes and Roles 
 3. Game Projects: Documents and Pitches
 4. Prototyping

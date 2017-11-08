@@ -13,7 +13,7 @@ project.
 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1gq36I_BVbW4B2TLZEPpEMwaJpoZVtgYpkqiJ6-GkLxw/edit?usp=sharing)
 2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/10jRi2_16vJsUA9Pep1yJH5D7r-kortqQ-n8Sm57kRK4/edit?usp=sharing)
-3. Game Projects: Documents and Pitches
+3. Game Projects: Documents and Pitches ~ slides see above
 4. Prototyping
 5. Introduction to Programming
 6. Basic Concepts in Game Programming

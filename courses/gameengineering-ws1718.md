@@ -9,6 +9,8 @@ After this course students should be able to understand the concepts and roles w
 knowledge how a game project can be set up and run, as well as detailed knowledge on particular processes within the 
 project.
 
+The practical course associated with the lecture is taking place as a game jam. Find more information on that on the [winterjam website](http://itec.aau.at/gamejam/).
+
 ## Topics
 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1gq36I_BVbW4B2TLZEPpEMwaJpoZVtgYpkqiJ6-GkLxw/edit?usp=sharing)

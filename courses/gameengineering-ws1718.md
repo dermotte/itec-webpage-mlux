@@ -29,3 +29,8 @@ The practical course associated with the lecture is taking place as a game jam. 
 This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written 
 form and will focus on the topics discussed in the course. A list of possible questions will be published in early 
 January.  
+
+## Links
+
+- [Hour of Code](https://code.org)
+- [Scratch](https://mit.scratch.edu)

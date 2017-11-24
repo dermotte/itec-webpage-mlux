@@ -16,9 +16,9 @@ The practical course associated with the lecture is taking place as a game jam. 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1gq36I_BVbW4B2TLZEPpEMwaJpoZVtgYpkqiJ6-GkLxw/edit?usp=sharing)
 2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/10jRi2_16vJsUA9Pep1yJH5D7r-kortqQ-n8Sm57kRK4/edit?usp=sharing)
 3. Game Projects: Documents and Pitches ~ slides see above
-4. Prototyping ~[slides](https://docs.google.com/presentation/d/1YOnjuVPic_SOPM0VhS1bg3UoXWg0hfG0oHdjPSqORIo/edit?usp=sharing)
-5. Introduction to Programming ~[slides](https://docs.google.com/presentation/d/1D-_TloP_USj_kUa1fAoj8jXd-aynt7vqRNYscCzQc4s/edit?usp=sharing)
-6. Basic Concepts in Game Programming
+4. Prototyping ~ [slides](https://docs.google.com/presentation/d/1YOnjuVPic_SOPM0VhS1bg3UoXWg0hfG0oHdjPSqORIo/edit?usp=sharing)
+5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1D-_TloP_USj_kUa1fAoj8jXd-aynt7vqRNYscCzQc4s/edit?usp=sharing)
+6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1Vob4RW38vI4-5vJl6zd4nkfp8KiZKWswr0oTZGDv5U8/edit?usp=sharing)
 6. Hands On with Game Engines (1)
 6. Hands On with Game Engines (2)
 7. Playtests

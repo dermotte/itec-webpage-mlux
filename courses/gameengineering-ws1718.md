@@ -20,14 +20,13 @@ The practical course associated with the lecture is taking place as a game jam. 
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1D-_TloP_USj_kUa1fAoj8jXd-aynt7vqRNYscCzQc4s/edit?usp=sharing)
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1Vob4RW38vI4-5vJl6zd4nkfp8KiZKWswr0oTZGDv5U8/edit?usp=sharing)
 7. Playtests ~ [slides](https://docs.google.com/presentation/d/1xLZXJQH4qCwsECIpAfo3v018XZfaywklNM6F3dDAB-w/edit?usp=sharing)
-6. Hands On with Game Engines 
+6. Hands On with Game Engines ~ [slides](https://docs.google.com/presentation/d/1vYY5uenjHHvdmhvIO4g_M8-kkxBSd4RNFehtbcZr62U/edit?usp=sharing)
 8. Toolchain
 
 ## Modalities 
 
 This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written 
-form and will focus on the topics discussed in the course. A list of possible questions will be published in early 
-January.  
+form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://docs.google.com/document/d/10s1Q3ZR9bsy2yjPYxuoa1eacreRIIz7vbfxF6ay8K5I/edit?usp=sharing). 
 
 ## Links
 

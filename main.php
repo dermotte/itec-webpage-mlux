@@ -122,20 +122,20 @@
 
     </div>
     <div class="col-md-8">
-        <h2>News</h2>
+<!--        <h2>News</h2>-->
 
         <div id="rss-feeds"></div>
-
+        <a class="twitter-timeline" data-theme="dark" data-chrome="transparent,nofooter,noborders" data-tweet-limit="3" href="https://twitter.com/mathiaslux?ref_src=twsrc%5Etfw">Tweets by mathiaslux</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
         <script>
-            jQuery(function ($) {
-                $("#rss-feeds").rss("http://www.semanticmetadata.net/feed/",
-                    {
-                        limit: 6,
-                        layoutTemplate: "<ul>{entries}</ul>",
-                        entryTemplate: '<li><a href="{url}">{title}</a><br/>{shortBodyPlain} ...</li>',
-                        effect: 'slideFastSynced'
-                    })
-            })
+            // })            jQuery(function ($) {
+            //     $("#rss-feeds").rss("http://www.semanticmetadata.net/feed/",
+            //         {
+            //             limit: 6,
+            //             layoutTemplate: "<ul>{entries}</ul>",
+            //             entryTemplate: '<li><a href="{url}">{title}</a><br/>{shortBodyPlain} ...</li>',
+            //             effect: 'slideFastSynced'
+            //         })
+            // })
         </script>
     </div>
 </div>

@@ -28,7 +28,7 @@ All courses start c.t. if not otherwise noted.
 | Mo, 5.3.  | 12-14 | E.2.42 | Introduction and motivation | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 12.3. | 12-14 | E.2.42 | Games Business & Age Ratings | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
 
-more to come ..
+more to come .. play [QWOP](http://www.foddy.net/Athletics.html) until then.
 
 
 ## Tutorial

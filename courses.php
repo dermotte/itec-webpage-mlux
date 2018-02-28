@@ -30,6 +30,36 @@
         </div>
     </div>
 </div>
+<h2>Summer Semester 2018</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss18.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer games planning and development from the computer science bachelor program.
+        </div>
+    </li>
+    <li>
+        <a href="?id=courses/intro-cg-ss18.md">Introduction to Computer Graphics</a> -
+        Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li>
+
+    <li>
+        <a href="https://campus.aau.at/studium/course/92714">Experiment/Study Planning and Data Analysis</a> -
+        Course on practical data analysis and experiment design from the computer science PhD program.
+    </li>
+
+    <li>
+        <a href="https://campus.aau.at/studium/course/92712">Peer Seminar</a> -
+        Interactive and interdisciplinary seminar on joint bottom up research with focus on hands on and experience from the computer science PhD program.
+    </li>
+
+    <li>
+        <div class="li">
+            <a href="https://campus.aau.at/studium/course/90649">
+                PR Einf&uuml;hrung in die Informatik
+            </a> - Practical course for the introductory computer science lecture from the computer science bachelor program.
+        </div>
+    </li>
+</ul>
 <h2>Winter Semester 2017/2018</h2>
 <ul>
     <li>

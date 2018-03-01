@@ -9,7 +9,7 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Do, 08.3.  | 14-16 | E.2.42 | Introduction | none |
-| Do, 15.3.  | 14-16 | E.2.42 | Math for Computer Graphics | tba. |
-| Do, 22.3.  | 14-16 | E.2.42 | Introduction | tba. |
+| Do, 15.3.  | 14-16 | E.2.42 | Math for Computer Graphics | [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
+| Do, 22.3.  | 14-16 | E.2.42 | Introduction | [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
 
 etc. 

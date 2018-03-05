@@ -21,12 +21,25 @@ assignments as well as the final project and a (ii) final multiple choice test.
 
 ## Schedule
 
-All courses start c.t. if not otherwise noted.
+All courses start c.t. if not otherwise noted. Slides are [available online](https://www-itec.uni-klu.ac.at/owncloud/index.php/s/wiLj6Ede8yuwXgk).
  
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Mo, 5.3.  | 12-14 | E.2.42 | Introduction and motivation | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 12.3. | 12-14 | E.2.42 | Games Business & Age Ratings | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
+| Mo, 09.4. | 12-14 | E.2.42 | History of Video Games | tba. |
+| Mo, 16.4. | 12-14 | E.2.42 | Software Engineering in Game Development | tba. |
+| Mo, 23.4. | 12-14 | E.2.42 | Game Design | tba. |
+| Fr, 27.4. | tba. | tba. | Game Jam Keynotes | na. |
+| ~~Mo, 30.4.~~ | ~~12-14~~ | ~~E.2.42~~ | skipped | na. |
+| Mo, 07.5. | 12-14 | E.2.42 | Game Loop | tba. |
+| Mo, 14.5. | 12-14 | E.2.42 | 2D Computer Graphics| tba. |
+| Mo, 28.5. | 12-14 | E.2.42 | Input & Sound | tba. |
+| Mo, 04.6. | 12-14 | E.2.42 | Intro to 3D | tba. |
+| Mo, 04.6. | 12-14 | E.2.42 | (Buffer) | tba. |
+| Mo, 11.6. | 12-14 | E.2.42 | (Buffer) | tba. |
+| Mo, 18.6. | 12-14 | E.2.42 | Student presentations | none |
+| Mo, 25.6. | 12-14 | E.2.42 | Exam & student presentations | none |
 
 more to come ..
 

@@ -8,11 +8,14 @@ Grading is based on mandatory assignments as well as a final projects done as te
 
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
-| Do, 08.3.  | 14-16 | E.2.42 | Introduction [slides](https://docs.google.com/presentation/d/1q1y3qxGkXmJpLa2Uwhsb-rfCij-SnP70uXgcgadmh4w/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
-| Do, 15.3.  | 14-16 | E.2.42 | Basics Maths for Computer Graphics [slides](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
-| Do, 22.3.  | 14-16 | E.2.42 | Coordinate Systems and Matrices [slides](https://docs.google.com/presentation/d/1dvyKToHcUBUxxYO-1n-YmHMY7LNO8Nohtvh5FZA88Z8/edit?usp=sharing)| tba. |
-| Do, 19.4.  | 14-16 | E.2.42 | Meshes and Lights [slides](https://docs.google.com/presentation/d/1T4soSeuUk4MoeXcMwwJGgjD4k4eQ7Um_GYzN5lxnTFw/edit?usp=sharing) | tba. |
+| Do, 08.3.  | 14-16 | E.2.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/1q1y3qxGkXmJpLa2Uwhsb-rfCij-SnP70uXgcgadmh4w/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
+| Do, 15.3.  | 14-16 | E.2.42 | Basics Maths for Computer Graphics ~ [slides](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
+| Do, 22.3.  | 14-16 | E.2.42 | Coordinate Systems and Matrices ~ [slides](https://docs.google.com/presentation/d/1dvyKToHcUBUxxYO-1n-YmHMY7LNO8Nohtvh5FZA88Z8/edit?usp=sharing)| none |
+| Do, 19.4.  | 14-16 | E.2.42 | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1T4soSeuUk4MoeXcMwwJGgjD4k4eQ7Um_GYzN5lxnTFw/edit?usp=sharing) | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
+| Do, 26.4.  | 14-16 | E.2.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | tba. |
+| Do, 03.5.  | 14-16 | E.2.42 | Textures  | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
 
+https://www.youtube.com/watch?v=6eLl8yQnxHQ&feature=youtu.be
 etc. 
 
 ## Exercises

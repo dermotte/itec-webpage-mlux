@@ -27,11 +27,11 @@ All courses start c.t. if not otherwise noted. Slides are [available online](htt
 |:------|:------|:------|:---|:---|
 | Mo, 5.3.  | 12-14 | E.2.42 | Introduction and motivation | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 12.3. | 12-14 | E.2.42 | Games Business & Age Ratings | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
-| Mo, 09.4. | 12-14 | E.2.42 | History of Video Games | tba. |
-| Mo, 16.4. | 12-14 | E.2.42 | Software Engineering in Game Development | tba. |
-| Mo, 23.4. | 12-14 | E.2.42 | Game Design | tba. |
-| Fr, 27.4. | tba. | tba. | Game Jam Keynotes | na. |
-| ~~Mo, 30.4.~~ | ~~12-14~~ | ~~E.2.42~~ | skipped | na. |
+| Mo, 09.4. | 12-14 | E.2.42 | History of Video Games | none |
+| Mo, 16.4. | 12-14 | E.2.42 | Software Engineering in Game Development | none |
+| Mo, 23.4. | 12-14 | E.2.42 | Game Design | [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
+| Fr, 27.4. | tba. | tba. | Game Jam Keynotes | none |
+| ~~Mo, 30.4.~~ | ~~12-14~~ | ~~E.2.42~~ | skipped | none |
 | Mo, 07.5. | 12-14 | E.2.42 | Game Loop | tba. |
 | Mo, 14.5. | 12-14 | E.2.42 | 2D Computer Graphics| tba. |
 | Mo, 28.5. | 12-14 | E.2.42 | Input & Sound | tba. |

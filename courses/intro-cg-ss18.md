@@ -12,7 +12,7 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Do, 15.3.  | 14-16 | E.2.42 | Basics Maths for Computer Graphics ~ [slides](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Do, 22.3.  | 14-16 | E.2.42 | Coordinate Systems and Matrices ~ [slides](https://docs.google.com/presentation/d/1dvyKToHcUBUxxYO-1n-YmHMY7LNO8Nohtvh5FZA88Z8/edit?usp=sharing)| none |
 | Do, 19.4.  | 14-16 | E.2.42 | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1T4soSeuUk4MoeXcMwwJGgjD4k4eQ7Um_GYzN5lxnTFw/edit?usp=sharing) | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
-| Do, 26.4.  | 14-16 | E.2.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | tba. |
+| Do, 26.4.  | 14-16 | E.2.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 03.5.  | 14-16 | E.2.42 | Textures  | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
 | Do, 24.5.  | 14-16 | E.2.42 | Real Time Rendering, GPUs, Raytracing  | tba. |
 | Fr, 25.5.  | 10-14 | E.2.37 | Blender Fundamentals | tba. |

@@ -24,13 +24,13 @@ Grading is based on mandatory assignments as well as a final projects done as te
 
 Please send the exercises to M. Lux until the end of the announced day.
 
-| ID | Title | Slide | Deadline | Example Solution
+| ID | Title | Slide | Deadline | Example Solution |
 |:---|:---|:---|:---|:---|
-| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 19, 2018 | https://pastebin.com/Dnr6snxM
-| EX 02-02 | The Lerp Game | Slide 42 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 19, 2018 | https://pastebin.com/ufQQHyCG
-| EX 03-01 | Two rotating boxes rotating | Slide 40 in [Lecture 03](https://docs.google.com/presentation/d/1dvyKToHcUBUxxYO-1n-YmHMY7LNO8Nohtvh5FZA88Z8/edit?usp=sharing) | Apr 19, 2018 | https://pastebin.com/kmhg64ZB
-| EX 04-01 | Rotating lights | Slide 35 in [Lecture 04](https://docs.google.com/presentation/d/1T4soSeuUk4MoeXcMwwJGgjD4k4eQ7Um_GYzN5lxnTFw/edit?usp=sharing) | May 03, 2018 |
-| EX 05-01 | Bounded Camera | Slide 41 in [Lecture 05](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | May 24, 2018 |
+| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 19, 2018 | <https://pastebin.com/Dnr6snxM> |
+| EX 02-02 | The Lerp Game | Slide 42 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 19, 2018 | <https://pastebin.com/ufQQHyCG> |
+| EX 03-01 | Two rotating boxes rotating | Slide 40 in [Lecture 03](https://docs.google.com/presentation/d/1dvyKToHcUBUxxYO-1n-YmHMY7LNO8Nohtvh5FZA88Z8/edit?usp=sharing) | Apr 19, 2018 | <https://pastebin.com/kmhg64ZB> |
+| EX 04-01 | Rotating lights | Slide 35 in [Lecture 04](https://docs.google.com/presentation/d/1T4soSeuUk4MoeXcMwwJGgjD4k4eQ7Um_GYzN5lxnTFw/edit?usp=sharing) | May 03, 2018 | |
+| EX 05-01 | Bounded Camera | Slide 41 in [Lecture 05](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | May 24, 2018 | |
 
 ## Materials
 

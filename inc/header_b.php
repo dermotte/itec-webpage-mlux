@@ -25,9 +25,14 @@
 <!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="js/jquery.rss.min.js"></script>
-    <script src="js/showdown.js"></script>
+    <script src="js/showdown.min.js"></script>
 
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <style type="text/css">
+        table {
+            width: 100%;
+        }
+    </style>
 </head>
 
 <body class="">

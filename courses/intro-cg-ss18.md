@@ -15,7 +15,7 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Do, 26.4.  | 14-16 | E.2.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 03.5.  | 14-16 | E.2.42 | Textures ~ [slides](https://docs.google.com/presentation/d/1B2ExxTG6yD3Ki23-1eFIBBTWsv0uR4XhlXT9CRtKaU8/edit?usp=sharing) | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
 | Do, 24.5.  | 14-16 | E.2.42 | Real Time Rendering, GPUs, Raytracing ~ [slides](https://docs.google.com/presentation/d/1ovIzbHnxBnj2hNhI5aBjEt8R-iX-fmYHriUz_a27jm4/edit?usp=sharing)| [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
-| Fr, 25.5.  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-9) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
+| Fr, 25.5.  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-11) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
 | Tu, 29.5.  | 09-13 | M.0.22 | Blender Modeling | tba. |
 | Do, 21.6.  | 14-16 | E.2.42 | Blender -> Unity | tba. |
 | Do, 28.6.  | 14-16 | E.2.42 | Presentations  | tba. |

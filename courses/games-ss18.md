@@ -36,9 +36,7 @@ All courses start c.t. if not otherwise noted. Slides are [available online](htt
 | Mo, 14.5. | 12-14 | E.2.42 | 2D Computer Graphics| tba. |
 | Mo, 28.5. | 12-14 | E.2.42 | Input & Sound | tba. |
 | Mo, 04.6. | 12-14 | E.2.42 | Intro to 3D | tba. |
-| Mo, 04.6. | 12-14 | E.2.42 | Game Physics | tba. |
-| Mo, 11.6. | 12-14 | E.2.42 | (Buffer) | tba. |
-| Mo, 18.6. | 12-14 | E.2.42 | Student presentations | none |
+| Mo, 11.6. | 12-14 | E.2.42 | Game Physics | tba. |
 | Mo, 25.6. | 12-14 | E.2.42 | Exam & student presentations | none |
 
 more to come ..

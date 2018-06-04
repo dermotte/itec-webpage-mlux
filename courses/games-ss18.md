@@ -32,11 +32,11 @@ All courses start c.t. if not otherwise noted. Slides are [available online](htt
 | Mo, 23.4. | 12-14 | E.2.42 | Game Design | [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
 | Fr, 27.4. | tba. | tba. | Game Jam Keynotes | none |
 | ~~Mo, 30.4.~~ | ~~12-14~~ | ~~E.2.42~~ | skipped | none |
-| Mo, 07.5. | 12-14 | E.2.42 | Game Loop | tba. |
-| Mo, 14.5. | 12-14 | E.2.42 | 2D Computer Graphics| tba. |
-| Mo, 28.5. | 12-14 | E.2.42 | Input & Sound | tba. |
-| Mo, 04.6. | 12-14 | E.2.42 | Intro to 3D | tba. |
-| Mo, 11.6. | 12-14 | E.2.42 | Game Physics | tba. |
+| Mo, 07.5. | 12-14 | E.2.42 | Game Loop | none |
+| Mo, 14.5. | 12-14 | E.2.42 | 2D Computer Graphics| none |
+| Mo, 28.5. | 12-14 | E.2.42 | Input & Sound | none |
+| Mo, 04.6. | 12-14 | E.2.42 | Intro to 3D | [Juice it or loose it](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
+| Mo, 11.6. | 12-14 | E.2.42 | Game Physics | [Math for Game Programmers: Fast and Funky 1D Nonlinear Transformations](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Mo, 25.6. | 12-14 | E.2.42 | Exam & student presentations | none |
 
 more to come ..

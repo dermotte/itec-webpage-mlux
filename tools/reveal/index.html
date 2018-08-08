@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Presentation</title>
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/blood.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.bundle.js" integrity="sha256-JG6hsuMjFnQ2spWq0UiaDRJBaarzhFbUxiUTxQDA9Lk=" crossorigin="anonymous"></script>
+</head>
+<body>
+<div class="reveal">
+    <div class="slides">
+        <section>
+            <h2>Why ITEC is in desperate need for a QV ...</h2>
+        </section>
+        <section data-background-video="fortnite.mp4" data-background-video-loop data-background-video-muted data-background-opacity="0.5">
+            <h1>ITEC</h1>
+                <p>Research &amp; Scientific Output</p>
+                <p>Teaching &amp; Student Mentoring </p>
+                <p>Adminstration &amp; Organisation</p>
+        </section>
+        <section data-background-video="mec.mp4" data-background-video-loop data-background-video-muted data-background-opacity="0.5">
+            <canvas id="myChart"></canvas>
+            <script>
+                var ctx = document.getElementById("myChart").getContext('2d');
+                var myChart = new Chart(ctx, {
+                    // The type of chart we want to create
+                    type: 'line',
+
+                    // The data for our dataset
+                    data: {
+                        labels: ["2014", "2015", "2016", "2017", "2018", "2019", "2020"],
+                        datasets: [{
+                            label: "Employees @ ITEC",
+                            // backgroundColor: '#007700',
+                            borderColor: '#007700',
+                            data: [0, 10, 5, 2, 20, 30, 45],
+                        }]
+                    },
+
+                    // Configuration options go here
+                    options: {}
+                });
+            </script>
+        </section>
+
+    </div>
+</div>
+<script src="js/reveal.js"></script>
+<script>
+    Reveal.initialize({
+
+        // ...
+
+        // The "normal" size of the presentation, aspect ratio will be preserved
+        // when the presentation is scaled to fit different resolutions. Can be
+        // specified using percentage units.
+        width: 1280,
+        height: 720,
+
+        // Factor of the display size that should remain empty around the content
+        margin: 0.1,
+
+        // Bounds for smallest/largest possible scale to apply to content
+        minScale: 0.2,
+        maxScale: 1.5
+
+    });
+    Reveal.addEventListener( 'slidechanged', function( event ) {
+        // event.previousSlide, event.currentSlide, event.indexh, event.indexv
+        // myChart.reset();
+        // myChart.update();
+        console.log("slide changed ...")
+    } );
+</script>
+</body>
+</html>

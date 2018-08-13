@@ -30,6 +30,35 @@
         </div>
     </div>
 </div>
+
+<h2>Winter Semester 2018/2019</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/esop18">VO Einf&uuml;hrung in die
+                strukturierte und objektbasierte Programmierung</a> - Basic course on object oriented programming
+            focusing on Java as example.
+        </div>
+    </li>
+
+    <!--li>
+        <div class="li"><a href="https://campus.aau.at/studium/course/90420">PR Einf&uuml;hrung
+                in die Informatik</a> - Practical course for the introductory computer science lecture.
+        </div>
+    </li-->
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws1819.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master programme.
+        </div>
+    </li>
+
+    <li>
+        <div class="li"><a href="?id=courses/seriousgames-ws1819.md">SE Non Entertainment Games</a> - Lecture on computer
+            games that follow intentions other than entertainment, including e.g. serious games.
+        </div>
+    </li>
+
+</ul>
+
 <h2>Summer Semester 2018</h2>
 <ul>
     <li>

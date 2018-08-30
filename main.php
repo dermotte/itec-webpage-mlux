@@ -24,15 +24,18 @@
 <div class="row">
     <div class="col-md-6">
         <p class="text-justify">
-            Assoc. Prof. Dipl.-Ing. Dr. Mathias Lux is Associate Professor at the
+            Dr. Mathias Lux is Associate Professor at the
             Institute for Information Technology (ITEC) at Klagenfurt University. He is working on user intentions in
-            multimedia retrieval and production and emergent semantics in social multimedia computing. In his scientific
-            career he has (co-) authored more than 80 scientific publications, has served in multiple program committees
-            and as reviewer of international conferences, journals and magazines, and has organized multiple scientific
+            multimedia retrieval and production, semantics in social multimedia systems, and interactive multimedia in
+            the domain of video games. In his scientific
+            career he has (co-) authored more than 100 scientific publications, serves in multiple program committees
+            and as reviewer of international conferences, journals and magazines on a regular basis, and has (co-)organized multiple scientific
             events. Mathias Lux is also well known for the development of the award winning and popular open source
             tools <a href="http://www.semanticmetadata.net">Caliph &amp; Emir</a> and <a
-                href="http://www.lire-project.net/">LIRE</a>
-            for multimedia information retrieval.
+                href="http://www.lire-project.net/">LIRE</a> for multimedia information retrieval. He has integrated image indexing and retrieval features in
+            the popular Apache Solr search server and his system is for instance powering the WIPO Global Brand Database.
+            At Klagenfurt University he has established a lively community of game
+            developers and enthusiasts who meet at regular events and game jams.
         </p>
 
         <p class="text-justify">

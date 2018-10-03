@@ -27,7 +27,7 @@
     <script src="js/jquery.rss.min.js"></script>
     <script src="js/showdown.min.js"></script>
 
-    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
     <style type="text/css">
         table {
             width: 100%;
@@ -77,8 +77,9 @@ if (array_key_exists("id", $_GET)) {
                 </li>
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>
                 <li><a href="http://www.lire-project.net/" rel="external">LIRE</a></li>
-                <li><a href="https://bitbucket.org/dermotte/liresolr" rel="external">LIRE Solr</a></li>
-                <li><a href="http://www.semanticmetadata.net" rel="external">Blog</a></li>
+                <li><a href="https://sites.google.com/view/gameactivitesaau" rel="external"><i class="fa fa-gamepad"></i> Games</a></li>
+                <!--li><a href="https://bitbucket.org/dermotte/liresolr" rel="external">LIRE Solr</a></li>
+                <!--li><a href="http://www.semanticmetadata.net" rel="external">Blog</a></li-->
             </ul>
         </div><!--/.nav-collapse -->
     </div>

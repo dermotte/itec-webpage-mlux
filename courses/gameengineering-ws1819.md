@@ -19,7 +19,7 @@ The practical course associated with the lecture is taking place as a game jam. 
 4. Prototyping ~ [slides](https://docs.google.com/presentation/d/1QUgnsKtcdOSzWDK_qC86a9yV2TSsK5E9eOdMT-kk79M/edit?usp=sharing)
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1vCbru3UG5VaK1JftJunOCyUHkiDzViVgMeT_k7Qw8w8/edit?usp=sharing)
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1hwg0RjypVa1DAFzLxBtIKunhUY4TVIl8E8zhdWvkDJQ/edit?usp=sharing)
-7. Playtests 
+7. Playtests ~ [slides](https://docs.google.com/presentation/d/1XIDETvz5c5KcP7uwZcV1QF_kql_tfsLiYGHV8eRB8sg/edit?usp=sharing)
 6. Hands On with Game Engines 
 8. Toolchain
 

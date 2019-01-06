@@ -26,7 +26,7 @@ The practical course associated with the lecture is taking place as a game jam. 
 ## Modalities 
 
 This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written 
-form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://docs.google.com/document/d/10s1Q3ZR9bsy2yjPYxuoa1eacreRIIz7vbfxF6ay8K5I/edit?usp=sharing). 
+form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU). 
 
 ## Links
 

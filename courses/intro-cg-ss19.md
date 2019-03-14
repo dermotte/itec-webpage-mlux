@@ -9,7 +9,7 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Do, 07.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/1F_0qw8_CVoq0Lr-e0c5xs797SHucuc64z-igL0_WyKA/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
-| Do, 14.3.  | 16-18 | S.1.42 | Basics Maths for Computer Graphics | [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
+| Do, 14.3.  | 16-18 | S.1.42 | Basics Maths for Computer Graphics ~ [slides](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing)| [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Do, 21.3.  | 16-18 | S.1.42 | Coordinate Systems and Matrices | none |
 | Do, 28.3.  | 16-18 | S.1.42 | Meshes and Lights | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
 | Do, 04.4.  | 16-18 | S.1.42 | Shading and Cameras | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |

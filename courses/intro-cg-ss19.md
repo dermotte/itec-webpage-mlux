@@ -25,7 +25,12 @@ Grading is based on mandatory assignments as well as a final projects done as te
 
 ## Exercises
 
-Please send the exercises to M. Lux until the end of the announced day. To be announced ...
+Please send the exercises to M. Lux until the end of the announced day. 
+
+| ID | Title | Slide | Deadline | Example Solution |
+|:---|:---|:---|:---|:---|
+| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | ... |
+
 
 ## Materials
 

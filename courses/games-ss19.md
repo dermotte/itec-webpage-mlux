@@ -44,4 +44,36 @@ All courses start c.t. if not otherwise noted. Slides are [available online](htt
 Associated with the course is the [Tutorium zu Interaktive Multimedia-Anwendungen B (Computer Games)](https://campus.aau.at/studium/course/97460) held by Natascha Rauscher. 
 While the main course as is is not necessarily about the __programming__ aspect of games, the tutorial definitely is. Natascha Rauscher has experience on several game development platforms including Unity, 
 libGDX, and Phaser and is willing to share her experience. In the tutorial she will focus on bringing you up to speed for the practical assignments. Please make sure you are enrolled.
-|
+
+# Assignments
+## Programming Assignment \#1: Space Shooter
+* **Platform**: Web 
+* **Framework**: Phaser 
+* **Language**: Javascript
+* **Start at:** Monday 18.03. 2019
+* **Deadline for submission:**  Sunday 07.04. 2019
+
+#### Code the game
+Follow the tutorial on [https://yorkcs.com/2019/02/06/build-a-space-shooter-with-phaser-3/](https://yorkcs.com/2019/02/06/build-a-space-shooter-with-phaser-3/) and implement a **Space Shooter** using Phaser. You can use all code snippets and assets provided by this tutorial, but be sure to comprehend the individual steps.
+
+#### Analyze and Adapt the Game
+After completing the tutorial, play the game. In respect to game mechanics, find some aspects of the game you would change (if you have not already done so) and document them. If possible, apply these changes by adjusting the code and/or assets.
+
+#### Hand in the Assignment
+Zip your whole project and send it to Natascha Rauscher (use computergames_SS19@gmx.at for support of attachments) until Friday 07.04. 2019 midnight.
+
+#### Tutorial
+The 2-hour Tutorial for the Programming Assignment \#1 will take place sometime between 25-29.03, the exact date and location are TBA this week. Apart from this, Natascha Rauscher can be reached anytime via mail to *natascha.rauscher@aau.at*.
+
+#### Tips
+* Javascript itself requires no dedicated IDE like IntelliJ IDEA to be coded and run. You can use any text editor (although one with syntax highlighting is is strongly suggested, like [Atom](https://atom.io/) or [Visual Studio Code](https://code.visualstudio.com/)). In the Tutorial, we will use [WebStorm](https://www.jetbrains.com/webstorm/), which can be installed by AAU students using an educational license. 
+* If you use WebStorm, you already have a web server included in the IDE. But you have to create a project:
+   * Open Webstorm and create a new *Empty Project*.
+   * Copy the Space Shooter Files & the Phaser.js into your project folder (as instructed in the Space Shooter Tutorial).
+   * Right click *index.html* and *Run* it. Your browser should open.
+   * If you want to debug Javascript in Webstorm, you have to press *Debug*. You may have to additionally install a plugin for your browser (Chrome needs this). 
+* If you use a text editor (and NOT WebStorm) and have no web server (simply opening the files in your browser will not work) installed, you can use Google's **Mongoose**:
+    * Download the executable file (*mongoose-5.0.exe* for Windows, etc.) from [https://code.google.com/archive/p/mongoose/downloads](https://code.google.com/archive/p/mongoose/downloads).
+    * Copy the executable file to your project folder (next to *index.html*).
+    * Start Mongoose. Mongoose itself has no Window GUI, but a tray icon. If it is there, Mongoose is running. You can also stop the server using this this icon.
+    * Browse to [http://localhost:8080/index.html](http://localhost:8080/index.html) (or change to fit your HTML-file's name). Your game is displayed there.

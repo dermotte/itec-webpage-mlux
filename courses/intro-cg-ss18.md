@@ -20,8 +20,9 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Do, 21.6.  | 14-16 | E.2.42 | Blender -> Unity | tba. |
 | Do, 28.6.  | 14-16 | E.2.42 | Presentations  | tba. |
 
-### References
+### References and Links
  1. [Blender Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+ 1. [Processing](https://processing.org/)
 
 ## Exercises
 

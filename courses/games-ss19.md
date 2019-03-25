@@ -28,7 +28,7 @@ All courses start c.t. if not otherwise noted. Slides are [available online](htt
 | Mo, 04.3.  | 12-14 | S.2.69 | Introduction and motivation | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 11.3. | 12-14 | S.2.69 | Games Business & Age Ratings | [Video - Grounded: The Making of The Last of Us](https://www.youtube.com/watch?v=yH5MgEbBOps) |
 | Mo, 18.3. | 12-14 | S.2.69 | History of Video Games | none |
-| Mo, 25.3. | 12-14 | S.2.69 | Software Engineering in Game Development | none |
+| Mo, 25.3. | 12-14 | S.2.69 | Software Engineering in Game Development | [4.5 Million Players in 100 Days: Lessons from Dying Light](https://youtu.be/UJgTboToOg8) |
 | Mo, 01.4. | 12-14 | S.2.69 | Game Design | [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
 | Mo, 08.4. | 12-14 | S.2.69 | Game Loop | none |
 | Fr, 26.4. | tba. | tba. | Game Jam Keynotes | none |

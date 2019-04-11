@@ -10,9 +10,9 @@ Grading is based on mandatory assignments as well as a final projects done as te
 |:------|:------|:------|:---|:---|
 | Do, 07.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/1F_0qw8_CVoq0Lr-e0c5xs797SHucuc64z-igL0_WyKA/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
 | Do, 14.3.  | 16-18 | S.1.42 | Basics Maths for Computer Graphics ~ [slides](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing)| [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
-| Do, 21.3.  | 16-18 | S.1.42 | Coordinate Systems and Matrices ~ [slides](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | none |
+| Do, 21.3.  | 16-18 | S.1.42 | Coordinate Systems and Matrices ~ [slides](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 28.3.  | 16-18 | S.1.42 | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
-| Do, 11.4.  | 16-18 | S.1.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
+| Do, 11.4.  | 16-18 | S.1.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | [What are shaders?](https://www.youtube.com/watch?v=sXbdF4KjNOc) |
 | Do, 02.5.  | 16-18 | S.1.42 | Textures | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
 | Do, 09.5.  | 16-18 | S.1.42 | Real Time Rendering, GPUs, Raytracing | [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
 | Do, 16.5.  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-11) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |

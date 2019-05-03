@@ -13,16 +13,18 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Do, 21.3.  | 16-18 | S.1.42 | Coordinate Systems and Matrices ~ [slides](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 28.3.  | 16-18 | S.1.42 | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
 | Do, 11.4.  | 16-18 | S.1.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | [What are shaders?](https://www.youtube.com/watch?v=sXbdF4KjNOc) |
-| Do, 02.5.  | 16-18 | S.1.42 | Textures | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
-| Do, 09.5.  | 16-18 | S.1.42 | Real Time Rendering, GPUs, Raytracing | [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
-| Do, 16.5.  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-11) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
-| Do, 23.5.  | 09-13 | M.0.22 | Blender Modeling | [Low Poly Animals Tutorial](https://www.youtube.com/watch?v=JjW6r10Mlqs) |
-| Do, 06.6.  | 16-18 | S.1.42 | tba. | tba. |
-| Do, 13.6.  | 16-18 | S.1.42 | Presentations  | tba. |
+| Do, 09.5.  | 16-18 | S.1.42 | Textures | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
+| Do, xx  | 16-18 | S.1.42 | Real Time Rendering, GPUs, Raytracing | [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
+| Do, xx  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-11) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
+| Do, xx  | 09-13 | M.0.22 | Blender Modeling | [Low Poly Animals Tutorial](https://www.youtube.com/watch?v=JjW6r10Mlqs) |
+| Do, xx  | 16-18 | S.1.42 | tba. | tba. |
+| Do, xx  | 16-18 | S.1.42 | Presentations  | tba. |
 
 ### References and Links
- 1. [Processing](https://processing.org/)
- 1. [Blender Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1)
+ 1. [Processing](https://processing.org/) - Java based software for the first part of the course
+ 1. [Blender Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) - Learn Blender on your wn
+ 1. [CC0 Textures](https://cc0textures.com/) - CC0 licensed high quality textures
+ 1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects
 
 ## Exercises
 

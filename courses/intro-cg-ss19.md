@@ -13,12 +13,12 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Do, 21.3.  | 16-18 | S.1.42 | Coordinate Systems and Matrices ~ [slides](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 28.3.  | 16-18 | S.1.42 | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
 | Do, 11.4.  | 16-18 | S.1.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | [What are shaders?](https://www.youtube.com/watch?v=sXbdF4KjNOc) |
-| Do, 09.5.  | 16-18 | S.1.42 | Textures | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
-| Do, xx  | 16-18 | S.1.42 | Real Time Rendering, GPUs, Raytracing | [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
-| Do, xx  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-11) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
-| Do, xx  | 09-13 | M.0.22 | Blender Modeling | [Low Poly Animals Tutorial](https://www.youtube.com/watch?v=JjW6r10Mlqs) |
-| Do, xx  | 16-18 | S.1.42 | tba. | tba. |
-| Do, xx  | 16-18 | S.1.42 | Presentations  | tba. |
+| Do, 09.5.  | 16-18 | S.1.42 | Shading and Cameras (ctd.) ~ [slides](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | none |
+| Do, 23.5.  | 16-18 | S.1.42 | Textures | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
+| Do, 06.6.  | 16-18 | S.1.42 | Real Time Rendering, GPUs, Raytracing | [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
+| Fr, 07.6.  | 08-12 | S.X.XX | Blender Fundamentals (see also [1], videos 1-11) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
+| Mi, 12.6.  | 14-16 | S.X.XX | Blender Modeling | [Low Poly Animals Tutorial](https://www.youtube.com/watch?v=JjW6r10Mlqs) |
+| Do, 27.6.  | 16-18 | S.1.42 | Presentations  | tba. |
 
 ### References and Links
  1. [Processing](https://processing.org/) - Java based software for the first part of the course
@@ -32,10 +32,10 @@ Please send the exercises to M. Lux until the end of the announced day.
 
 | ID | Title | Slide | Deadline | Example Solution |
 |:---|:---|:---|:---|:---|
-| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | ... |
-| EX 02-02 | The Lerp Game | Slide 42 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | ... |
-| EX 03-01 | Two Boxes | Slide 38 in [Lecture 03](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | Apr 30, 2019 | ... |
-| EX 04-01 | Lights | Slide 35 in [Lecture 04](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | Apr 30, 2019 | ... |
+| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | https://pastebin.com/Dnr6snxM |
+| EX 02-02 | The Lerp Game | Slide 42 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | https://pastebin.com/ufQQHyCG |
+| EX 03-01 | Two Boxes | Slide 38 in [Lecture 03](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | Apr 30, 2019 | https://pastebin.com/kmhg64ZB |
+| EX 04-01 | Lights | Slide 35 in [Lecture 04](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | Apr 30, 2019 | https://pastebin.com/1nQ4czte |
 | EX 05-01 | Camera | Slide 41 in [Lecture 05](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | tba. | ... |
 
 

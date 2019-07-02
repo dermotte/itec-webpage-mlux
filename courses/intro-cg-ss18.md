@@ -45,6 +45,7 @@ All the materials from the course are available in the Github repo at [https://g
 ## Final Projects
 Here are some of the final projects to try out and take a look at:
 
-* https://www.youtube.com/watch?v=EfL_rawMjz4
-* https://geist-191.itch.io/shadow-play
-* https://dr4g0nsoul.itch.io/vis-vis
+* https://www.youtube.com/watch?v=EfL_rawMjz4 - Rendering of a Blender Scene
+* https://geist-191.itch.io/shadow-play - 3D Game made in Unity
+* https://dr4g0nsoul.itch.io/vis-vis - 3D Game made in Unreal
+* https://drive.google.com/open?id=1LE__G4Nr1ZQbhhREgmYeZU2t8IifAc6a - Renderings from a Voxel Editor

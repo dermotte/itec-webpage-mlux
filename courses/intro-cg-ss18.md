@@ -41,3 +41,10 @@ Please send the exercises to M. Lux until the end of the announced day.
 ## Materials
 
 All the materials from the course are available in the Github repo at [https://github.com/dermotte/cg-lecture-2018](https://github.com/dermotte/cg-lecture-2018).
+
+## Final Projects
+Here are some of the final projects to try out and take a look at:
+
+* https://www.youtube.com/watch?v=EfL_rawMjz4
+* https://geist-191.itch.io/shadow-play
+* https://dr4g0nsoul.itch.io/vis-vis

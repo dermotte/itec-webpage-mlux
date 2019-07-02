@@ -77,3 +77,5 @@ The 2-hour Tutorial for the Programming Assignment \#1 will take place sometime 
     * Copy the executable file to your project folder (next to *index.html*).
     * Start Mongoose. Mongoose itself has no Window GUI, but a tray icon. If it is there, Mongoose is running. You can also stop the server using this this icon.
     * Browse to [http://localhost:8080/index.html](http://localhost:8080/index.html) (or change to fit your HTML-file's name). Your game is displayed there.
+    
+    

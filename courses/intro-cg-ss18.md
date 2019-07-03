@@ -14,7 +14,7 @@ Grading is based on mandatory assignments as well as a final projects done as te
 | Do, 19.4.  | 14-16 | E.2.42 | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1T4soSeuUk4MoeXcMwwJGgjD4k4eQ7Um_GYzN5lxnTFw/edit?usp=sharing) | [Three Point Lighting](https://youtu.be/Bmme1slWdm4) |
 | Do, 26.4.  | 14-16 | E.2.42 | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1rzhQPXEbsvhpjSt6XMh-sCL3yrxVY3xYM10MljxFcqQ/edit?usp=sharing) | [Stable Elasticity from Pixar](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 03.5.  | 14-16 | E.2.42 | Textures ~ [slides](https://docs.google.com/presentation/d/1B2ExxTG6yD3Ki23-1eFIBBTWsv0uR4XhlXT9CRtKaU8/edit?usp=sharing) | [Three.js Intro](https://youtu.be/6eLl8yQnxHQ) |
-| Do, 24.5.  | 14-16 | E.2.42 | Real Time Rendering, GPUs, Raytracing ~ [slides](https://docs.google.com/presentation/d/1ovIzbHnxBnj2hNhI5aBjEt8R-iX-fmYHriUz_a27jm4/edit?usp=sharing)| [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s) |
+| Do, 24.5.  | 14-16 | E.2.42 | Real Time Rendering, GPUs, Raytracing ~ [slides](https://docs.google.com/presentation/d/1ovIzbHnxBnj2hNhI5aBjEt8R-iX-fmYHriUz_a27jm4/edit?usp=sharing) and  [PBR / Karl-Heinz Pirolt](https://docs.google.com/presentation/d/1dOp3LH48A5K93jytT7nINloo3ar1r5BezyNRYE6FQeo/edit?usp=sharing) | [Pixar Renderman Showreel](https://www.youtube.com/watch?v=E3vPJybuG9s)|
 | Fr, 25.5.  | 10-14 | E.2.37 | Blender Fundamentals (see also [1], videos 1-11) ~ [slides](https://docs.google.com/presentation/d/1M4zHv8teRI_8_QSb4tvwg2tNp_cybz8O4B6r7Ff2g_Q/edit?usp=sharing) | [Low Poly Illustrations in Blender](https://cgi.tutsplus.com/tutorials/secrets-to-creating-low-poly-illustrations-in-blender--cg-31770) |
 | Tu, 29.5.  | 09-13 | M.0.22 | Blender Modeling | [Low Poly Animals Tutorial](https://www.youtube.com/watch?v=JjW6r10Mlqs) |
 | Do, 21.6.  | 14-16 | E.2.42 | Blender -> Unity | tba. |
@@ -46,6 +46,7 @@ All the materials from the course are available in the Github repo at [https://g
 Here are some of the final projects to try out and take a look at:
 
 * https://www.youtube.com/watch?v=EfL_rawMjz4 - Rendering of a Blender Scene
+* https://www.youtube.com/watch?v=1bePko3CSyw - Rendering of a Blender Scene
 * https://geist-191.itch.io/shadow-play - 3D Game made in Unity
 * https://dr4g0nsoul.itch.io/vis-vis - 3D Game made in Unreal
 * https://drive.google.com/open?id=1LE__G4Nr1ZQbhhREgmYeZU2t8IifAc6a - Renderings from a Voxel Editor

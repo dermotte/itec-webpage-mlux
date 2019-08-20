@@ -30,6 +30,25 @@
         </div>
     </div>
 </div>
+<h2>Winter Semester 2019/2020</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws1920.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master programme.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/seriousgames-ws1920.md">SE Non Entertainment Games</a> - Lecture on computer
+            games that follow intentions other than entertainment, including e.g. serious games.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/sem1920.md">SE Non Entertainment Games</a> - Lecture on computer
+            games that follow intentions other than entertainment, including e.g. serious games.
+        </div>
+    </li>
+
+</ul>
 <h2>Summer Semester 2019</h2>
 <ul>
     <li>

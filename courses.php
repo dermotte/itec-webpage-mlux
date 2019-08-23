@@ -43,8 +43,8 @@
         </div>
     </li>
     <li>
-        <div class="li"><a href="?id=courses/sem1920.md">SE Non Entertainment Games</a> - Lecture on computer
-            games that follow intentions other than entertainment, including e.g. serious games.
+        <div class="li"><a href="?id=courses/sem1920.md">Seminar aus Angewandter Informatik</a> -
+            Seminar as part of the bachelor curriculum round-up.
         </div>
     </li>
 

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>En/Decode</title>
+    <link rel="icon" type="image/png" href="../favicon.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script language="JavaScript">
+        window.onload = function onLoad() {
+
+        };
+
+        function encode() {
+//            var letters = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ_-.,:;#+~*<>@0123456789!\"§$%&/()=?\\}][{";
+            var l = "ABCDEFGHIJKLMNOPQR";
+            var r = "STUVWXYZ0123456789";
+            var code = {};
+            for (k = 0; k< l.length; k++) {
+                code[l.charAt(k)] = r.charAt(k);
+                code[r.charAt(k)] = l.charAt(k);
+            }
+            var length = Math.floor(Math.random() * 7 + 7);
+            var data = $('#inputText').val().toUpperCase();
+            var coded = "";
+            for (var i = 0; i < data.length; i++) {
+                var myChar = data.charAt(i); // Math.floor(Math.random() * letters.length);
+                if (myChar === ' ') coded += ' ';
+                else coded += code[myChar];
+            }
+            $('#inputText').val(coded);
+            // checkPassword();
+        }
+    </script>
+    <style type="text/css">
+        .progress {
+            height: 50px;
+        }
+        .progress > svg {
+            height: 100%;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1 style="margin-bottom: 40px;">Encode and Decode with Code &alpha;</h1>
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-sm-4">
+            <button style="margin-top: 10px ;margin-bottom: 10px;" class="btn btn-primary btn-block"
+                    onClick="javascript:encode();">
+                En/Decode
+            </button>
+        </div>
+        <div class="col-sm-8">
+            <label for="inputText" class="sr-only">Text to en/decode</label>
+            <input style="margin-top: 10px ;margin-bottom: 10px;" type="text" id="inputText" class="form-control"
+                   placeholder="Text to encode ...">
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>En/Decode</title>
+    <link rel="icon" type="image/png" href="../favicon.png"/>
+
+    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">
+    <script src="js/jquery-3.2.1.min.js"></script>
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="../bootstrap/js/bootstrap.min.js"></script>
+    <script language="JavaScript">
+        var decode = {
+            'A':"IJKLUZ",
+            'B':"MNOPV0",
+            'C':"QRSTW1",
+            'D':"ABCDX2",
+            'E':"EFGHY3",
+            'F':"987654"
+        };
+        var encode = {};
+        Object.entries(decode).forEach(([key, value]) => {
+            for (var k = 0; k<value.length; k++) {
+                encode[value.charAt(k)] = key + (k+1);
+            }
+        });
+
+        window.onload = function onLoad() {
+
+        };
+
+        function encodeText() {
+            var data = $('#inputText').val().toUpperCase();
+            var coded = "";
+            for (var i = 0; i < data.length; i++) {
+                var myChar = data.charAt(i); // Math.floor(Math.random() * letters.length);
+                if (myChar === ' ') coded += '  ';
+                else {
+                    coded += encode[myChar];
+                }
+            }
+            $('#inputText').val(coded);
+        }
+
+        function decodeText() {
+            var data = $('#inputText').val().toUpperCase();
+            var coded = "";
+            for (var i = 0; i < data.length; i+=2) {
+                var r = data.charAt(i);
+                var c = data.charAt(i+1);
+                if (r === ' ') coded += ' ';
+                else {
+                    coded += decode[r].charAt(c-1);
+                }
+            }
+            $('#inputText').val(coded);
+        }
+
+    </script>
+    <style type="text/css">
+        .progress {
+            height: 50px;
+        }
+        .progress > svg {
+            height: 100%;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+<div class="container">
+    <div class="row">
+        <div class="col-sm-12">
+            <h1 style="margin-bottom: 40px;">Encode and Decode with Code &beta;</h1>
+        </div>
+    </div>
+
+
+
+    <div class="row">
+        <div class="col-sm-2">
+            <button style="margin-top: 10px ;margin-bottom: 10px;" class="btn btn-primary btn-block"
+                    onClick="javascript:encodeText();">
+                Encode
+            </button>
+        </div>
+        <div class="col-sm-2">
+            <button style="margin-top: 10px ;margin-bottom: 10px;" class="btn btn-primary btn-block"
+                    onClick="javascript:decodeText();">
+                Decode
+            </button>
+        </div>
+        <div class="col-sm-8">
+            <label for="inputText" class="sr-only">Text to en/decode</label>
+            <input style="margin-top: 10px ;margin-bottom: 10px;" type="text" id="inputText" class="form-control"
+                   placeholder="Text to encode ...">
+        </div>
+    </div>
+</div>
+
+</body>
+</html>

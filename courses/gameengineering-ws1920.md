@@ -13,7 +13,7 @@ The practical course associated with the lecture is taking place as a game jam. 
 
 ## Topics
 
-1. Introduction & Computer Game History ~ 
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1BAOjEGIwt_MYo6W5BUwW8ri4W2iPEsExilDyPDwVKL4/edit?usp=sharing)
 2. Game Projects: Processes and Roles ~ 
 3. Game Projects: Documents and Pitches ~ 
 4. Prototyping ~ 

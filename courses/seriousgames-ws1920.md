@@ -8,8 +8,8 @@ All courses start c.t. if not otherwise noted.
  
 | Day    | Time   | Place  | Topic | Links |
 |:------|:------|:------|:---|:---|
-| Mo, 07.10. | 14-16 | S.2.69 | Introduction & GWAPs | [slides](https://docs.google.com/presentation/d/1R7pIMHk-4k5vIf0NyJ1R8zbYzN-HOr17o3VgjmCIazI/edit?usp=sharing) |
-| Mo, 14.10. | 14-16 | S.2.69 | Flow Assessment for Games | [slides](https://docs.google.com/presentation/d/1R7pIMHk-4k5vIf0NyJ1R8zbYzN-HOr17o3VgjmCIazI/edit?usp=sharing) |
+| Mo, 07.10. | 14-16 | S.2.69 | Introduction & GWAPs | [slides](https://docs.google.com/presentation/d/1ptKeQw_VoDga8M8mMkkBPryw0ZT0yfx8kYChIb_D-PM/edit?usp=sharing) |
+| Mo, 14.10. | 14-16 | S.2.69 | Flow Assessment for Games | [slides](https://docs.google.com/presentation/d/1rQy-jHwp9B752s37sYGtOXiTJbJ8ltfl5ATuHsDKTIE/edit?usp=sharing) |
 
 
 

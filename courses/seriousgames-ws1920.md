@@ -17,6 +17,12 @@ All courses start c.t. if not otherwise noted.
 
 This course is a _Seminar_, meaning that the grade is based on active participation in the seminar as well as a final seminar presentation & written work. There will be a blocked lecture on XXX, where the group plays and discusses a game of that type. 
 
+A positive grade can be achieved by reaching at least Level 3 in the [Experience System](https://docs.google.com/spreadsheets/d/16_5z4R3SG6Kl9Ry8p2V61qULzmzyA4tEnDZ-kgHv2R8/edit?usp=sharing) for the class. **Mandatory tasks** are
+
+* Giving the intermediate presentation.
+* Giving a presentation.
+* Handing in the seminar report.  
+
 ## Topics
 
 * Propaganda games

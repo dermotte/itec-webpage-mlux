@@ -4,12 +4,18 @@ The goal of this course is to introduce students to games that are mainly create
 
 ## Schedule
 
-All courses start c.t. if not otherwise noted.
+All courses start s.t. if not otherwise noted.
  
 | Day    | Time   | Place  | Topic | Links |
 |:------|:------|:------|:---|:---|
 | Mo, 07.10. | 14-16 | S.2.69 | Introduction & GWAPs | [slides](https://docs.google.com/presentation/d/1ptKeQw_VoDga8M8mMkkBPryw0ZT0yfx8kYChIb_D-PM/edit?usp=sharing) |
-| Mo, 14.10. | 14-16 | S.2.69 | Flow Assessment for Games | [slides](https://docs.google.com/presentation/d/1rQy-jHwp9B752s37sYGtOXiTJbJ8ltfl5ATuHsDKTIE/edit?usp=sharing) |
+| Mo, 14.10. | 14-16 | S.2.69 | Introduction & Preparations for the blocked lecture | [slides](https://docs.google.com/presentation/d/1PEmKXNxdRudDt3Hc3vU24_stG12TdFK3zB0KDLRmCt0/edit?usp=sharing) |
+| Mo, 04.11. | 14-16 | S.2.69 | Flow Assessment for Games | [slides](https://docs.google.com/presentation/d/1rQy-jHwp9B752s37sYGtOXiTJbJ8ltfl5ATuHsDKTIE/edit?usp=sharing) |
+| Mo, 18.11. | 14-16 | S.2.69 | Intermediate presentations | none |
+| We, 11.12. | 09-15 | tba. | Lecture Block | tba. |
+| Mo, 16.12. | 14-16 | S.2.69 | Reflection on the blocked lecture | tba. |
+| Mo, 13.01. | 14-16 | S.2.69 | Final Presentations I | tba. |
+| Mo, 20.01. | 14-16 | S.2.69 | Final Presentations II | tba. |
 
 
 

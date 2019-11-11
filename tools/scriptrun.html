@@ -92,9 +92,13 @@
                 <a href="javascript:editor.session.setValue('// compute pi using the Newton / Euler Convergence Transformation\nvar sum = 0;\nfor (k=0; k<50; k++) {\n\tvar upper = 1;\n\tfor (i = 1; i<=k;i++) upper*=i;\n\tupper = Math.pow(2,k)*Math.pow(upper,2);\n\tvar lower = 1;\n\tfor (i = 1; i<=2*k+1;i++) lower*=i;\n\tsum += upper/lower;\n}\nprint(sum*2);')"
                    class="btn btn-link">Compute Pi</a>
             </div>
-            <div class="col-sm-2">
+            <div class="col-sm-1">
                 <a href="javascript:editor.session.setValue('var type = new Array(\'puzzle\', \'jump & run\', \'adventure\', \'maze\', \'sports\', \'arcade\', \'shooter\');\nvar mode = new Array(\'single player\', \'free to play\', \'cooperative multiplayer\', \'competitive multiplayer\', \'couch coop\');\nvar platform = new Array(\'for mobile\', \'for pc\', \'for VR\')\nfor (i = 0; i< 20; i++) {\n\tprint(mode[Math.floor(Math.random()*mode.length)] + \' \' + type[Math.floor(Math.random()*type.length)] +\n\t\t\' game \' + platform[Math.floor(Math.random()*platform.length)]);\n}')"
                    class="btn btn-link">Random games</a>
+            </div>
+            <div class="col-sm-1">
+                <a href="javascript:editor.session.setValue('for (i = 2; i < 1000; i++) {\n\tlet isPrime = true;\n\tlet t = Math.sqrt(i);\n\tfor (k = 2; k <= t ; k++) {\n\t\tif (i%k===0) isPrime = false;\n\t}\n\tif (isPrime) print(i);\n}')"
+                   class="btn btn-link">Prime numbers</a>
             </div>
     </div>
     <div class="row" style="margin-top: 12pt;">

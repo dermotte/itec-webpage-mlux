@@ -77,7 +77,7 @@ if (array_key_exists("id", $_GET)) {
                 </li>
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>
                 <li><a href="http://www.lire-project.net/" rel="external">LIRE</a></li>
-                <li><a href="https://sites.google.com/view/gameactivitesaau" rel="external"><i class="fa fa-gamepad"></i> Games</a></li>
+                <!--li><a href="https://sites.google.com/view/gameactivitesaau" rel="external"><i class="fa fa-gamepad"></i> Games</a></li-->
                 <!--li><a href="https://bitbucket.org/dermotte/liresolr" rel="external">LIRE Solr</a></li>
                 <!--li><a href="http://www.semanticmetadata.net" rel="external">Blog</a></li-->
             </ul>

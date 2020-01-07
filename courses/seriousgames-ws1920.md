@@ -34,6 +34,9 @@ Use the  [sample presentation](https://docs.google.com/presentation/d/14YS5aABSI
 
 Make sure to put your presentations, name and topic in the list: [Non-Entertainment Games - Topics](https://docs.google.com/spreadsheets/d/1UNktfNzeH9_PEZPGQFJpUslQzTOM9M1yCY0a1X3wNRk/edit?usp=sharing) 
 
+### Final presentations
+Please prepare a presentation on your topic with a length of 8 minutes. Make sure to reserve a presentation slot by giving name and topic in the list: [Non-Entertainment Games - Schedule](https://docs.google.com/spreadsheets/d/1XPU8DXMx2wqOyy3Unwo2hwjLWtQk3_QwYM7S3mooNsA/edit?usp=sharing) 
+
 ## Topics
 
 * Propaganda games

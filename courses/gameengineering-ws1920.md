@@ -26,7 +26,7 @@ The practical course associated with the lecture is taking place as a game jam. 
 ## Modalities 
 
 This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written 
-form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU). The exam will take place at the beginning of the course on Jan 27, 2020 (10:00, S.1.42) and will take 15 minutes.
+form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU). The exam will take place at the beginning of the course on Jan 27, 2020 (10:00, S.1.42).
 
 ## Links
 

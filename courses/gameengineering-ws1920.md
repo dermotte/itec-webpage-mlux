@@ -21,12 +21,12 @@ The practical course associated with the lecture is taking place as a game jam. 
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1cLfP_uRhhaBEwc1l4CAedINE2rdubVblzy1EFzjgWUg/edit?usp=sharing)
 7. Playtests ~ [slides](https://docs.google.com/presentation/d/1OraU5llPgUhO1mk6tr9p8clDjGNa4D3iNcFLM4YIrEw/edit?usp=sharing)
 8. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1MIeaGHS4NlLygQDzP8LCW3kJvzLROx4Mq29xUsUc9c0/edit?usp=sharing) & [introduction to synths](https://docs.google.com/presentation/d/1HSTeVkzTyy855uZHw2kYrs-KPNwIIG8rYDHek4GkAh8/edit?usp=sharing)
-6. Hands On with Game Engines ~ 
+6. Hands On with Game Engines ~  [slides](https://docs.google.com/presentation/d/1ubgNptQgfLNiSeIY2fxfBOCr_hff40KBO8-S8fa3B0w/edit?usp=sharing)
 
 ## Modalities 
 
 This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written 
-form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU). 
+form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU). The exam will take place at the beginning of the course on Jan 27, 2020 (10:00, S.1.42) and will take 15 minutes.
 
 ## Links
 

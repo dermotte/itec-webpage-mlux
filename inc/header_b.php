@@ -64,8 +64,9 @@ if (array_key_exists("id", $_GET)) {
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="index.php?id=courses/games-ss19.md">VC Computer Games SS 2019</a></li>
-                        <li><a href="index.php?id=courses/intro-cg-ss19.md">Introduction to Computer Graphics SS 2019</a></li>
+                        <li><a href="index.php?id=courses/games-ss20.md">VC Computer Games SS 2020</a></li>
+                        <li><a href="index.php?id=courses/intro-cg-ss20.md">Introduction to Computer Graphics SS 2020</a></li>
+                        <li><a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems SS 2020</a></li>
 <!--                        <li><a href="index.php?id=courses/esop18">VO ESOP WS 2018/2019</a></li>-->
 <!--                        <li><a href="index.php?id=courses/gameengineering-ws1819.md">Game Engineering WS 2018/2019</a></li>-->
 <!--                        <li><a href="index.php?id=courses/seriousgames-ws1819.md">Non Entertainment Games WS 2018/2019</a></li>-->

@@ -1,0 +1,36 @@
+# Introduction to Computer Graphics
+
+This course aims to give a basic understanding of computer graphics and its role in computer games. 
+Topics will be a math primer, 2D and 3D graphics, shading, and hands on with practical tools. 
+Grading is based on (i) mandatory assignments as well as (ii) a final project. 
+
+## Schedule
+
+| Day    | Time   | Place  | Topic | Readings |
+|:------|:------|:------|:---|:---|
+| Do, 05.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/18VgFSv3QlDYRLU4hhYo9nwkOnj-X9nm9SFvpjKPuw84/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
+
+### References and Links
+ 1. [Processing](https://processing.org/) - Java based software for the first part of the course
+ 1. [Blender Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) - Learn Blender on your own
+ 1. [CC0 Textures](https://cc0textures.com/) - CC0 licensed high quality textures
+ 1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects
+ 1. [HDRI Haven](https://hdrihaven.com/) - CC0 licensed high quality HDRIs
+
+## Exercises
+
+Please send the exercises to M. Lux until the end of the announced day. 
+
+| ID | Title | Slide | Deadline | Example Solution |
+|:---|:---|:---|:---|:---|
+| EX 02-01 | Vector Reflection | ... | ... | ... |
+| EX 02-02 | The Lerp Game |  ... | ... | ... |
+| EX 03-01 | Two Boxes |  ... | ... | ... |
+| EX 04-01 | Lights |  ... | ... | ... |
+| EX 05-01 | Camera |  ... | ... | ... |
+| EX 06-01 | Six Sided Die |  ... | ... | ... |
+
+
+## Additional Materials
+
+All the materials from the course are available in the Github repo at [https://github.com/dermotte/cg-lecture-2019](https://github.com/dermotte/cg-lecture-2019).

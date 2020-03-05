@@ -32,10 +32,10 @@ Please send the exercises to M. Lux until the end of the announced day.
 
 | ID | Title | Slide | Deadline | Example Solution |
 |:---|:---|:---|:---|:---|
-| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | https://pastebin.com/Dnr6snxM |
-| EX 02-02 | The Lerp Game | Slide 42 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | https://pastebin.com/ufQQHyCG |
-| EX 03-01 | Two Boxes | Slide 38 in [Lecture 03](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | Apr 30, 2019 | https://pastebin.com/kmhg64ZB |
-| EX 04-01 | Lights | Slide 35 in [Lecture 04](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | Apr 30, 2019 | https://pastebin.com/1nQ4czte |
+| EX 02-01 | Vector Reflection | Slide 30 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | ... |
+| EX 02-02 | The Lerp Game | Slide 42 in [Lecture 02](https://docs.google.com/presentation/d/1epmUN0KnNnhEVA6m21NgCtrXDjsFQiMOoldInaMfTOk/edit?usp=sharing) | Apr 10, 2019 | ... |
+| EX 03-01 | Two Boxes | Slide 38 in [Lecture 03](https://docs.google.com/presentation/d/16iKm1Qhogo12mv6j_lrNp6K7gFsjUyeBfp3Pvec7W9Y/edit?usp=sharing) | Apr 30, 2019 | ... |
+| EX 04-01 | Lights | Slide 35 in [Lecture 04](https://docs.google.com/presentation/d/1Hae5vxUC7A3y6k6rsMqVrqllWvwpEQEFYUYoKZdOl-k/edit?usp=sharing) | Apr 30, 2019 | ... |
 | EX 05-01 | Camera | Slide 41 in [Lecture 05](https://docs.google.com/presentation/d/1nUHJ4KNMLgdRRi0dLOvtgQKRiGYXf0kWw0MGygK5REc/edit?usp=sharing) | Jun 24, 2019 | ... |
 | EX 06-01 | Six Sided Die | Slide 24 in [Lecture 06](https://docs.google.com/presentation/d/18mXoMIH5sjfR5c0oHLUYHi9MqELIhqGVvOtRZ9TtYh0/edit?usp=sharing) | Jun 24, 2019 | ... |
 

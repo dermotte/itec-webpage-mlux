@@ -26,20 +26,22 @@ All courses start c.t. if not otherwise noted. Slides are available online (sse 
  
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
-| Mo, 09.3.  | 14-16 | S.2.69 | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1VpFDyQiQXTBgNcgLKa-Cer9dgrJoIq68PKaNfyqHqs8/edit?usp=sharing) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
-
+| Mo, 09.3.  | 14-16 | S.2.69 | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1VpFDyQiQXTBgNcgLKa-Cer9dgrJoIq68PKaNfyqHqs8/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
+| Mo, 16.3.  | 14-16 | S.2.69 | Business of Games ~ [slides](https://docs.google.com/presentation/d/1i71LWmPZZKIBcihmquldxcPP7xK6bPxJ5vlZxi26VDs/edit?usp=sharing) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
+| Mo, 23.3.  | 14-16 | S.2.69 | ... | ... |
+| Mo, 30.3.  | 14-16 | S.2.69 | ... | ... |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.
 
-## Mandatory Exercise - Pong with Löve
+## Mandatory Exercise 01 - Pong with Löve
 For the mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:
 
 1. Submit as runnable .love file
 1. Use `love.graphics.rectangle(...)` to paint the bars and the ball
 1. Control by keyboard
 
-Submit your Pong clone to Mathias Lux via e-mail until April 19th, 2020, midnight.
+Submit your Pong clone to Mathias Lux via e-mail until **April 19th, 2020, midnight**.
 
 Are you not challenged enough? - Use the [Windfield physics wrapper for Löve2D](https://github.com/adnzzzzZ/windfield) to create a pong version with a physics engine in the back end. Make sure to reduce friction of the ball and set the position of the paddles in the update callback function ;)   
  

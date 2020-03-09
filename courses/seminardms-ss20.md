@@ -6,7 +6,7 @@ scientific paper.
 
 # Schedule
 
-1. 11.03. 2020 - Initial meeting &amp; Topics
+1. 11.03. 2020 - Initial meeting &amp; [Topics](https://docs.google.com/document/d/1Ttc4K4ZnHb6rifc4N3J1F4FXmHlVPzHZ-DHrSoACdGE/edit?usp=sharing)
 1. ?? - LaTeX, Template, Research Q&A
 1. ?? - Start presentations
 1. ?? - Intermediate presentations

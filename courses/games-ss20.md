@@ -28,7 +28,7 @@ All courses start c.t. if not otherwise noted. Slides are available online (sse 
 |:------|:------|:------|:---|:---|
 | Mo, 09.3.  | 14-16 | S.2.69 | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1VpFDyQiQXTBgNcgLKa-Cer9dgrJoIq68PKaNfyqHqs8/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
 | Mo, 16.3.  | 14-16 | S.2.69 | Business of Games ~ [slides](https://docs.google.com/presentation/d/1i71LWmPZZKIBcihmquldxcPP7xK6bPxJ5vlZxi26VDs/edit?usp=sharing) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
-| Mo, 23.3.  | 14-16 | S.2.69 | ... | ... |
+| Mo, 23.3.  | 14-16 | S.2.69 | ... | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
 | Mo, 30.3.  | 14-16 | S.2.69 | ... | ... |
 
 ## Game Jam

@@ -31,3 +31,13 @@ All courses start c.t. if not otherwise noted. Slides are available online (sse 
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.
+
+## Mandatory Exercise - Pong with Löve
+For the mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:
+
+1. Submit as runnable .love file
+1. Use `love.graphics.rectangle(...)` to paint the bars and the ball
+1. Control by keyboard
+
+Submit your Pong clone to Mathias Lux via e-mail until April 19th, 2020, midnight.
+ 

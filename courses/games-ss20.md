@@ -40,4 +40,6 @@ For the mandatory exercise you are to create a Pong clone with [Löve2D](https:/
 1. Control by keyboard
 
 Submit your Pong clone to Mathias Lux via e-mail until April 19th, 2020, midnight.
+
+Are you not challenged enough? - Use the [Windfield physics wrapper for Löve2D](https://github.com/adnzzzzZ/windfield) to create a pong version with a physics engine in the back end. Make sure to reduce friction of the ball and set the position of the paddles in the update callback function ;)   
  

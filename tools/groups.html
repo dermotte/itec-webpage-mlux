@@ -1,61 +1,49 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <title>Random groups</title>
-    <link rel="icon" type="image/png" href="../favicon.png"/>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/theme-lux-bootstrap.min.css">
+<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
 
-    <!-- Latest compiled and minified CSS -->
-<!--    <link rel="stylesheet" href="../bootstrap/css/bootstrap.min.css">-->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <title>Random Groups</title>
 
-    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
-
-
-
-    <!-- Optional theme -->
-<!--    <link rel="stylesheet" href="../bootstrap/css/bootstrap-theme.min.css">-->
-<!--    <script src="../js/jquery-2.2.1.min.js"></script>-->
-
-    <!-- Latest compiled and minified JavaScript -->
-<!--    <script src="../bootstrap/js/bootstrap.min.js"></script>-->
     <script language="JavaScript">
         function createGroups() {
-            var myLines = $("#lines").val();
-            var lineArrayTmp = myLines.split('\n');
-            var lineArray = new Array();
-            var numGroups = $("#groups").val();
-            var groupOut = new Array();
-            for (var i = 0; i < numGroups; i++) {
+            let myLines = $("#lines").val();
+            let lineArrayTmp = myLines.split('\n');
+            let lineArray = new Array();
+            let numGroups = $("#groups").val();
+            let groupOut = new Array();
+            for (let i = 0; i < numGroups; i++) {
                 groupOut[i] = "";
             }
-            for (var i = 0; i < lineArrayTmp.length; i++) {
+            for (let i = 0; i < lineArrayTmp.length; i++) {
                 lineArrayTmp[i] = lineArrayTmp[i].trim();
                 if (lineArrayTmp[i].length > 1) {
                     lineArray.push(lineArrayTmp[i]);
                 }
             }
             shuffle(lineArray);
-            for (i = 0; i < lineArray.length; i++) {
+            for (let i = 0; i < lineArray.length; i++) {
                 groupOut[i%numGroups] += "<a href='#' class='list-group-item'>"+lineArray[i]+"</a>"
             }
-            var out = "";
-            for (var i = 0; i < groupOut.length; i++) {
-                groupOut[i] = '<div class="col-sm-4"><div class="list-group"><div class="list-group-item-heading"><h4>Group #'+(i+1)+'</h4></div> '+groupOut[i]+'</div></div>';
+            let out = "";
+            for (let i = 0; i < groupOut.length; i++) {
+                groupOut[i] = '<div class="col-sm-4 col-md-3 col-lg-3 col-xl-2"><div class="list-group"><div class="list-group-item-heading"><strong>Group #'+(i+1)+'</strong></div> '+groupOut[i]+'</div></div>';
                 out += groupOut[i];
             }
             console.log(groupOut);
             $("#mygroups").html(out);
-            $("#output-tab").tab('show');
+            $("#nav-profile-tab").tab('show');
             return true;
         }
 
         function shuffle(myArray) {
-            var j, x, i;
+            let j, x, i;
             for (i = myArray.length; i; i -= 1) {
                 j = Math.floor(Math.random() * i);
                 x = myArray[i - 1];
@@ -63,22 +51,30 @@
                 myArray[j] = x;
             }
         }
-        $('#myTabs a').click(function (e) {
-            e.preventDefault();
-            $(this).tab('show');
-        })
+        // $('#myTabs a').click(function (e) {
+        //     e.preventDefault();
+        //     $(this).tab('show');
+        // })
     </script>
+
 </head>
 <body>
-<div class="container">
+<div class="container-fluid" style="padding: 12pt">
 
-    <ul id="myTabs" role="tablist" class="nav nav-pills">
-        <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>
-        <li role="presentation"><a href="#output" id="output-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Groups</a></li>
-    </ul>
+<!--    <ul id="myTabs" role="tablist" class="nav nav-pills">-->
+<!--        <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>-->
+<!--        <li role="presentation"><a href="#output" id="output-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Groups</a></li>-->
+<!--    </ul>-->
 
-    <div class="tab-content">
-        <div role="tabpanel" class="tab-pane fade in active" id="home">
+    <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
+            <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Groups</a>
+        </div>
+    </nav>
+
+    <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
             <div class="row">
                 <div class="col-sm-12"><h1>Create Groups Randomly</h1></div>
             </div>
@@ -102,13 +98,19 @@
                 </div>
             </div>
         </div>
-        <div role="tabpanel" class="tab-pane fade" id="output">
+        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
             <div class="row" id="mygroups" style="margin-top: 2em">
 
             </div>
         </div>
     </div>
+
 </div>
 
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 </body>
 </html>

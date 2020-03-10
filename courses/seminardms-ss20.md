@@ -5,13 +5,19 @@ overview on the state of the art for unaware readers. Note at that point that yo
 scientific paper.
 
 # Schedule
+| Day    | Time   | Place  | Topic | 
+|:------|:------|:------|:---|
+| 11.03. 2020   | 2pm   | [Online - Click Here](https://meet.jit.si/MultimediaSeminarsGoOnlineDueToVirus)    | Initial meeting &amp; [Topics](https://docs.google.com/document/d/1Ttc4K4ZnHb6rifc4N3J1F4FXmHlVPzHZ-DHrSoACdGE/edit?usp=sharing)| 
+| ??   | ??   | [Online - Click Here](https://meet.jit.si/MultimediaSeminarsGoOnlineDueToVirus)    | LaTeX, Template, Research Q&A |
+| ??   | ??   | [Online - Click Here](https://meet.jit.si/MultimediaSeminarsGoOnlineDueToVirus)    | Start presentations |
+| ??   | ??   | ...   | Intermediate presentations |
+| ??   | ??   | ...   | Final presentations |
 
-1. 11.03. 2020 - Initial meeting &amp; [Topics](https://docs.google.com/document/d/1Ttc4K4ZnHb6rifc4N3J1F4FXmHlVPzHZ-DHrSoACdGE/edit?usp=sharing)
-1. ?? - LaTeX, Template, Research Q&A
-1. ?? - Start presentations
-1. ?? - Intermediate presentations
-1. ?? - Final presentations
+# Online - FAQ
 
+For online sessions we are using https://meet.jit.si/. It's an open source Web-RTC based video conferencing tool, where you can also share your screen or a Chrome tab. I strongly recommend to have the latest version of [Chrome](https://www.google.com/chrome/), [Brave](https://brave.com/), or [Firefox](https://www.mozilla.org/) running. You can click on the links in the schedule table above any time and test if camera and microphone work for your setup.  
+
+If you want to use Jitsi to present slides, a good way to do this is to connect twice to the same chat room. With one connection you stream your webcam and audio, the other connection casts a browser tab with the slides. Make sure the second connection is muted and has the volume turned off. 
 
 # Modalities
 

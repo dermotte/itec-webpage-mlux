@@ -9,6 +9,8 @@ Grading is based on (i) mandatory assignments as well as (ii) a final project.
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Do, 05.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/18VgFSv3QlDYRLU4hhYo9nwkOnj-X9nm9SFvpjKPuw84/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
+| Do, 12.3.  | video | [video](https://youtu.be/h_zIZPE3my4) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
+
 
 ### References and Links
  1. [Processing](https://processing.org/) - Java based software for the first part of the course
@@ -23,8 +25,8 @@ Please send the exercises to M. Lux until the end of the announced day.
 
 | ID | Title | Slide | Deadline | Example Solution |
 |:---|:---|:---|:---|:---|
-| EX 02-01 | Vector Reflection | ... | ... | ... |
-| EX 02-02 | The Lerp Game |  ... | ... | ... |
+| EX 02-01 | Vector Reflection | #32 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
+| EX 02-02 | The Lerp Game |  #44 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
 | EX 03-01 | Two Boxes |  ... | ... | ... |
 | EX 04-01 | Lights |  ... | ... | ... |
 | EX 05-01 | Camera |  ... | ... | ... |
@@ -33,4 +35,4 @@ Please send the exercises to M. Lux until the end of the announced day.
 
 ## Additional Materials
 
-All the materials from the course are available in the Github repo at [https://github.com/dermotte/cg-lecture-2019](https://github.com/dermotte/cg-lecture-2019).
+All the materials from the course are available in the Github repo at [https://github.com/dermotte/cg-lecture-2020](https://github.com/dermotte/cg-lecture-2020).

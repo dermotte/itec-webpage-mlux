@@ -7,9 +7,9 @@ scientific paper.
 # Schedule
 | Day    | Time   | Place  | Topic | 
 |:------|:------|:------|:---|
-| 11.03. 2020   | 2pm   | [Online - Click Here](https://meet.jit.si/MultimediaSeminarsGoOnlineDueToVirus)    | Initial meeting &amp; [Topics](https://docs.google.com/document/d/1Ttc4K4ZnHb6rifc4N3J1F4FXmHlVPzHZ-DHrSoACdGE/edit?usp=sharing)| 
-| 23.03. 2020   | 4pm   | [Online - Click Here](https://meet.jit.si/MultimediaSeminarsGoOnlineDueToVirus)    | LaTeX, Template, Research Q&A |
-| 27.04. 2020   | 4pm   | [Online - Click Here](https://meet.jit.si/MultimediaSeminarsGoOnlineDueToVirus)    | Start presentations |
+| 11.03. 2020   | 2pm   | Online  | Initial meeting &amp; [Topics](https://docs.google.com/document/d/1Ttc4K4ZnHb6rifc4N3J1F4FXmHlVPzHZ-DHrSoACdGE/edit?usp=sharing)| 
+| 23.03. 2020   | 4pm   | [Online - Click Here](https://zoom.us/j/760777388?pwd=Uzg2NHp5QmxiaGZmSEJNLzhKZkg3UT09)    | LaTeX, Template, Research Q&A |
+| 27.04. 2020   | 4pm   | Online   | Start presentations |
 | 25.05. 2020   | 4pm   | S.2.42   | Intermediate presentations |
 | ??   | ??   | ...   | Final presentations |
 

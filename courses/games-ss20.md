@@ -28,7 +28,7 @@ All courses start c.t. if not otherwise noted. Slides are available online (sse 
 |:------|:------|:------|:---|:---|
 | Mo, 09.3.  | 14-16 | S.2.69 | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1VpFDyQiQXTBgNcgLKa-Cer9dgrJoIq68PKaNfyqHqs8/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
 | [video lecture](https://youtu.be/-FjLlvR_UEw)  | n.a. | S.2.69 | Business of Games ~ [slides](https://docs.google.com/presentation/d/1i71LWmPZZKIBcihmquldxcPP7xK6bPxJ5vlZxi26VDs/edit?usp=sharing), [video lecture](https://youtu.be/-FjLlvR_UEw) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
-| Mo, 23.3.  | 14-16 | [zoom.us](https://zoom.us) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_hzceB1xAzHbQE09edj89Oahieg7Y9sVEJ1nA8WPMes/edit?usp=sharing) | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
+| Mo, 23.3.  | 14-16 | [zoom.us](https://zoom.us/j/741157441?pwd=NFQzTTUxUWZXa01Ma1gvN1E4K0tvUT09) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_hzceB1xAzHbQE09edj89Oahieg7Y9sVEJ1nA8WPMes/edit?usp=sharing) | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
 | Mo, 30.3.  | 14-16 | [zoom.us](https://zoom.us) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1N7iWL1mBlsL4lJEFb97OyuUQ9gw7Q3sUcz_IsBAChLk/edit?usp=sharing) | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
 
 ## Game Jam

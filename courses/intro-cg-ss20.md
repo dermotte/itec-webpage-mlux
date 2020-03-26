@@ -12,7 +12,7 @@ For all online lectures we do recordings and then put the videos online for all 
 |:------|:------|:------|:---|:---|
 | Do, 05.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/18VgFSv3QlDYRLU4hhYo9nwkOnj-X9nm9SFvpjKPuw84/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
 | Do, 12.3.  | video | [video](https://youtu.be/h_zIZPE3my4) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
-| Do, 26.3.  | online | [Zoom](https://zoom.us/wc/join/124221329?pwd=SkR1cXBKbGdRakFEaTl2MWVLQUQ5Zz09) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing)|  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
+| Do, 26.3.  | online | [video](https://youtu.be/IrsSiSLlnHk) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing)|  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
 
 
 

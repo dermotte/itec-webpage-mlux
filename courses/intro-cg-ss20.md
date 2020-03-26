@@ -6,10 +6,14 @@ Grading is based on (i) mandatory assignments as well as (ii) a final project.
 
 ## Schedule
 
+For all online lectures we do recordings and then put the videos online for all to re-visit them later. Please make sure your video is turned off and you change your name to a nickname not connected to your name if you don't want to recognized in the recording. 
+
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Do, 05.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/18VgFSv3QlDYRLU4hhYo9nwkOnj-X9nm9SFvpjKPuw84/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
 | Do, 12.3.  | video | [video](https://youtu.be/h_zIZPE3my4) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
+| Do, 26.3.  | online | [Zoom](https://zoom.us/wc/join/124221329?pwd=SkR1cXBKbGdRakFEaTl2MWVLQUQ5Zz09) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing)|  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
+
 
 
 ### References and Links
@@ -27,7 +31,7 @@ Please send the exercises to M. Lux until the end of the announced day.
 |:---|:---|:---|:---|:---|
 | EX 02-01 | Vector Reflection | #32 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
 | EX 02-02 | The Lerp Game |  #44 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
-| EX 03-01 | Two Boxes |  ... | ... | ... |
+| EX 03-01 | Two Boxes |  #38 in [03](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing) | Apr 27, 2020 | ... |
 | EX 04-01 | Lights |  ... | ... | ... |
 | EX 05-01 | Camera |  ... | ... | ... |
 | EX 06-01 | Six Sided Die |  ... | ... | ... |

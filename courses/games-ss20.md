@@ -35,7 +35,7 @@ All courses start c.t. if not otherwise noted. Slides are available online (sse 
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.
 
 ## Mandatory Exercise 01 - Pong with Löve
-For the mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:
+For the first mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:
 
 1. Submit as runnable .love file
 1. Use `love.graphics.rectangle(...)` to paint the bars and the ball
@@ -46,4 +46,11 @@ Submit your Pong clone to Mathias Lux via e-mail until **April 19th, 2020, midni
 Are you not challenged enough? - Use the [Windfield physics wrapper for Löve2D](https://github.com/adnzzzzZ/windfield) to create a pong version with a physics engine in the back end. Make sure to reduce friction of the ball and set the position of the paddles in the update callback function ;)   
  
 ## Mandatory Exercise 02 - Fun with Godot
-tba.
+For the second mandatory exercise you are to create a game, where you land rocket on a small plateau, with [Godot](https://godotengine.org/).  Your game should fulfil the following requirements:
+
+1. Use the built-in Godot physics engine with the rocket / space ship being a _RigidBody2D_ and the plateau being a _StaticBody2D_
+1. Use the arrow keys to rotate and fire up the rocket
+1. Let the game be similar to the example: [play in browser](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/) or [download for windows](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/example-game-windows.zip)
+1. Submit as zipped Godot Project.
+
+Submit your game to Mathias Lux via e-mail until **May 3rd, 2020, midnight**.

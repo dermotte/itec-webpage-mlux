@@ -23,13 +23,15 @@ assignments as well as the final project and a (ii) final multiple choice test.
 ## Schedule
 
 All courses start c.t. if not otherwise noted. Slides are available online (sse below). Due to the situation around CoViD-19 all besides the first lecture take place online. After the online courses, video lectures are available. 
+
+After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
  
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Mo, 09.3.  | 14-16 | S.2.69 | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1VpFDyQiQXTBgNcgLKa-Cer9dgrJoIq68PKaNfyqHqs8/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
 | [video lecture](https://youtu.be/-FjLlvR_UEw)  | n.a. | n.a. | Business of Games ~ [slides](https://docs.google.com/presentation/d/1i71LWmPZZKIBcihmquldxcPP7xK6bPxJ5vlZxi26VDs/edit?usp=sharing), [video lecture](https://youtu.be/-FjLlvR_UEw) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
-| [video lecture](https://youtu.be/sj6hJJ2-Vf8)  | n.a. | n.a. | History of Games ~ [slides](https://docs.google.com/presentation/d/1_hzceB1xAzHbQE09edj89Oahieg7Y9sVEJ1nA8WPMes/edit?usp=sharing) | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
-| Mo, 30.3.  | 14-16 | [zoom.us](https://zoom.us/wc/join/211762483?pwd=MGxIUlhZN1p1TGs3VFYxQitqc0F5dz09) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1N7iWL1mBlsL4lJEFb97OyuUQ9gw7Q3sUcz_IsBAChLk/edit?usp=sharing) | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
+| Mo, 23.3.  | 14-16 | [video recording](https://youtu.be/sj6hJJ2-Vf8) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_hzceB1xAzHbQE09edj89Oahieg7Y9sVEJ1nA8WPMes/edit?usp=sharing) | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
+| Mo, 30.3.  | 14-16 | [video recording](https://youtu.be/GmxI7y5xBfE) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1N7iWL1mBlsL4lJEFb97OyuUQ9gw7Q3sUcz_IsBAChLk/edit?usp=sharing) | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.

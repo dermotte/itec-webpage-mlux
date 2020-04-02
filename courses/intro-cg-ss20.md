@@ -13,8 +13,9 @@ For all online lectures we do recordings and then put the videos online for all 
 | Do, 05.3.  | 16-18 | S.1.42 | Introduction ~ [slides](https://docs.google.com/presentation/d/18VgFSv3QlDYRLU4hhYo9nwkOnj-X9nm9SFvpjKPuw84/edit?usp=sharing)|  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
 | Do, 12.3.  | video | [video](https://youtu.be/h_zIZPE3my4) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Do, 26.3.  | online | [video](https://youtu.be/IrsSiSLlnHk) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing)|  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
-| Do, 02.4.  | 16-18 | online | Meshes and Lights |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
+| Do, 02.4.  | [16-18](https://www.twitch.tv/dermotte_) | online | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1nk55a9xqkobFSqo2Vj-qr7fJfR6d7xFD5kBV4O_uc98/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
 | Do, 23.4.  | 16-18 | online | Shading and Cameras |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
+
 
 
 
@@ -34,7 +35,7 @@ Please send the exercises to M. Lux until the end of the announced day.
 | EX 02-01 | Vector Reflection | #32 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
 | EX 02-02 | The Lerp Game |  #44 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
 | EX 03-01 | Two Boxes |  #38 in [03](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing) | Apr 27, 2020 | ... |
-| EX 04-01 | Lights |  ... | ... | ... |
+| EX 04-01 | Light a Mesh |  #36 in [04](https://docs.google.com/presentation/d/1nk55a9xqkobFSqo2Vj-qr7fJfR6d7xFD5kBV4O_uc98/edit?usp=sharing) | April 27, 2020 | ... |
 | EX 05-01 | Camera |  ... | ... | ... |
 | EX 06-01 | Six Sided Die |  ... | ... | ... |
 

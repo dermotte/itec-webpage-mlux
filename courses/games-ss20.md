@@ -32,6 +32,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | [video lecture](https://youtu.be/-FjLlvR_UEw)  | n.a. | n.a. | Business of Games ~ [slides](https://docs.google.com/presentation/d/1i71LWmPZZKIBcihmquldxcPP7xK6bPxJ5vlZxi26VDs/edit?usp=sharing), [video lecture](https://youtu.be/-FjLlvR_UEw) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 23.3.  | 14-16 | [video recording](https://youtu.be/sj6hJJ2-Vf8) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_hzceB1xAzHbQE09edj89Oahieg7Y9sVEJ1nA8WPMes/edit?usp=sharing) | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
 | Mo, 30.3.  | 14-16 | [video recording](https://youtu.be/GmxI7y5xBfE) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1N7iWL1mBlsL4lJEFb97OyuUQ9gw7Q3sUcz_IsBAChLk/edit?usp=sharing) | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
+| Mo, 20.4.  | 14-16 | [Online lecture](https://www.twitch.tv/dermotte_) | Game Design ~ [slides](https://drive.google.com/open?id=1m2nojoey8USY1DWQXKttvNhwrhoQsvoAAtGetQK6tUs) |  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.

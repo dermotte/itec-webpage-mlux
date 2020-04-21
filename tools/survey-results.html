@@ -1,0 +1,65 @@
+<?php ?>
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+    <!-- Firebase -->
+    <script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-firestore.js"></script>
+      <script>
+          var firebaseConfig = {
+              apiKey: "AIzaSyCfOGLPFLg2O1gMwG0b6guEuy8fgCt3J0Q",
+              authDomain: "simple-vote-b24d9.firebaseapp.com",
+              databaseURL: "https://simple-vote-b24d9.firebaseio.com",
+              projectId: "simple-vote-b24d9",
+              storageBucket: "simple-vote-b24d9.appspot.com",
+              messagingSenderId: "229288893884",
+              appId: "1:229288893884:web:f11853abc834077aca5fb9"
+          };
+          // Initialize Firebase
+          firebase.initializeApp(firebaseConfig);
+          var db = firebase.firestore();
+
+          function showVotes() {
+              db.collection("votes").get().then((querySnapshot) => {
+                  querySnapshot.forEach((doc) => {
+                      console.log(doc.id, " => ", doc.data());
+                      addCard(doc.data().vote, doc.data().tan, doc.data().time);
+                  });
+              });
+          }
+
+          function addCard(vote, tan, time) {
+              $("#cards").append("<div class=\"card col-sm-3 \" style=\"margin: 6pt\"><div class=\"card-body\"> <h5 class=\"card-title\">"+vote+"</h5><h6 class=\"card-subtitle mb-2 text-muted\">"+tan+"</h6><i>"+time.toDate().toLocaleString("de-AT")+"</i></div></div>");
+              // $("#cards").append("<div class=\"col-sm-3 \">"+vote+"</div>");
+          }
+      </script>
+
+
+      <title>Anonyme Abstimmung!</title>
+  </head>
+  <body onload="showVotes()">
+  <div class="container">
+      <div class="row">
+          <div class="col-sm-12">
+              <h2>Ergebnisse ...</h2>
+          </div>
+      </div>
+      <div class="row" id="cards">
+
+      </div>
+  </div>
+
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+  </body>
+</html>

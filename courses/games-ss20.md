@@ -33,8 +33,13 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 23.3.  | 14-16 | [video recording](https://youtu.be/sj6hJJ2-Vf8) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_hzceB1xAzHbQE09edj89Oahieg7Y9sVEJ1nA8WPMes/edit?usp=sharing) | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
 | Mo, 30.3.  | 14-16 | [video recording](https://youtu.be/GmxI7y5xBfE) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1N7iWL1mBlsL4lJEFb97OyuUQ9gw7Q3sUcz_IsBAChLk/edit?usp=sharing) | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
 | Mo, 20.4.  | 14-16 | [video recording](https://youtu.be/bMNKt_Q_KTA) | Game Design ~ [slides](https://drive.google.com/open?id=1m2nojoey8USY1DWQXKttvNhwrhoQsvoAAtGetQK6tUs) |  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
-| Mo, 27.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Loop ~ [slides](https://drive.google.com/open?id=1pSS7ZTGBFl0MGh1fgXllO4td3QkoJyzHuKmGQ7b50i4) |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
+| Mo, 27.4.  | 14-16 | [video recording](https://youtu.be/UwRAPZ7UVxM) | Game Loop ~ [slides](https://drive.google.com/open?id=1pSS7ZTGBFl0MGh1fgXllO4td3QkoJyzHuKmGQ7b50i4) |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
 | Mo, 04.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1JBaIAuYnkG3MSqI7yMEN6tm0VjHfmXA0HvT0MsAJrAU/edit?usp=sharing) |  none |
+| Mo, 11.5.  | 14-16 |... | ... |  ... |
+| Mo, 18.5.  | 14-16 |... | ... |  ... |
+| Mo, 25.5.  | 14-16 |... | ... |  ... |
+| Mo, 08.6.  | 14-16 |... | ... |  ... |
+| Mo, 15.6.  | 14-16 | GSE Discord Server | Student Projects: Presentations |  none |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.
@@ -59,3 +64,18 @@ For the second mandatory exercise you are to create a game, where you land rocke
 1. Submit as zipped Godot Project.
 
 Submit your game to Mathias Lux via e-mail until **May 3rd, 2020, midnight**.
+
+## Final Project
+Your final project can be done in a group with up to three people. To finish the project you need to:
+1. Hand in the project & the documentation
+   1. Link to the project (ie. itch.io, Github, WeTransfer, ...)
+   1. game concept document (1 page)
+   1. post mortem (1 page)
+   1. presentaiton slides
+1. Present the project in the lecture on June 15, 2020 (10 minutes max.)
+   1. list the group members
+   1. explain the concept
+   1. show the game
+   1. talk about the lessons learned (post mortem)
+   
+The project can be a stand-alone game, a level for a game, or a mod for a game. If you attended the game jam, please present your game jam project and just create the documents and slides. 

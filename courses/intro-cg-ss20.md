@@ -36,7 +36,7 @@ Please send the exercises to M. Lux until the end of the announced day.
 | EX 02-02 | The Lerp Game |  #44 in [02](https://docs.google.com/presentation/d/1UHhnFMpE5DIJpeVBY2BOp4WpNrpdaFn2NnfoOrzkUmU/edit?usp=sharing) | Apr 19, 2020 | ... |
 | EX 03-01 | Two Boxes |  #38 in [03](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing) | Apr 27, 2020 | ... |
 | EX 04-01 | Light a Mesh |  #36 in [04](https://docs.google.com/presentation/d/1nk55a9xqkobFSqo2Vj-qr7fJfR6d7xFD5kBV4O_uc98/edit?usp=sharing) | April 27, 2020 | ... |
-| EX 05-01 | Camera |  ... | ... | ... |
+| EX 05-01 | Camera |  #42 in [05](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) | May 10, 2020 | ... |
 | EX 06-01 | Six Sided Die |  ... | ... | ... |
 
 

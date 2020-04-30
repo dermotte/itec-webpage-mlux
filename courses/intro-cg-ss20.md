@@ -15,6 +15,12 @@ For all online lectures we do recordings and then put the videos online for all 
 | Do, 26.3.  | online | [video](https://youtu.be/IrsSiSLlnHk) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing)|  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 02.4.  | online | [video](https://youtu.be/wYnHKhDgReA) | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1nk55a9xqkobFSqo2Vj-qr7fJfR6d7xFD5kBV4O_uc98/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
 | Do, 30.4.  | 16-18 | [online](https://www.twitch.tv/dermotte_) | Shading and Cameras ~ [slides](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
+| Do, 07.5.  | 16-18 | online | Textures |  tba. |
+| Do, 14.5.  | 16-18 | online | Raytracing / Real Time Rendering |  tba. |
+| Do, 28.5.  | 16-18 | online | Blender Fundamentals Part 1 |  tba. |
+| Do, 04.6.  | 16-18 | online | Blender Fundamentals Part 2 |  tba. |
+| Do, 18.6.  | 16-18 | online | Blender Workshop and Q&A |  tba. |
+| Do, 25.6.  | 16-18 | online | Student Presentations |  tba. |
 
 
 

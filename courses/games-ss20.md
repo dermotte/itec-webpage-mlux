@@ -34,11 +34,11 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 30.3.  | 14-16 | [video recording](https://youtu.be/GmxI7y5xBfE) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1N7iWL1mBlsL4lJEFb97OyuUQ9gw7Q3sUcz_IsBAChLk/edit?usp=sharing) | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
 | Mo, 20.4.  | 14-16 | [video recording](https://youtu.be/bMNKt_Q_KTA) | Game Design ~ [slides](https://drive.google.com/open?id=1m2nojoey8USY1DWQXKttvNhwrhoQsvoAAtGetQK6tUs) |  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
 | Mo, 27.4.  | 14-16 | [video recording](https://youtu.be/UwRAPZ7UVxM) | Game Loop ~ [slides](https://drive.google.com/open?id=1pSS7ZTGBFl0MGh1fgXllO4td3QkoJyzHuKmGQ7b50i4) |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
-| Mo, 04.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1JBaIAuYnkG3MSqI7yMEN6tm0VjHfmXA0HvT0MsAJrAU/edit?usp=sharing) |  none |
-| Mo, 11.5.  | 14-16 |... | ... |  ... |
-| Mo, 18.5.  | 14-16 |... | ... |  ... |
-| Mo, 25.5.  | 14-16 |... | ... |  ... |
-| Mo, 08.6.  | 14-16 |... | ... |  ... |
+| Mo, 04.5.  | 14-16 | [video recording](https://youtu.be/9JmyIfsqPJg) | 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1JBaIAuYnkG3MSqI7yMEN6tm0VjHfmXA0HvT0MsAJrAU/edit?usp=sharing) |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
+| Mo, 11.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
+| Mo, 18.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
+| Mo, 25.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
+| Mo, 08.6.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
 | Mo, 15.6.  | 14-16 | GSE Discord Server | Student Projects: Presentations |  none |
 
 ## Game Jam

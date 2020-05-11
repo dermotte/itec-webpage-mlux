@@ -35,7 +35,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 20.4.  | 14-16 | [video recording](https://youtu.be/bMNKt_Q_KTA) | Game Design ~ [slides](https://drive.google.com/open?id=1m2nojoey8USY1DWQXKttvNhwrhoQsvoAAtGetQK6tUs) |  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
 | Mo, 27.4.  | 14-16 | [video recording](https://youtu.be/UwRAPZ7UVxM) | Game Loop ~ [slides](https://drive.google.com/open?id=1pSS7ZTGBFl0MGh1fgXllO4td3QkoJyzHuKmGQ7b50i4) |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
 | Mo, 04.5.  | 14-16 | [video recording](https://youtu.be/9JmyIfsqPJg) | 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1JBaIAuYnkG3MSqI7yMEN6tm0VjHfmXA0HvT0MsAJrAU/edit?usp=sharing) |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
-| Mo, 11.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | Input and Sound ~ [slides](https://docs.google.com/presentation/d/1VTxY2ZuI0o_PqR9QOhXWaIqUwi7KviKs11o-HD5t2jU/edit?usp=sharing) |  ... |
+| Mo, 11.5.  | 14-16 |[video recording](https://youtu.be/y9z__X9_bL0) | Input and Sound ~ [slides](https://docs.google.com/presentation/d/1VTxY2ZuI0o_PqR9QOhXWaIqUwi7KviKs11o-HD5t2jU/edit?usp=sharing) |  ... |
 | Mo, 18.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1DZ-8QEbDRNs51RCMT-PqY8CakwvFLad91JvQAid6lvQ/edit?usp=sharing) |  ... |
 | Mo, 25.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
 | Mo, 08.6.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |

@@ -37,8 +37,8 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 04.5.  | 14-16 | [video recording](https://youtu.be/9JmyIfsqPJg) | 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1JBaIAuYnkG3MSqI7yMEN6tm0VjHfmXA0HvT0MsAJrAU/edit?usp=sharing) |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
 | Mo, 11.5.  | 14-16 |[video recording](https://youtu.be/y9z__X9_bL0) | Input and Sound ~ [slides](https://docs.google.com/presentation/d/1VTxY2ZuI0o_PqR9QOhXWaIqUwi7KviKs11o-HD5t2jU/edit?usp=sharing) |  ... |
 | Mo, 18.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1DZ-8QEbDRNs51RCMT-PqY8CakwvFLad91JvQAid6lvQ/edit?usp=sharing) |  ... |
-| Mo, 25.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
-| Mo, 08.6.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | ... |  ... |
+| Mo, 25.5.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | Game AI ~ [slides](https://docs.google.com/presentation/d/1biAVTrKxbN8ThJRe6R_4vzouhkabTbkRxzXVWcY9EcA/edit?usp=sharing) |  ... |
+| Mo, 08.6.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | Game Physics ~ [slides](https://docs.google.com/presentation/d/1thrZQ3dejkqdMGWUt12AKb8skbXATc_yr2EmKeIeh4g/edit?usp=sharing) |  ... |
 | Mo, 15.6.  | 14-16 | GSE Discord Server | Student Projects: Presentations |  none |
 
 ## Game Jam

@@ -17,7 +17,7 @@ For all online lectures we do recordings and then put the videos online for all 
 | Do, 30.4.  | 16-18 | [video](https://youtu.be/T-AXYJLtZAc) | Shading ~ [slides](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
 | Do, 07.5.  | 16-18 | [video](https://youtu.be/0iRpaZxE058) | Cameras ~ [slides](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) / then _Unity Shader Example_ (by Veit Isopp) |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
 | Do, 14.5.  | 16-18 | [video](https://youtu.be/ney89vrlpas) | Textures ~ [slides](https://docs.google.com/presentation/d/1-4cGyp1vgUeWiWmJo2uPjJultQmNXy_6n8WYFWlnXT8/edit?usp=sharing) |  tba. |
-| Tu, 19.5.  | 12-14 | [online](https://www.twitch.tv/dermotte_) | VR & the uncanny valley |  tba. |
+| Tu, 19.5.  | 12-14 | [online](https://www.twitch.tv/dermotte_) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/1heZR7y4BALg4qkE6Fw9vRGdEEkj0VKamCVMIttHu8EI/edit?usp=sharing) |  tba. |
 | Do, 28.5.  | 16-18 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering |  tba. |
 | Do, 04.6.  | 16-18 | Discord | Blender Fundamentals Part 1 |  tba. |
 | Do, 18.6.  | 16-18 | Discord | Blender Fundamentals Part 2 |  tba. |

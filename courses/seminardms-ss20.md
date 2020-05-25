@@ -12,8 +12,8 @@ Due to the situation around CoViD-19 all besides the first lecture take place on
 | 11.03. 2020   | 2pm   | Online  | Initial meeting &amp; [Topics](https://docs.google.com/document/d/1Ttc4K4ZnHb6rifc4N3J1F4FXmHlVPzHZ-DHrSoACdGE/edit?usp=sharing)| 
 | 23.03. 2020   | 4pm   | [Video Recording](https://youtu.be/ujubRIYPx6k)  | LaTeX, Template, Research Q&A ~ [slides](https://docs.google.com/presentation/d/1t29X4sEPA4fySfnpinD650Ou9Jjc8ifGrTWnwkWOvPQ/edit?usp=sharing) |
 | 27.04. 2020   | 4pm   | Online   | Start presentations |
-| 25.05. 2020   | 4pm   | S.2.42   | Intermediate presentations |
-| ??   | ??   | ...   | Final presentations |
+| 25.05. 2020   | 4pm   | Online   | Intermediate presentations |
+| 29.06. 2020   | 5:30 pm  | Online   | Final presentations |
 
 # Online - FAQ
 

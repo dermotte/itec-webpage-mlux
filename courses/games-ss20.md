@@ -39,7 +39,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 18.5.  | 14-16 |[video recording](https://youtu.be/G1mpdo4OWyQ) | Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1DZ-8QEbDRNs51RCMT-PqY8CakwvFLad91JvQAid6lvQ/edit?usp=sharing) |  ... |
 | Mo, 25.5.  | 14-16 |[video recording](https://youtu.be/8oSlw6mKV6I) | Game AI ~ [slides](https://docs.google.com/presentation/d/1biAVTrKxbN8ThJRe6R_4vzouhkabTbkRxzXVWcY9EcA/edit?usp=sharing) |  ... |
 | Mo, 08.6.  | 14-16 |[online](https://www.twitch.tv/dermotte_) | Game Physics ~ [slides](https://docs.google.com/presentation/d/1thrZQ3dejkqdMGWUt12AKb8skbXATc_yr2EmKeIeh4g/edit?usp=sharing) |  ... |
-| Mo, 15.6.  | 14-16 | GSE Discord Server | Student Projects: Presentations |  none |
+| Mo, 15.6.  | 14-16 | [Discord](https://discord.gg/JHNgyAe)  | Student Projects: Presentations |  none |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, from Apr 24-26, 2020. You can join any group there and the game developed at the game jam can be presented as final project.

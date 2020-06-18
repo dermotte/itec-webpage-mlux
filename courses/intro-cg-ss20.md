@@ -16,12 +16,12 @@ For all online lectures we do recordings and then put the videos online for all 
 | Do, 02.4.  | online | [video](https://youtu.be/wYnHKhDgReA) | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1nk55a9xqkobFSqo2Vj-qr7fJfR6d7xFD5kBV4O_uc98/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
 | Do, 30.4.  | 16-18 | [video](https://youtu.be/T-AXYJLtZAc) | Shading ~ [slides](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
 | Do, 07.5.  | 16-18 | [video](https://youtu.be/0iRpaZxE058) | Cameras ~ [slides](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) / then _Unity Shader Example_ (by Veit Isopp) |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
-| Do, 14.5.  | 16-18 | [video](https://youtu.be/ney89vrlpas) | Textures ~ [slides](https://docs.google.com/presentation/d/1-4cGyp1vgUeWiWmJo2uPjJultQmNXy_6n8WYFWlnXT8/edit?usp=sharing) |  tba. |
-| Tu, 19.5.  | 12-14 | [video](https://youtu.be/cgIQTeV8Y1s) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/1heZR7y4BALg4qkE6Fw9vRGdEEkj0VKamCVMIttHu8EI/edit?usp=sharing) |  tba. |
-| Do, 28.5.  | 16-18 | [video](https://youtu.be/CqZCohLRiUk) | Raytracing / Real Time Rendering ~ [slides](https://docs.google.com/presentation/d/1ZkenXx-txyGVFAJnmmYCdYias8zqI-595OUM8g6ETNU/edit?usp=sharing)|  tba. |
-| Do, 04.6.  | 16-18 | [Discord](https://discord.gg/JHNgyAe) | Blender Fundamentals Part 1 |  tba. |
-| Do, 18.6.  | 16-18 | [Discord](https://discord.gg/JHNgyAe) | Blender Fundamentals Part 2 |  tba. |
-| Do, 25.6.  | 16-18 | [Discord](https://discord.gg/JHNgyAe) | Student Presentations |  tba. |
+| Do, 14.5.  | 16-18 | [video](https://youtu.be/ney89vrlpas) | Textures ~ [slides](https://docs.google.com/presentation/d/1-4cGyp1vgUeWiWmJo2uPjJultQmNXy_6n8WYFWlnXT8/edit?usp=sharing) |  none |
+| Tu, 19.5.  | 12-14 | [video](https://youtu.be/cgIQTeV8Y1s) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/1heZR7y4BALg4qkE6Fw9vRGdEEkj0VKamCVMIttHu8EI/edit?usp=sharing) |  none |
+| Do, 28.5.  | 16-18 | [video](https://youtu.be/CqZCohLRiUk) | Raytracing / Real Time Rendering ~ [slides](https://docs.google.com/presentation/d/1ZkenXx-txyGVFAJnmmYCdYias8zqI-595OUM8g6ETNU/edit?usp=sharing)|  none |
+| Do, 04.6.  | 16-18 | [Discord](https://discord.gg/JHNgyAe) | Blender Fundamentals Part 1 |  none |
+| Do, 18.6.  | 16-18 | [Discord](https://discord.gg/JHNgyAe) | Blender Fundamentals Part 2 |  none |
+| Do, 25.6.  | 16-18 | [Discord](https://discord.gg/JHNgyAe) | Student Presentations |  none |
 
 
 
@@ -44,7 +44,16 @@ Please send the exercises to M. Lux until the end of the announced day.
 | EX 03-01 | Two Boxes |  #38 in [03](https://docs.google.com/presentation/d/1wfu6EHaWYjAGb0It83nmGJZzskKvL5ilpwls9JEQeK8/edit?usp=sharing) | Apr 27, 2020 | ... |
 | EX 04-01 | Light a Mesh |  #36 in [04](https://docs.google.com/presentation/d/1nk55a9xqkobFSqo2Vj-qr7fJfR6d7xFD5kBV4O_uc98/edit?usp=sharing) | April 27, 2020 | ... |
 | EX 05-01 | Camera |  #42 in [05](https://docs.google.com/presentation/d/1jx9o1yniNGUuWP1oz2gd53L6HJmA_bubXiBLtPJUgpg/edit?usp=sharing) | May 17, 2020 | ... |
-| EX 06-01 | Six Sided Die |  ... | ... | ... |
+| EX 06-01 | Six Sided Die |  #24 in [06](https://docs.google.com/presentation/d/1-4cGyp1vgUeWiWmJo2uPjJultQmNXy_6n8WYFWlnXT8/edit?usp=sharing) | June 25, 2020 | ... |
+
+## Final Project
+Please prepare your final project until June 25th, 2020. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming. 
+
+For the presentation on June 25th make sure you can 
+
+1. show your result, 
+2. outline your work (contribution), and
+3. discuss the lessons learned and obstacles encountered. 
 
 
 ## Additional Materials

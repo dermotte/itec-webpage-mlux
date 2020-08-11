@@ -30,6 +30,25 @@
         </div>
     </div>
 </div>
+<h2>Winter Semester 2020/2021</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws2021.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master programme.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/seriousgames-ws2021.md">SE Non Entertainment Games</a> - Lecture on computer
+            games that follow intentions other than entertainment, including e.g. serious games.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="https://campus.aau.at/studium/course/103425">Cross project review</a> -
+            A course for students to present and discuss their internships.
+        </div>
+    </li>
+
+</ul>
 <h2>Summer Semester 2020</h2>
 <ul>
     <li>

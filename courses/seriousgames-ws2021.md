@@ -8,11 +8,11 @@ All courses start s.t. if not otherwise noted.
  
 | Day    | Time   | Place  | Topic | Links |
 |:------|:------|:------|:---|:---|
-| Th, 15.10. | 14-16 | online | Introduction & GWAPs | tba. |
-| Th, 22.10. | 14-16 | online | tba. | tba. |
-| Th, 29.10. | 14-16 | online | Flow Assessment for Games | tba. |
-| Th, 12.11. | 14-16 | online | Intermediate presentations | tba. |
-| Th, ... | 14-16 | online | ... | tba. |
+| Th, 15.10. | 10:00-11:30 | online | Introduction & GWAPs | tba. |
+| Th, 22.10. | 10:00-11:30 | online | tba. | tba. |
+| Th, 29.10. | 10:00-11:30 | online | Flow Assessment for Games | tba. |
+| Th, 12.11. | 10:00-11:30 | online | Intermediate presentations | tba. |
+| Th, ... | 10:00-11:30 | online | ... | tba. |
 
 
 

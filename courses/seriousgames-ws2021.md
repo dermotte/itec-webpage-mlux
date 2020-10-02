@@ -2,6 +2,12 @@
 
 The goal of this course is to introduce students to games that are mainly created for purposes other than entertainment. This includes but is not limited to serious games, educational games, adware games, fitness games, and propaganda games. 
 
+## Online, but How?
+
+Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date https://discord.gg/YnX6AKG
+
+A short introduction of myself by video is at https://youtu.be/U6kNkMb-ORk
+
 ## Schedule
 
 All courses start s.t. if not otherwise noted.

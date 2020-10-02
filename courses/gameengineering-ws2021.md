@@ -11,6 +11,12 @@ project.
 
 The practical course associated with the lecture is taking place as a game jam. Find more information on that on the [game jam website](http://itec.aau.at/gamejam/).
 
+## Online, but How?
+
+Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date https://discord.gg/YnX6AKG
+
+A short introduction of myself by video is at https://youtu.be/U6kNkMb-ORk
+
 ## Topics
 
 1. Introduction & Computer Game History ~ 

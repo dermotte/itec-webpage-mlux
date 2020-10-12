@@ -21,7 +21,7 @@ A short introduction of myself by video is at [https://youtu.be/U6kNkMb-ORk](htt
 
 ## Topics
 
-1. Introduction & Computer Game History ~ [slides]() ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1A1ykm_71vhvAbD6ItCYujRJ8eOPev8ksZM-fZjoejWA/edit?usp=sharing) ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 3. Game Projects: Documents and Pitches ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 2. Game Projects: Processes and Roles ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 4. Prototyping ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)

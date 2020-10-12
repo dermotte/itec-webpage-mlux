@@ -21,7 +21,7 @@ A short introduction of myself by video is at [https://youtu.be/U6kNkMb-ORk](htt
 
 ## Topics
 
-1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1A1ykm_71vhvAbD6ItCYujRJ8eOPev8ksZM-fZjoejWA/edit?usp=sharing) ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1A1ykm_71vhvAbD6ItCYujRJ8eOPev8ksZM-fZjoejWA/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/ChRykiDNdxc) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5OXcsfwZL3IbSFs)
 3. Game Projects: Documents and Pitches ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 2. Game Projects: Processes and Roles ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 4. Prototyping ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
@@ -38,6 +38,5 @@ form, take 50 minutes of your time and will focus on the topics discussed in the
 
 ## Links
 
-- [Hour of Code](https://code.org)
-- [Scratch](https://mit.scratch.edu)
-- [Google Blockly](https://developers.google.com/blockly/)
+- [Hour of Code](https://code.org) - Learn to program with a visual programming lecture
+- [Scratch](https://mit.scratch.edu) - Use the same visual programming lecture to create interactive programs and games

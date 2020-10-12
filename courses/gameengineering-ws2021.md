@@ -13,21 +13,23 @@ The practical course associated with the lecture is taking place as a game jam. 
 
 ## Online, but How?
 
-Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date https://discord.gg/YnX6AKG
+Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
 
-A short introduction of myself by video is at https://youtu.be/U6kNkMb-ORk
+The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/dermotte_)
+
+A short introduction of myself by video is at [https://youtu.be/U6kNkMb-ORk](https://youtu.be/U6kNkMb-ORk)
 
 ## Topics
 
-1. Introduction & Computer Game History ~ 
-3. Game Projects: Documents and Pitches ~ 
-2. Game Projects: Processes and Roles ~ 
-4. Prototyping ~ 
-5. Introduction to Programming ~ 
-6. Basic Concepts in Game Programming ~ 
-7. Playtests ~ 
-6. Hands On with Game Engines ~ 
-8. Sound & Interactive Music ~ 
+1. Introduction & Computer Game History ~ [slides]() ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+3. Game Projects: Documents and Pitches ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+2. Game Projects: Processes and Roles ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+4. Prototyping ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+5. Introduction to Programming ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+6. Basic Concepts in Game Programming ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+7. Playtests ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+6. Hands On with Game Engines ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+8. Sound & Interactive Music ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 
 ## Modalities 
 

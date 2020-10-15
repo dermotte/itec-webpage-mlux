@@ -14,10 +14,10 @@ All courses start s.t. if not otherwise noted.
  
 | Day    | Time   | Place  | Topic | Links |
 |:------|:------|:------|:---|:---|
-| Th, 15.10. | 10:00-11:30 | online | Introduction & GWAPs | tba. |
-| Th, 22.10. | 10:00-11:30 | online | tba. | tba. |
+| Th, 15.10. | 10:00-11:30 | online | Introduction | [slides](https://docs.google.com/presentation/d/17KdfCADBHfC4_lqpZfSAWdtWzgirU9xWzvafeiufI38/edit?usp=sharing), [watch video](https://youtu.be/QrGQtd2qYA8), [download video](https://www2.itec.aau.at/owncloud/index.php/s/OXKxozB9VJz9RSI) |
+| Th, 22.10. | 10:00-11:30 | online | GWAPs & topic distribution | tba. |
 | Th, 29.10. | 10:00-11:30 | online | Flow Assessment for Games | tba. |
-| Th, 12.11. | 10:00-11:30 | online | Intermediate presentations | tba. |
+| Th, 12.11. | 10:00-11:30 | online | Serious Games & Classification | tba. |
 | Th, ... | 10:00-11:30 | online | ... | tba. |
 
 

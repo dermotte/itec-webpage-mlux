@@ -4,9 +4,9 @@ The goal of this course is to introduce students to games that are mainly create
 
 ## Online, but How?
 
-Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date https://discord.gg/YnX6AKG
+Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
 
-A short introduction of myself by video is at https://youtu.be/U6kNkMb-ORk
+A short introduction of myself by video is at [https://youtu.be/U6kNkMb-ORk](https://youtu.be/U6kNkMb-ORk)
 
 ## Schedule
 
@@ -15,9 +15,9 @@ All courses start s.t. if not otherwise noted.
 | Day    | Time   | Place  | Topic | Links |
 |:------|:------|:------|:---|:---|
 | Th, 15.10. | 10:00-11:30 | online | Introduction | [slides](https://docs.google.com/presentation/d/17KdfCADBHfC4_lqpZfSAWdtWzgirU9xWzvafeiufI38/edit?usp=sharing), [watch video](https://youtu.be/QrGQtd2qYA8), [download video](https://www2.itec.aau.at/owncloud/index.php/s/OXKxozB9VJz9RSI) |
-| Th, 22.10. | 10:00-11:30 | online | GWAPs & topic distribution | tba. |
-| Th, 29.10. | 10:00-11:30 | online | Flow Assessment for Games | tba. |
-| Th, 12.11. | 10:00-11:30 | online | Serious Games & Classification | tba. |
+| Th, 22.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | GWAPs & topic distribution | tba. |
+| Th, 29.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Flow Assessment for Games | tba. |
+| Th, 12.11. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Serious Games & Classification | tba. |
 | Th, ... | 10:00-11:30 | online | ... | tba. |
 
 

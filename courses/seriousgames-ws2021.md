@@ -16,7 +16,7 @@ All courses start s.t. if not otherwise noted.
 |:------|:------|:------|:---|:---|
 | Th, 15.10. | 10:00-11:30 | online | Introduction | [slides](https://docs.google.com/presentation/d/17KdfCADBHfC4_lqpZfSAWdtWzgirU9xWzvafeiufI38/edit?usp=sharing), [watch video](https://youtu.be/QrGQtd2qYA8), [download video](https://www2.itec.aau.at/owncloud/index.php/s/OXKxozB9VJz9RSI) |
 | Th, 22.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | GWAPs & topic distribution | [slides](https://docs.google.com/presentation/d/1nfFCDIwJYXcFU5wKaYow937aSDQKq2ZH5VbLcYRnqAA/edit?usp=sharing), [watch video](https://youtu.be/uhNXy3nsJ_Y), [download video](https://www2.itec.aau.at/owncloud/index.php/s/LWrKANCQt9ZxLYW) |
-| Th, 29.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Flow Assessment for Games | tba. |
+| Th, 29.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Flow Assessment for Games | [slides](https://docs.google.com/presentation/d/1_6a_CC1-Hc-iWfXDmYpDJQDy7QnC-SUx8vnzb7XpD3w/edit?usp=sharing) |
 | Th, 5.11. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Gamification & Serious Games Classification | tba. |
 | Th, 12.11. | 10:00-11:30 | Discord | Intermediate presentations | tba. |
 | Th, ... | 10:00-11:30 | online | ... | tba. |

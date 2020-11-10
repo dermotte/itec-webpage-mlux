@@ -6,7 +6,6 @@ The goal of this course is to introduce students to games that are mainly create
 
 Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
 
-A short introduction of myself by video is at [https://youtu.be/U6kNkMb-ORk](https://youtu.be/U6kNkMb-ORk)
 
 ## Schedule
 

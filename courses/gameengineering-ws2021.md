@@ -22,7 +22,7 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1A1ykm_71vhvAbD6ItCYujRJ8eOPev8ksZM-fZjoejWA/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/ChRykiDNdxc) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5OXcsfwZL3IbSFs)
 3. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1sJ3pFj_MCY1iGyKxgQrRCf0ME6SVL75Zcc6krl30pmo/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/nSzl_4UpJGo) or [download](https://www2.itec.aau.at/owncloud/index.php/s/2JAUfJ8vH50nIul)
 2. Game Projects: Documents and Pitches ~ [slides](https://docs.google.com/presentation/d/1sJ3pFj_MCY1iGyKxgQrRCf0ME6SVL75Zcc6krl30pmo/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/8D-ZbYpilNc) or [download](https://www2.itec.aau.at/owncloud/index.php/s/tdDGAe1wLr61KiT)
-4. Prototyping ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+4. Prototyping ~ [slides](https://docs.google.com/presentation/d/15YbD4LLRIpwhlOomM3thijAGpY26LwRaYZTIt03fjwg/edit?usp=sharing) ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 5. Introduction to Programming ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 6. Basic Concepts in Game Programming ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 7. Playtests ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)

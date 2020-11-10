@@ -3,10 +3,10 @@
 The goal of this course is to introduce students to computer game engineering. This is
 not necessarily a technical issue especially as game engineering involves mostly non-technical work like
 creative audio, 3D and visual design, product management and planning, story boarding &amp; writing, and
-testing. 
+testing.
 
-After this course students should be able to understand the concepts and roles within a game project with the 
-knowledge how a game project can be set up and run, as well as detailed knowledge on particular processes within the 
+After this course students should be able to understand the concepts and roles within a game project with the
+knowledge how a game project can be set up and run, as well as detailed knowledge on particular processes within the
 project.
 
 The practical course associated with the lecture is taking place as a game jam. Find more information on that on the [game jam website](http://itec.aau.at/gamejam/).
@@ -15,7 +15,7 @@ The practical course associated with the lecture is taking place as a game jam. 
 
 Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
 
-The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/dermotte_)
+The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/dermotte_) and are available as recordings afterwards, either on Twitch or linked here on the web page.
 
 ## Topics
 
@@ -29,12 +29,22 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 6. Hands On with Game Engines ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 8. Sound & Interactive Music ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 
-## Modalities 
+## Modalities
 
-This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written 
-form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU). 
+This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written
+form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
 
 ## Links
+Here are some links to dive further into the topics of the course.
 
+### Programming
 - [Hour of Code](https://code.org) - Learn to program with a visual programming lecture
 - [Scratch](https://mit.scratch.edu) - Use the same visual programming lecture to create interactive programs and games
+
+### Prototyping
+- [Twine](https://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
+- [Ren'Py](https://www.renpy.org/) - A visual novel engine
+
+### Informative and fun videos
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz) - Covers many basic aspects of game dev
+- [GDC Vault](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) - Full length presentations from GDC

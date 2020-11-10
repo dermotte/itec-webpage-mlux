@@ -17,8 +17,6 @@ Due to the restrictions necessary to prevent the spread of COVID-19 we are going
 
 The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/dermotte_)
 
-A short introduction of myself by video is at [https://youtu.be/U6kNkMb-ORk](https://youtu.be/U6kNkMb-ORk)
-
 ## Topics
 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1A1ykm_71vhvAbD6ItCYujRJ8eOPev8ksZM-fZjoejWA/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/ChRykiDNdxc) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5OXcsfwZL3IbSFs)

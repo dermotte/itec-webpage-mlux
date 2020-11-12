@@ -32,7 +32,7 @@ This course is a _Seminar_, meaning that the grade is based on active participat
 
 A positive grade can be achieved by reaching at least Level 3 in the [Experience System](https://docs.google.com/spreadsheets/d/1bVMx1yMFUEj0xx668i2HjwBJt9RncX_cveRDOdVdxH8/edit?usp=sharing) for the class. **Mandatory tasks** are
 
-* Giving the intermediate presentation on Nov 12, 2020. [sample presentation](https://docs.google.com/presentation/d/1O-yT9JJSjKepgk9_VMDj44UPz9BoOCXYP1CI6w4Rf1c/edit?usp=sharing)
+* Giving the intermediate presentation on Nov 12, 2020. [sample presentation](https://docs.google.com/presentation/d/1O-yT9JJSjKepgk9_VMDj44UPz9BoOCXYP1CI6w4Rf1c/edit?usp=sharing) ... 3 minutes + 2 minutes Q&A
 * Giving a presentation at the end of Jan 2021: 10 minutes of presentation and 5 minutes of discussion each on Discord.
 * Handing in the seminar report until Feb 28, 2021.  
 

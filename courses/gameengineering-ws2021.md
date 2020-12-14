@@ -25,7 +25,7 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 4. Prototyping ~ [slides](https://docs.google.com/presentation/d/15YbD4LLRIpwhlOomM3thijAGpY26LwRaYZTIt03fjwg/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/cpPNW0zaP7U) or [download](https://www2.itec.aau.at/owncloud/index.php/s/D3wAR33vYlobWpA)
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1ALOndeNm3N7SaAU3yUDFXiQ-HJ_xm8mJThSEpcJ7nAs/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/s3tlS9m6Pco) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5hshTTPtuSZ4dGn)
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1BFeVs3X0dTLlDVTDDoauh0n72JczvndHEm9DO6eu5Wk/edit?usp=sharing) ~ lecture [Youtube part 1](https://youtu.be/l6bYkZJoVPI), [Youtube part 2](https://youtu.be/SDRmL0p3eX8) or [download part 1](https://www2.itec.aau.at/owncloud/index.php/s/vMU4WQABqKHcMxH), [download part 2](https://www2.itec.aau.at/owncloud/index.php/s/c0GdWUFVaZzL7rF)
-7. Playtests ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+7. Playtests ~ [slides](https://docs.google.com/presentation/d/1Z_TL_t5w1qIisWPJrk9ENlzLJHAyvi4X_M2j22iu5Bw/edit?usp=sharing) ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 6. Hands On with Game Engines ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 8. Sound & Interactive Music ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 

@@ -26,13 +26,14 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1ALOndeNm3N7SaAU3yUDFXiQ-HJ_xm8mJThSEpcJ7nAs/edit?usp=sharing) ~ lecture: [Youtube](https://youtu.be/s3tlS9m6Pco) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5hshTTPtuSZ4dGn)
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1BFeVs3X0dTLlDVTDDoauh0n72JczvndHEm9DO6eu5Wk/edit?usp=sharing) ~ lecture [Youtube part 1](https://youtu.be/l6bYkZJoVPI), [Youtube part 2](https://youtu.be/SDRmL0p3eX8) or [download part 1](https://www2.itec.aau.at/owncloud/index.php/s/vMU4WQABqKHcMxH), [download part 2](https://www2.itec.aau.at/owncloud/index.php/s/c0GdWUFVaZzL7rF)
 7. Playtests ~ [slides](https://docs.google.com/presentation/d/1Z_TL_t5w1qIisWPJrk9ENlzLJHAyvi4X_M2j22iu5Bw/edit?usp=sharing) ~ lecture [Youtube](https://youtu.be/ZO1jFdc1kpc) or [download](https://www2.itec.aau.at/owncloud/index.php/s/6DCVIw82bQOKd6R)
-6. Hands On with Game Engines ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+6. Animation ~ [slides](https://docs.google.com/presentation/d/1H29Mwk5X3bNdULU4kYV9mfvRqwl2TN3BNLbogEH1W9s/edit?usp=sharing) ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 8. Sound & Interactive Music ~ slides ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
 
 ## Modalities
 
-This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The exam will be in written
-form, take 50 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
+This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will be online, take 30 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
+
+Please check if you can access the [Moodle page](https://moodle.aau.at/course/view.php?id=30147). The exam will be available on Jan 25 at 10am CET for an hour. As soon as you start, you have 30 minutes to complete it. 
 
 ## Links
 Here are some links to dive further into the topics of the course.

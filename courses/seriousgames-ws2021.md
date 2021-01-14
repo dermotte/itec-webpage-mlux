@@ -20,21 +20,21 @@ All courses start s.t. if not otherwise noted.
 | Th, 12.11. | 10:00-11:30 | Discord | Intermediate presentations | none |
 | Th, 10.12. | 10:00-11:30 | Discord | Q&A (optional: drop by if you have questions) | none |
 | Th, 14.01. | 10:00-11:30 | Discord | Q&A (optional: drop by if you have questions) | none |
-| Th, 21.01. | 10:00-14:00 | Discord | Student Presentations (lunch break 11:30-12:30) | tba. |
-| Th, 28.01. | 16:00-19:00 | Discord | Student Presentations | tba. |
+| Th, 21.01. | 10:00-14:00 | Discord | Student Presentations (lunch break 11:30-12:30) | schedule in Discord |
+| Th, 28.01. | 16:00-19:00 | Discord | Student Presentations |  schedule in Discord |
 
 
 
 
 ## Modalities
 
-This course is a _Seminar_, meaning that the grade is based on active participation in the seminar as well as a final seminar presentation & written work. There will be a blocked lecture on XXX, where the group plays and discusses a game of that type.
+This course is a _Seminar_, meaning that the grade is based on active participation in the seminar as well as a final seminar presentation & written work. There will be a blocked lecture on Jan 21 & Jan 28, where the group plays and discusses a game of that type.
 
 A positive grade can be achieved by reaching at least Level 3 in the [Experience System](https://docs.google.com/spreadsheets/d/1bVMx1yMFUEj0xx668i2HjwBJt9RncX_cveRDOdVdxH8/edit?usp=sharing) for the class. **Mandatory tasks** are
 
 * Giving the intermediate presentation on Nov 12, 2020. [sample presentation](https://docs.google.com/presentation/d/1O-yT9JJSjKepgk9_VMDj44UPz9BoOCXYP1CI6w4Rf1c/edit?usp=sharing) (3 minutes presentation and 2 minutes of Q&A)
 * Giving a presentation at the end of Jan 2021: 10 minutes of presentation and 5 minutes of discussion each on Discord.
-* Handing in the seminar report until Feb 28, 2021.  
+* Handing in the seminar report (1500 words) until Feb 28, 2021.  
 
 ## Topics
 

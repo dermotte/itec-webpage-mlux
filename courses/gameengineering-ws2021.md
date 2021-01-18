@@ -27,7 +27,7 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1BFeVs3X0dTLlDVTDDoauh0n72JczvndHEm9DO6eu5Wk/edit?usp=sharing) ~ lecture [Youtube part 1](https://youtu.be/l6bYkZJoVPI), [Youtube part 2](https://youtu.be/SDRmL0p3eX8) or [download part 1](https://www2.itec.aau.at/owncloud/index.php/s/vMU4WQABqKHcMxH), [download part 2](https://www2.itec.aau.at/owncloud/index.php/s/c0GdWUFVaZzL7rF)
 7. Playtests ~ [slides](https://docs.google.com/presentation/d/1Z_TL_t5w1qIisWPJrk9ENlzLJHAyvi4X_M2j22iu5Bw/edit?usp=sharing) ~ lecture [Youtube](https://youtu.be/ZO1jFdc1kpc) or [download](https://www2.itec.aau.at/owncloud/index.php/s/6DCVIw82bQOKd6R)
 6. Animation ~ [slides](https://docs.google.com/presentation/d/1H29Mwk5X3bNdULU4kYV9mfvRqwl2TN3BNLbogEH1W9s/edit?usp=sharing) ~ lecture [Youtube](https://youtu.be/dKjIZ3JnfI4) or [download](https://www2.itec.aau.at/owncloud/index.php/s/WtxhLeJIcIKVQOx)
-8. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1KalOzA7AjnNcuIb0DJYPZ60N9a4S9PJGiw9vr0KU1GE/edit?usp=sharing) ~ [lecture upcoming](https://www.twitch.tv/dermotte_)
+8. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1KalOzA7AjnNcuIb0DJYPZ60N9a4S9PJGiw9vr0KU1GE/edit?usp=sharing) ~ lecture [Youtube](https://youtu.be/o89fSwO7jxo) or [download](https://www2.itec.aau.at/owncloud/index.php/s/wpWCFGU6LUFwDcQ)
 
 ## Modalities
 

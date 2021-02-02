@@ -41,6 +41,14 @@
         <a href="?id=courses/intro-cg-ss21.md">Introduction to Computer Graphics</a> -
         Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
     </li>
+    <li>
+        <a href="https://campus.aau.at/studium/course/101607">Practical Game Engineering</a> -
+        Course on computer game engineering from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="https://campus.aau.at/studium/course/101549">Modeling Sustainability in Board Games. Einführung Nachhaltige Entwicklung Teil III</a> -
+        Seminar on developing board games implementing and communicating sustainability models.
+    </li>
     <!--li>
         <a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems</a> -
         Seminar on advanced topics in multimedia systems.

@@ -30,6 +30,22 @@
         </div>
     </div>
 </div>
+<h2>Summer Semester 2021</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss21.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer games planning and development from the computer science bachelor program.
+        </div>
+    </li>
+    <li>
+        <a href="?id=courses/intro-cg-ss21.md">Introduction to Computer Graphics</a> -
+        Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li>
+    <!--li>
+        <a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems</a> -
+        Seminar on advanced topics in multimedia systems.
+    </li-->
+</ul>
 <h2>Winter Semester 2020/2021</h2>
 <ul>
     <li>

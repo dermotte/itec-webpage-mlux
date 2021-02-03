@@ -104,11 +104,8 @@
                 Austria
             </li>
             <li><span class="glyphicon glyphicon-map-marker"></span> Office: E.2.59</li>
-            <li><span class="glyphicon glyphicon-envelope"></span> Email: mlux [at] itec [dot] aau [dot] at</li>
-            <li><span class="glyphicon glyphicon-star"></span> Consultation hours: Monday, 3-4 pm, note: request
-                appointments
-                via
-                email.
+            <li><span class="glyphicon glyphicon-envelope"></span> Email: mathias [dot] lux [at] aau [dot] at</li>
+            <li><span class="glyphicon glyphicon-star"></span> Consultation hours (by video call): Monday, 3-4 pm, note: request appointments via email.
             </li>
             <li><span class="glyphicon glyphicon-heart"></span> <a
                     href="http://www.itec.uni-klu.ac.at/~mlux/cv-mlux.pdf"

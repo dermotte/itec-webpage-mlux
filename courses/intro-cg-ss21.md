@@ -2,7 +2,7 @@
 
 This course aims to give a basic understanding of computer graphics and its role in computer games.
 Topics will be a math primer, 2D and 3D graphics, shading, and hands on with practical tools.
-Grading is based on (i) mandatory assignments as well as (ii) a final project.
+Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a final exam
 
 ## Schedule
 
@@ -24,6 +24,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Do, 27.5.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 1 |  none |
 | Do, 10.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 2 |  none |
 | Do, 17.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
+| Do, 24.6.  | 13:00-14:30 | tba. | Final Exam |  none |
 
 
 ### References and Links
@@ -40,7 +41,7 @@ Please send the exercises to M. Lux until the end of the announced day.
 tba.
 
 ## Final Project
-Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming. 
+Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.
 
 For the presentation on June 17, 2021 make sure you can
 

@@ -13,7 +13,7 @@ The course aims to teach in a practical as well as in a theoretical way. Through
 lecture you will have (i) readings, (ii) practical assignments, (iii) a final exam and (iv) a final game project. The readings
 are specific to the lecture topic and will be referenced from the web page. Make sure you read (or watch)
 them. Questions might pop up in the final exam. The final grade is based on the (i)
-assignments as well as the final project and a (ii) final exam.
+assignments, (ii) the final project and a (iii) final exam.
 
 * Readings - For the course it's mandatory to read (or view, in case of videos, or even play in case of games) the readings. They will be announced throughout the course in the schedule table.
 * Practical assignment - Two practical assignments prior to the final project.
@@ -69,14 +69,14 @@ Submit your game to Mathias Lux via e-mail until **May 2nd, 2020, midnight**.
 ## Final Project
 Your final project can be done in a group with up to three people. To finish the project you need to:
 1. Hand in the project & the documentation
-   1. Link to the project (ie. itch.io, Github, WeTransfer, ...)
-   1. game concept document (1 page)
-   1. post mortem (1 page)
-   1. presentation slides
+    1. link to the project (ie. itch.io, Github, WeTransfer, ...)
+    1. game concept document (1 page)
+    1. post mortem (1 page)
+    1. presentation slides
 1. Present the project in the lecture on June 15 or June 21, 2020 (10 minutes max.)
-   1. list the group members
-   1. explain the concept
-   1. show the game
-   1. talk about the lessons learned (post mortem)
+    1. list the group members
+    1. explain the concept
+    1. show the game
+    1. talk about the lessons learned (post mortem)
 
 The project can be a stand-alone game, a level for a game, or a mod for a game. If you attended the game jam, please present your game jam project and just create the documents and slides.

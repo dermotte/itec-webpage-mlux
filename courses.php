@@ -49,6 +49,10 @@
         <a href="https://campus.aau.at/studium/course/101549">Modeling Sustainability in Board Games. Einführung Nachhaltige Entwicklung Teil III</a> -
         Seminar on developing board games implementing and communicating sustainability models.
     </li>
+    <li>
+        <a href="https://campus.aau.at/studium/course/101637">Peer Seminar</a> -
+        A doctoral seminar focusing on fostering the abilities to rapid prototyping and self organisation.
+    </li>
     <!--li>
         <a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems</a> -
         Seminar on advanced topics in multimedia systems.

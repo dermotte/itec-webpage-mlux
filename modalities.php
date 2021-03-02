@@ -26,3 +26,13 @@
         <li> re-read before you sent and make sure it's the final version.</li>
     </ul>
 </div>
+<h1>Submitting texts like theses or reports</h1>
+<div><p> Follow the rules of scientific publications. There are so many sources on how to structure and
+  write scientific papers out there, every major publishers provides one. Find one and apply it. Specifically:</p>
+    <ul>
+        <li> pick a format and structure you text properly. </li>
+        <li> cite properly! Plagiarism immediately leads to a grade 5 (failed)</li>
+        <li> use automated typo and grammar checks. </li>
+        <li> re-read before you sent and make sure it's the final version.</li>
+    </ul>
+</div>

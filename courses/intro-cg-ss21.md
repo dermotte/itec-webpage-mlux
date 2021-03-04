@@ -34,7 +34,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
  1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects
  1. [HDRI Haven](https://hdrihaven.com/) - CC0 licensed high quality HDRIs
 
-## Exercises
+## Exercises (Mandatory Assignments)
 
 Please send the exercises to M. Lux until the end of the announced day.
 
@@ -49,6 +49,14 @@ For the presentation on June 17, 2021 make sure you can
 2. outline your work (contribution), and
 3. discuss the lessons learned and obstacles encountered.
 
+## How to get a positive grade?
+Please make sure to fulfil the requirements to the letter. As the current situation requires to do everything online, I cannot build upon my communication with you in the classroom. If you cannot meet the requirements for a positive grade, please let me know before the deadlines, e.g. tell me that you are not able to submit an exercise before it is due.
+
+1. Hand in all assignments in time
+2. Do and present the final project
+3. Take the exam
+
+Each of the above makes up a third of your grade, but you have to submit them all to get a positive grade.
 
 ## Additional Materials
 

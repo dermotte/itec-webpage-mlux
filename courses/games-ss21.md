@@ -36,7 +36,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 26.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Loop  |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
 | Mo, 03.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | 2D Graphics  |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
 | Mo, 10.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Input and Sound | [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues) |
-| Mo, 17.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction to 3D Graphics  |  ... |
+| Mo, 17.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction to 3D Graphics  |  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4) |
 | Mo, 31.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game AI |  ... |
 | Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Physics |  ... |
 | Mo, 14.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations I |  none |

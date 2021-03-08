@@ -11,7 +11,7 @@ but slides and homepage are written in English. For assignments you can choose b
 ## Modalities
 The course aims to teach in a practical as well as in a theoretical way. Throughout the
 lecture you will have (i) readings, (ii) practical assignments, (iii) a final exam and (iv) a final game project. The readings
-are specific to the lecture topic and will be referenced from the web page. Make sure you read (or watch)
+are specific to the lecture topic and will be referenced from the web page. Make sure you read (or watch or play)
 them. Questions might pop up in the final exam. The final grade is based on the (i)
 assignments, (ii) the final project and a (iii) final exam.
 
@@ -22,13 +22,13 @@ assignments, (ii) the final project and a (iii) final exam.
 
 ## Schedule
 
-All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 all lectures take place online. After the online courses, lecture recordings are available.
+All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around COVID-19 all lectures take place online. After the online courses, lecture recordings are available.
 
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
-| Mo, 08.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction and motivation | [Game - AI Dungeon](https://aidungeon.io/) |
+| Mo, 08.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1dathDo-Po6KAVQqraHNir_EN_2Py0f9dqgI4xVnpo58/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
 | Mo, 15.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Business of Games | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 22.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
 | Mo, 12.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Production and Development | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
@@ -43,7 +43,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 21.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations II |  none |
 
 ## Game Jam
-You are strongly encouraged to take part in the game jam, date to be announced. You can join any group there and the game developed at the game jam can be presented as final project.
+You are strongly encouraged to take part in the game jam, May 28-30, 2021. You can join any group there and the game developed at the game jam can be presented as final project.
 
 ## Mandatory Exercise 01 - Pong with Löve
 For the first mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:

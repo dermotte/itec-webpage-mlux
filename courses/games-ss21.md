@@ -28,7 +28,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
-| Mo, 08.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1dathDo-Po6KAVQqraHNir_EN_2Py0f9dqgI4xVnpo58/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
+| Mo, 08.3.  | 14-16 | Video: [YouTube](https://youtu.be/FrfV5O5PPuk) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/aFFA6TX0Vd7EdRj) | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1dathDo-Po6KAVQqraHNir_EN_2Py0f9dqgI4xVnpo58/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
 | Mo, 15.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Business of Games | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
 | Mo, 22.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
 | Mo, 12.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Production and Development | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |

@@ -28,7 +28,8 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 
 
 ### References and Links
- 1. [Processing](https://processing.org/) - Java based software for the first part of the course
+ 1. [p5js](https://p5js.org/) - JavaScript based implementation for the first part of the course
+ 1. [Processing](https://processing.org/) - Java based implementation for the first part of the course
  1. [Blender Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) - Learn Blender on your own
  1. [CC0 Textures](https://cc0textures.com/) - CC0 licensed high quality textures
  1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects

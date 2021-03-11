@@ -13,7 +13,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Day    | Time   | Place  | Topic | Readings |
 |:------|:------|:------|:---|:---|
 | Do, 04.3.  | 13:00-14:30 | [YouTube](https://youtu.be/HGK7uk82qYA) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/o3XgIzBPexYZ1wq) | Introduction ~ [slides](https://docs.google.com/presentation/d/1jYbNgP9cNsM8VGe9yhJOynnrasTbjuSFqLg5dOE3cR4/edit?usp=sharing) |  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
-| Do, 11.3.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Math 101 |  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
+| Do, 11.3.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Do, 18.3.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Coordinates and Transformations |  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 25.3.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Meshes and Lights |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
 | Do, 15.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Shading  |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |

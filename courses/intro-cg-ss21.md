@@ -37,9 +37,13 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 
 ## Exercises (Mandatory Assignments)
 
-Please send the exercises to M. Lux until the end of the announced day.
+Please send the exercises (just the .js or the .pde file) to M. Lux until the end of the announced day. 
 
-tba.
+
+| ID | Title | Slide | Deadline | Example Solution |
+|:---|:---|:---|:---|:---|
+| EX 02-01 | Vector Reflection | #32 in [02](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing) | Apr 18, 2021 | ... |
+| EX 02-02 | The Lerp Game |  #44 in [02](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing) | Apr 18, 2021 | ... |
 
 ## Final Project
 Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.

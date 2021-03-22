@@ -30,15 +30,15 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 |:------|:------|:------|:---|:---|
 | Mo, 08.3.  | 14-16 | Video: [YouTube](https://youtu.be/FrfV5O5PPuk) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/aFFA6TX0Vd7EdRj) | Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1dathDo-Po6KAVQqraHNir_EN_2Py0f9dqgI4xVnpo58/edit?usp=sharing) | [Game - AI Dungeon](https://aidungeon.io/) |
 | Mo, 15.3.  | 14-16 | Video: [Youtube](https://youtu.be/RTvGzod2kok) or Download | Business of Games ~ [slides](https://docs.google.com/presentation/d/1LX8smG5tG1fyjUxYNEFRTey6P2zUB6Wg3_5NSpOAPTw/edit?usp=sharing) | [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1) |
-| Mo, 22.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
-| Mo, 12.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Production and Development | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
+| Mo, 22.3.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Loop ~ [slides](https://docs.google.com/presentation/d/1g1GFB01nXpeZRSttE-YPPN79c-Q_pbFG4inwbO144bQ/edit?usp=sharing)  | [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html) |
+| Mo, 12.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | 2D Graphics | [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8) |
 | Mo, 19.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Design  |  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0) |
-| Mo, 26.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Loop  |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
-| Mo, 03.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | 2D Graphics  |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
-| Mo, 10.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Input and Sound | [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues) |
-| Mo, 17.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction to 3D Graphics  |  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4) |
-| Mo, 31.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game AI |  ... |
-| Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Physics |  ... |
+| Mo, 26.4.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Input and Sound |  Try 2 or more [klujam games](https://itch.io/jam/7thklujam) |
+| Mo, 03.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Production and Development |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
+| Mo, 10.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Introduction to 3D Graphics | [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues) |
+| Mo, 17.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game AI |  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4) |
+| Mo, 31.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Physics |  ... |
+| Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games |  ... |
 | Mo, 14.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations I |  none |
 | Mo, 21.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations II |  none |
 

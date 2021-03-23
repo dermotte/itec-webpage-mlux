@@ -28,25 +28,20 @@
             Institute for Information Technology (ITEC) at Klagenfurt University. He is working on user intentions in
             multimedia retrieval and production, semantics in social multimedia systems, and interactive multimedia in
             the domain of video games. In his scientific
-            career he has (co-) authored more than 100 scientific publications, serves in multiple program committees
+            career he has (co-)authored more than 150 scientific publications, serves in multiple program committees
             and as reviewer of international conferences, journals and magazines on a regular basis, and has (co-)organized multiple scientific
             events. Mathias Lux is also well known for the development of the award winning and popular open source
             tools <a href="http://www.semanticmetadata.net">Caliph &amp; Emir</a> and <a
                 href="http://www.lire-project.net/">LIRE</a> for multimedia information retrieval. He has integrated image indexing and retrieval features in
             the popular Apache Solr search server and his system is for instance powering the WIPO Global Brand Database.
-            At Klagenfurt University he has established a lively community of game
-            developers and enthusiasts who meet at regular events and game jams.
+            At Alpen-Adria-Universität Klagenfurt he has co-founded the master program Game Studies and Engineering and actively contributes to the program
+            as head of the curriculum committee and regular lecturer. He established a lively community of game developers and enthusiasts who meet at
+            regular events and game jams in and around Klagenfurt. In the administration of the Alpen-Adria-Universität Klagenfurt, he serves as vice-chair
+            of the senate since 2013.
         </p>
 
         <p class="text-justify">
-            Dr. Mathias Lux received his M.S. in Mathematics 2004, his Ph.D. in Telematics 2006 from Graz University of
-            Technology, both with distinction, and his Habilitation (venia docendi) from Klagenfurt University in 2013.
-            He worked in industry on web-based applications, then as a junior researcher at a research center for
-            knowledge-based applications. He was research and teaching assistant at the Knowledge Management Institute
-            (KMI) of Graz University of Technology and in 2006 he started working in a post doc position at Klagenfurt
-            University, at the Institute for Information Technology. Currently he is vice chairman of the senate of
-            Klagenfurt University in the second term and chairman of the curriculum committee for the master program
-            Game Studies and Engineering.
+            Mathias Lux received his M.S. in Mathematics 2004, his PhD in Telematics 2006 from Graz University of Technology, both with distinction. He received his Habilitation (venia docendi) from Alpen-Adria-Universität Klagenfurt in 2013. He worked in the industry on web-based applications for several small Carinthian and Styrian companies, then as a junior researcher at the Know-Center, a research centre for knowledge-based applications, in Graz. He was a research and teaching assistant at the Knowledge Management Institute (KMI) at the Graz University of Technology and in 2006 he started working in a post-doc position at Alpen-Adria-Universität Klagenfurt, at the Institute for Information Technology. 
         </p>
 
         <p>

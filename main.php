@@ -41,7 +41,7 @@
         </p>
 
         <p class="text-justify">
-            Mathias Lux received his M.S. in Mathematics 2004, his PhD in Telematics 2006 from Graz University of Technology, both with distinction. He received his Habilitation (venia docendi) from Alpen-Adria-Universität Klagenfurt in 2013. He worked in the industry on web-based applications for several small Carinthian and Styrian companies, then as a junior researcher at the Know-Center, a research centre for knowledge-based applications, in Graz. He was a research and teaching assistant at the Knowledge Management Institute (KMI) at the Graz University of Technology and in 2006 he started working in a post-doc position at Alpen-Adria-Universität Klagenfurt, at the Institute for Information Technology. 
+            Mathias Lux received his M.S. in Mathematics 2004, his PhD in Telematics 2006 from Graz University of Technology, both with distinction. He received his Habilitation (venia docendi) from Alpen-Adria-Universität Klagenfurt in 2013. He worked in the industry on web-based applications for several small Carinthian and Styrian companies, then as a junior researcher at the Know-Center, a research centre for knowledge-based applications, in Graz. He was a research and teaching assistant at the Knowledge Management Institute (KMI) at the Graz University of Technology and in 2006 he started working in a post-doc position at Alpen-Adria-Universität Klagenfurt, at the Institute for Information Technology.
         </p>
 
         <p>
@@ -92,8 +92,8 @@
 
         <h2>Contact</h2>
         <ul class="list-unstyled">
-            <li><span class="glyphicon glyphicon-phone"></span> Phone: +43 (463) 2700 3615</li>
-            <li><span class="glyphicon glyphicon-phone-alt"></span> Fax: +43 (463) 2700 99 3615</li>
+            <li><span class="glyphicon glyphicon-phone"></span> Phone: +43 (463) two thousand seven hundred three-six-one-five</li>
+            <li><span class="glyphicon glyphicon-phone-alt"></span> Fax: +43 (463) two thousand seven hundred 99 three-six-one-five</li>
             <li><span class="glyphicon glyphicon-map-marker"></span> Address: Universit&auml;tsstrasse 65-67, 9020
                 Klagenfurt,
                 Austria

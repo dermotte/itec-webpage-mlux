@@ -14,8 +14,8 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 |:------|:------|:------|:---|:---|
 | Do, 04.3.  | 13:00-14:30 | [YouTube](https://youtu.be/HGK7uk82qYA) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/o3XgIzBPexYZ1wq) | Introduction ~ [slides](https://docs.google.com/presentation/d/1jYbNgP9cNsM8VGe9yhJOynnrasTbjuSFqLg5dOE3cR4/edit?usp=sharing) |  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U) |
 | Do, 11.3.  | 13:00-14:30 | [YouTube](https://youtu.be/_pbju0JLWCo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/hDhKFk54r4lwYsy) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
-| Do, 18.3.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1WWj0B6lDPHY0id-79rTsTqQQUoQiGRS01XfKwabAhN8/edit?usp=sharing) |  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
-| Do, 25.3.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Meshes and Lights |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
+| Do, 18.3.  | 13:00-14:30 | [YouTube](https://youtu.be/0AtTEoz9924) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/i3PPcPCmMXOjXoq) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1WWj0B6lDPHY0id-79rTsTqQQUoQiGRS01XfKwabAhN8/edit?usp=sharing) |  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
+| Do, 25.3.  | 13:00-14:30 | [YouTube](https://youtu.be/xzmaKWHLAlo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/AhrKwCJFSerJYyQ) | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1w5SIGO83UayAlYveVtaSOR1BDke3PtNpwbtzQlMcXgs/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
 | Do, 15.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Shading  |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
 | Do, 22.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Cameras  |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
 | Do, 29.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Textures |  none |
@@ -45,7 +45,7 @@ Please send the exercises (just the .js or the .pde file) to M. Lux until the en
 | EX 02-01 | Vector Reflection | #32 in [02](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing) | Apr 18, 2021 | ... |
 | EX 02-02 | The Lerp Game |  #44 in [02](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing) | Apr 18, 2021 | ... |
 | EX 03-01 | Two Boxes |  #50 in [03](https://docs.google.com/presentation/d/1WWj0B6lDPHY0id-79rTsTqQQUoQiGRS01XfKwabAhN8/edit?usp=sharing) | Apr 25, 2020 | ... |
-
+| EX 04-01 | Light a Scene |  #36 in [04](https://docs.google.com/presentation/d/1w5SIGO83UayAlYveVtaSOR1BDke3PtNpwbtzQlMcXgs/edit?usp=sharing) | April 25, 2020 | ... |
 
 ## Final Project
 Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.

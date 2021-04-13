@@ -6,7 +6,7 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 
 ## Schedule
 
-All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 all lectures take place online. After the online courses, lecture recordings are available.
+All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 all lectures take place online. After the online courses, lecture recordings are available. Live lectures are taking place on the Twitch Channel [https://www.twitch.tv/dermotte_](https://www.twitch.tv/dermotte_).
 
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 

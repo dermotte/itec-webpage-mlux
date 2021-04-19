@@ -6,7 +6,7 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 
 ## Schedule
 
-All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 all lectures take place online. After the online courses, lecture recordings are available.
+All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 all lectures take place online. After the online courses, lecture recordings are available. Live lectures are taking place on the Twitch Channel [https://www.twitch.tv/dermotte_](https://www.twitch.tv/dermotte_).
 
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 
@@ -16,7 +16,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Do, 11.3.  | 13:00-14:30 | [YouTube](https://youtu.be/_pbju0JLWCo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/hDhKFk54r4lwYsy) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Do, 18.3.  | 13:00-14:30 | [YouTube](https://youtu.be/0AtTEoz9924) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/i3PPcPCmMXOjXoq) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1WWj0B6lDPHY0id-79rTsTqQQUoQiGRS01XfKwabAhN8/edit?usp=sharing) |  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 25.3.  | 13:00-14:30 | [YouTube](https://youtu.be/xzmaKWHLAlo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/AhrKwCJFSerJYyQ) | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1w5SIGO83UayAlYveVtaSOR1BDke3PtNpwbtzQlMcXgs/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
-| Do, 15.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Shading  |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
+| Do, 15.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Shading  ~ [slides](https://docs.google.com/presentation/d/16Ey_mK2Y2pJQwlNEpGmmaYX6bfAOZG3H8IXwL14R2c4/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
 | Do, 22.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Cameras  |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
 | Do, 29.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Textures |  none |
 | Tu, 06.5.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | VR & the uncanny valley  |  none |

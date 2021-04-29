@@ -18,7 +18,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Do, 25.3.  | 13:00-14:30 | [YouTube](https://youtu.be/xzmaKWHLAlo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/AhrKwCJFSerJYyQ) | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1w5SIGO83UayAlYveVtaSOR1BDke3PtNpwbtzQlMcXgs/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
 | Do, 15.4.  | 13:00-14:30 | [YouTube](https://youtu.be/b0rb90Sb0E0) or [download](https://www2.itec.aau.at/owncloud/index.php/s/yN3a0G0qVzu2HMj) | Shading  ~ [slides](https://docs.google.com/presentation/d/16Ey_mK2Y2pJQwlNEpGmmaYX6bfAOZG3H8IXwL14R2c4/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
 | Do, 22.4.  | 13:00-14:30 | [YouTube](https://youtu.be/FjBKV2_OQSQ) or [download](https://www2.itec.aau.at/owncloud/index.php/s/tpDJ0KHTLJqRvPO) | Cameras ~ [slides](https://docs.google.com/presentation/d/1Wm-w8TCFoPGtJNvIYvy4kstMc5uK_9GvyvKIBsTVrI4/edit?usp=sharing)  |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
-| Do, 29.4.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Textures |  none |
+| Do, 29.4.  | 13:00-14:30 | [Youtube](https://youtu.be/sKasYzZ7YJA) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5EANBWDaMkbUDE0) | Textures |  none |
 | Tu, 06.5.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | VR & the uncanny valley  |  none |
 | Do, 20.5.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering|  none |
 | Do, 27.5.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 1 |  none |
@@ -47,6 +47,7 @@ Please send the exercises (just the .js or the .pde file) to M. Lux until the en
 | EX 03-01 | Two Boxes |  #50 in [03](https://docs.google.com/presentation/d/1WWj0B6lDPHY0id-79rTsTqQQUoQiGRS01XfKwabAhN8/edit?usp=sharing) | Apr 25, 2021 | ... |
 | EX 04-01 | Light a Scene |  #36 in [04](https://docs.google.com/presentation/d/1w5SIGO83UayAlYveVtaSOR1BDke3PtNpwbtzQlMcXgs/edit?usp=sharing) | April 25, 2021 | ... |
 | EX 06-01 | Bounded Camera |  #16 in [06](https://docs.google.com/presentation/d/1Wm-w8TCFoPGtJNvIYvy4kstMc5uK_9GvyvKIBsTVrI4/edit?usp=sharing) | May 16, 2021 | ... |
+| EX 07-01 | Six-Sided Die |  #30 in [07](https://docs.google.com/presentation/d/1pQI1mTKIIZhz1j2VgTpsh1RcW5PprKGQN-Yi_o7mLAs/edit?usp=sharing) | May 23, 2021 | ... |
 
 ## Final Project
 Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.

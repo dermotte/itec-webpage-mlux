@@ -52,7 +52,7 @@ For the first mandatory exercise you are to create a Pong clone with [Löve2D](h
 1. Use `love.graphics.rectangle(...)` to paint the bars and the ball
 1. Control by keyboard
 
-Submit your Pong clone to Mathias Lux via e-mail until **April 18th, 2021, midnight**.
+Submit your Pong clone, preferrably as a .love file, to Mathias Lux via e-mail until **April 18th, 2021, midnight**.
 
 Are you not challenged enough? - Use the [Windfield physics wrapper for Löve2D](https://github.com/adnzzzzZ/windfield) to create a pong version with a physics engine in the back end. Make sure to reduce friction of the ball and set the position of the paddles in the update callback function ;)   
 
@@ -64,7 +64,7 @@ For the second mandatory exercise you are to create a game, where you land rocke
 1. Let the game be similar to the example: [play in browser](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/) or [download for windows](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/example-game-windows.zip)
 1. Submit as zipped Godot Project.
 
-Submit your game to Mathias Lux via e-mail until **May 2nd, 2021, midnight**.
+Submit your game, the zipped project folder, to Mathias Lux via e-mail until **May 2nd, 2021, midnight**.
 
 ## Final Project
 Your final project can be done in a group with up to three people. To finish the project you need to:

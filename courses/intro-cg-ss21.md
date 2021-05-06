@@ -50,7 +50,7 @@ Please send the exercises (just the .js or the .pde file) to M. Lux until the en
 | EX 07-01 | Six-Sided Die |  #30 in [07](https://docs.google.com/presentation/d/1pQI1mTKIIZhz1j2VgTpsh1RcW5PprKGQN-Yi_o7mLAs/edit?usp=sharing) | May 23, 2021 | ... |
 
 ## Final Project
-Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if you this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics and get creative with a tool of your choice. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.
+Please prepare your final project until **June 17, 2021**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics, and get creative with a tool of your choice. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.
 
 For the presentation on June 17, 2021 make sure you can
 
@@ -58,12 +58,12 @@ For the presentation on June 17, 2021 make sure you can
 2. outline your work (contribution), and
 3. discuss the lessons learned and obstacles encountered.
 
-Please also make sure to deliver the following items in a ZIP file via upload on Moodle until **June 27, 2021**
+Please also make sure to deliver the following items in a ZIP file via upload on [Moodle](https://moodle.aau.at/course/view.php?id=31660) until **June 27, 2021**
 
 1. Your work as source code or a link to Github, Bitbucket, etc.
 2. Your result as rendering (images, movie) or executable (eg. Windows or web)
 3. Your slides from the presentation
-4. A PDF work report with a (i) cover page including your name and student number, (ii) a main text body of around 800 words (2 pages) detailing what you did, how you did it and what you learned.
+4. A PDF work report with a (i) cover page including your name and student number, (ii) a main text body of around 800 words (2 pages) detailing what you did, how you did it, and what you learned.
 
 ## How to get a positive grade?
 Please make sure to fulfil the requirements to the letter. As the current situation requires to do everything online, I cannot build upon my communication with you in the classroom. If you cannot meet the requirements for a positive grade, please let me know before the deadlines, e.g. tell me that you are not able to submit an exercise before it is due.

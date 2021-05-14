@@ -37,8 +37,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 
 ## Exercises (Mandatory Assignments)
 
-Please send the exercises (just the .js or the .pde file) to M. Lux until the end of the announced day.
-
+Please send the exercises (just the .js or the .pde file and eventual texture or model files) to M. Lux via [email](http://www.itec.uni-klu.ac.at/~mlux/) until the end of the announced day.
 
 | ID | Title | Slide | Deadline | Example Solution |
 |:---|:---|:---|:---|:---|

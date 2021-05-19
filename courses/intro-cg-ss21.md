@@ -16,13 +16,13 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Do, 11.3.  | 13:00-14:30 | [YouTube](https://youtu.be/_pbju0JLWCo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/hDhKFk54r4lwYsy) | Math 101 ~ [slides](https://docs.google.com/presentation/d/1AOAeeaW1-FTdL0pFCMDzZpPccLDtLgMyd6nBwLliZcQ/edit?usp=sharing)|  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk) |
 | Do, 18.3.  | 13:00-14:30 | [YouTube](https://youtu.be/0AtTEoz9924) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/i3PPcPCmMXOjXoq) | Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1WWj0B6lDPHY0id-79rTsTqQQUoQiGRS01XfKwabAhN8/edit?usp=sharing) |  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/) |
 | Do, 25.3.  | 13:00-14:30 | [YouTube](https://youtu.be/xzmaKWHLAlo) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/AhrKwCJFSerJYyQ) | Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1w5SIGO83UayAlYveVtaSOR1BDke3PtNpwbtzQlMcXgs/edit?usp=sharing) |  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)  |
-| Do, 15.4.  | 13:00-14:30 | [YouTube](https://youtu.be/b0rb90Sb0E0) or [download](https://www2.itec.aau.at/owncloud/index.php/s/yN3a0G0qVzu2HMj) | Shading  ~ [slides](https://docs.google.com/presentation/d/16Ey_mK2Y2pJQwlNEpGmmaYX6bfAOZG3H8IXwL14R2c4/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
-| Do, 22.4.  | 13:00-14:30 | [YouTube](https://youtu.be/FjBKV2_OQSQ) or [download](https://www2.itec.aau.at/owncloud/index.php/s/tpDJ0KHTLJqRvPO) | Cameras ~ [slides](https://docs.google.com/presentation/d/1Wm-w8TCFoPGtJNvIYvy4kstMc5uK_9GvyvKIBsTVrI4/edit?usp=sharing)  |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
-| Do, 29.4.  | 13:00-14:30 | [Youtube](https://youtu.be/sKasYzZ7YJA) or [download](https://www2.itec.aau.at/owncloud/index.php/s/5EANBWDaMkbUDE0) | Textures  ~ [slides](https://docs.google.com/presentation/d/1pQI1mTKIIZhz1j2VgTpsh1RcW5PprKGQN-Yi_o7mLAs/edit?usp=sharing) |  none |
-| Tu, 06.5.  | 13:00-14:30 | [Youtube](https://youtu.be/05wFRwl4Ss0) or [download](https://www2.itec.aau.at/owncloud/index.php/s/cyeOQUEVq58KUoO) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/14yulYNrU11NonLpAAnRppYyK-Bg42XR8hmbuaWUIsl0/edit?usp=sharing) |  none |
-| Do, 20.5.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering|  none |
-| Do, 27.5.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 1 |  none |
-| Do, 10.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 2 |  none |
+| Do, 15.4.  | 13:00-14:30 | [YouTube](https://youtu.be/b0rb90Sb0E0) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/yN3a0G0qVzu2HMj) | Shading  ~ [slides](https://docs.google.com/presentation/d/16Ey_mK2Y2pJQwlNEpGmmaYX6bfAOZG3H8IXwL14R2c4/edit?usp=sharing) |  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY) |
+| Do, 22.4.  | 13:00-14:30 | [YouTube](https://youtu.be/FjBKV2_OQSQ) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/tpDJ0KHTLJqRvPO) | Cameras ~ [slides](https://docs.google.com/presentation/d/1Wm-w8TCFoPGtJNvIYvy4kstMc5uK_9GvyvKIBsTVrI4/edit?usp=sharing)  |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
+| Do, 29.4.  | 13:00-14:30 | [Youtube](https://youtu.be/sKasYzZ7YJA) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/5EANBWDaMkbUDE0) | Textures  ~ [slides](https://docs.google.com/presentation/d/1pQI1mTKIIZhz1j2VgTpsh1RcW5PprKGQN-Yi_o7mLAs/edit?usp=sharing) |  none |
+| Tu, 06.5.  | 13:00-14:30 | [Youtube](https://youtu.be/05wFRwl4Ss0) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/cyeOQUEVq58KUoO) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/14yulYNrU11NonLpAAnRppYyK-Bg42XR8hmbuaWUIsl0/edit?usp=sharing) |  none |
+| Do, 20.5.  | recorded | [Youtube](https://youtu.be/eW2PZb8VGho) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/JzPhFsx3NBhkCqW) | Blender Fundamentals Part 1 ~ [slides](https://docs.google.com/presentation/d/1oFfn77Mmvx7z_AMmnkQfASMnGbTQMGcShaLcSGgqUdo/edit?usp=sharing) |  none |
+| Do, 27.5.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 2 |  none |
+| Do, 10.6.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering|  none |
 | Do, 17.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
 | Do, 24.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
 
@@ -30,10 +30,12 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 ### References and Links
  1. [p5js](https://p5js.org/) - JavaScript based implementation for the first part of the course
  1. [Processing](https://processing.org/) - Java based implementation for the first part of the course
- 1. [Blender Tutorials](https://www.youtube.com/playlist?list=PLa1F2ddGya_8V90Kd5eC5PeBjySbXWGK1) - Learn Blender on your own
+ 1. [Blender Tutorials](https://www.blender.org/support/tutorials/) - Learn Blender on your own
+ 1. [Blender Step-By-Step Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) - It's for Blender 2.8, but it's still valid
  1. [CC0 Textures](https://cc0textures.com/) - CC0 licensed high quality textures
  1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects
  1. [HDRI Haven](https://hdrihaven.com/) - CC0 licensed high quality HDRIs
+ 1. [Kenney Assets](https://www.kenney.nl/assets) - CC0 licensed assets that can be used in Blender
 
 ## Exercises (Mandatory Assignments)
 

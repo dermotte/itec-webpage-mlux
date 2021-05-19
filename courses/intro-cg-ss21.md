@@ -20,9 +20,9 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Do, 22.4.  | 13:00-14:30 | [YouTube](https://youtu.be/FjBKV2_OQSQ) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/tpDJ0KHTLJqRvPO) | Cameras ~ [slides](https://docs.google.com/presentation/d/1Wm-w8TCFoPGtJNvIYvy4kstMc5uK_9GvyvKIBsTVrI4/edit?usp=sharing)  |  [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
 | Do, 29.4.  | 13:00-14:30 | [Youtube](https://youtu.be/sKasYzZ7YJA) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/5EANBWDaMkbUDE0) | Textures  ~ [slides](https://docs.google.com/presentation/d/1pQI1mTKIIZhz1j2VgTpsh1RcW5PprKGQN-Yi_o7mLAs/edit?usp=sharing) |  none |
 | Tu, 06.5.  | 13:00-14:30 | [Youtube](https://youtu.be/05wFRwl4Ss0) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/cyeOQUEVq58KUoO) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/14yulYNrU11NonLpAAnRppYyK-Bg42XR8hmbuaWUIsl0/edit?usp=sharing) |  none |
-| Do, 20.5.  | recorded | [Youtube](https://youtu.be/eW2PZb8VGho) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/JzPhFsx3NBhkCqW) | Blender Fundamentals Part 1 ~ [slides](https://docs.google.com/presentation/d/1oFfn77Mmvx7z_AMmnkQfASMnGbTQMGcShaLcSGgqUdo/edit?usp=sharing) |  none |
-| Do, 27.5.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Blender Fundamentals Part 2 |  none |
-| Do, 10.6.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering|  none |
+| Do, 20.5.  | recorded | [Youtube](https://youtu.be/eW2PZb8VGho) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/JzPhFsx3NBhkCqW) | Blender Fundamentals Part 1 ~ [slides](https://docs.google.com/presentation/d/1oFfn77Mmvx7z_AMmnkQfASMnGbTQMGcShaLcSGgqUdo/edit?usp=sharing) |  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) |
+| Do, 27.5.  | recorded | [Youtube](https://youtu.be/YXHusBi2B7I) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/ST59miT1FJFnRzA) | Blender Fundamentals Part 2 |  [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw) |
+| Do, 10.6.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering|  none  |
 | Do, 17.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
 | Do, 24.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
 

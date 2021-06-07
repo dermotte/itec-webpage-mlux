@@ -38,7 +38,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 10.5.  | 14-16 | [Youtube](https://youtu.be/bWxh_fDS18M) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/mwVoTPx2dS9Q8Ll) | Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1n6_9LW4vH9j3HQch26JnTYuiVtqTwM_7N-BPql5hR5M/edit?usp=sharing) | [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues) |
 | Mo, 17.5.  | 14-16 | [Youtube](https://youtu.be/xgFIIY4Sn2A) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/L1SZRg767v1mOvE) | Game AI ~ [slides](https://docs.google.com/presentation/d/1Xn8ch6jAo3NOlKmxgsDmqha3-6KI3AUxl-OOAanbpig/edit?usp=sharing) |  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4) |
 | Mo, 31.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Physics ~ [slides](https://docs.google.com/presentation/d/1y5knjshSRN-YiB4I3ArwWg_87SR118LjeW5ecaHjRiE/edit?usp=sharing)|  ... |
-| Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games |  ... |
+| Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_iH0DDRFyeG897nIdYJVNwhGm8qlg-gcjinjKDC-3oY/edit?usp=sharing) |  ... |
 | Mo, 14.6.  | 14-16 | AAU Classroom | Student Projects: Presentations I |  none |
 | Mo, 21.6.  | 14-15.30 | AAU Classroom | Student Projects: Presentations II |  none |
 | Mo, 21.6.  | 15.30-16 | AAU Classroom | Final Exam (online) |  none |

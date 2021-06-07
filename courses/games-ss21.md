@@ -39,8 +39,9 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 17.5.  | 14-16 | [Youtube](https://youtu.be/xgFIIY4Sn2A) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/L1SZRg767v1mOvE) | Game AI ~ [slides](https://docs.google.com/presentation/d/1Xn8ch6jAo3NOlKmxgsDmqha3-6KI3AUxl-OOAanbpig/edit?usp=sharing) |  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4) |
 | Mo, 31.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Physics ~ [slides](https://docs.google.com/presentation/d/1y5knjshSRN-YiB4I3ArwWg_87SR118LjeW5ecaHjRiE/edit?usp=sharing)|  ... |
 | Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games |  ... |
-| Mo, 14.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations I |  none |
-| Mo, 21.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations II |  none |
+| Mo, 14.6.  | 14-16 | AAU Classroom | Student Projects: Presentations I |  none |
+| Mo, 21.6.  | 14-15.30 | AAU Classroom | Student Projects: Presentations II |  none |
+| Mo, 21.6.  | 15.30-16 | AAU Classroom | Final Exam (online) |  none |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, May 28-30, 2021. You can join any group there and the game developed at the game jam can be presented as final project.
@@ -73,7 +74,7 @@ Your final project can be done in a group with up to three people. To finish the
     1. game concept document (1 page)
     1. post mortem (1 page)
     1. presentation slides
-1. Present the project in the lecture on June 15 or June 21, 2020 (10 minutes max.)
+1. Present the project in the lecture on June 15 or June 21, 2020 (6 minutes presentation, 4 minutes Q&A)
     1. list the group members
     1. explain the concept
     1. show the game

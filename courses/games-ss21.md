@@ -18,7 +18,7 @@ assignments, (ii) the final project and a (iii) final exam.
 * Readings - For the course it's mandatory to read (or view, in case of videos, or even play in case of games) the readings. They will be announced throughout the course in the schedule table.
 * Practical assignment - Two practical assignments prior to the final project.
 * Written exam - A final, short exam on the course topics at the end of the course.     
-* Final project - Create a game in a group, more information see below.
+* Final project - Create a game in a group, more information see below - [Catalogue of Questions](https://docs.google.com/document/d/1Svj9aGtjdiXSUcBzJvNer7O8ax48z1QbaZZoVAjwXS8/edit?usp=sharing).
 
 ## Schedule
 
@@ -37,10 +37,11 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Mo, 03.5.  | 14-16 | [Youtube](https://youtu.be/tqoDoLX-RFk) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/MeTl7Tlqw2xAwvq) | Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1QKZ3dqWc9MRjHmcLZh6keSS3nO1z-wFMUY9GwhKrYN4/edit?usp=sharing) |  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg) |
 | Mo, 10.5.  | 14-16 | [Youtube](https://youtu.be/bWxh_fDS18M) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/mwVoTPx2dS9Q8Ll) | Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1n6_9LW4vH9j3HQch26JnTYuiVtqTwM_7N-BPql5hR5M/edit?usp=sharing) | [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues) |
 | Mo, 17.5.  | 14-16 | [Youtube](https://youtu.be/xgFIIY4Sn2A) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/L1SZRg767v1mOvE) | Game AI ~ [slides](https://docs.google.com/presentation/d/1Xn8ch6jAo3NOlKmxgsDmqha3-6KI3AUxl-OOAanbpig/edit?usp=sharing) |  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4) |
-| Mo, 31.5.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Game Physics |  ... |
-| Mo, 07.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | History of Games |  ... |
-| Mo, 14.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations I |  none |
-| Mo, 21.6.  | 14-16 | [online](https://www.twitch.tv/dermotte_) | Student Projects: Presentations II |  none |
+| Mo, 31.5.  | 14-16 | [Youtube](https://youtu.be/3H89JF-Enqw) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/D0JAbYaCWJQy4b0) | Game Physics ~ [slides](https://docs.google.com/presentation/d/1y5knjshSRN-YiB4I3ArwWg_87SR118LjeW5ecaHjRiE/edit?usp=sharing)|  ... |
+| Mo, 07.6.  | 14-16 | [Youtube](https://youtu.be/oF3GvK2mQ1w) or [Download](https://www2.itec.aau.at/owncloud/index.php/s/FVamJFxOz9r9M0t) | History of Games ~ [slides](https://docs.google.com/presentation/d/1_iH0DDRFyeG897nIdYJVNwhGm8qlg-gcjinjKDC-3oY/edit?usp=sharing) |  ... |
+| Mo, 14.6.  | 14-16 | AAU Classroom | Student Projects: Presentations I |  none |
+| Mo, 21.6.  | 14-15.30 | AAU Classroom | Student Projects: Presentations II |  none |
+| Mo, 21.6.  | 15.30-16 | AAU Classroom | Final Exam (online) - [Catalogue of Questions](https://docs.google.com/document/d/1Svj9aGtjdiXSUcBzJvNer7O8ax48z1QbaZZoVAjwXS8/edit?usp=sharing) |  none |
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, May 28-30, 2021. You can join any group there and the game developed at the game jam can be presented as final project.
@@ -73,7 +74,7 @@ Your final project can be done in a group with up to three people. To finish the
     1. game concept document (1 page)
     1. post mortem (1 page)
     1. presentation slides
-1. Present the project in the lecture on June 15 or June 21, 2020 (10 minutes max.)
+1. Present the project in the lecture on June 15 or June 21, 2020 (6 minutes presentation, 4 minutes Q&A)
     1. list the group members
     1. explain the concept
     1. show the game

@@ -22,7 +22,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 | Tu, 06.5.  | 13:00-14:30 | [Youtube](https://youtu.be/05wFRwl4Ss0) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/cyeOQUEVq58KUoO) | VR & the uncanny valley ~ [slides](https://docs.google.com/presentation/d/14yulYNrU11NonLpAAnRppYyK-Bg42XR8hmbuaWUIsl0/edit?usp=sharing) |  none |
 | Do, 20.5.  | recorded | [Youtube](https://youtu.be/eW2PZb8VGho) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/JzPhFsx3NBhkCqW) | Blender Fundamentals Part 1 ~ [slides](https://docs.google.com/presentation/d/1oFfn77Mmvx7z_AMmnkQfASMnGbTQMGcShaLcSGgqUdo/edit?usp=sharing) |  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) |
 | Do, 27.5.  | recorded | [Youtube](https://youtu.be/YXHusBi2B7I) ~ [download](https://www2.itec.aau.at/owncloud/index.php/s/ST59miT1FJFnRzA) | Blender Fundamentals Part 2 |  [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw) |
-| Do, 10.6.  | 13:00-14:30 | [online](https://www.twitch.tv/dermotte_) | Raytracing / Real Time Rendering|  none  |
+| Do, 10.6.  | 13:00-13:30 | [Discord](https://discord.gg/YnX6AKG) | Q&A |  none  |
 | Do, 17.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
 | Do, 24.6.  | 13:00-14:30 | [Discord](https://discord.gg/YnX6AKG) | Student Presentations |  none |
 

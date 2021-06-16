@@ -55,6 +55,10 @@
             <a href="scriptrun.html" class="btn btn-success btn-lg btn-block">Javascript in browser</a>
             <p>Simple method to run Javascript in the browser.</p>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <a href="maze.html" class="btn btn-success btn-lg btn-block">Maze Generator</a>
+            <p>Maze generator based on Prim's algorithm</p>
+        </div>
     </div>
 </div>
 

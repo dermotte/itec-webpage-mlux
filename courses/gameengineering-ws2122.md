@@ -1,0 +1,52 @@
+# Game Engineering
+
+The goal of this course is to introduce students to computer game engineering. This is
+not necessarily a technical issue, especially as game engineering involves mostly non-technical work like
+creative audio, 3D and visual design, product management and planning, story boarding &amp; writing, and
+testing.
+
+After this course, students should be able to understand the concepts and roles within a game project with the
+knowledge of how a game project can be set up and run, as well as detailed knowledge on particular processes within the
+project.
+
+The practical course associated with the lecture is taking place as a game jam. Find more information on the [game jam website](http://itec.aau.at/gamejam/) soon.
+
+## Online, but How?
+
+Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering online. Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
+
+The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/dermotte_) and are available as recordings afterwards, either on Twitch or linked here on the web page.
+
+## Topics
+
+1. Introduction & Computer Game History 
+3. Game Projects: Processes and Roles 
+2. Game Projects: Documents and Pitches 
+4. Prototyping 
+5. Introduction to Programming 
+6. Basic Concepts in Game Programming 
+7. Playtests 
+6. Animation 
+8. Sound & Interactive Music 
+
+## Modalities
+
+This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will be online, take 30 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
+
+## Links
+Here are some links to dive further into the topics of the course.
+
+### Programming
+Getting startetd with programming without prior knowledge ..
+- [Hour of Code](https://code.org) - Learn to program with a visual programming lecture
+- [Scratch](https://mit.scratch.edu) - Use the same visual programming lecture to create interactive programs and games
+
+### Prototyping
+Simple engines for sketching out ideas. 
+- [Twine](https://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
+- [Ren'Py](https://www.renpy.org/) - A visual novel engine
+
+### Informative and fun videos
+You want to know more? Here's a lot of material that goes beyond the course. 
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz) - Covers many basic aspects of game dev
+- [GDC Vault](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) - Full length presentations from GDC

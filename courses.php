@@ -20,8 +20,7 @@
 
             <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
                         href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H.
-                Kosch
-                and some others. </p>
+                Kosch et al. </p>
             <p> Finally, there are quite some questions that come up every year, so I have a list of <a
                         href="?id=courses/faq.md">frequently asked questions (FAQ)</a> and their answers. </p></div>
     </div>
@@ -30,6 +29,19 @@
         </div>
     </div>
 </div>
+<h2>Winter Semester 2021/2022</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws2122.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master programme.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/seriousgames-ws2122.md">SE Non Entertainment Games</a> - Lecture on computer
+            games that follow intentions other than entertainment, including e.g. serious games.
+        </div>
+    </li>
+</ul>
 <h2>Summer Semester 2021</h2>
 <ul>
     <li>

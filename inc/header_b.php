@@ -64,12 +64,12 @@ if (array_key_exists("id", $_GET)) {
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="index.php?id=courses/games-ss21.md">VC Computer Games SS 2021</a></li>
-                        <li><a href="index.php?id=courses/intro-cg-ss21.md">Introduction to Computer Graphics SS 2021</a></li>
+<!--                        <li><a href="index.php?id=courses/games-ss21.md">VC Computer Games SS 2021</a></li> -->
+<!--                        <li><a href="index.php?id=courses/intro-cg-ss21.md">Introduction to Computer Graphics SS 2021</a></li> -->
 <!--                        <li><a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems SS 2020</a></li>-->
 <!--                        <li><a href="index.php?id=courses/esop18">VO ESOP WS 2018/2019</a></li>-->
-<!--                        <li><a href="index.php?id=courses/gameengineering-ws2021.md">Game Engineering WS 2020/2021</a></li> -->
-<!--                        <li><a href="index.php?id=courses/seriousgames-ws2021.md">Non Entertainment Games WS 2020/2021</a></li> -->
+                        <li><a href="index.php?id=courses/gameengineering-ws2122.md">Game Engineering WS 2021/2022</a></li>
+                        <li><a href="index.php?id=courses/seriousgames-ws2122.md">Non Entertainment Games WS 2021/2022</a></li> 
 <!--                        <li role="separator" class="divider"></li>-->
 <!--                        <li><a href="index.php?id=courses/mmisss17">Multimedia Information Systems SS 2017</a></li>-->
 <!--                        <li><a href="index.php?id=courses/games-ss17.md">Games SS 2017</a></li>-->

@@ -63,14 +63,6 @@
                         editing
                     </div>
                 </li>
-                <li>
-                    <div><a href="http://camstudio.org/">Camstudio</a>: Screen recording
-                    </div>
-                </li>
-                <li>
-                    <div><a href="http://www.fraps.com/">Fraps</a>: Screen capture (3D, Shareware)
-                    </div>
-                </li>
             </ul>
 
         </div>

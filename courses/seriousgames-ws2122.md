@@ -41,7 +41,7 @@ Note that doing the mandatory tasks results nearly in a positive grade, but you 
 ### Extra Curricular Activities
 A common optional task is participating in or organizing an extra curricular activity. It's self-organized, so a student proposes an activity, involving a non-entertainment game to the teacher. After being signed off, the organizer proposes the activity publicly (and early enough) on Discord in the Non-Entertainment Games channel. Students then can participate. After the activity the organizer sends a short report to the teacher, including the names of the people who participated and a very short summary. Each student can get at maximum one organizer achievement (100 XP) but multiple participation achievements (25 XP).
 
-An example would be to proposer a fitness game, like Zombies, Run! and people do a running training with the app and then reflect on it in a group discussion.    
+An example would be to propose a fitness game, like Zombies, Run! and people do a running training with the app and then reflect on it in a group discussion.    
 
 ## Topics
 

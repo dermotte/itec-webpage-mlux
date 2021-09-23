@@ -19,19 +19,19 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 
 ## Topics
 
-1. Introduction & Computer Game History 
-3. Game Projects: Processes and Roles 
-2. Game Projects: Documents and Pitches 
-4. Prototyping 
-5. Introduction to Programming 
-6. Basic Concepts in Game Programming 
-7. Playtests 
-6. Animation 
-8. Sound & Interactive Music 
+1. Introduction & Computer Game History
+3. Game Projects: Processes and Roles
+2. Game Projects: Documents and Pitches
+4. Prototyping
+5. Introduction to Programming
+6. Basic Concepts in Game Programming
+7. Playtests
+6. Animation
+8. Sound & Interactive Music
 
 ## Modalities
 
-This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will be online, take 30 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
+This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will be online, take 60 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
 
 ## Links
 Here are some links to dive further into the topics of the course.
@@ -42,11 +42,11 @@ Getting startetd with programming without prior knowledge ..
 - [Scratch](https://mit.scratch.edu) - Use the same visual programming lecture to create interactive programs and games
 
 ### Prototyping
-Simple engines for sketching out ideas. 
+Simple engines for sketching out ideas.
 - [Twine](https://twinery.org/) - An open-source tool for telling interactive, nonlinear stories.
 - [Ren'Py](https://www.renpy.org/) - A visual novel engine
 
 ### Informative and fun videos
-You want to know more? Here's a lot of material that goes beyond the course. 
+You want to know more? Here's a lot of material that goes beyond the course.
 - [Extra Credits](https://www.youtube.com/user/ExtraCreditz) - Covers many basic aspects of game dev
 - [GDC Vault](https://www.youtube.com/channel/UC0JB7TSe49lg56u6qH8y_MQ) - Full length presentations from GDC

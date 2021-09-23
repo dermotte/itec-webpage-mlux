@@ -4,7 +4,7 @@ This course aims to introduce students to games that are mainly created for purp
 
 ## Online, but How?
 
-Due to the restrictions necessary to prevent the spread of COVID-19 we are going to teach all courses in Game Studies and Engineering [online](https://www.twitch.tv/dermotte_). Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
+Due to the restrictions necessary to prevent the spread of COVID-19 we are going to provide all course materials in Game Studies and Engineering [online](https://www.twitch.tv/dermotte_). Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
 
 
 ## Schedule
@@ -32,9 +32,9 @@ This course is a _Seminar_, meaning that the grade is based on active participat
 
 A positive grade can be achieved by reaching at least Level 3 in the [Experience System](https://docs.google.com/spreadsheets/d/1srVIzdRr6JaOw0sJi21RAxNq0mkq1CVAC_B3hVdB8Bw/edit?usp=sharing) for the class. **Mandatory tasks** are
 
-* Giving the intermediate presentation on Nov 11, 2021. [sample presentation](https://docs.google.com/presentation/d/1O-yT9JJSjKepgk9_VMDj44UPz9BoOCXYP1CI6w4Rf1c/edit?usp=sharing) (3 minutes presentation and 2 minutes of Q&A)
+* Giving the intermediate presentation on Nov 11, 2021. [sample presentation](https://docs.google.com/presentation/d/1f3AMg8tub5xXdzM-j3lFD59sV3q4GcOWhnawRX7ZjVA/edit?usp=sharing) (3 minutes presentation and 2 minutes of Q&A)
 * Giving a presentation at the end of Jan 2022: 10 minutes of presentation and 5 minutes of discussion each on Discord.
-* Handing in the seminar report (1500 words) until Feb 28, 2022.  
+* Handing in the seminar report (1500 words) until Feb 28, 2022. [sample seminar report](https://docs.google.com/document/d/1AEOIGAU8Z4GZw1t0eU2FHXjkZdqlLkfDLG5Uz9juGr8/edit?usp=sharing) 
 
 Note that doing the mandatory tasks results nearly in a positive grade, but you will have to do optional tasks or complete achievements, like handing in early, too.
 

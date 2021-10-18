@@ -20,7 +20,7 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 ## Topics
 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1uLf-8FBfsgHX_tDekdElde5RjsmQ6RJfm7T-q3fboAg/edit?usp=sharing)
-3. Game Projects: Processes and Roles
+3. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1KqYfMRRYD6DjZCxdzc0o-rxw6Rq61yQ8G4NS3hSjwXo/edit?usp=sharing)
 2. Game Projects: Documents and Pitches
 4. Prototyping
 5. Introduction to Programming

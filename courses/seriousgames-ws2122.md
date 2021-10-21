@@ -6,6 +6,7 @@ This course aims to introduce students to games that are mainly created for purp
 
 Due to the restrictions necessary to prevent the spread of COVID-19 we are going to provide all course materials in Game Studies and Engineering [online](https://www.twitch.tv/dermotte_). Please make sure to join the GSE Discord Server to stay up to date [https://discord.gg/YnX6AKG](https://discord.gg/YnX6AKG)
 
+Recordings are available, either on Twitch, on [YouTube](https://youtube.com/playlist?list=PLkb7TymgoWW58SjbXnlGVssXZaUqnwPT-), or [for download](https://www2.itec.aau.at/owncloud/index.php/s/CJqPnzKlNDEVIzU).
 
 ## Schedule
 
@@ -13,8 +14,8 @@ All courses start s.t. if not otherwise noted.
 
 | Day    | Time   | Place  | Topic | Links |
 |:------|:------|:------|:---|:---|
-| Th, 14.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Introduction | tba. |
-| Th, 21.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | GWAPs & topic distribution | tba. |
+| Th, 14.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Introduction | [slides](https://docs.google.com/presentation/d/1ydAzvHSV8VJeYgKgpEhTDGy-SkdYfGk4pKkUbCTU7tA/edit?usp=sharing) |
+| Th, 21.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | GWAPs & topic distribution | [slides](https://docs.google.com/presentation/d/1aH2kY-IKnBcNZhOTmlfABbgz1957eB1seOONFoaBTys/edit?usp=sharing) |
 | Th, 28.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Flow Assessment for Games | tba. |
 | Th, 04.11. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Serious Games | tba. |
 | Th, 11.11. | 10:00-11:30 | Discord | Intermediate presentations | none |
@@ -34,7 +35,7 @@ A positive grade can be achieved by reaching at least Level 3 in the [Experience
 
 * Giving the intermediate presentation on Nov 11, 2021. [sample presentation](https://docs.google.com/presentation/d/1f3AMg8tub5xXdzM-j3lFD59sV3q4GcOWhnawRX7ZjVA/edit?usp=sharing) (3 minutes presentation and 2 minutes of Q&A)
 * Giving a presentation at the end of Jan 2022: 10 minutes of presentation and 5 minutes of discussion each on Discord.
-* Handing in the seminar report (1500 words) until Feb 28, 2022. [sample seminar report](https://docs.google.com/document/d/1AEOIGAU8Z4GZw1t0eU2FHXjkZdqlLkfDLG5Uz9juGr8/edit?usp=sharing) 
+* Handing in the seminar report (1500 words) until Feb 28, 2022. [sample seminar report](https://docs.google.com/document/d/1AEOIGAU8Z4GZw1t0eU2FHXjkZdqlLkfDLG5Uz9juGr8/edit?usp=sharing)
 
 Note that doing the mandatory tasks results nearly in a positive grade, but you will have to do optional tasks or complete achievements, like handing in early, too.
 

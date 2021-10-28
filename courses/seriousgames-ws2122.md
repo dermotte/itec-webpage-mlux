@@ -16,7 +16,7 @@ All courses start s.t. if not otherwise noted.
 |:------|:------|:------|:---|:---|
 | Th, 14.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Introduction | [slides](https://docs.google.com/presentation/d/1ydAzvHSV8VJeYgKgpEhTDGy-SkdYfGk4pKkUbCTU7tA/edit?usp=sharing) |
 | Th, 21.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | GWAPs & topic distribution | [slides](https://docs.google.com/presentation/d/1aH2kY-IKnBcNZhOTmlfABbgz1957eB1seOONFoaBTys/edit?usp=sharing) |
-| Th, 28.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Flow Assessment for Games | tba. |
+| Th, 28.10. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Flow Assessment for Games | [slides](https://docs.google.com/presentation/d/1Mju5xF_qM7Yh8446HuWij4jLE685VtrzUvp6JXCrl-4/edit?usp=sharing) |
 | Th, 04.11. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Serious Games | tba. |
 | Th, 11.11. | 10:00-11:30 | Discord | Intermediate presentations | none |
 | Th, 09.12. | 10:00-11:30 | Discord | Q&A (optional: drop by if you have questions) | none |

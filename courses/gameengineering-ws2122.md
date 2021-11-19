@@ -24,7 +24,7 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 2. Game Projects: Documents and Pitches ~ slides see above
 4. Prototyping ~ [slides](https://docs.google.com/presentation/d/1KeEcCWo4rs4BUlQd49zR3WNFY_AV4lsOxPKxfWtsfSA/edit?usp=sharing)
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1VBVcga4Apfwzg2qLGGDkKFEVIlhZJH18-eE6tUixevk/edit?usp=sharing)
-6. Basic Concepts in Game Programming
+6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1f_hveciVgx6O5afQYen-fJEjk7_rn7a0eF3sRR8Ldgo/edit?usp=sharing)
 7. Playtests
 6. Animation
 8. Sound & Interactive Music

@@ -20,6 +20,7 @@ All courses start s.t. if not otherwise noted.
 | Th, 04.11. | 10:00-11:30 | [online](https://www.twitch.tv/dermotte_) | Serious Games | tba. |
 | Th, 11.11. | 10:00-11:30 | Discord | Intermediate presentations | none |
 | Th, 09.12. | 10:00-11:30 | Discord | Q&A (optional: drop by if you have questions) | none |
+| Th, 16.12. | 10:00-11:30 | Discord | Q&A (optional: drop by if you have questions) | none |
 | Th, 13.01. | 10:00-11:30 | Discord | Q&A (optional: drop by if you have questions) | none |
 | Th, 20.01. | tba | Discord | Student Presentations | tba. |
 | Th, 27.01. | tba | Discord | Student Presentations | tba. |

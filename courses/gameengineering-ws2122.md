@@ -26,8 +26,8 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1VBVcga4Apfwzg2qLGGDkKFEVIlhZJH18-eE6tUixevk/edit?usp=sharing)
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1f_hveciVgx6O5afQYen-fJEjk7_rn7a0eF3sRR8Ldgo/edit?usp=sharing)
 7. Playtests ~ [slides](https://docs.google.com/presentation/d/1CfsKY73k-GqNlu6xhgajfLQ1bJ1qEzX7ZEhTfvwyCZk/edit?usp=sharing)
-6. Animation ~ [slides](https://docs.google.com/presentation/d/1wE2eoxbFd-ipazu9PH4xrX-UldaNanvOhVZ90iMu1GI/edit?usp=sharing)
-8. Sound & Interactive Music
+8. Animation ~ [slides](https://docs.google.com/presentation/d/1wE2eoxbFd-ipazu9PH4xrX-UldaNanvOhVZ90iMu1GI/edit?usp=sharing)
+9. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1VSJLcvutrB9dF0HiaYmbCxVg8HqefDuKih-2MOLuHso/edit?usp=sharing)
 
 ## Modalities
 

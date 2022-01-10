@@ -34,6 +34,8 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 
 This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will be online, take 60 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://drive.google.com/open?id=1PF0CIe6nT5-dmRtOhRKg5nrlPFZfr6ikoH1xQHE22iU).
 
+The exam will take place in Moodle on Jan 24 at 10 am CET (just like the lecture). It will take 30 minutes of your time. Please make sure you are registered to the exam and can access Moodle.
+
 ## Links
 Here are some links to dive further into the topics of the course.
 

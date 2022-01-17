@@ -29,6 +29,7 @@ The game engineering lectures take place on [twitch.tv](https://www.twitch.tv/de
 8. Animation ~ [slides](https://docs.google.com/presentation/d/1wE2eoxbFd-ipazu9PH4xrX-UldaNanvOhVZ90iMu1GI/edit?usp=sharing)
 9. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1VSJLcvutrB9dF0HiaYmbCxVg8HqefDuKih-2MOLuHso/edit?usp=sharing)
 10. Virtual Reality and the Uncanny Valley ~ [slides](https://docs.google.com/presentation/d/1V9C14ur8FoAuLwNMe2ZpZGr9sTrTPDhurgydQPxguHM/edit?usp=sharing)
+11. Tools & Tool Chain ~ [slides](https://docs.google.com/presentation/d/1MwfZDZWA1bp4elYJCAOx4YNeB1H__eVZ7iPt9F-5PEI/edit?usp=sharing)
 
 ## Modalities
 

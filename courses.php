@@ -29,6 +29,38 @@
         </div>
     </div>
 </div>
+<h2>Summer Semester 2021</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss22.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer games planning and development from the computer science bachelor program.
+        </div>
+    </li>
+    <li>
+        <a href="?id=courses/intro-cg-ss22.md">Introduction to Computer Graphics</a> -
+        Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="?id=courses/topics-cg-ss22.md">Advanced Topics in Computer Graphics</a> -
+        Course on  more topics in computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="#">Practical Game Engineering</a> -
+        Course oncomputer game engineering from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="#">Modeling Sustainability in Board Games. Einführung Nachhaltige Entwicklung Teil III</a> -
+        Seminar on developing board games implementing and communicating sustainability models.
+    </li>
+    <li>
+        <a href="#">Peer Seminar</a> -
+        A doctoral seminar focusing on fostering the abilities to rapid prototyping and self organisation.
+    </li>
+    <!--li>
+        <a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems</a> -
+        Seminar on advanced topics in multimedia systems.
+    </li-->
+</ul>
 <h2>Winter Semester 2021/2022</h2>
 <ul>
     <li>

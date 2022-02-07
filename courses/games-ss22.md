@@ -28,15 +28,15 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 
 1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1nY8tkk6aobcAL3SvWaHbY6qttw-rbczoS2yb2tLSNXI/edit?usp=sharing) ~ readings: [Game - AI Dungeon](https://aidungeon.io/)
 2. Business of Games ~ [slides](https://docs.google.com/presentation/d/1pb9m0NaQzUFbVjVx1dAG6bQWGG-SzBldZCCXbwWaPNo/edit?usp=sharing) ~ readings: [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1)
-3. Game Loop ~ [slides]()  ~ readings: [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html)
-4. 2D Graphics ~ [slides]() ~ readings: [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8)
-5. Game Design ~ [slides]()  ~ readings:  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0)
-6. Input and Sound ~ [slides]() ~ readings:  Try 2 or more klujam games
-7. Game Production and Development ~ [slides]() ~ readings:  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
-8. Introduction to 3D Graphics ~ [slides]() ~ readings: [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues)
-9. Game AI ~ [slides]() ~ readings:  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4)
-10. Game Physics ~ [slides]()
-11. History of Games ~ [slides]()
+3. Game Loop ~ slides  ~ readings: [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html)
+4. 2D Graphics ~ slides ~ readings: [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8)
+5. Game Design ~ slides  ~ readings:  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0)
+6. Input and Sound ~ slides ~ readings:  Try 2 or more klujam games
+7. Game Production and Development ~ slides ~ readings:  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
+8. Introduction to 3D Graphics ~ slides ~ readings: [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues)
+9. Game AI ~ slides ~ readings:  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4)
+10. Game Physics ~ slides
+11. History of Games ~ slides
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, Apr 22-24, 2021. You can join any group there and the game developed at the game jam can be presented as final project.

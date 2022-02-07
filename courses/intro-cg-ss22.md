@@ -10,14 +10,14 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 
-1. Introduction ~ [slides]() ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
-2. Math 101 ~ [slides]() ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
-3. Coordinates and Transformations ~ [slides]() ~ readings:  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/)
-4. Meshes and Lights ~ [slides]() ~ readings:  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)
-5.  Shading  ~ [slides]() ~ readings:  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY)
-6. Cameras ~ [slides]() ~ readings: [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
-7. Textures  ~ [slides]()
-8. Blender Workshop ~ [slides]() ~ readings:  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) and [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw)
+1. Introduction ~ slides ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
+2. Math 101 ~ slides ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
+3. Coordinates and Transformations ~ slides ~ readings:  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/)
+4. Meshes and Lights ~ slides ~ readings:  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)
+5.  Shading  ~ slides ~ readings:  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY)
+6. Cameras ~ slides ~ readings: [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
+7. Textures  ~ slides
+8. Blender Workshop ~ slides ~ readings:  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) and [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw)
 
 ### References and Links
  1. [p5js](https://p5js.org/) - JavaScript based implementation for the first part of the course

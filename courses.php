@@ -29,7 +29,7 @@
         </div>
     </div>
 </div>
-<h2>Summer Semester 2021</h2>
+<h2>Summer Semester 2022</h2>
 <ul>
     <li>
         <div class="li"><a href="?id=courses/games-ss22.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -

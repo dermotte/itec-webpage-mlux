@@ -11,6 +11,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 
 1. Introduction ~ slides ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
+1. p5js ~ slides ~ readings: [p5js tutorial video](https://www.youtube.com/watch?v=8j0UDiN7my4)
 2. Math 101 ~ slides ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
 3. Coordinates and Transformations ~ slides ~ readings:  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/)
 4. Meshes and Lights ~ slides ~ readings:  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)

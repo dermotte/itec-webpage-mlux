@@ -22,7 +22,7 @@ assignments, (ii) the final project and a (iii) final exam.
 
 ## Schedule
 
-All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around COVID-19 lectures take place online at the beginning of the semester on [Twitch.tv](https://www.twitch.tv/dermotte_). After the online courses, lecture recordings are available on YouTube as well as for download.
+All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around COVID-19 lectures take place online at the beginning of the semester on [Twitch.tv](https://www.twitch.tv/dermotte_). After the online courses, lecture recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLkb7TymgoWW4TlrUuubFriofC80D7yO34) as well as for [download](https://www2.itec.aau.at/owncloud/index.php/s/mIAGWSWLwn0O5FJ).
 
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 
@@ -39,7 +39,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 11. History of Games ~ slides
 
 ## Game Jam
-You are strongly encouraged to take part in the game jam, Apr 22-24, 2021. You can join any group there and the game developed at the game jam can be presented as final project.
+You are strongly encouraged to take part in the game jam, Apr 22-24, 2022. You can join any group there and the game developed at the game jam can be presented as final project.
 
 ## Mandatory Exercise 01 - Pong with Löve
 For the first mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:

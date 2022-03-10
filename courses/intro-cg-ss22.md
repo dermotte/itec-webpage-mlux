@@ -6,11 +6,11 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 
 ## Schedule
 
-All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 we start the summer term 2022 with online lectures and see where it leads us. After the online courses, lecture recordings are available. Live lectures are taking place on the Twitch Channel [https://www.twitch.tv/dermotte_](https://www.twitch.tv/dermotte_).
+All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 we start the summer term 2022 with online lectures and see where it leads us. After the online courses, lecture recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLkb7TymgoWW4ADg6BakZ4va4utZbP-3iy) and for [download](https://www2.itec.aau.at/owncloud/index.php/s/H9glFm1LXXXxRZn). Live lectures are taking place on the Twitch Channel [https://www.twitch.tv/dermotte_](https://www.twitch.tv/dermotte_).
 
 After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE Discord Server](https://discord.gg/YnX6AKG).
 
-1. Introduction ~ slides ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
+1. Introduction ~ [slides](https://docs.google.com/presentation/d/1TjtfhJoBxQuo0RXr_znkCLTC-eHI7VBo2JPXobhfymg/edit?usp=sharing) ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
 1. p5js ~ slides ~ readings: [p5js tutorial video](https://www.youtube.com/watch?v=8j0UDiN7my4)
 2. Math 101 ~ slides ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
 3. Coordinates and Transformations ~ slides ~ readings:  [Stable Elasticity from Pixar (just the video)](http://graphics.pixar.com/library/StableElasticity/)

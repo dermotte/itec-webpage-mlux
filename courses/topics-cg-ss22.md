@@ -15,6 +15,13 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 * Noise functions
 * Labyrinths, L-Systems & Erosion
 
+## Exercises (Mandatory Assignments)
+
+Please upload the exercises (no .exe please, stick to .js, .pde or export to the web) to Moodle until the end of the announced day.
+
+| ID | Title | Slide | Deadline |
+|:---|:---|:---|:---|
+| 01 | 3D Game of Life | [#30](https://docs.google.com/presentation/d/1kfMYhwyTY6lJpBz3EF1hDsFMvznGNO70ViIAVrurZI8/edit?usp=sharing) | March 30, 2022 | 
 
 ## Links
 

@@ -4,7 +4,7 @@ This course will dive into specific topics in the broad area of computer graphic
 
 Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studium/course/108262).
 
-All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 we start the summer term 2022 with online lectures and see where it leads us. After the online courses, lecture recordings are available on [YouTube](https://www.youtube.com/) and for [download](https://www2.itec.aau.at/owncloud/index.php/s/kzAyrtJ8MGTfIGA). Live lectures are taking place on the Twitch Channel [https://www.twitch.tv/dermotte_](https://www.twitch.tv/dermotte_).
+All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). Due to the situation around CoViD-19 we start the summer term 2022 with online lectures and see where it leads us. After the online courses, lecture recordings are available on [YouTube](https://www.youtube.com/playlist?list=PLkb7TymgoWW6aH5TL3vqFO6Yut_ZHM5tU) and for [download](https://www2.itec.aau.at/owncloud/index.php/s/kzAyrtJ8MGTfIGA). Live lectures are taking place on the Twitch Channel [https://www.twitch.tv/dermotte_](https://www.twitch.tv/dermotte_).
 
 
 
@@ -21,7 +21,7 @@ Please upload the exercises (no .exe please, stick to .js, .pde or export to the
 
 | ID | Title | Slide | Deadline |
 |:---|:---|:---|:---|
-| 01 | 3D Game of Life | [#30](https://docs.google.com/presentation/d/1kfMYhwyTY6lJpBz3EF1hDsFMvznGNO70ViIAVrurZI8/edit?usp=sharing) | March 30, 2022 | 
+| 01 | 3D Game of Life | [#30](https://docs.google.com/presentation/d/1kfMYhwyTY6lJpBz3EF1hDsFMvznGNO70ViIAVrurZI8/edit?usp=sharing) | March 30, 2022 |
 
 ## Links
 

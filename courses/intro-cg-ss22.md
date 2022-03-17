@@ -12,7 +12,6 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1TjtfhJoBxQuo0RXr_znkCLTC-eHI7VBo2JPXobhfymg/edit?usp=sharing) ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
 2. Math 101 ~ [slides](https://docs.google.com/presentation/d/1M-yWUpQJh3EVycB-1yT9bGJlAjrHGgHZQ_9p6HZK9a4/edit?usp=sharing) ~ readings: [p5js tutorial video](https://www.youtube.com/watch?v=8j0UDiN7my4)
-1. p5js ~ slides ~ readings:
 3. Coordinates and Transformations ~ slides ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
 4. Meshes and Lights ~ slides ~ readings:  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)
 5.  Shading  ~ slides ~ readings:  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY)
@@ -36,7 +35,8 @@ Please upload the exercises (just the .js or the .pde file and eventual texture 
 
 | ID | Title | Slide | Deadline | Example Solution |
 |:---|:---|:---|:---|:---|
-| EX 02-01 | Vector Reflection | ... | ... | ... |
+| EX 01 | Vector Reflection | slide # 32 in Math 101 | March 31, 2022 | ... |
+| EX 02 | LERP Game | slide # 44 in Math 101 | April 7, 2022 | ... |
 
 ## Final Project
 Please prepare your final project until **June 23, 2022**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics, and get creative with a tool of your choice. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.

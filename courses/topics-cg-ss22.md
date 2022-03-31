@@ -13,7 +13,8 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 * Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1kfMYhwyTY6lJpBz3EF1hDsFMvznGNO70ViIAVrurZI8/edit?usp=sharing)
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/1Kx3LsOAwJElVhcPT5JlRoiiYiOkNe7sMdQeFdLGCWag/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1NMXKDFgB8Obgl251MHgSGNbQ_lQ1BC3J9EYqejH2E2s/edit?usp=sharing)
-* Labyrinths, L-Systems & Erosion
+* Labyrinths
+* L-Systems & Erosion
 
 ## Exercises (Mandatory Assignments)
 

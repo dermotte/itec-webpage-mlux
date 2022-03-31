@@ -16,6 +16,8 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 * Labyrinths
 * L-Systems & Erosion
 
+Find the source code used in the lecture on Github: https://github.com/dermotte/AdvancedTopicsCG-ST2022
+
 ## Exercises (Mandatory Assignments)
 
 Please upload the exercises (no .exe please, stick to .js, .pde or export to the web) to Moodle until the end of the announced day.

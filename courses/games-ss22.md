@@ -29,8 +29,8 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1nY8tkk6aobcAL3SvWaHbY6qttw-rbczoS2yb2tLSNXI/edit?usp=sharing) ~ readings: [Game - AI Dungeon](https://aidungeon.io/)
 2. Business of Games ~ [slides](https://docs.google.com/presentation/d/1pb9m0NaQzUFbVjVx1dAG6bQWGG-SzBldZCCXbwWaPNo/edit?usp=sharing) ~ readings: [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1)
 3. Game Loop ~ [slides](https://docs.google.com/presentation/d/1H9aK5JD-dowjIz8qO9HvnQvzVK6REjRs_nbxuZfq9s4/edit?usp=sharing)  ~ readings: [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html)
-4. 2D Graphics ~ slides ~ readings: [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8)
-5. Game Design ~ slides  ~ readings:  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0)
+4. 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1_qpgbkx0-benQshS5veftoXYF2oUUHRCUk722q9cOt4/edit?usp=sharing) ~ readings: [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8)
+5. Game Design ~ [slides](https://docs.google.com/presentation/d/1fWYe5eRl41pfi9B-aKdZjIZ7ZtQiYRpuLr_BSYrdjxI/edit?usp=sharing)  ~ readings:  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0)
 6. Input and Sound ~ slides ~ readings:  Try 2 or more klujam games
 7. Game Production and Development ~ slides ~ readings:  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 8. Introduction to 3D Graphics ~ slides ~ readings: [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues)

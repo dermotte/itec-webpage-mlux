@@ -26,7 +26,7 @@ Please upload the exercises (no .exe please, stick to .js, .pde or export to the
 |:---|:---|:---|:---|
 | 01 | 3D Game of Life | [#30](https://docs.google.com/presentation/d/1kfMYhwyTY6lJpBz3EF1hDsFMvznGNO70ViIAVrurZI8/edit?usp=sharing) | March 30, 2022 |
 | 02 | 2D PRNG | [#40](https://docs.google.com/presentation/d/1Kx3LsOAwJElVhcPT5JlRoiiYiOkNe7sMdQeFdLGCWag/edit?usp=sharing) | April 6, 2022 |
-| 03 | Perlin Noise Shader | [#45](https://docs.google.com/presentation/d/1NMXKDFgB8Obgl251MHgSGNbQ_lQ1BC3J9EYqejH2E2s/edit?usp=sharing) | tba. |
+| 03 | Perlin Noise Shader | [#45](https://docs.google.com/presentation/d/1NMXKDFgB8Obgl251MHgSGNbQ_lQ1BC3J9EYqejH2E2s/edit?usp=sharing) | April 20, 2022 |
 
 ## Links
 

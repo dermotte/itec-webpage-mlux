@@ -19,6 +19,8 @@ function preload() {
     gamebert = loadImage('gamebert.png');
 }
 
+// Todos: Score + beer emoji / chest at the end point ...
+
 function setup() {
     // createCanvas(1920, 1080);
     createCanvas(1280, 720);

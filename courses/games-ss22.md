@@ -31,7 +31,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 3. Game Loop ~ [slides](https://docs.google.com/presentation/d/1H9aK5JD-dowjIz8qO9HvnQvzVK6REjRs_nbxuZfq9s4/edit?usp=sharing)  ~ readings: [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html)
 4. 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1_qpgbkx0-benQshS5veftoXYF2oUUHRCUk722q9cOt4/edit?usp=sharing) ~ readings: [Video - Postmortem Dying Light](https://youtu.be/UJgTboToOg8)
 5. Game Design ~ [slides](https://docs.google.com/presentation/d/1fWYe5eRl41pfi9B-aKdZjIZ7ZtQiYRpuLr_BSYrdjxI/edit?usp=sharing)  ~ readings:  [Level Design Workshop: Designing Celeste](https://www.youtube.com/watch?v=4RlpMhBKNr0)
-6. Input and Sound ~ slides ~ readings:  Try 2 or more klujam games
+6. Input and Sound ~ [slides](https://docs.google.com/presentation/d/107an6Qkyt_UNiTmobw2jJlFOd_DkeOSzMnYApYSsSTM/edit?usp=sharing) ~ readings:  Try 3 or more [klujam games](https://itch.io/jam/9th-klujam/entries)
 7. Game Production and Development ~ slides ~ readings:  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 8. Introduction to 3D Graphics ~ slides ~ readings: [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues)
 9. Game AI ~ slides ~ readings:  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4)

@@ -15,7 +15,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1cq_SL1jxhbZojqU2mrknrcVSG5LT7J53_guBCQSno8k/edit?usp=sharing) ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1XHKQ2ryqfJtPbYgFP9XA6ZumD1VaK_o7UQgmVyATXlM/edit?usp=sharing) ~ readings:  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)
 5.  Shading  ~ [slides](https://docs.google.com/presentation/d/1EdS_mGdYCM6mPXVWpUPC9Zkkw8lkNejO2whgN0JqmXg/edit?usp=sharing) ~ readings:  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY)
-6. Cameras ~ slides ~ readings: [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
+6. Cameras ~ [slides](https://docs.google.com/presentation/d/1nJqbyroTFAKuyu69nJC5EoZldpE6Ykks_0IvxYFZ0TU/edit?usp=sharing) ~ readings: [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
 7. Textures  ~ slides
 8. Blender Workshop ~ slides ~ readings:  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) and [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw)
 
@@ -39,6 +39,8 @@ Please upload the exercises (just the .js or the .pde file and eventual texture 
 | EX 02 | LERP Game | slide # 44 in Math 101 | April 7, 2022 | ... |
 | EX 03 | Rotating Boxes | slide # 50 in Coordinates and Transformations | April 21, 2022 | ... |
 | EX 04 | Lighting a Scene | slide # 36 in Meshes and Lights | April 28, 2022 | ... |
+| EX 05 | Bounded Camera | slide # 16 in Cameras | May 19, 2022 | ... |
+
 
 ## Final Project
 Please prepare your final project until **June 23, 2022**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics, and get creative with a tool of your choice. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.

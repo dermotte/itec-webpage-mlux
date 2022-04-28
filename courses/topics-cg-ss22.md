@@ -14,7 +14,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/1Kx3LsOAwJElVhcPT5JlRoiiYiOkNe7sMdQeFdLGCWag/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1NMXKDFgB8Obgl251MHgSGNbQ_lQ1BC3J9EYqejH2E2s/edit?usp=sharing)
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/1y-C51GIyKOYfdTDU2dFj1FqqWb2fRZm2vE3WflkWhRM/edit?usp=sharing)
-* L-Systems & Erosion
+* L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1ZW41FT0vXz7BK508DkbOHYJbExxsAw_66U1HcS_MZJI/edit?usp=sharing)
 
 Find the source code used in the lecture on Github: https://github.com/dermotte/AdvancedTopicsCG-ST2022
 

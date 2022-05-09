@@ -34,7 +34,7 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 6. Input and Sound ~ [slides](https://docs.google.com/presentation/d/107an6Qkyt_UNiTmobw2jJlFOd_DkeOSzMnYApYSsSTM/edit?usp=sharing) ~ readings:  Try 3 or more [klujam games](https://itch.io/jam/9th-klujam/entries)
 7. Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1FvCHAhJ2yKv4x3BfWbiQlZxpZfV9YC9tAfDe_7W2xXE/edit?usp=sharing) ~ readings:  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1v27lV36c_nWopNC7Z9U2taHupEtfgzc1AxvWONG8woo/edit?usp=sharing) ~ readings: [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues)
-9. Game AI ~ slides ~ readings:  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4)
+9. Game AI ~ [slides](https://docs.google.com/presentation/d/13n23XLv4YFUU1uE4lQlelMy0yv3vrIkU4Bud8Wc9DUE/edit?usp=sharing) ~ readings:  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4)
 10. Game Physics ~ slides
 11. History of Games ~ slides
 

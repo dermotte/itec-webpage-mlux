@@ -16,8 +16,8 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1XHKQ2ryqfJtPbYgFP9XA6ZumD1VaK_o7UQgmVyATXlM/edit?usp=sharing) ~ readings:  [Pixar in a Box: The Art of Lighting](https://www.youtube.com/playlist?list=PLkb7TymgoWW4iwQI1meWIS4dOpVAqlPMX) and [Three Point Lighting](https://youtu.be/Bmme1slWdm4)
 5.  Shading  ~ [slides](https://docs.google.com/presentation/d/1EdS_mGdYCM6mPXVWpUPC9Zkkw8lkNejO2whgN0JqmXg/edit?usp=sharing) ~ readings:  [Math for Game Programmers: Juicing Your Cameras With Math](https://www.youtube.com/watch?v=tu-Qe66AvtY)
 6. Cameras ~ [slides](https://docs.google.com/presentation/d/1nJqbyroTFAKuyu69nJC5EoZldpE6Ykks_0IvxYFZ0TU/edit?usp=sharing) ~ readings: [Creating an Emotionally Engaging Camera for Tomb Raider](https://www.youtube.com/watch?v=doVivf-Nvuo) |
-7. Textures  ~ slides
-8. Blender Workshop ~ slides ~ readings:  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) and [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw)
+7. Textures  ~ [slides](https://docs.google.com/presentation/d/1N9RbLFHhurAH6skdcOskdYbmQ0qcqQJVfRgzSUOwUZY/edit?usp=sharing)
+8. Blender Workshop ~ [slides](https://docs.google.com/presentation/d/1mAOYp4CPmvrtL3oOwXuqZDl8vGKPRwJRzivBAxYAlEM/edit?usp=sharing) ~ readings:  [Blender Guru - Beginners Tutorial Part 1](https://youtu.be/TPrnSACiTJ4) and [Blender Tutorial - Easy Low Poly Environment in Eevee](https://youtu.be/_gyts71XMtw)
 
 ### References and Links
  1. [p5js](https://p5js.org/) - JavaScript based implementation for the first part of the course
@@ -40,6 +40,7 @@ Please upload the exercises (just the .js or the .pde file and eventual texture 
 | EX 03 | Rotating Boxes | slide # 50 in Coordinates and Transformations | April 21, 2022 | ... |
 | EX 04 | Lighting a Scene | slide # 36 in Meshes and Lights | April 28, 2022 | ... |
 | EX 05 | Bounded Camera | slide # 16 in Cameras | May 19, 2022 | ... |
+| EX 06 | Textured Die | slide # 29 in Textures | June 9, 2022 | ... |
 
 
 ## Final Project

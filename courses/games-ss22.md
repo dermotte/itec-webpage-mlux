@@ -17,7 +17,7 @@ assignments, (ii) the final project and a (iii) final exam.
 
 * Readings - For the course it's mandatory to read (or view, in case of videos, or even play in case of games) the readings. They will be announced throughout the course in the schedule table.
 * Practical assignment - Two practical assignments prior to the final project.
-* Written exam - A final, short exam on the course topics at the end of the course.     
+* Written exam - A final, short exam on the course topics on June 27, 2022, in the first 15 minutes of the course.     
 * Final project - Create a game in a group, more information see below - [Catalogue of Questions](https://docs.google.com/document/d/1Svj9aGtjdiXSUcBzJvNer7O8ax48z1QbaZZoVAjwXS8/edit?usp=sharing).
 
 ## Schedule
@@ -35,8 +35,8 @@ After the course you can find me in the _Lectures Q&A_ audio channel in the [GSE
 7. Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1FvCHAhJ2yKv4x3BfWbiQlZxpZfV9YC9tAfDe_7W2xXE/edit?usp=sharing) ~ readings:  [Video - Juice It or Loose It](https://www.youtube.com/watch?v=Fy0aCDmgnxg)
 8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1v27lV36c_nWopNC7Z9U2taHupEtfgzc1AxvWONG8woo/edit?usp=sharing) ~ readings: [Video - Audio Bootcamp: Dialogue 101](https://www.youtube.com/watch?v=W7-gIHOOues)
 9. Game AI ~ [slides](https://docs.google.com/presentation/d/13n23XLv4YFUU1uE4lQlelMy0yv3vrIkU4Bud8Wc9DUE/edit?usp=sharing) ~ readings:  [Video - How Players Play Games: Observing the Influences of Game Mechanics](https://www.youtube.com/watch?v=dBzsG-k6-G4)
-10. Game Physics ~ slides
-11. History of Games ~ slides
+10. Game Physics ~ [slides](https://docs.google.com/presentation/d/1EhTbqNODzytVhcfXpR8JkMQ61VmF0o5dDD_QSeeledU/edit?usp=sharing)
+11. History of Games ~ [slides](https://docs.google.com/presentation/d/1KG9G6R5yAr-JBfB98LLkgZ3oiJWptIql3SkqPoqD43w/edit?usp=sharing)
 
 ## Game Jam
 You are strongly encouraged to take part in the game jam, Apr 22-24, 2022. You can join any group there and the game developed at the game jam can be presented as final project.

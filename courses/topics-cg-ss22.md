@@ -15,6 +15,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1NMXKDFgB8Obgl251MHgSGNbQ_lQ1BC3J9EYqejH2E2s/edit?usp=sharing)
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/1y-C51GIyKOYfdTDU2dFj1FqqWb2fRZm2vE3WflkWhRM/edit?usp=sharing)
 * L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1ZW41FT0vXz7BK508DkbOHYJbExxsAw_66U1HcS_MZJI/edit?usp=sharing)
+* Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1LMHQ0bHJGcYOHh5QZ5mK8HTPGn-TQIHiMINbCqZLZXs/edit?usp=sharing)
 
 Find the source code used in the lecture on Github: https://github.com/dermotte/AdvancedTopicsCG-ST2022
 

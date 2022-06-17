@@ -69,7 +69,7 @@ Your final project can be done in a group with up to three people. To finish the
     1. game concept document (1 page)
     1. post mortem (1 page)
     1. presentation slides
-1. Present the project in the lecture on June 15 or June 21, 2020 (6 minutes presentation, 4 minutes Q&A)
+1. Present the project in the lecture on June 20 or June 27, 2022 (6 minutes presentation, 4 minutes Q&A)
     1. list the group members
     1. explain the concept
     1. show the game

@@ -14,6 +14,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/1y-C51GIyKOYfdTDU2dFj1FqqWb2fRZm2vE3WflkWhRM/edit?usp=sharing)
 * L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1ZW41FT0vXz7BK508DkbOHYJbExxsAw_66U1HcS_MZJI/edit?usp=sharing)
 * Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1LMHQ0bHJGcYOHh5QZ5mK8HTPGn-TQIHiMINbCqZLZXs/edit?usp=sharing)
+* WebXR ~ [slides](https://docs.google.com/presentation/d/1bT3IXcBocENsP1iZW2_gCwBU3p7ItUwdJhtfnQEMoq8/edit?usp=sharing)
 
 Find the source code used in the lecture on Github: https://github.com/dermotte/AdvancedTopicsCG-ST2022
 
@@ -45,7 +46,7 @@ For the submission of your final project:
 
 ## Exam
 
-The exam will take place on June 30, at the beginning of the lecture. It will be a Moodle quiz for those joining online and a written paper exam for those in the game lab. A list of possible [Exam Questions](https://docs.google.com/document/d/1PNGdTs1q9d2VlXX6aV0t806EMxatkvFPCpGf9ylwJpQ/edit?usp=sharing) is available. 
+The exam will take place on June 30, at the beginning of the lecture. It will be a Moodle quiz for those joining online and a written paper exam for those in the game lab. A list of possible [Exam Questions](https://docs.google.com/document/d/1PNGdTs1q9d2VlXX6aV0t806EMxatkvFPCpGf9ylwJpQ/edit?usp=sharing) is available.
 
 ## Links
 

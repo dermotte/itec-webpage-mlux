@@ -29,6 +29,19 @@
         </div>
     </div>
 </div>
+<h2>Winter Semester 2022/2023</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws2223.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master programme.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/topics-cg-ws22.md">VC Advanced Topics in Computer Graphics</a> -
+            Course on additional topics in computer graphics with focus on computer games from the Game Studies and Engineering master program.
+        </div>
+    </li>
+</ul>
 <h2>Summer Semester 2022</h2>
 <ul>
     <li>
@@ -42,7 +55,7 @@
     </li>
     <li>
         <a href="?id=courses/topics-cg-ss22.md">Advanced Topics in Computer Graphics</a> -
-        Course on  more topics in computer graphics with focus on computer games from the Game Studies and Engineering master program.
+        Course on additional topics in computer graphics with focus on computer games from the Game Studies and Engineering master program.
     </li>
     <li>
         <a href="#">Practical Game Engineering</a> -

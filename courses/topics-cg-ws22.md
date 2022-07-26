@@ -33,18 +33,18 @@ The final project needs to include (i) procedurally generated content based on a
 1. Your work as source code or a link to Github, Bitbucket, etc.
 2. Your result as and executable for the web (test before upload!)
 3. Your PDF presentation slides showing your work and summarizing the report.
-4. A formatted PDF work report of ~ 1000 words (see below) detailing what you did and the lessons learned and obstacles encountered.
+4. A formatted PDF work report of ~ 1000 words detailing what you did and the lessons learned and obstacles encountered.
 
-Please note that term paper format, code of conduct, and plagiarism policies apply as detailed below.
+Please note term paper format, code of conduct, and plagiarism policies apply as detailed below.
 
 ### Paper Format
 - Orderly fulfilment of formal requirements:
-  * A paper follows the [ACM Proceedings paper style](https://www.acm.org/publications/proceedings-template)
-  * A paper is coherently formatted
-  * A paper has a bibliography referencing all employed sources, including but not limited to online videos, web pages, and code repositories
+    * A paper follows the [ACM Proceedings paper style](https://www.acm.org/publications/proceedings-template)
+    * A paper is coherently formatted
+    * A paper has a bibliography referencing all employed sources, including but not limited to online videos, web pages, and code repositories
 - Adequate reliance on research literature:
-  *	Selection of citations
-  *	Provision of a well-formatted bibliography
+    * Selection of citations
+    * Provision of a well-formatted bibliography
 -	Reliance on theoretical resources
 -	Self-made observations on the discussed primary resource
 -	Critical reflection on self-made observations

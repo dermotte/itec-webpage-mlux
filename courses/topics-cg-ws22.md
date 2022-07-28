@@ -38,7 +38,7 @@ The final project needs to include (i) procedurally generated content based on a
 Please note term paper format, code of conduct, and plagiarism policies apply as detailed below.
 
 ### Paper Format
-- Orderly fulfilment of formal requirements:
+- Orderly fulfillment of formal requirements:
     * A paper follows the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/) - use the [Overleaf template](https://www.overleaf.com/latex/examples/the-chicago-citation-style-with-biblatex/pdqqrmwtdqpc) if you want a strict implementation.
     * A paper is coherently formatted
     * A paper has a bibliography referencing all employed sources, including but not limited to online videos, web pages, and code repositories
@@ -61,7 +61,7 @@ Plagiarism is defined as use of intellectual material produced by another person
 * Paraphrasing of another person’s characteristic or original phraseology, metaphor, or other literary device without acknowledgment.
 ```
 
-For computer science classes this includes source code, video tutorials, and web pages used to create software for the course. It is mandatory to check for license compatibility, like (i) can it be used, (ii) how to attribute, and (iii) what license is implied by including this source. It is also mandatory to cite the sources employed in the report. Failing to do that counts as plagiarism.
+For computer science classes this includes source code, video tutorials, and web pages used to create software for the course. It is mandatory to check for license compatibility, like (i) can it be used, (ii) how to attribute, and (iii) what license is implied by including this source. It is also mandatory to cite the sources in the report. Failing to do that counts as plagiarism.
 
 Note that the [Code of Conduct of the AAU](https://www.aau.at/en/research/research-profile/good-academic-practice/) applies. Students caught plagiarising or violation of the code of conduct will be removed from class immediately.
 

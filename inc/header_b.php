@@ -11,26 +11,36 @@
 
     <link rel="icon" type="image/png" href="favicon.png" />
 
-    <link href='http://fonts.googleapis.com/css?family=Lato&subset=latin,latin-ext' rel='stylesheet' type='text/css'>
 
     <!-- Latest compiled and minified CSS -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap.min.css">
-<!--    <link rel="stylesheet" href="http://bootswatch.com/superhero/bootstrap.min.css">-->
 
     <!-- Optional theme -->
     <link rel="stylesheet" href="bootstrap/css/bootstrap-theme.min.css">
 
     <!-- Latest compiled and minified JavaScript -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
-<!--    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>-->
+    <script src="js/jquery-3.6.1.min.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="js/jquery.rss.min.js"></script>
     <script src="js/showdown.min.js"></script>
 
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
-    <style type="text/css">
+    <link href="fontawesome/css/all.css" rel="stylesheet">
+    <style>
         table {
             width: 100%;
+        }
+        /* lato-regular - latin-ext_latin */
+        @font-face {
+            font-family: 'Lato';
+            font-style: normal;
+            font-weight: 400;
+            src: url('fonts/lato-v23-latin-ext_latin-regular.eot'); /* IE9 Compat Modes */
+            src: local(''),
+            url('fonts/lato-v23-latin-ext_latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+            url('fonts/lato-v23-latin-ext_latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+            url('fonts/lato-v23-latin-ext_latin-regular.woff') format('woff'), /* Modern Browsers */
+            url('fonts/lato-v23-latin-ext_latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+            url('fonts/lato-v23-latin-ext_latin-regular.svg#Lato') format('svg'); /* Legacy iOS */
         }
     </style>
 </head>

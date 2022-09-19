@@ -13,11 +13,9 @@ try {
                         converter.setOption('tables', true);
                         converter.setOption('strikethrough', true);
                         $.get( \"" . $t . "\", function( data ) {
-                        console.log(data);
+                            // console.log(data);
                             $(\"#content\").html(converter.makeHtml( data ));
-                        }).error(function(result) {
-                            $(\"#content\").html(\"<h1>No such page!</h1>\");
-                        } );
+                        });
                         </script>
                         ";
         } elseif (preg_match("/^courses\/[a-z0-9\-]+$/", $t)) {

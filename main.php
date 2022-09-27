@@ -72,9 +72,10 @@
             <li> 2006 - 2013 Assistant professor at the Institute for Information Technology (ITEC) at Klagenfurt
                 University
             </li>
-            <li> Oct. 2013 Habilitation at Klagenfurt University</li>
+            <li>Oct. 2013 Habilitation at Klagenfurt University</li>
+            <li>Vice chairperson of the senate of Klagenfurt University from Oct 2013 to Sep 2022</li>
             <li> Currently Associate Professor at the Institute for Information Technology (ITEC) at Klagenfurt
-                University and vice chairperson of the senate of Klagenfurt University</li>
+                University</li>
         </ul>
     </div>
 </div>

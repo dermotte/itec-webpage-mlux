@@ -13,11 +13,11 @@ The practical course associated with the lecture is taking place as a game jam. 
 
 ## Online, but How?
 
-Due to the international nature of the Game Studies and Engineering program, we will start the semester with a hybrid lecture. Please find the virtual classroom in Moodle. There, we will broadcast from the lecture room. 
+Due to the international nature of the Game Studies and Engineering program, we will start the semester with a hybrid lecture. Please find the virtual classroom in [Moodle](https://moodle.aau.at/course/view.php?id=35650). Guest access in Moodle is enabled for the beginning of the semester. There, we will broadcast from the lecture room. Note that we only support streaming of audio and the slides right now. 
 
 ## Topics
 
-1. Introduction & Computer Game History 
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1ZRjapdHn_Pk5UAM5yigxdJIZfIW2ifKRnQvLnPysGxk/edit?usp=sharing)
 2. Game Projects: Processes and Roles 
 3. Game Projects: Documents and Pitches 
 4. Prototyping 

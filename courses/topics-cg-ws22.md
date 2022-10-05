@@ -19,12 +19,12 @@ Find the source code used in the lecture on Github: https://github.com/dermotte/
 
 Please upload the exercises (no .exe please, stick to .js, or export to the web) to Moodle until the end of the announced day.
 
-| ID | Title | Slide | Deadline |
-|:---|:---|:---|:---|
-| 01 | tba. | tba. | tba. |
-| 02 | tba. | tba. | tba. |
-| 03 | tba. | tba. | tba. |
-| 04 | tba. | tba. | tba. |
+| ID | Title           | Slide                                                                                                       | Deadline |
+|:---|:----------------|:------------------------------------------------------------------------------------------------------------|:---|
+| 01 | 3D Game of Life | [#32](https://docs.google.com/presentation/d/1NTLubtBW9exh7QScUAW0gK6VnXBbucQ-GlNnP7LNFgw/edit?usp=sharing) | tba. |
+| 02 | tba.            | tba.                                                                                                        | tba. |
+| 03 | tba.            | tba.                                                                                                        | tba. |
+| 04 | tba.            | tba.                                                                                                        | tba. |
 
 ## Final Project
 

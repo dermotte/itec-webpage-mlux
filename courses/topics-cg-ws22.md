@@ -22,7 +22,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | ID | Title           | Slide                                                                                                       | Deadline |
 |:---|:----------------|:------------------------------------------------------------------------------------------------------------|:---|
 | 01 | 3D Game of Life | [#32](https://docs.google.com/presentation/d/1NTLubtBW9exh7QScUAW0gK6VnXBbucQ-GlNnP7LNFgw/edit?usp=sharing) | tba. |
-| 02 | tba.            | tba.                                                                                                        | tba. |
+| 02 | Gaussian RNG | [#40](https://docs.google.com/presentation/d/1bmOxQziYmdsC1Jk1vyvpvLiRDhqC8cSxj8SMu7o40mw/edit?usp=sharing) tba.                                                                                                        | tba. |
 | 03 | tba.            | tba.                                                                                                        | tba. |
 | 04 | tba.            | tba.                                                                                                        | tba. |
 

@@ -21,8 +21,8 @@ Due to the international nature of the Game Studies and Engineering program, we 
 2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1uctkZjNBrEnxUpXgnHE6Xe3jiWrHp83C-HIWB3MkgM0/edit?usp=sharing)
 3. Game Projects: Documents and Pitches ~ slides see above, [recorded lecture](https://youtu.be/QKBxPujzE70)
 4. Prototyping ~ [slides](https://docs.google.com/presentation/d/1vSkjkyN8cltdXx3XluELF_pLrhRZ5KwG2YvnZef8Zuo/edit?usp=sharing)
-5. Introduction to Programming
-6. Basic Concepts in Game Programming
+5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1RMVDQ4RN0r8ADPYy9P7xtcZx49tBDjwZhZtgrS4Pp3I/edit?usp=sharing)
+6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1v_IHaPsgqzyD2cvwWWUYRPlEm0IZhl7X0y3uisiTN8Y/edit?usp=sharing)
 7. Playtests
 8. Animation
 9. Sound & Interactive Music

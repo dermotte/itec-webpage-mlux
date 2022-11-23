@@ -9,7 +9,7 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 * Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1NTLubtBW9exh7QScUAW0gK6VnXBbucQ-GlNnP7LNFgw/edit?usp=sharing)
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/1bmOxQziYmdsC1Jk1vyvpvLiRDhqC8cSxj8SMu7o40mw/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/11f1uWSBi0ogJ5k44LI5AIcSQ7v7uShxWQPQVegIMkls/edit?usp=sharing)
-* Labyrinths
+* Labyrinths ~ [slides](https://docs.google.com/presentation/d/15n7AcRAjdD9bdQ8X63t-LrSmBLrWqPrc78DMAQlPRrA/edit?usp=sharing)
 * L-Systems & Erosion
 * Introduction to VR
 
@@ -21,10 +21,10 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 
 | ID | Title           | Slide                                                                                                       | Deadline |
 |:---|:----------------|:------------------------------------------------------------------------------------------------------------|:---|
-| 01 | 3D Game of Life | [#32](https://docs.google.com/presentation/d/1NTLubtBW9exh7QScUAW0gK6VnXBbucQ-GlNnP7LNFgw/edit?usp=sharing) | tba. |
-| 02 | Gaussian RNG | [#40](https://docs.google.com/presentation/d/1bmOxQziYmdsC1Jk1vyvpvLiRDhqC8cSxj8SMu7o40mw/edit?usp=sharing) tba.                                                                                                        | tba. |
-| 03 | tba.            | tba.                                                                                                        | tba. |
-| 04 | tba.            | tba.                                                                                                        | tba. |
+| 01 | 3D Game of Life | [#32](https://docs.google.com/presentation/d/1NTLubtBW9exh7QScUAW0gK6VnXBbucQ-GlNnP7LNFgw/edit?usp=sharing) | Dec 20, 2022|
+| 02 | Gaussian RNG | [#40](https://docs.google.com/presentation/d/1bmOxQziYmdsC1Jk1vyvpvLiRDhqC8cSxj8SMu7o40mw/edit?usp=sharing)    | Dec 20, 2022|
+| 03 | Perlin Noise Shader | [#45](https://docs.google.com/presentation/d/11f1uWSBi0ogJ5k44LI5AIcSQ7v7uShxWQPQVegIMkls/edit?usp=sharing) | Dec 20, 2022|
+| 04 | 3D Maze | [#55](https://docs.google.com/presentation/d/15n7AcRAjdD9bdQ8X63t-LrSmBLrWqPrc78DMAQlPRrA/edit?usp=sharing) | Jan 10, 2023 |
 
 ## Final Project
 

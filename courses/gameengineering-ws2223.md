@@ -26,11 +26,11 @@ Due to the international nature of the Game Studies and Engineering program, we 
 7. Playtests ~ [slides](https://docs.google.com/presentation/d/12oZecCtryxH8J5lKcMrwVOGkmVNVUbfEx-KSRvEDa_4/edit?usp=sharing)
 8. Animation ~ [slides](https://docs.google.com/presentation/d/1E6w8bCO9S9Ht1bkMXD4r46GyHLCo_YES2qgbq5Vcmsk/edit?usp=sharing)
 9. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1ZHQWWW8UMzOCcbpryEaFh-yOzb9wahDB-vV_Loh-lgg/edit?usp=sharing)
-10. Tools & Tool Chain
+10. Tools & Tool Chain ~ [slides](https://docs.google.com/presentation/d/1kVEIdmztM8euz1cL5n3Xtnyzz-wZGT2X3iNUGqVQ_qc/edit?usp=sharing)
 
 ## Modalities
 
-This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will take 60 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://docs.google.com/document/d/1Z3XhU1tYw1JmpIryDF9UBoEK8fPYe5nruExHBayOzMU/edit?usp=sharing).
+This course is a _Vorlesung_, meaning that the grade is awarded after a final examination. The open book exam will take 60 minutes of your time and will focus on the topics discussed in the course. A [list of possible exam questions is available here](https://docs.google.com/document/d/1mvdgXJl7ckqvTvY6unqEGGiHF7bwgz4frzoh4uxip9o/edit?usp=sharing).
 
 ## Links
 Here are some links to dive further into the topics of the course.

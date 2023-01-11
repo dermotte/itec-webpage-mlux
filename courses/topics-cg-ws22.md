@@ -13,6 +13,7 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 * L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1_EzermGVE1ufQwSKXt-TmxCR6mBIPQ7gjykM7EKOgKk/edit?usp=sharing)
 * Puzzles: Sudoku ~ [slides](https://docs.google.com/presentation/d/1WKnac5C2MiF46FTsVr7bIz_WPtrYJv5mikWiZUD6tKU/edit?usp=sharing)
 * Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1vYp9mVa3-mXRncrO9xgYyoiur_1HhCaaDgwRQELLsT4/edit?usp=sharing)
+* Introduction to WebXR ~ [slides](https://docs.google.com/presentation/d/1OLGI0fAtyIrnS1OH4CEue1Piyr8_aFc8tEIL-H7ujPM/edit?usp=sharing)
 
 Find the source code used in the lecture on Github: https://github.com/dermotte/AdvancedTopicsCG-ST2022
 

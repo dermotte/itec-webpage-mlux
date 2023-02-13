@@ -29,7 +29,7 @@
         </div>
     </div>
 </div>
-<h2>Summer Semester 2022</h2>
+<h2>Summer Semester 2023</h2>
 <ul>
     <li>
         <div class="li"><a href="?id=courses/games-ss23.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
@@ -45,8 +45,8 @@
         Course on additional topics in game engineering with focus on creating games in a team from the Game Studies and Engineering master program.
     </li>
     <li>
-        <a href="?id=courses/seminardms-ss23.md">Peer Seminar</a> -
-        A doctoral seminar focusing on fostering the abilities to rapid prototyping and self organisation.
+        <a href="?id=courses/seminardms-ss23.md">Seminar in Multimedia Systems</a> -
+        Seminar on advanced topics in interactive multimedia systems.
     </li>
     <li>
         <a href="https://campus.aau.at/studium/course/112944">Practical Game Engineering</a> -

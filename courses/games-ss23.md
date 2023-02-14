@@ -24,7 +24,17 @@ assignments, (ii) the final project and a (iii) final exam.
 
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
 
-1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1nY8tkk6aobcAL3SvWaHbY6qttw-rbczoS2yb2tLSNXI/edit?usp=sharing) ~ readings: [Game - AI Dungeon](https://aidungeon.io/)
+1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1ues7k6EakBN0x8E5ruoz3cDWhrahLaL5OOTfEYwIJ1Q/edit?usp=sharing) ~ readings: [Game - AI Dungeon](https://aidungeon.io/)
+2. Business of Games ~ [slides](https://docs.google.com/presentation/d/1G_JH80RYi5xeH7DxHHx6SCnaIMaGDFnFtOWTOA_Yh4Q/edit?usp=sharing) ~ readings: [Video - Free to Play](http://store.steampowered.com/app/245550/?snr=1_7_7_151_150_1)
+3. Game Loop ~ [slides](https://docs.google.com/presentation/d/13Q9IZ8n125b5kA8iLCO4ylkokSI70FipYNM-p4u9Rdc/edit?usp=sharing)  ~ readings: [Game - Paperclip](https://www.decisionproblem.com/paperclips/index2.html)
+4. 2D Graphics 
+5. Game Design 
+6. Input and Sound 
+7. Game Production and Development 
+8. Introduction to 3D Graphics 
+9. Game AI 
+10. Game Physics 
+11. History of Games 
 
 
 ## Game Jam

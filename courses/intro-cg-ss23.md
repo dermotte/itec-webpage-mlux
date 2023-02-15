@@ -21,12 +21,21 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 ### References and Links
  1. [p5js](https://p5js.org/) - JavaScript based implementation for the first part of the course
  1. [Processing](https://processing.org/) - Java based implementation for the first part of the course
- 1. [Blender Tutorials](https://www.blender.org/support/tutorials/) - Learn Blender on your own
- 1. [Blender Step-By-Step Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) - It's for Blender 2.8, but it's still valid
  1. [CC0 Textures](https://cc0textures.com/) - CC0 licensed high quality textures
  1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects
  1. [HDRI Haven](https://hdrihaven.com/) - CC0 licensed high quality HDRIs
  1. [Kenney Assets](https://www.kenney.nl/assets) - CC0 licensed assets that can be used in Blender
+
+### Blender Workshop
+For the Blender Workshop please bring a full size keyboard and a mouse. There are several tutorials and videos that can get you into Blender:
+
+1. [Blender Tutorials](https://www.blender.org/support/tutorials/) - Learn Blender on your own
+1. [Blender Step-By-Step Videos](https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6) - It's for Blender 2.8, but it's still valid in large parts
+1. [Blender Guru Donut Tutorial](https://www.youtube.com/watch?v=nIoXOplUvAw&list=PLjEaoINr3zgFX8ZsChQVQsuDSjEqdWMAD)
+
+If you have covered the basics, look out for in-depth, focused tutorials like these:
+1. [Blender X-mas 3D Icon Tutorial](https://www.youtube.com/watch?v=9-WBWV_BAS4)
+2. [Create 3D Animated Characters with Blender](https://www.youtube.com/watch?v=hXd4KEqrYEE)
 
 ## Exercises (Mandatory Assignments)
 

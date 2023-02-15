@@ -8,9 +8,10 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). 
 
-1. Introduction ~ [slides](https://docs.google.com/presentation/d/1TjtfhJoBxQuo0RXr_znkCLTC-eHI7VBo2JPXobhfymg/edit?usp=sharing) ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
-2. Math 101 
-3. Coordinates and Transformations 
+1. Introduction ~ [slides](https://docs.google.com/presentation/d/16TU33dhwpADSWglb49lny0Xb94cZ2Y6vcxEKBOYqjoA/edit?usp=sharing) ~ readings:  [Sand rendering in Journey](https://www.youtube.com/watch?v=wt2yYnBRD3U)
+2. p5js ~ [slides](https://docs.google.com/presentation/d/1rOsA85kH-ZCn67DA5xOoXRCaepVSVR6c6k67eKCrSnc/edit?usp=sharing) ~ readings: [p5js tutorial video](https://www.youtube.com/watch?v=8j0UDiN7my4)
+2. Math 101 ~ [slides](https://docs.google.com/presentation/d/1z50akTAnZsl9Qi1QstfqG5TZGXrGCEwxk4xzNwIFJqU/edit?usp=sharing) ~ readings:  [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
+3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/12fGIS2yPY2yTZtLQet66zB9YlvuC0KwJdgq3iMLG9gI/edit?usp=sharing)
 4. Meshes and Lights 
 5. Shading  
 6. Cameras 
@@ -31,10 +32,14 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 
 Please upload the exercises (just the .js or the .pde file and eventual texture or model files) to Moodle until the end of the announced day.
 
-| ID | Title | Slide | Deadline | Example Solution |
-|:---|:---|:---|:---------|:---|
-| EX 01 | Vector Reflection | slide # 32 in Math 101 | ... | ... |
-
+| ID | Title | Slide | Deadline     |
+|:---|:---|:---|:-------------|
+| EX 01 | Vector Reflection | slide # 32 in Math 101 | Apr 16, 2023 |
+| EX 02 | LERP Game | slide # 44 in Math 101 | Apr 24, 2023 |
+| EX 03 | Rotating Boxes | slide # 50 in Coordinates and Transformations | May 2, 2023  |
+| EX 04 | Lighting a Scene | slide # 36 in Meshes and Lights | May 8, 2023  |
+| EX 05 | Bounded Camera | slide # 16 in Cameras | May 15, 2023 |
+| EX 06 | Textured Die | slide # 29 in Textures | May 22, 2023 |
 
 
 ## Final Project

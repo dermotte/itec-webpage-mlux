@@ -1,23 +1,99 @@
 # Advanced Topics in Game Engineering
 
-Throughout the semester a game is produced and students take over a role in a team. The process includes planning, design, development, testing, marketing and roll-out. It will be a combination of workshops, stand-up meetings, self-organized development sessions, student presentations and lectures. There will be guest lectures, which can be online (on Twitch.tv), and an optional excursion to two video game developer studios in Graz. 
+Throughout the semester a game is produced and students take over a role in a team. The process includes planning,
+design, development, testing, marketing and roll-out. It will be a combination of workshops, stand-up meetings,
+self-organized development sessions, student presentations and lectures. There will be guest lectures, which can be
+online (on Twitch.tv), and an optional excursion to two video game developer studios in Graz.
 
 ## Proposed Schedule
 
 In the following table, the main corner stones time-wise are noted. Note that CW gives the calendar week.
 
-| Date | Topic | Type | 
-|:--|:---|:---|
-| 7.3. | Modalities and Group Building | Lecture | 
-| 14.3. | Project Planning and Role Distribution | Workshop | 
-| 21.3. | Agile Development | Guest Lecture | 
-| 28.3. | Pitching | Presentations and Discussion | 
-| 18.4. | Social Media and Community Management | Guest Lecture | 
-| 25.4. | Making a Start-Up | Guest Lecture | 
-| 23.5. | Supervision | tba. | 
-| 10.5. | Excursion to Bongfish and Rarebyte (Graz) | Optional trip to Graz | 
-| 13.6. | tba. | Guest Lecture | 
-| 20.6. | tba. | Guest Lecture | 
-| 27.6. | Final Presentations | Presentations and Discussion | 
+| Date  | Topic                                     | Type                         |
+|:------|:------------------------------------------|:-----------------------------|
+| 7.3.  | Modalities and Group Building             | Lecture                      |
+| 14.3. | Project Planning and Role Distribution    | Workshop                     |
+| 21.3. | Agile Development                         | Guest Lecture                |
+| 28.3. | Pitching                                  | Presentations and Discussion |
+| 18.4. | Social Media and Community Management     | Guest Lecture                |
+| 25.4. | Making a Start-Up                         | Guest Lecture                |
+| 23.5. | Supervision                               | tba.                         |
+| 10.5. | Excursion to Bongfish and Rarebyte (Graz) | Optional trip to Graz        |
+| 13.6. | tba.                                      | Guest Lecture                |
+| 20.6. | tba.                                      | Guest Lecture                |
+| 27.6. | Final Presentations                       | Presentations and Discussion |
+
+## Deliverables
+
+This course is not about the final outcome, i.e. the game, but about reflecting work in a team with the goal to create
+a game. The presentations and deliverables document both, the progress and the lessons learned and are the basis for
+your grade.
+
+Within the process of developing a game, several documents need to be written. For each role, the deliverable is
+different.
+
+| Role                 | Document                                    | Scope                                                     |
+|:---------------------|:--------------------------------------------|:----------------------------------------------------------|
+| Game Designer        | Game Design Document                        | Game Mechanics, Level Design, etc.                        |
+| Software Developer   | Software Design Document                    | Technical Documentation, requirements, etc.               |
+| Artist / Music / SFX | Concept Art, Art Design                     | What will the game look/sound like, how did that develop? | 
+| Writer               | Narrative Design                            | Story, Dialogues, etc.                                    |
+| Playtesting Engineer | Playtesting Documentation                   | Plan, Design and results of playtests                     | 
+| Producer             | Project Plan and Implementation of the Plan | Meetings, Communication, ...                              |
+
+## How to get a positive grade?
+
+Please make sure to fulfil the requirements to the letter. If you cannot meet the requirements for a positive grade,
+please let me know before the deadlines, e.g., tell me that you are not able to submit an exercise a few days before it
+is due.
+
+1. Visit all classes
+2. Do and present the final project
+3. Submit the deliverables
+
+You have to meet all four requirements to get a positive grade. The grade itself is derived from your presentations and
+your final report.
+
+Please note paper format, code of conduct, and plagiarism policies apply as detailed below.
+
+### Paper Format
+
+- Orderly fulfillment of formal requirements:
+    * A paper follows the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/) - use
+      the [Overleaf template](https://www.overleaf.com/latex/examples/the-chicago-citation-style-with-biblatex/pdqqrmwtdqpc)
+      if you want a strict implementation.
+    * A paper is coherently formatted
+    * A paper has a bibliography referencing all employed sources, including but not limited to online videos, web
+      pages, and code repositories
+- Adequate reliance on research literature:
+    * Selection of citations
+    * Provision of a well-formatted bibliography
+- Reliance on theoretical resources
+- Self-made observations on the discussed primary resource
+- Critical reflection on self-made observations
+
+### Code of Conduct and Plagiarism Policies
+
+The [University of California Berkely](https://sa.berkeley.edu/conduct/integrity/definition) offers the following
+definition:
+
+```md
+Plagiarism is defined as use of intellectual material produced by another person without acknowledging its source, for
+example:
+
+* Wholesale copying of passages from works of others into your homework, essay, term paper, or dissertation without
+  acknowledgment.
+* Use of the views, opinions, or insights of another without acknowledgment.
+* Paraphrasing of another person’s characteristic or original phraseology, metaphor, or other literary device without
+  acknowledgment.
+```
+
+For computer science classes this includes source code, video tutorials, and web pages used to create software for the
+course. It is mandatory to check for license compatibility, like (i) can it be used, (ii) how to attribute, and (iii)
+what license is implied by including this source. It is also mandatory to cite the sources in the report. Failing to do
+that counts as plagiarism.
+
+Note that the [Code of Conduct of the AAU](https://www.aau.at/en/research/research-profile/good-academic-practice/)
+applies. Students caught plagiarising or violation of the code of conduct will be removed from class immediately.
 
 

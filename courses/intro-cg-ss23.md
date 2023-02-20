@@ -41,14 +41,15 @@ If you have covered the basics, look out for in-depth, focused tutorials like th
 
 Please upload the exercises (just the .js or the .pde file and eventual texture or model files) to Moodle until the end of the announced day.
 
-| ID | Title | Slide | Deadline     |
-|:---|:---|:---|:-------------|
-| EX 01 | Vector Reflection | slide # 32 in Math 101 | Apr 16, 2023 |
-| EX 02 | LERP Game | slide # 44 in Math 101 | Apr 24, 2023 |
-| EX 03 | Rotating Boxes | slide # 50 in Coordinates and Transformations | May 2, 2023  |
-| EX 04 | Lighting a Scene | slide # 36 in Meshes and Lights | May 8, 2023  |
-| EX 05 | Bounded Camera | slide # 16 in Cameras | May 15, 2023 |
-| EX 06 | Textured Die | slide # 29 in Textures | May 22, 2023 |
+| ID    | Title             | Slide                                         | Deadline     |
+|:------|:------------------|:----------------------------------------------|:-------------|
+| EX 01 | Maurer Rose       | slide # 32 in p5js                            | Apr 3, 2023  |
+| EX 02 | Vector Reflection | slide # 32 in Math 101                        | Apr 16, 2023 |
+| EX 03 | LERP Game         | slide # 44 in Math 101                        | Apr 24, 2023 |
+| EX 04 | Rotating Boxes    | slide # 50 in Coordinates and Transformations | May 2, 2023  |
+| EX 05 | Lighting a Scene  | slide # 36 in Meshes and Lights               | May 8, 2023  |
+| EX 06 | Bounded Camera    | slide # 16 in Cameras                         | May 15, 2023 |
+| EX 07 | Textured Die      | slide # 29 in Textures                        | May 22, 2023 |
 
 
 ## Final Project

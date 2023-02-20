@@ -30,16 +30,27 @@ a game. The presentations and deliverables document both, the progress and the l
 your grade.
 
 Within the process of developing a game, several documents need to be written. For each role, the deliverable is
-different.
+different. However, each of them includes a reflection on what did you learn and what would do differently next time.
 
-| Role                 | Document                                    | Scope                                                     |
-|:---------------------|:--------------------------------------------|:----------------------------------------------------------|
-| Game Designer        | Game Design Document                        | Game Mechanics, Level Design, etc.                        |
-| Software Developer   | Software Design Document                    | Technical Documentation, requirements, etc.               |
-| Artist / Music / SFX | Concept Art, Art Design                     | What will the game look/sound like, how did that develop? | 
-| Writer               | Narrative Design                            | Story, Dialogues, etc.                                    |
-| Playtesting Engineer | Playtesting Documentation                   | Plan, Design and results of playtests                     | 
-| Producer             | Project Plan and Implementation of the Plan | Meetings, Communication, ...                              |
+| Role                   | Document                                 | Scope                                            |
+|:-----------------------|:-----------------------------------------|:-------------------------------------------------|
+| Game Designer          | Game Design Document                     | Game mechanics, level design, etc.               |
+| Software Developer     | Software Design Document                 | Technical documentation, requirements, etc.      |
+| Artist / Music / SFX   | Concept Art, Art Design                  | Look/sound of the game, how did that develop?    | 
+| Writer                 | Narrative Design                         | Story, dialogues, characters, etc.               |
+| Playtesting Engineer   | Playtesting Documentation                | Plan, design, and results of playtests           | 
+| Producer               | Project plan and implementation thereof  | Meeting notes, documentation, communication, ... |
+| PR / Community Mgmt.   | Plan and documentation on implementation | What and when, documentation of effects (Twitch, TikTok, ...) |
+
+Each student needs to submit an individual final report of 4000 words including 
+
+1. Documentation assigned to the role (3000 words)
+2. Reflection of the work done (1000 words)
+   1. What went well? - Victories, things that you are proud of. Describe your key moments. Provide details. Examine your experience. Also, think about your group. Especially when it comes to the communication.
+   1. What went wrong? - Mistakes, disasters, problems. What situation / event / part of the circumstances do you remember the most? What happened? Think of the process of the game creation, and technical issues, but also think about the interpersonal behavior within your group.
+   1. Conclusion and Take Home Messages - Analyze your work in the team. What lessons did you learn (3 examples)? e.g. Whether it's tool usage or something within the creation process or even group dynamics, like working with new people over distance. What’s the impact of that experience on you? Be self-aware. What would you do differently next time?
+
+Please note paper format, code of conduct, and plagiarism policies apply as detailed below.
 
 ## How to get a positive grade?
 

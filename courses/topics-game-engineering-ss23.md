@@ -32,17 +32,19 @@ your grade.
 Within the process of developing a game, several documents need to be written. For each role, the deliverable is
 different. However, each of them includes a reflection on what did you learn and what would do differently next time.
 
-| Role                   | Document                                 | Scope                                            |
-|:-----------------------|:-----------------------------------------|:-------------------------------------------------|
-| Game Designer          | Game Design Document                     | Game mechanics, level design, etc.               |
-| Software Developer     | Software Design Document                 | Technical documentation, requirements, etc.      |
-| Artist / Music / SFX   | Concept Art, Art Design                  | Look/sound of the game, how did that develop?    | 
-| Writer                 | Narrative Design                         | Story, dialogues, characters, etc.               |
-| Playtesting Engineer   | Playtesting Documentation                | Plan, design, and results of playtests           | 
-| Producer               | Project plan and implementation thereof  | Meeting notes, documentation, communication, ... |
-| PR / Community Mgmt.   | Plan and documentation on implementation | What and when, documentation of effects (Twitch, TikTok, ...) |
+| Role                 | Document                                 | Scope                                                         |
+|:---------------------|:-----------------------------------------|:--------------------------------------------------------------|
+| Game Designer        | Game Design Document                     | Game mechanics, level design, etc.                            |
+| Software Developer   | Software Design Document                 | Technical documentation, requirements, etc.                   |
+| Visual Artist        | Concept Art, Art Design                  | Look of the game, how did that develop?                 | 
+| Music / SFX Artist   | Sound & Music Design                     | Game audio, how did that develop?                             | 
+| Writer               | Narrative Design                         | Story, dialogues, characters, etc.                            |
+| Playtesting Engineer | Playtesting Documentation                | Plan, design, and results of playtests                        | 
+| Producer             | Project plan and implementation thereof  | Meeting notes, documentation, communication, ...              |
+| PR / Community Mgmt. | Plan and documentation on implementation | What and when, documentation of effects (Twitch, TikTok, ...) |
 
-Each student needs to submit an individual final report of 4000 words including 
+
+Each student needs to submit an **individual final report** of **4000 words** including 
 
 1. Documentation assigned to the role (3000 words)
 2. Reflection of the work done (1000 words)

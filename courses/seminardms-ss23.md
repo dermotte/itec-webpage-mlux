@@ -6,9 +6,14 @@ scientific paper.
 
 # Schedule
 
-| Day         | Time    | Place                                           | Topic | 
-|:------------|:--------|:------------------------------------------------|:---|
-| 07.03. 2023 | 8pm     | S.2.42                                          | Initial meeting| 
+| Day         | Time | Place  | Topic                                   | 
+|:------------|:-----|:-------|:----------------------------------------|
+| 07.03. 2023 | 8:30 | S.2.42 | Organisational, scientific publications | 
+| 14.03. 2023 | 8:30 | S.2.42 | What is research? Master's Thesis 101   | 
+| 21.03. 2023 | 8:30 | S.2.42 | Paper formatting and topic distribution | 
+| 28.03. 2023 | 8:30 | S.2.42 | Start presentations                     | 
+| 09.05. 2023 | 8:30 | S.2.42 | Intermediate presentations              | 
+| 20.06. 2023 | 8:30 | S.2.42 | Final presentations                     | 
 
 # Modalities
 
@@ -16,13 +21,20 @@ scientific paper.
 * Start, intermediate and final presentations are mandatory. Missing to give either of them results in failing the course.
 * The final paper has to be sent in __July 31st, 2023__ latest. If you can't make the date ask for an extension in time.
 
+# Topics
+You can choose a topic from the list, or find your own topic in the context of multimedia systems and games, including the following conferences:
+* [ACM Multimedia](https://dl.acm.org/conference/mm)
+* [ACM MMSys](https://dl.acm.org/conference/mmsys)
+* [ACM SIGGRAPH](https://dl.acm.org/conference/siggraph)
+* [ACM CHI PLAY](https://dl.acm.org/toc/pacmhci/2022/6/CHI+PLAY)
+
 # Your paper
 Your task is to find work related to the topic you select, read and assess it, put it into context and describe relations, benefit etc. This is also called a comparative study. 
 
 Your paper is a scientific article. It has to match scientific quality in terms of citations, argumentation, facts, readability, and so on.
 Your submission has to follow the _ACM SIG Proceedings Style_. You can find it on [Overleaf](https://www.overleaf.com/latex/templates/acm-conference-proceedings-master-template/pnrfvrrdbfwt) or on the [authors' page](https://www.acm.org/publications/proceedings-template). You are strongly encouraged to use [LaTeX](https://www.latex-tutorial.com/tutorials/) and check your text using [Grammarly](https://app.grammarly.com/).
 
-Your paper should have 5000 words. That's around 6 pages in the given ACM style.
+Your paper should have 4 pages in the given ACM style. That's around 3000-4000 words typically. 
 Please note term paper format, code of conduct, and plagiarism policies apply as detailed below.
 
 ## Paper Format

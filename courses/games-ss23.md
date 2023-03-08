@@ -56,7 +56,7 @@ For the second mandatory exercise you are to create a game, where you land rocke
 
 1. Use the built-in Godot physics engine with the rocket / spaceship being a _RigidBody2D_ and the plateau being a _StaticBody2D_
 1. Use the arrow keys to rotate and fire up the rocket
-1. Let the game be similar to the example: [play in browser](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/) or [download for windows](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/example-game-windows.zip)
+1. Let the game be similar to the example: [play in browser](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/) or [download for windows](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/example-game-windows.zip) - the Godot 4.0 version is available at [itch.io](https://dermotte.itch.io/lunar-lander-clone)
 1. Submit as zipped Godot Project.
 
 Submit your game, the zipped project folder, on Moodle until **May 14th, 2023, midnight**.

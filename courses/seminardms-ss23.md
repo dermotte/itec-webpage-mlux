@@ -6,14 +6,14 @@ scientific paper.
 
 # Schedule
 
-| Day         | Time | Place  | Topic                                   | 
-|:------------|:-----|:-------|:----------------------------------------|
-| 07.03. 2023 | 8:30 | S.2.42 | Organisational, scientific publications | 
-| 14.03. 2023 | 8:30 | S.2.42 | What is research? Master's Thesis 101   | 
-| 21.03. 2023 | 8:30 | S.2.42 | Paper formatting and topic distribution | 
-| 28.03. 2023 | 8:30 | S.2.42 | Start presentations                     | 
-| 09.05. 2023 | 8:30 | S.2.42 | Intermediate presentations              | 
-| 20.06. 2023 | 8:30 | S.2.42 | Final presentations                     | 
+| Day         | Time | Place  | Topic                                                | 
+|:------------|:-----|:-------|:-----------------------------------------------------|
+| 07.03. 2023 | 8:30 | S.2.42 | Organisational, scientific publications ~ [slides](https://docs.google.com/presentation/d/1RUOAn-Tl3rpXIbVUJFERoCu1EoUWzEMeOe-y_hcHVfk/edit?usp=sharing) | 
+| 14.03. 2023 | 8:30 | S.2.42 | What is research? Master's Thesis 101 ~ [slides](https://docs.google.com/presentation/d/1ynYMyuXsB22T8Eb9ir9za02t-c21FkpmR1A5dOOdAAs/edit?usp=sharing)   | 
+| 21.03. 2023 | 8:30 | S.2.42 | Paper formatting and topic distribution              | 
+| 28.03. 2023 | 8:30 | S.2.42 | Start presentations                                  | 
+| 09.05. 2023 | 8:30 | S.2.42 | Intermediate presentations                           | 
+| 20.06. 2023 | 8:30 | S.2.42 | Final presentations                                  | 
 
 # Modalities
 

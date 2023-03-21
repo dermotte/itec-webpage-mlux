@@ -6,14 +6,14 @@ scientific paper.
 
 # Schedule
 
-| Day         | Time | Place  | Topic                                                | 
-|:------------|:-----|:-------|:-----------------------------------------------------|
+| Day         | Time | Place  | Topic                                                                                                                                                    | 
+|:------------|:-----|:-------|:---------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 07.03. 2023 | 8:30 | S.2.42 | Organisational, scientific publications ~ [slides](https://docs.google.com/presentation/d/1RUOAn-Tl3rpXIbVUJFERoCu1EoUWzEMeOe-y_hcHVfk/edit?usp=sharing) | 
 | 14.03. 2023 | 8:30 | S.2.42 | What is research? Master's Thesis 101 ~ [slides](https://docs.google.com/presentation/d/1ynYMyuXsB22T8Eb9ir9za02t-c21FkpmR1A5dOOdAAs/edit?usp=sharing)   | 
-| 21.03. 2023 | 8:30 | S.2.42 | Paper formatting and topic distribution              | 
-| 28.03. 2023 | 8:30 | S.2.42 | Start presentations                                  | 
-| 09.05. 2023 | 8:30 | S.2.42 | Intermediate presentations                           | 
-| 20.06. 2023 | 8:30 | S.2.42 | Final presentations                                  | 
+| 21.03. 2023 | 8:30 | S.2.42 | Paper formatting and topic distribution ~ [slides](https://docs.google.com/presentation/d/1cyCOF7hcwLu6GC4fKIFJ5WBxtp2ZV60NRoEFXTqcXaM/edit?usp=sharing) | 
+| 28.03. 2023 | 8:30 | S.2.42 | Start presentations                                                                                                                                      | 
+| 09.05. 2023 | 8:30 | S.2.42 | Intermediate presentations                                                                                                                               | 
+| 20.06. 2023 | 8:30 | S.2.42 | Final presentations                                                                                                                                      | 
 
 # Modalities
 
@@ -77,5 +77,15 @@ Goal of this presentation is to show the topic to your colleagues and to show yo
 The final presentation should take 15 minutes (no more and no less) and should summarize your work done in the paper.
 
 # Topics
+
+## Quality of Experience
+- Juluri, P., Tamarapalli, V., & Medhi, D. (2015). Measurement of quality of experience of video-on-demand services: A survey. IEEE Communications Surveys & Tutorials, 18(1), 401-418.
+- Skowronek, J., Raake, A., Berndtsson, G., Rummukainen, O. S., Usai, P., Gunkel, S. N., ... & Toet, A. (2022). Quality of experience in telemeetings and videoconferencing: a comprehensive survey. IEEE Access.
+- Balachandran, A., Sekar, V., Akella, A., Seshan, S., Stoica, I., & Zhang, H. (2013). Developing a predictive model of quality of experience for internet video. ACM SIGCOMM Computer Communication Review, 43(4), 339-350.
+
+## Movement in VR
+- Cmentowski, S., Kievelitz, F., & Krueger, J. H. (2022). Outpace Reality: A Novel Augmented-Walking Technique for Virtual Reality Games. Proceedings of the ACM on Human-Computer Interaction, 6(CHI PLAY), 1-24.
+- Nilsson, N. C., Serafin, S., Steinicke, F., & Nordahl, R. (2018). Natural walking in virtual reality: A review. Computers in Entertainment (CIE), 16(2), 1-22.
+- Cannavò, A., Calandra, D., Pratticò, F. G., Gatteschi, V., & Lamberti, F. (2020). An evaluation testbed for locomotion in virtual reality. IEEE Transactions on Visualization and Computer Graphics, 27(3), 1871-1889.
 
 ...

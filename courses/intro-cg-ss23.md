@@ -12,7 +12,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 2. p5js ~ [slides](https://docs.google.com/presentation/d/1rOsA85kH-ZCn67DA5xOoXRCaepVSVR6c6k67eKCrSnc/edit?usp=sharing) ~ readings: [p5js tutorial video](https://www.youtube.com/watch?v=8j0UDiN7my4), [Coding the Maurer Rose](https://www.youtube.com/watch?v=4uU9lZ-HSqA)
 2. Math 101 ~ [slides](https://docs.google.com/presentation/d/1z50akTAnZsl9Qi1QstfqG5TZGXrGCEwxk4xzNwIFJqU/edit?usp=sharing) ~ readings: [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
 3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/12fGIS2yPY2yTZtLQet66zB9YlvuC0KwJdgq3iMLG9gI/edit?usp=sharing)
-4. Meshes and Lights 
+4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1T8Gf5s0hmtQizbhQ_OoN82fa6CHT22oUQo6JJPaKtXU/edit?usp=sharing)
 5. Shading  
 6. Cameras 
 7. Textures 

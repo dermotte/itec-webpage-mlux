@@ -13,7 +13,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 2. Math 101 ~ [slides](https://docs.google.com/presentation/d/1z50akTAnZsl9Qi1QstfqG5TZGXrGCEwxk4xzNwIFJqU/edit?usp=sharing) ~ readings: [Easing functions](https://www.youtube.com/watch?v=mr5xkf6zSzk)
 3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/12fGIS2yPY2yTZtLQet66zB9YlvuC0KwJdgq3iMLG9gI/edit?usp=sharing)
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1T8Gf5s0hmtQizbhQ_OoN82fa6CHT22oUQo6JJPaKtXU/edit?usp=sharing)
-5. Shading  
+5. Shading ~ [slides](https://docs.google.com/presentation/d/1sGvyUp1hKhJQvXcYOM3PWA6MJtyLs3nsI9qIylegOxc/edit?usp=sharing)
 6. Cameras 
 7. Textures 
 8. Blender Workshop 

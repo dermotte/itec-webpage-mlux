@@ -14,8 +14,9 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/12fGIS2yPY2yTZtLQet66zB9YlvuC0KwJdgq3iMLG9gI/edit?usp=sharing)
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1T8Gf5s0hmtQizbhQ_OoN82fa6CHT22oUQo6JJPaKtXU/edit?usp=sharing)
 5. Shading ~ [slides](https://docs.google.com/presentation/d/1sGvyUp1hKhJQvXcYOM3PWA6MJtyLs3nsI9qIylegOxc/edit?usp=sharing)
-6. Cameras 
-7. Textures 
+6. Cameras ~ [slides](https://docs.google.com/presentation/d/187vlwrIhl4uorjDM7IBYzDviZvy42K1ZmKLfO-Drfzo/edit?usp=sharing)
+7. Textures ~ [slides](https://docs.google.com/presentation/d/1HXLXdL2ziDCIvrtMw5j2XJCnGH5wfGjakS_2reSNBNk/edit?usp=sharing)
+7. Raytracing and Real Time Rendering ~ [slides](https://docs.google.com/presentation/d/1j_DcQKvWg5BBvCUW7OVVdkM1rhcqCa5r3KrdX06F_Eo/edit?usp=sharing)
 8. Blender Workshop 
 
 ### References and Links

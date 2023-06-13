@@ -33,8 +33,8 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 7. Game Production and Development ~ [slides](https://docs.google.com/presentation/d/1i2m7QVViCz9jTZmgewpiaTvZIUGc6cvBauEdL1Wt-tE/edit?usp=sharing)
 8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1Ec_aEsRFVSGO_6OzZVSKuNJ9c29N6rW6dLKhAOugk-k/edit?usp=sharing) ~ [recording](https://youtu.be/bp_7oka6CIc)
 9. Game AI ~ [slides](https://docs.google.com/presentation/d/1mQ6JHaryLm_dyckr60IQHAMkyPRl_Aqnhha7sYqR4y4/edit?usp=sharing)
-10. Game Physics 
-11. History of Games 
+10. Game Physics ~ [slides](https://docs.google.com/presentation/d/1JYFatBYKV1cyhrX0ZwmOT9HUkUDCV6U9nXJasTTIvY4/edit?usp=sharing)
+
 
 
 ## Game Jam

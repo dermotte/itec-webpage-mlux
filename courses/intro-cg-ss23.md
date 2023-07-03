@@ -83,7 +83,7 @@ Please note term paper format, code of conduct, and plagiarism policies apply as
 
 ### Paper Format
 - Orderly fulfillment of formal requirements:
-    * A paper follows the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/) - use the [Overleaf template](https://www.overleaf.com/latex/examples/the-chicago-citation-style-with-biblatex/pdqqrmwtdqpc) if you want a strict implementation.
+    * A paper follows the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/) - use the [Overleaf template](https://www.overleaf.com/latex/examples/the-chicago-citation-style-with-biblatex/pdqqrmwtdqpc) if you want a strict implementation or look at the [sample report](downloads/sample_report_introduction_CG.pdf) for reference
     * A paper is coherently formatted
     * A paper has a bibliography referencing all employed sources, including but not limited to online videos, web pages, and code repositories
 - Adequate reliance on research literature:

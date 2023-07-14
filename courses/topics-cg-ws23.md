@@ -20,7 +20,7 @@ Find the source code used in the lecture on Github: https://github.com/dermotte/
 
 ## Exercises (Mandatory Assignments)
 
-Please upload the exercises (no .exe please, stick to .js, or export to the web) to Moodle until the end of the announced day.
+Please upload the exercises (no .exe please, stick to .js, or export to the web) to Moodle until the end of the announced day. Note that missing the deadline changes your grade, and you have to submit all assignments.
 
 | ID | Title           | Slide                                                                                                       | Deadline |
 |:---|:----------------|-------|:---------|
@@ -36,7 +36,7 @@ The final project needs to include (i) procedurally generated content based on a
 1. Your work as source code or a link to Github, Bitbucket, etc.
 2. Your result as and executable for the web (test before upload!)
 3. Your PDF presentation slides showing your work and summarizing the report.
-4. A formatted PDF work report of ~ 1000 words detailing what you did and the lessons learned and obstacles encountered.
+4. A formatted PDF work report of ~ 1000 words detailing (i) what you did, (ii) how you did it and (iii) the lessons learned and obstacles encountered.
 
 Please note term paper format, code of conduct, and plagiarism policies apply as detailed below.
 

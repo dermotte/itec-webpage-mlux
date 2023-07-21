@@ -2,7 +2,7 @@
 
 This course will dive into specific topics in the broad area of computer graphics. We will focus on (i) procedurally generated content (PCG) and (ii) AR/VR. The course will require a significant amount of practical work, so programming knowledge is required. We will implement standard algorithms for PCG in computer games and put them to use in a VR environment. The web page will be updated continuously. Grading is based on (i) mandatory assignments, (ii) a final project including a video demo and a written report, and (iii) a final exam.
 
-Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studium/course/112938). All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
+Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studium/course/116873). All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
 
 ## Topics
 
@@ -20,7 +20,7 @@ Find the source code used in the lecture on Github: https://github.com/dermotte/
 
 ## Exercises (Mandatory Assignments)
 
-Please upload the exercises (no .exe please, stick to .js, or export to the web) to Moodle until the end of the announced day. Note that missing the deadline changes your grade, and you have to submit all assignments.
+Please upload the exercises (no .exe please, stick to .js, or export to the web) to Moodle until the end of the announced day. Note that missing the deadline will impact your grade, and you have to submit all assignments.
 
 | ID | Title           | Slide                                                                                                       | Deadline |
 |:---|:----------------|-------|:---------|
@@ -31,19 +31,19 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 
 ## Final Project
 
-The final project needs to include (i) procedurally generated content based on an algorithm implementation of your choice and (ii) needs to be runnable on a VR headset. An easy choice is to prepare a WebXR export or use of a framework with WebXR support. For submission, you need to upload the following files in a single ZIP file.
+The final project needs to include (i) procedurally generated content based on your own implementation of an algorithm your choice and (ii) needs to be runnable on a VR headset. A good choice is to prepare a WebXR export or use of a framework with WebXR support. For submission, you need to upload the following files in a single ZIP file. Note that you have to present your final project in the course. 
 
 1. Your work as source code or a link to Github, Bitbucket, etc.
-2. Your result as and executable for the web (test before upload!)
+2. Your result as executable and for the web (test before upload!)
 3. Your PDF presentation slides showing your work and summarizing the report.
 4. A formatted PDF work report of ~ 1000 words detailing (i) what you did, (ii) how you did it and (iii) the lessons learned and obstacles encountered.
 
-Please note term paper format, code of conduct, and plagiarism policies apply as detailed below.
+Please note term paper format, code of conduct, AI use, and plagiarism policies apply as detailed below. Not following the required format and policies will impact your grade.  
 
 ### Paper Format
 - Orderly fulfillment of formal requirements:
     * A paper follows the [Chicago Manual of Style](https://www.chicagomanualofstyle.org/) - use the [Overleaf template](https://www.overleaf.com/latex/examples/the-chicago-citation-style-with-biblatex/pdqqrmwtdqpc) if you want a strict implementation.
-    * A paper is coherently formatted
+    * A paper is coherently formatted and has been checked for typos and grammatical errors (you can use Grammarly for instance to do that) 
     * A paper has a bibliography referencing all employed sources, including but not limited to online videos, web pages, and code repositories
 - Adequate reliance on research literature:
     * Selection of citations
@@ -52,6 +52,9 @@ Please note term paper format, code of conduct, and plagiarism policies apply as
 -	Self-made observations on the discussed primary resource
 -	Critical reflection on self-made observations
 
+
+### AI Use in this Course
+While students are encouraged to use any tools you can find as a sparring partner for coding or resource for learning, the course goal is to be able to program the exercises and the final project individually. If there is a suspicion that parts of the source code or texts were written by an AI tool, you will be invited to a clarifying discussion, which can also influence the grade. In addition, the rules for plagiarism (with "another person" being the AI model) also apply.
 
 ### Code of Conduct and Plagiarism Policies
 

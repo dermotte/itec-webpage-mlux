@@ -6,7 +6,7 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 
 ## Topics
 
-* Introduction to procedurally generated content 
+* Introduction to procedurally generated content ~ slides[https://docs.google.com/presentation/d/1bwo2eBRb8VrX92GyHj-pf_3VkwxG3FIPoAjBs6327GY/edit?usp=sharing]
 * Overview on PCG algorithms and pseudo-random number generators 
 * Noise functions 
 * Labyrinths 

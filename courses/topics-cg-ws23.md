@@ -1,6 +1,6 @@
 # Advanced Topics in Computer Graphics
 
-This course will dive into specific topics in the broad area of computer graphics. We will focus on (i) procedurally generated content (PCG) and (ii) AR/VR. The course will require a significant amount of practical work, so programming knowledge is required. We will implement standard algorithms for PCG in computer games and put them to use in a VR environment. The web page will be updated continuously. Grading is based on (i) mandatory assignments, (ii) a final project including a video demo and a written report, and (iii) a final exam.
+This course will dive into specific topics in the broad area of computer graphics. We will focus on (i) procedurally generated content (PCG) and (ii) AR/VR. The course will require a significant amount of practical work, so programming knowledge is required. We will implement standard algorithms for PCG in computer games and put them to use in a VR environment. The web page will be updated continuously. Grading is based on (i) mandatory assignments and (ii) a final project including a video demo and a written report.
 
 Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studium/course/116873). All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
 
@@ -28,6 +28,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | 02 | Gaussian RNG |       | tba.     |
 | 03 | Perlin Noise Shader | | tba.     |
 | 04 | 3D Maze |  | tba.     |
+| 05 | tba. |  | tba.     |
 
 ## Final Project
 

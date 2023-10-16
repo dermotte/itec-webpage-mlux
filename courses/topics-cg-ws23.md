@@ -6,8 +6,8 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 
 ## Topics
 
-* Introduction to procedurally generated content ~ slides[https://docs.google.com/presentation/d/1bwo2eBRb8VrX92GyHj-pf_3VkwxG3FIPoAjBs6327GY/edit?usp=sharing]
-* Overview on PCG algorithms and pseudo-random number generators 
+* Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1bwo2eBRb8VrX92GyHj-pf_3VkwxG3FIPoAjBs6327GY/edit?usp=sharing)
+* Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/1QfIcH9HjNRTTW1RSVa1OrXHfXk43WumJWeAqRyalOFg/edit?usp=sharing)
 * Noise functions 
 * Labyrinths 
 * L-Systems & Erosion 
@@ -25,7 +25,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | ID | Title           | Slide                                                                                                       | Deadline |
 |:---|:----------------|-------|:---------|
 | 01 | 3D Game of Life | slides[https://docs.google.com/presentation/d/1bwo2eBRb8VrX92GyHj-pf_3VkwxG3FIPoAjBs6327GY/edit?usp=sharing]| Nov 5, 2023     |
-| 02 | Gaussian RNG |       | Nov 12, 2023     |
+| 02 | Gaussian RNG | [slides](https://docs.google.com/presentation/d/1QfIcH9HjNRTTW1RSVa1OrXHfXk43WumJWeAqRyalOFg/edit?usp=sharing) | Nov 12, 2023     |
 | 03 | Perlin Noise Shader | | Nov 19, 2023     |
 | 04 | 3D Maze |  | Nov 26, 2023  |
 | 05 | Wave Function Collapse |  | Dec 10, 2023 |

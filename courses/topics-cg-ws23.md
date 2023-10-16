@@ -59,7 +59,7 @@ While students are encouraged to use any tools you can find as a sparring partne
 
 ### Code of Conduct and Plagiarism Policies
 
-The [University of California Berkely](https://sa.berkeley.edu/conduct/integrity/definition) offers the following definition:
+The [University of California Berkely](https://writing.berkeley.edu/academic-honesty) offers the following definition:
 
 ```md
 Plagiarism is defined as use of intellectual material produced by another person without acknowledging its source, for example:

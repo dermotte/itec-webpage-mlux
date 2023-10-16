@@ -5,11 +5,10 @@
     <title>Simple Interval Timer</title>
     <link rel="manifest" href="manifest.json">
     <link href="https://fonts.googleapis.com/css?family=Raleway:400,300,600,800,900" rel="stylesheet" type="text/css">
-    <script language="JavaScript" src="js/progressbar.min.js"></script>
-    <script language="JavaScript" src="js/jquery-3.2.1.min.js"></script>
+    <script src="js/progressbar.min.js"></script>
+    <script src="js/jquery-3.2.1.min.js"></script>
     <link href="./font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
     <link href="./css/intervaltimer.css" rel="stylesheet" type="text/css"/>
-
 
 </head>
 <body>
@@ -29,7 +28,19 @@
     <div class="col-1-3">   <i class="fa fa-plus-square"  onclick="incPause(1)"></i></div>
 </div>
 
-<script language="JavaScript">
+<script>
+    // add wake lock to let the screen stay on:
+    // The wake lock sentinel.
+    let wakeLock = null;
+
+    // Function that attempts to request a screen wake lock.
+    try {
+        wakeLock = navigator.wakeLock.request();
+    } catch (err) {
+        console.error(`${err.name}, ${err.message}`);
+    }
+
+
     // todo: audio is not playing on Android's Chromium ...
     if (localStorage.getItem("roundLength") === null || localStorage.getItem("pauseLength") === null ) {
         localStorage.setItem("roundLength", 30);

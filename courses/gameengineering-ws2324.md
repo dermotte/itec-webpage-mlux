@@ -14,7 +14,7 @@ Due to the international nature of the Game Studies and Engineering program and 
 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/18-_bVR7e65YBF-LQHCDtW46vuyl5BXePZRZtiDyuHsQ/edit?usp=sharing), [YouTube](https://youtu.be/o6L63MgKkTQ), [download recording](https://www2.itec.aau.at/owncloud/index.php/s/YwUJj1WE5282MTh)
 2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1mVqorLZSDn74_K9ygwJxFFSXbXUd2LqhmQtQQDY9oQQ/edit?usp=sharing)
-4. Prototyping 
+4. Prototyping ~ [slides](https://docs.google.com/presentation/d/1OSdi5o1bLZvK8ccIt4BcldbJP9RPYEdif74wabqeOTM/edit?usp=sharing)
 5. Introduction to Programming
 6. Basic Concepts in Game Programming
 7. Playtests and Evaluation

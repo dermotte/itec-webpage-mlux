@@ -9,7 +9,7 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 * Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1bwo2eBRb8VrX92GyHj-pf_3VkwxG3FIPoAjBs6327GY/edit?usp=sharing)
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/1QfIcH9HjNRTTW1RSVa1OrXHfXk43WumJWeAqRyalOFg/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1HGVkX4m09nxTl9hLHRDtRjqEyfZ5IPmNEabh2ZApzcU/edit?usp=sharing)
-* Labyrinths 
+* Labyrinths ~ [slides](https://docs.google.com/presentation/d/1PYJEKi2HOqPmqy5tGawCzAcUhJ4QMTjRWy0LAtubYxo/edit?usp=sharing)
 * L-Systems & Erosion 
 * Puzzles: Sudoku 
 * Wave Function Collapse

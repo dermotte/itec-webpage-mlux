@@ -10,7 +10,7 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/1QfIcH9HjNRTTW1RSVa1OrXHfXk43WumJWeAqRyalOFg/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1HGVkX4m09nxTl9hLHRDtRjqEyfZ5IPmNEabh2ZApzcU/edit?usp=sharing)
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/1PYJEKi2HOqPmqy5tGawCzAcUhJ4QMTjRWy0LAtubYxo/edit?usp=sharing)
-* L-Systems & Erosion 
+* L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1Nyo8IE699tEUq9uFFzUX8_pHYOMho66y5rm3U0kBTKU/edit?usp=sharing)
 * Puzzles: Sudoku 
 * Wave Function Collapse
 * Introduction to VR 

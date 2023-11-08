@@ -8,14 +8,14 @@ The practical course associated with the lecture is taking place as a game jam o
 
 ## Online Lectures
 
-Due to the international nature of the Game Studies and Engineering program and the limited availability of lecture rooms, we'll hold roughly 50% of the lecture online on Twitch.tv. Please join the classes marked online at [https://twitch.tv/dermotte_](https://twitch.tv/dermotte_)
+Due to the international nature of the Game Studies and Engineering program and the limited availability of lecture rooms, we'll hold roughly 50% of the lecture online on Twitch.tv. Please join the classes marked online at [https://twitch.tv/dermotte_](https://twitch.tv/dermotte_). Find the recordings of the lectures at [YouTube](https://www.youtube.com/playlist?list=PLkb7TymgoWW53Rb_3UoPN9JRkrGKaDYb3)
 
 ## Topics
 
-1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/18-_bVR7e65YBF-LQHCDtW46vuyl5BXePZRZtiDyuHsQ/edit?usp=sharing), [YouTube](https://youtu.be/o6L63MgKkTQ), [download recording](https://www2.itec.aau.at/owncloud/index.php/s/YwUJj1WE5282MTh)
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/18-_bVR7e65YBF-LQHCDtW46vuyl5BXePZRZtiDyuHsQ/edit?usp=sharing), 
 2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1mVqorLZSDn74_K9ygwJxFFSXbXUd2LqhmQtQQDY9oQQ/edit?usp=sharing)
 4. Prototyping ~ [slides](https://docs.google.com/presentation/d/1OSdi5o1bLZvK8ccIt4BcldbJP9RPYEdif74wabqeOTM/edit?usp=sharing)
-5. Introduction to Programming
+5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1Tbi9HP2peh6-DllfjVsEgcruwk0gtOT4v9JWBUYyohI/edit?usp=sharing)
 6. Basic Concepts in Game Programming
 7. Playtests and Evaluation
 8. Game Engineering and the Scientific Method

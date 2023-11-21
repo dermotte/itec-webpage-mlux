@@ -11,12 +11,12 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1HGVkX4m09nxTl9hLHRDtRjqEyfZ5IPmNEabh2ZApzcU/edit?usp=sharing)
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/1PYJEKi2HOqPmqy5tGawCzAcUhJ4QMTjRWy0LAtubYxo/edit?usp=sharing)
 * L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1Nyo8IE699tEUq9uFFzUX8_pHYOMho66y5rm3U0kBTKU/edit?usp=sharing)
-* Puzzles: Sudoku 
-* Wave Function Collapse
+* Puzzles: Sudoku ~ [slides](https://docs.google.com/presentation/d/1ALTQB_s6U91CHEoqjEIWbE45VBBmgZyX5ch98W1Muqc/edit?usp=sharing)
+* Wave Function Collapse ~ [slides](https://docs.google.com/presentation/d/1zsi0LRFpM-A6CR2jHENIdOPTPUyYG3LEtSll6tTs2hk/edit?usp=sharing)
 * Introduction to VR 
 * Introduction to WebXR 
 
-Find the source code used in the lecture on Github: https://github.com/dermotte/AdvancedTopicsCG-ST2022
+Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-ST2022>
 
 ## Exercises (Mandatory Assignments)
 
@@ -28,7 +28,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | 02 | Gaussian RNG | [slides](https://docs.google.com/presentation/d/1QfIcH9HjNRTTW1RSVa1OrXHfXk43WumJWeAqRyalOFg/edit?usp=sharing) | Nov 12, 2023     |
 | 03 | Perlin Noise Shader | [slides](https://docs.google.com/presentation/d/1HGVkX4m09nxTl9hLHRDtRjqEyfZ5IPmNEabh2ZApzcU/edit?usp=sharing) | Nov 19, 2023     |
 | 04 | 3D Maze | [slides](https://docs.google.com/presentation/d/1PYJEKi2HOqPmqy5tGawCzAcUhJ4QMTjRWy0LAtubYxo/edit?usp=sharing) | Nov 26, 2023  |
-| 05 | Wave Function Collapse |  | Dec 10, 2023 |
+| 05 | Wave Function Collapse | [slides](https://docs.google.com/presentation/d/1zsi0LRFpM-A6CR2jHENIdOPTPUyYG3LEtSll6tTs2hk/edit?usp=sharing) | Dec 10, 2023 |
 
 ## Final Project
 

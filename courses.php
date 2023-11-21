@@ -29,6 +29,25 @@
         </div>
     </div>
 </div>
+<h2>Winter Semester 2023/2024</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws2324.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master programme.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/topics-cg-ws23.md">VC Advanced Topics in Computer Graphics</a> -
+            Course on additional topics in computer graphics with focus on computer games from the Game Studies and Engineering master program.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="https://campus.aau.at/studium/course/117004">UE Introduction to Computer Science</a> -
+            Practical course on basic topics in computer science following and practicing the concepts of the lecture.
+        </div>
+    </li>
+</ul>
+
 <h2>Summer Semester 2023</h2>
 <ul>
     <li>

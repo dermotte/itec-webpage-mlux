@@ -13,10 +13,11 @@ Find the lecture schedule at [the AAU Campus System](https://campus.aau.at/studi
 * L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/1Nyo8IE699tEUq9uFFzUX8_pHYOMho66y5rm3U0kBTKU/edit?usp=sharing)
 * Puzzles: Sudoku ~ [slides](https://docs.google.com/presentation/d/1ALTQB_s6U91CHEoqjEIWbE45VBBmgZyX5ch98W1Muqc/edit?usp=sharing)
 * Wave Function Collapse ~ [slides](https://docs.google.com/presentation/d/1zsi0LRFpM-A6CR2jHENIdOPTPUyYG3LEtSll6tTs2hk/edit?usp=sharing)
-* Introduction to VR 
-* Introduction to WebXR 
+* Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1DiDSF-4QxAYJD9f7mieM0lCrMvN96TJSzqJ3GIm8Hdc/edit?usp=sharing)
+* Introduction to WebXR ~ [slides](https://docs.google.com/presentation/d/1AWgwU-6JaKMVapP4B4TtgqWnDtha3ML_vA1bjs349jg/edit?usp=sharing)
+* VR Locomotion and Evaluation ~ [slides](https://docs.google.com/presentation/d/1ZZkRH1vMbQS0QpmOerSfB4HVoKIONrvIwBaBlyHNSog/edit?usp=sharing)
 
-Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-ST2022>
+Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-WT2022>
 
 ## Exercises (Mandatory Assignments)
 

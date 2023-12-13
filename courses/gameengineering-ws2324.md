@@ -20,7 +20,7 @@ Due to the international nature of the Game Studies and Engineering program and 
 7. Playtests and Evaluation ~ [slides](https://docs.google.com/presentation/d/1FdDcMIUy8-3DZB2AcyBA-GMXRcj9zIETUyydZjt4tQ0/edit?usp=sharing) and [slides](https://docs.google.com/presentation/d/1Efv89vdU33qc9K5X0k0So-ZEyiN5DdLdaq3Il0WSSEA/edit?usp=sharing)
 8. Game Engineering and the Scientific Method
 9. Animation
-10. Sound & Interactive Music
+10. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1NRN6cwdliX3DClAIohR8ptrFpZkTpyqXVbFdDLCBEUU/edit?usp=sharing)
 11. Tools & Tool Chain
 
 ## Modalities

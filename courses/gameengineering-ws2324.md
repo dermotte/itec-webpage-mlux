@@ -18,7 +18,7 @@ Due to the international nature of the Game Studies and Engineering program and 
 5. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1Tbi9HP2peh6-DllfjVsEgcruwk0gtOT4v9JWBUYyohI/edit?usp=sharing)
 6. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1_cvN6V3mIUDJbQ9SEjsSi3aQlAH6mrwPVG_F8bs4Ya8/edit?usp=sharing)
 7. Playtests and Evaluation ~ [slides](https://docs.google.com/presentation/d/1FdDcMIUy8-3DZB2AcyBA-GMXRcj9zIETUyydZjt4tQ0/edit?usp=sharing) and [slides](https://docs.google.com/presentation/d/1Efv89vdU33qc9K5X0k0So-ZEyiN5DdLdaq3Il0WSSEA/edit?usp=sharing)
-8. Game Engineering and the Scientific Method
+8. Game Engineering and the Scientific Method ~ [slides](https://docs.google.com/presentation/d/1aFxLLl0yOukY02tctyYq4pL4FI_V0N-aiKnSFkQrg-Y/edit?usp=sharing)
 9. Animation
 10. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1NRN6cwdliX3DClAIohR8ptrFpZkTpyqXVbFdDLCBEUU/edit?usp=sharing)
 11. Tools & Tool Chain

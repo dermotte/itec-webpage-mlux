@@ -21,7 +21,7 @@ Due to the international nature of the Game Studies and Engineering program and 
 8. Game Engineering and the Scientific Method ~ [slides](https://docs.google.com/presentation/d/1aFxLLl0yOukY02tctyYq4pL4FI_V0N-aiKnSFkQrg-Y/edit?usp=sharing)
 9. Animation ~ [slides](https://docs.google.com/presentation/d/1oygbrxL5EtAw7UqUXZHgsaikR7QOqEge0-riEm8ChT8/edit?usp=sharing)
 10. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1NRN6cwdliX3DClAIohR8ptrFpZkTpyqXVbFdDLCBEUU/edit?usp=sharing)
-11. Tools & Tool Chain
+11. Tools & Tool Chain ~ [slides](https://docs.google.com/presentation/d/10lV3tA5JmZwkPMwybWaDCFHe_Ouz8vUsilemrsM8N7A/edit?usp=sharing)
 
 ## Modalities
 

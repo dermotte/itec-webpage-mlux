@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>The Wheel</title>
+    <script src="pixi.min.js"></script>
+</head>
+<body>
+<script>
+    // Create the application helper and add its render target to the page
+    let app = new PIXI.Application({
+        background: '#1099bb',
+        resizeTo: window,
+    });
+    document.body.appendChild(app.view);
+
+    // Create the sprite and add it to the stage
+    let wheel = PIXI.Sprite.from('wheel.png');
+    wheel.anchor.set(0.5);
+    wheel.y = app.screen.height/2;
+    wheel.x = app.screen.width/2;
+    wheel.eventMode = 'static'
+    app.stage.addChild(wheel);
+
+    let rotation = 20;
+    let animation_state = 1;
+
+    // Add a ticker callback to move the sprite back and forth
+    let elapsed = 0.0;
+    app.ticker.add((delta) => {
+        if (animation_state <=1) {
+            animation_state += delta * 0.005
+            wheel.rotation = rotation * easeOutExpo(animation_state)
+        }
+    });
+
+    wheel.on('pointerdown', spinWheel);
+
+    function spinWheel() {
+        console.log("Spinning ...")
+        rotation = Math.random()*Math.PI + Math.PI*4;
+        animation_state = 0;
+    }
+
+    function easeOutExpo(x) {
+        return 1 - Math.pow(1 - x, 3);
+    }
+</script>
+</body>
+</html>

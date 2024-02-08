@@ -13,7 +13,7 @@ The course aims to teach in a practical as well as in a theoretical way. Through
 
 * Readings - For the course it's mandatory to read (or view, in case of videos, or even play in case of games) the readings. They will be announced throughout the course in the schedule table.
 * Practical assignment - Two practical assignments prior to the final project.
-* Written exam - A final, short exam on the course topics on June 24, 2024, in the first 30 minutes of the course.- [Catalogue of Questions](https://docs.google.com/document/d/1yNdsC9UoJUaKBskKzgA7Zw-z6bd81pMxrL2XxLX7FDU/edit?usp=sharing).     
+* Written exam - A final, short exam on the course topics on June 24, 2024, in the first 30 minutes of the course. [Catalogue of Questions](https://docs.google.com/document/d/1yNdsC9UoJUaKBskKzgA7Zw-z6bd81pMxrL2XxLX7FDU/edit?usp=sharing).     
 * Final project - Create a game in a group, more information see below 
 
 ## Schedule

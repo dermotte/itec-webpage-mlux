@@ -40,7 +40,7 @@ If you have covered the basics, look out for in-depth, focused tutorials like th
 
 ## Exercises (Mandatory Assignments)
 
-Please upload the exercises (just the .js or the .pde file and eventual texture or model files) to Moodle until the end of the announced day. The use of [p5js](https://p5js.org/) is mandatory.
+Please upload the exercises (exported zip from the p5js editor) to Moodle until the end of the announced day. The use of [p5js](https://p5js.org/) is mandatory.
 
 | ID    | Title             | Slide | Deadline     |
 |:------|:------------------|:------|:-------------|
@@ -86,9 +86,9 @@ Constraints to the project:
 Please make sure to fulfil the requirements to the letter. If you cannot meet the requirements for a positive grade, please let me know before the deadlines, e.g., tell me that you are not able to submit an exercise a few days before it is due.
 
 1. Visit all classes. If not possible, contact me in advance. 
-2. Submit all exercises in time
-3. Do and present the final project 
-4. Submit your project with a report
+2. Submit all exercises in time.
+3. Do and present the final project.
+4. Submit your project with a report.
 
 You have to meet all four requirements to get a positive grade. The grade itself is made in equal parts from your exercises and your final project.
 

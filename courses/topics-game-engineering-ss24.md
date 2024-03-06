@@ -7,8 +7,6 @@ online (on Twitch.tv). The ultimate goal of the lecture is to prepare a submissi
 
 ## Proposed Schedule
 
-
-
 | Date  | Topic                                  | Type                         |
 |:------|:---------------------------------------|:-----------------------------|
 | 7.3.  | Modalities and Group Building          | Lecture                      |
@@ -22,6 +20,8 @@ online (on Twitch.tv). The ultimate goal of the lecture is to prepare a submissi
 | 23.5. | Playtests                              | Workshop                     |
 | 6.6.  | Guest Lecture (Firetotemgames)         | Guest Lecture                |
 | 27.6. | Final Presentations                    | Presentations and Discussion |
+
+Find a little more information in the slides from the first lecture: [slides](https://docs.google.com/presentation/d/1aG_Pu_oURhp99EB23B_nVHjkTGgWUAs9YM4GujbYg8Y/edit?usp=sharing).
 
 ## Deliverables
 

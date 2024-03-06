@@ -29,6 +29,41 @@
         </div>
     </div>
 </div>
+
+<h2>Summer Semester 2024</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss24.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer games planning and development from the computer science bachelor program.
+        </div>
+    </li>
+    <li>
+        <a href="?id=courses/intro-cg-ss24.md">Introduction to Computer Graphics</a> -
+        Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="?id=courses/topics-game-engineering-ss24.md">Advanced Topics in Game Engineering</a> -
+        Course on additional topics in game engineering with focus on creating games in a team from the Game Studies and Engineering master program.
+    </li>
+    <!---li>
+        <a href="?id=courses/seminardms-ss23.md">Seminar in Multimedia Systems</a> -
+        Seminar on advanced topics in interactive multimedia systems.
+    </li-->
+    <li>
+        <a href="https://campus.aau.at/studium/course/116879">Practical Game Engineering</a> -
+        Course on computer game engineering from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="https://campus.aau.at/studium/course/116680">Modeling Sustainability in Board Games</a> -
+        Seminar on developing board games implementing and communicating sustainability models.
+    </li>
+    <!--li>
+        <a href="index.php?id=courses/seminardms-ss20.md">Seminar in Multimedia Systems</a> -
+        Seminar on advanced topics in multimedia systems.
+    </li-->
+</ul>
+
+
 <h2>Winter Semester 2023/2024</h2>
 <ul>
     <li>

@@ -54,7 +54,7 @@ Please upload the exercises (exported zip from the p5js editor) to Moodle until 
 
 
 ## Final Project
-Please prepare your final project until **June 26, 2024**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. However, if this does not challenge you enough, then pick a topic and a challenge in the field of computer graphics, and get creative with a tool of your choice. This can for instance be a 3D game, a demo in a game engine, or a extensive dive into shader programming.
+Please prepare your final project until **June 26, 2024**. Goal of the final project is to apply what you learned in the lecture in a practical way. Basic idea is to model a scene in Blender and render it. 
 
 For the presentation (max duration 3 minutes) on June 20 or June 27, 2024 make sure you can
 

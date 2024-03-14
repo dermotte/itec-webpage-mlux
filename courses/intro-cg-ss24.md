@@ -9,7 +9,7 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). 
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1BMXvAG8k7QH8fN3qjWfUm6PelMfMRNKZ7uSnzdEzrg8/edit?usp=sharing)
-2. p5js 
+2. p5js ~ [slides](https://docs.google.com/presentation/d/1pbad6CSCoCLULgtAv3-Ei6ue8HIuys0qHsn32CKGQzk/edit?usp=sharing)
 2. Math 101 
 3. Coordinates and Transformations 
 4. Meshes and Lights 
@@ -42,15 +42,15 @@ If you have covered the basics, look out for in-depth, focused tutorials like th
 
 Please upload the exercises (exported zip from the p5js editor) to Moodle until the end of the announced day. The use of [p5js](https://p5js.org/) is mandatory.
 
-| ID    | Title             | Slide | Deadline     |
-|:------|:------------------|:------|:-------------|
-| EX 01 | Maurer Rose       | ...   | Mar 24, 2024 |
-| EX 02 | Vector Reflection | ...   | Mar 31, 2023 |
-| EX 03 | LERP Game         | ...   | Apr 07, 2024 |
-| EX 04 | Rotating Boxes    | ...   | Apr 21, 2024 |
-| EX 05 | Lighting a Scene  | ...   | Apr 28, 2024 |
-| EX 06 | Bounded Camera    | ...   | May 19, 2024 |
-| EX 07 | Textured Die      | ...   | Jun 02, 2024 |
+| ID    | Title             | Slide                                                                                                            | Deadline     |
+|:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:-------------|
+| EX 01 | Maurer Rose       | [p5js #36](https://docs.google.com/presentation/d/1pbad6CSCoCLULgtAv3-Ei6ue8HIuys0qHsn32CKGQzk/edit?usp=sharing) | Mar 24, 2024 |
+| EX 02 | Vector Reflection | ...                                                                                                              | Mar 31, 2023 |
+| EX 03 | LERP Game         | ...                                                                                                              | Apr 07, 2024 |
+| EX 04 | Rotating Boxes    | ...                                                                                                              | Apr 21, 2024 |
+| EX 05 | Lighting a Scene  | ...                                                                                                              | Apr 28, 2024 |
+| EX 06 | Bounded Camera    | ...                                                                                                              | May 19, 2024 |
+| EX 07 | Textured Die      | ...                                                                                                              | Jun 02, 2024 |
 
 
 ## Final Project

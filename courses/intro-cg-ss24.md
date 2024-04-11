@@ -11,7 +11,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1BMXvAG8k7QH8fN3qjWfUm6PelMfMRNKZ7uSnzdEzrg8/edit?usp=sharing)
 2. p5js ~ [slides](https://docs.google.com/presentation/d/1pbad6CSCoCLULgtAv3-Ei6ue8HIuys0qHsn32CKGQzk/edit?usp=sharing)
 2. Math 101 ~ [slides](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing)
-3. Coordinates and Transformations 
+3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1JwHtBf061E1d87uZROxmhVCELA_vHC3a-Qu-VPnIVQs/edit?usp=sharing)
 4. Meshes and Lights 
 5. Shading 
 6. Cameras 
@@ -46,8 +46,8 @@ Please upload the exercises (exported zip from the p5js editor) to Moodle until 
 |:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:-------------|
 | EX 01 | Maurer Rose       | [p5js #36](https://docs.google.com/presentation/d/1pbad6CSCoCLULgtAv3-Ei6ue8HIuys0qHsn32CKGQzk/edit?usp=sharing) | Mar 24, 2024 |
 | EX 02 | Vector Reflection | [math #33](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Mar 31, 2023 |
-| EX 03 | LERP Game         | [math #45](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing)  | Apr 07, 2024 |
-| EX 04 | Rotating Boxes    | ...                                                                                                              | Apr 21, 2024 |
+| EX 03 | LERP Game         | [math #45](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Apr 07, 2024 |
+| EX 04 | Rotating Boxes    | [c+t #41](https://docs.google.com/presentation/d/1JwHtBf061E1d87uZROxmhVCELA_vHC3a-Qu-VPnIVQs/edit?usp=sharing)  | Apr 21, 2024 |
 | EX 05 | Lighting a Scene  | ...                                                                                                              | Apr 28, 2024 |
 | EX 06 | Bounded Camera    | ...                                                                                                              | May 19, 2024 |
 | EX 07 | Textured Die      | ...                                                                                                              | Jun 02, 2024 |

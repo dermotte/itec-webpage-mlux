@@ -24,7 +24,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 2. Business of Games ~ [slides](https://docs.google.com/presentation/d/1-IMka6Ob8_jHe5Ntj9hO1ecHDKmaMp1JSmoRHjFc9YI/edit?usp=sharing)
 3. Game Loop ~ [slides](https://docs.google.com/presentation/d/16HJEZqKHU_Hnd-f5viqTyBtBTxcR85Pn2LZRxb3a3eI/edit?usp=sharing)
 4. 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1CZO_O2F42XY3qUqi5y_am4VVNyQ7ppVwvp_4dXPsKsc/edit?usp=sharing)
-5. Game Design 
+5. Game Design ~ [slides](https://docs.google.com/presentation/d/1kTh-JRBftB_N29u4TWLMm16Eb85VM6ImNb7RpqnfmVY/edit?usp=sharing)
 6. Input and Sound 
 7. Game Production and Development 
 8. Introduction to 3D Graphics 

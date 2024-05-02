@@ -14,7 +14,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1JwHtBf061E1d87uZROxmhVCELA_vHC3a-Qu-VPnIVQs/edit?usp=sharing)
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1KMDxacRuMum0ctKntlPEjzQIf1LAPvFv79bCMcy_mxE/edit?usp=sharing)
 5. Shading ~ [slides](https://docs.google.com/presentation/d/1eyXuF2jwyFUSmEUPr0bWyt5qGVgNik-hnCufR_HuBgE/edit?usp=sharing)
-6. Cameras 
+6. Cameras ~ [slides](https://docs.google.com/presentation/d/1E7ifLrby1_l9c9vV1J7JdUg3wDFLw5B_caTTb3N0A5E/edit?usp=sharing)
 7. Textures 
 7. Raytracing and Real Time Rendering 
 8. Blender Workshop 
@@ -49,7 +49,7 @@ Please upload the exercises (exported zip from the p5js editor) to Moodle until 
 | EX 03 | LERP Game         | [math #45](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Apr 07, 2024 |
 | EX 04 | Rotating Boxes    | [c+t #41](https://docs.google.com/presentation/d/1JwHtBf061E1d87uZROxmhVCELA_vHC3a-Qu-VPnIVQs/edit?usp=sharing)  | Apr 21, 2024 |
 | EX 05 | Lighting a Scene  | [m+l #41](https://docs.google.com/presentation/d/1KMDxacRuMum0ctKntlPEjzQIf1LAPvFv79bCMcy_mxE/edit?usp=sharing)  | Apr 28, 2024 |
-| EX 06 | Bounded Camera    | ...                                                                                                              | May 19, 2024 |
+| EX 06 | Bounded Camera    | [cam #17](https://docs.google.com/presentation/d/1E7ifLrby1_l9c9vV1J7JdUg3wDFLw5B_caTTb3N0A5E/edit?usp=sharing)  | May 19, 2024 |
 | EX 07 | Textured Die      | ...                                                                                                              | Jun 02, 2024 |
 
 

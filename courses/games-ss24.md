@@ -28,7 +28,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 6. Input and Sound ~[slides](https://docs.google.com/presentation/d/1Ixu7ltEVreELqO8XuQH7OxHy9UHRaSJqf0KuPOZ9vQU/edit?usp=sharing)
 7. Game Concept and Postmortem ~ [slides](https://docs.google.com/presentation/d/1EdEnEMmSeLWl45SDK-JSIzxJztk9YgFcmYoVIy8jWf0/edit?usp=sharing)
 8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1d_VvrnLokDDHEwb46d_bspzaW9UHQ3VX93TkXYhYutM/edit?usp=sharing)
-9. Game AI 
+9. Game AI ~ [slides](https://docs.google.com/presentation/d/1tpZdVkoMThbNLuX8bvYiBB3f_c_lrRCQ3_NgZwmokKw/edit?usp=sharing)
 10. Game Physics 
 
 ## Mandatory Exercise 01 - Pong with Löve

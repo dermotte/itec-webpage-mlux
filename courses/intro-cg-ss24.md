@@ -15,7 +15,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1KMDxacRuMum0ctKntlPEjzQIf1LAPvFv79bCMcy_mxE/edit?usp=sharing)
 5. Shading ~ [slides](https://docs.google.com/presentation/d/1eyXuF2jwyFUSmEUPr0bWyt5qGVgNik-hnCufR_HuBgE/edit?usp=sharing)
 6. Cameras ~ [slides](https://docs.google.com/presentation/d/1E7ifLrby1_l9c9vV1J7JdUg3wDFLw5B_caTTb3N0A5E/edit?usp=sharing)
-7. Textures 
+7. Textures ~ [slides](https://docs.google.com/presentation/d/1_vhVv92mTtNjveqS7fTmaUhIk2m339QDO_eVJ4zw4wc/edit?usp=sharing)
 7. Raytracing and Real Time Rendering 
 8. Blender Workshop 
 
@@ -42,15 +42,15 @@ If you have covered the basics, look out for in-depth, focused tutorials like th
 
 Please upload the exercises (exported zip from the p5js editor) to Moodle until the end of the announced day. The use of [p5js](https://p5js.org/) is mandatory.
 
-| ID    | Title             | Slide                                                                                                            | Deadline     |
-|:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:-------------|
-| EX 01 | Maurer Rose       | [p5js #36](https://docs.google.com/presentation/d/1pbad6CSCoCLULgtAv3-Ei6ue8HIuys0qHsn32CKGQzk/edit?usp=sharing) | Mar 24, 2024 |
-| EX 02 | Vector Reflection | [math #33](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Mar 31, 2023 |
-| EX 03 | LERP Game         | [math #45](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Apr 07, 2024 |
-| EX 04 | Rotating Boxes    | [c+t #41](https://docs.google.com/presentation/d/1JwHtBf061E1d87uZROxmhVCELA_vHC3a-Qu-VPnIVQs/edit?usp=sharing)  | Apr 21, 2024 |
-| EX 05 | Lighting a Scene  | [m+l #41](https://docs.google.com/presentation/d/1KMDxacRuMum0ctKntlPEjzQIf1LAPvFv79bCMcy_mxE/edit?usp=sharing)  | Apr 28, 2024 |
-| EX 06 | Bounded Camera    | [cam #17](https://docs.google.com/presentation/d/1E7ifLrby1_l9c9vV1J7JdUg3wDFLw5B_caTTb3N0A5E/edit?usp=sharing)  | May 19, 2024 |
-| EX 07 | Textured Die      | ...                                                                                                              | Jun 02, 2024 |
+| ID    | Title             | Slide                                                                                                            | Deadline       |
+|:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:---------------|
+| EX 01 | Maurer Rose       | [p5js #36](https://docs.google.com/presentation/d/1pbad6CSCoCLULgtAv3-Ei6ue8HIuys0qHsn32CKGQzk/edit?usp=sharing) | Mar 24, 2024   |
+| EX 02 | Vector Reflection | [math #33](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Mar 31, 2023   |
+| EX 03 | LERP Game         | [math #45](https://docs.google.com/presentation/d/1zrNcP35w9AB7TZO4lrST6-5Mqojov5RDoCFzvYaZe0A/edit?usp=sharing) | Apr 07, 2024   |
+| EX 04 | Rotating Boxes    | [c+t #41](https://docs.google.com/presentation/d/1JwHtBf061E1d87uZROxmhVCELA_vHC3a-Qu-VPnIVQs/edit?usp=sharing)  | Apr 21, 2024   |
+| EX 05 | Lighting a Scene  | [m+l #41](https://docs.google.com/presentation/d/1KMDxacRuMum0ctKntlPEjzQIf1LAPvFv79bCMcy_mxE/edit?usp=sharing)  | Apr 28, 2024   |
+| EX 06 | Bounded Camera    | [cam #17](https://docs.google.com/presentation/d/1E7ifLrby1_l9c9vV1J7JdUg3wDFLw5B_caTTb3N0A5E/edit?usp=sharing)  | May 19, 2024   |
+| EX 07 | Textured Die      | [tex #29](https://docs.google.com/presentation/d/1_vhVv92mTtNjveqS7fTmaUhIk2m339QDO_eVJ4zw4wc/edit?usp=sharing)  | Jun 02, 2024 |
 
 
 ## Final Project

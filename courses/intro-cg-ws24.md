@@ -42,15 +42,15 @@ If you have covered the basics, look out for in-depth, focused tutorials like th
 
 Please upload the exercises (exported zip from the p5js editor) to Moodle until the end of the announced day. The use of [p5js](https://p5js.org/) is mandatory.
 
-| ID    | Title             | Slide                                                                                                            | Deadline     |
-|:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:-------------|
-| EX 01 | Maurer Rose       | tba.                                                                                                             | tba.         |
-| EX 02 | Vector Reflection | tba.                                                                                                             | tba.         |
-| EX 03 | LERP Game         | tba.                                                                                                             | tba.         |
-| EX 04 | Rotating Boxes    | tba.                                                                                                             | tba.         |
-| EX 05 | Lighting a Scene  | tba.                                                                                                             | tba.         |
-| EX 06 | Bounded Camera    | tba.                                                                                                             | tba.         |
-| EX 07 | Textured Die      | tba.                                                                                                             | tba.         |
+| ID    | Title             | Slide                                                                                                            | Deadline |
+|:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:---------|
+| EX 01 | Maurer Rose       | tba.                                                                                                             | Oct. 27  |
+| EX 02 | Vector Reflection | tba.                                                                                                             | Nov. 03  |
+| EX 03 | LERP Game         | tba.                                                                                                             | Nov. 10  |
+| EX 04 | Rotating Boxes    | tba.                                                                                                             | Nov. 17  |
+| EX 05 | Lighting a Scene  | tba.                                                                                                             | Nov. 24  |
+| EX 06 | Bounded Camera    | tba.                                                                                                             | Dec. 01  |
+| EX 07 | Textured Die      | tba.                                                                                                             | Dec. 08  |
 
 
 ## Final Project

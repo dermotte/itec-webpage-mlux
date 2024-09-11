@@ -25,15 +25,15 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 
 | ID | Title                  | Slide | Deadline |
 |:---|:-----------------------|-------|:---------|
-| 01 | 3D Game of Life        | tba.  | tba.     |
-| 02 | Gaussian RNG           | tba.  | tba.     |
-| 03 | Perlin Noise Shader    | tba.  | tba.     |
-| 04 | 3D Maze                | tba.  | tba.     |
-| 05 | Wave Function Collapse | tba.  | tba.     |
+| 01 | 3D Game of Life        | tba.  | Oct. 27  |
+| 02 | Gaussian RNG           | tba.  | Nov. 03  |
+| 03 | Perlin Noise Shader    | tba.  | Nov. 10  |
+| 04 | 3D Maze                | tba.  | Nov. 17  |
+| 05 | Wave Function Collapse | tba.  | Dec. 01  |
 
 ## Final Project
 
-The final project needs to include (i) procedurally generated content based on your own implementation of an algorithm your choice and (ii) needs to be runnable on a VR headset. A good choice is to prepare a WebXR export or use of a framework with WebXR support. For submission, you need to upload the following files in a single ZIP file. Note that you have to present your final project in the course. 
+The final project needs to include (i) procedurally generated content based on your own implementation of an algorithm your choice and (ii) needs to be runnable on a VR headset. A good choice is to prepare a WebXR export or use of a framework with WebXR support. For submission, you need to upload the following files in a single ZIP file until **Jan 19th, 2025**. Note that you have to present your final project in the course. 
 
 1. Your work as source code or a link to Github, Bitbucket, etc.
 2. Your result as executable and for the web (test before upload!)

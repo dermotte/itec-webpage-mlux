@@ -6,7 +6,7 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 
 ## Topics
 
-* Introduction to procedurally generated content 
+* Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1ATs07BfKdpxKVjDEjFEOUdgU1h7hlQS2T5-Tm4O2K9k/edit?usp=sharing)
 * Overview on PCG algorithms and pseudo-random number generators 
 * Noise functions 
 * Labyrinths 
@@ -23,13 +23,13 @@ Find the source code used in the lecture on Github: <https://github.com/dermotte
 
 Please upload the exercises (no .exe please, stick to .js, or export to the web) to Moodle until the end of the announced day. Note that missing the deadline will impact your grade, and you have to submit all assignments.
 
-| ID | Title                  | Slide | Deadline |
-|:---|:-----------------------|-------|:---------|
-| 01 | 3D Game of Life        | tba.  | Oct. 27  |
-| 02 | Gaussian RNG           | tba.  | Nov. 03  |
-| 03 | Perlin Noise Shader    | tba.  | Nov. 10  |
-| 04 | 3D Maze                | tba.  | Nov. 17  |
-| 05 | Wave Function Collapse | tba.  | Dec. 01  |
+| ID | Title                  | Slide                                                                                                       | Deadline |
+|:---|:-----------------------|-------------------------------------------------------------------------------------------------------------|:---------|
+| 01 | 3D Game of Life        | [#35](https://docs.google.com/presentation/d/1ATs07BfKdpxKVjDEjFEOUdgU1h7hlQS2T5-Tm4O2K9k/edit?usp=sharing) | Oct. 27  |
+| 02 | Gaussian RNG           | tba.                                                                                                        | Nov. 03  |
+| 03 | Perlin Noise Shader    | tba.                                                                                                        | Nov. 10  |
+| 04 | 3D Maze                | tba.                                                                                                        | Nov. 17  |
+| 05 | Wave Function Collapse | tba.                                                                                                        | Dec. 01  |
 
 ## Final Project
 

@@ -9,7 +9,7 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). 
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1gpIunT3jS9hknb7l3WVQuUaqqD6m37gx53uc7XCDFgk/edit?usp=sharing)
-2. p5js
+2. p5js ~ [slides](https://docs.google.com/presentation/d/1qE8rAdJbqWtR1p5NLmTF4iErIR3jMZm7YEakhqoSmno/edit?usp=sharing)
 2. Math 101
 3. Coordinates and Transformations
 4. Meshes and Lights
@@ -42,15 +42,15 @@ If you have covered the basics, look out for in-depth, focused tutorials like th
 
 Please upload the exercises (exported zip from the p5js editor) to Moodle until the end of the announced day. The use of [p5js](https://p5js.org/) is mandatory.
 
-| ID    | Title             | Slide                                                                                                            | Deadline |
-|:------|:------------------|:-----------------------------------------------------------------------------------------------------------------|:---------|
-| EX 01 | Maurer Rose       | tba.                                                                                                             | Oct. 27  |
-| EX 02 | Vector Reflection | tba.                                                                                                             | Nov. 03  |
-| EX 03 | LERP Game         | tba.                                                                                                             | Nov. 10  |
-| EX 04 | Rotating Boxes    | tba.                                                                                                             | Nov. 17  |
-| EX 05 | Lighting a Scene  | tba.                                                                                                             | Nov. 24  |
-| EX 06 | Bounded Camera    | tba.                                                                                                             | Dec. 01  |
-| EX 07 | Textured Die      | tba.                                                                                                             | Dec. 08  |
+| ID    | Title             | Slide                                                                                                       | Deadline |
+|:------|:------------------|:------------------------------------------------------------------------------------------------------------|:---------|
+| EX 01 | Maurer Rose       | [#36](https://docs.google.com/presentation/d/1qE8rAdJbqWtR1p5NLmTF4iErIR3jMZm7YEakhqoSmno/edit?usp=sharing) | Oct. 27  |
+| EX 02 | Vector Reflection | tba.                                                                                                        | Nov. 03  |
+| EX 03 | LERP Game         | tba.                                                                                                        | Nov. 10  |
+| EX 04 | Rotating Boxes    | tba.                                                                                                        | Nov. 17  |
+| EX 05 | Lighting a Scene  | tba.                                                                                                        | Nov. 24  |
+| EX 06 | Bounded Camera    | tba.                                                                                                        | Dec. 01  |
+| EX 07 | Textured Die      | tba.                                                                                                        | Dec. 08  |
 
 
 ## Final Project

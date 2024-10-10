@@ -12,8 +12,8 @@ Due to the international nature of the Game Studies and Engineering program and 
 
 ## Topics
 
-1. Introduction & Computer Game History 
-2. Game Projects: Processes and Roles
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1m8Y0dVUaQHB-X_rvmMWCV4HQUS3o0yWq6g-t1hpoZZU/edit?usp=sharing)
+2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1s_LzSfTGMq0HAYyqkBkchXBzsDCejQqg9c-gTW9ZMQs/edit?usp=sharing)
 4. Prototyping
 5. Introduction to Programming
 6. Basic Concepts in Game Programming

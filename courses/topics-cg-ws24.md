@@ -7,7 +7,7 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 ## Topics
 
 * Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1ATs07BfKdpxKVjDEjFEOUdgU1h7hlQS2T5-Tm4O2K9k/edit?usp=sharing)
-* Overview on PCG algorithms and pseudo-random number generators 
+* Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/19oov1wy7rf_pTAKIw_6P2fhMPRcb-zznCMzmRc5bx6o/edit?usp=sharing)
 * Noise functions 
 * Labyrinths 
 * L-Systems & Erosion 
@@ -26,7 +26,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | ID | Title                  | Slide                                                                                                       | Deadline |
 |:---|:-----------------------|-------------------------------------------------------------------------------------------------------------|:---------|
 | 01 | 3D Game of Life        | [#35](https://docs.google.com/presentation/d/1ATs07BfKdpxKVjDEjFEOUdgU1h7hlQS2T5-Tm4O2K9k/edit?usp=sharing) | Oct. 27  |
-| 02 | Gaussian RNG           | tba.                                                                                                        | Nov. 03  |
+| 02 | Gaussian RNG           | [#41](https://docs.google.com/presentation/d/19oov1wy7rf_pTAKIw_6P2fhMPRcb-zznCMzmRc5bx6o/edit?usp=sharing) | Nov. 03  |
 | 03 | Perlin Noise Shader    | tba.                                                                                                        | Nov. 10  |
 | 04 | 3D Maze                | tba.                                                                                                        | Nov. 17  |
 | 05 | Wave Function Collapse | tba.                                                                                                        | Dec. 01  |

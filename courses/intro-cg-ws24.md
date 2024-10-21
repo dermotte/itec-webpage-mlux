@@ -10,7 +10,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1gpIunT3jS9hknb7l3WVQuUaqqD6m37gx53uc7XCDFgk/edit?usp=sharing)
 2. p5js ~ [slides](https://docs.google.com/presentation/d/1qE8rAdJbqWtR1p5NLmTF4iErIR3jMZm7YEakhqoSmno/edit?usp=sharing)
-2. Math 101
+2. Math 101 ~ [slides](https://docs.google.com/presentation/d/15Z5ExV1m7XIY6h0Fka1XOt-Ze6EqcSLZIr40VzKksz0/edit?usp=sharing)
 3. Coordinates and Transformations
 4. Meshes and Lights
 5. Shading
@@ -44,9 +44,9 @@ Please upload the exercises (exported zip from the p5js editor) to Moodle until 
 
 | ID    | Title             | Slide                                                                                                       | Deadline |
 |:------|:------------------|:------------------------------------------------------------------------------------------------------------|:---------|
-| EX 01 | Maurer Rose       | [#36](https://docs.google.com/presentation/d/1qE8rAdJbqWtR1p5NLmTF4iErIR3jMZm7YEakhqoSmno/edit?usp=sharing) | Oct. 27  |
-| EX 02 | Vector Reflection | tba.                                                                                                        | Nov. 03  |
-| EX 03 | LERP Game         | tba.                                                                                                        | Nov. 10  |
+| EX 01 | Maurer Rose       | [#36](https://docs.google.com/presentation/d/1qE8rAdJbqWtR1p5NLmTF4iErIR3jMZm7YEakhqoSmno/edit?usp=sharing) | Oct. 27  | 
+| EX 02 | Vector Reflection | [#33](https://docs.google.com/presentation/d/15Z5ExV1m7XIY6h0Fka1XOt-Ze6EqcSLZIr40VzKksz0/edit?usp=sharing) | Nov. 03  |
+| EX 03 | LERP Game         | [#45](https://docs.google.com/presentation/d/15Z5ExV1m7XIY6h0Fka1XOt-Ze6EqcSLZIr40VzKksz0/edit?usp=sharing) | Nov. 10  |
 | EX 04 | Rotating Boxes    | tba.                                                                                                        | Nov. 17  |
 | EX 05 | Lighting a Scene  | tba.                                                                                                        | Nov. 24  |
 | EX 06 | Bounded Camera    | tba.                                                                                                        | Dec. 01  |

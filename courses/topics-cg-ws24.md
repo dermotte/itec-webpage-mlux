@@ -9,7 +9,7 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 * Introduction to procedurally generated content ~ [slides](https://docs.google.com/presentation/d/1ATs07BfKdpxKVjDEjFEOUdgU1h7hlQS2T5-Tm4O2K9k/edit?usp=sharing)
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/19oov1wy7rf_pTAKIw_6P2fhMPRcb-zznCMzmRc5bx6o/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1C8u9w6JRzj4Zuu3fvxWiZIjkzvLHW2mitwZTTcuqVXo/edit?usp=sharing)
-* Labyrinths 
+* Labyrinths ~ [slides](https://docs.google.com/presentation/d/14lCtmG-HMI5h8qNRaFLmWfO1OOujpAeJDVWvImzjIBo/edit?usp=sharing)
 * L-Systems & Erosion 
 * Puzzles: Sudoku 
 * Wave Function Collapse 
@@ -28,7 +28,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | 01 | 3D Game of Life        | [#35](https://docs.google.com/presentation/d/1ATs07BfKdpxKVjDEjFEOUdgU1h7hlQS2T5-Tm4O2K9k/edit?usp=sharing) | Oct. 27  |
 | 02 | Gaussian RNG           | [#41](https://docs.google.com/presentation/d/19oov1wy7rf_pTAKIw_6P2fhMPRcb-zznCMzmRc5bx6o/edit?usp=sharing) | Nov. 03  |
 | 03 | Perlin Noise Shader    | [#46](https://docs.google.com/presentation/d/1C8u9w6JRzj4Zuu3fvxWiZIjkzvLHW2mitwZTTcuqVXo/edit?usp=sharing) | Nov. 10  |
-| 04 | 3D Maze                | tba.                                                                                                        | Nov. 17  |
+| 04 | 3D Maze                | [#68](https://docs.google.com/presentation/d/14lCtmG-HMI5h8qNRaFLmWfO1OOujpAeJDVWvImzjIBo/edit?usp=sharing) | Nov. 17  |
 | 05 | Wave Function Collapse | tba.                                                                                                        | Dec. 01  |
 
 ## Final Project

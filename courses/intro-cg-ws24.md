@@ -12,7 +12,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 2. p5js ~ [slides](https://docs.google.com/presentation/d/1qE8rAdJbqWtR1p5NLmTF4iErIR3jMZm7YEakhqoSmno/edit?usp=sharing)
 2. Math 101 ~ [slides](https://docs.google.com/presentation/d/15Z5ExV1m7XIY6h0Fka1XOt-Ze6EqcSLZIr40VzKksz0/edit?usp=sharing)
 3. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/18p3JnaYr-79nlj8mRF9IPS01WpPEBOgkUKD77c5gNYc/edit?usp=sharing)
-4. Meshes and Lights
+4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1jEgUpNvdw6l1U3rBjUUzZx-xbawaP2UT-jTTmRFBYFY/edit?usp=sharing)
 5. Shading
 6. Cameras
 7. Textures
@@ -48,7 +48,7 @@ Please upload the exercises (exported zip from the p5js editor) to Moodle until 
 | EX 02 | Vector Reflection | [#33](https://docs.google.com/presentation/d/15Z5ExV1m7XIY6h0Fka1XOt-Ze6EqcSLZIr40VzKksz0/edit?usp=sharing) | Nov. 03  |
 | EX 03 | LERP Game         | [#45](https://docs.google.com/presentation/d/15Z5ExV1m7XIY6h0Fka1XOt-Ze6EqcSLZIr40VzKksz0/edit?usp=sharing) | Nov. 10  |
 | EX 04 | Rotating Boxes    | [#41](https://docs.google.com/presentation/d/18p3JnaYr-79nlj8mRF9IPS01WpPEBOgkUKD77c5gNYc/edit?usp=sharing) | Nov. 17  |
-| EX 05 | Lighting a Scene  | tba.                                                                                                        | Nov. 24  |
+| EX 05 | Lighting a Scene  | [#42](https://docs.google.com/presentation/d/1jEgUpNvdw6l1U3rBjUUzZx-xbawaP2UT-jTTmRFBYFY/edit?usp=sharing) | Nov. 24  |
 | EX 06 | Bounded Camera    | tba.                                                                                                        | Dec. 01  |
 | EX 07 | Textured Die      | tba.                                                                                                        | Dec. 08  |
 

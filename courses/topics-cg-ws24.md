@@ -10,7 +10,7 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 * Overview on PCG algorithms and pseudo-random number generators ~ [slides](https://docs.google.com/presentation/d/19oov1wy7rf_pTAKIw_6P2fhMPRcb-zznCMzmRc5bx6o/edit?usp=sharing)
 * Noise functions ~ [slides](https://docs.google.com/presentation/d/1C8u9w6JRzj4Zuu3fvxWiZIjkzvLHW2mitwZTTcuqVXo/edit?usp=sharing)
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/14lCtmG-HMI5h8qNRaFLmWfO1OOujpAeJDVWvImzjIBo/edit?usp=sharing)
-* L-Systems & Erosion 
+* L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/15W3epDvhtpylZ6WYsT2kXXy65DxDXwDPDtHhKcjnrCk/edit?usp=sharing)
 * Puzzles: Sudoku 
 * Wave Function Collapse 
 * Introduction to VR 

@@ -12,8 +12,8 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 * Labyrinths ~ [slides](https://docs.google.com/presentation/d/14lCtmG-HMI5h8qNRaFLmWfO1OOujpAeJDVWvImzjIBo/edit?usp=sharing)
 * L-Systems & Erosion ~ [slides](https://docs.google.com/presentation/d/15W3epDvhtpylZ6WYsT2kXXy65DxDXwDPDtHhKcjnrCk/edit?usp=sharing)
 * Fractals & Sudoku ~ [slides](https://docs.google.com/presentation/d/1Ldf-nNRxyPClWlklRs75ow-qJky9cENpOvf8cmP8SKA/edit?usp=sharing) 
-* Wave Function Collapse 
-* Introduction to VR 
+* Wave Function Collapse ~ [slides](https://docs.google.com/presentation/d/19IBHS0Pv168sKje9wfQIleGQSAh_iC3xlOrqEjhKlws/edit?usp=sharing)
+* Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1Q31hh2u1h9h04sTeDpgaju85SFXi_zLa5F8CzFZ_244/edit?usp=sharing)
 * Introduction to WebXR 
 * VR Locomotion and Evaluation 
 
@@ -29,7 +29,7 @@ Please upload the exercises (no .exe please, stick to .js, or export to the web)
 | 02 | Gaussian RNG           | [#41](https://docs.google.com/presentation/d/19oov1wy7rf_pTAKIw_6P2fhMPRcb-zznCMzmRc5bx6o/edit?usp=sharing) | Nov. 03  |
 | 03 | Perlin Noise Shader    | [#46](https://docs.google.com/presentation/d/1C8u9w6JRzj4Zuu3fvxWiZIjkzvLHW2mitwZTTcuqVXo/edit?usp=sharing) | Nov. 10  |
 | 04 | 3D Maze                | [#68](https://docs.google.com/presentation/d/14lCtmG-HMI5h8qNRaFLmWfO1OOujpAeJDVWvImzjIBo/edit?usp=sharing) | Nov. 17  |
-| 05 | Wave Function Collapse | tba.                                                                                                        | Dec. 01  |
+| 05 | Wave Function Collapse | [#20](https://docs.google.com/presentation/d/19IBHS0Pv168sKje9wfQIleGQSAh_iC3xlOrqEjhKlws/edit?usp=sharing) | Dec. 01  |
 
 ## Final Project
 

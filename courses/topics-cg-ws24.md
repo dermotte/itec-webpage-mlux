@@ -17,7 +17,7 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 * Introduction to WebXR 
 * VR Locomotion and Evaluation 
 
-Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-WT2022>
+Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-WS2022>
 
 ## Exercises (Mandatory Assignments)
 

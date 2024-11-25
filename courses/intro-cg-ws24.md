@@ -15,7 +15,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 4. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1jEgUpNvdw6l1U3rBjUUzZx-xbawaP2UT-jTTmRFBYFY/edit?usp=sharing)
 5. Shading ~ [slides](https://docs.google.com/presentation/d/12bcsXiSJKnOwBwiVEGHZsKlCqI3LOpUwpKbE4Hfj1fQ/edit?usp=sharing)
 6. Cameras ~ [slides](https://docs.google.com/presentation/d/15HC0nEQI3YYgwnoQG3K4eUMEj0_GiHbqn6YnIvtEX1c/edit?usp=sharing)
-7. Textures
+7. Textures ~ [slides](https://docs.google.com/presentation/d/1FPGElTPDpqd6O5bhDb12vKEs0lX6jnLukmdZ-2nyfG0/edit?usp=sharing)
 7. Raytracing and Real Time Rendering
 8. Blender Workshop
 
@@ -50,7 +50,7 @@ Please upload the exercises (exported zip from the p5js editor) to Moodle until 
 | EX 04 | Rotating Boxes    | [#41](https://docs.google.com/presentation/d/18p3JnaYr-79nlj8mRF9IPS01WpPEBOgkUKD77c5gNYc/edit?usp=sharing) | Nov. 17  |
 | EX 05 | Lighting a Scene  | [#42](https://docs.google.com/presentation/d/1jEgUpNvdw6l1U3rBjUUzZx-xbawaP2UT-jTTmRFBYFY/edit?usp=sharing) | Nov. 24  |
 | EX 06 | Bounded Camera    | [#17](https://docs.google.com/presentation/d/15HC0nEQI3YYgwnoQG3K4eUMEj0_GiHbqn6YnIvtEX1c/edit?usp=sharing) | Dec. 01  |
-| EX 07 | Textured Die      | tba.                                                                                                        | Dec. 08  |
+| EX 07 | Textured Die      | [#29](https://docs.google.com/presentation/d/1FPGElTPDpqd6O5bhDb12vKEs0lX6jnLukmdZ-2nyfG0/edit?usp=sharing) | Dec. 08  |
 
 
 ## Final Project

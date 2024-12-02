@@ -14,8 +14,9 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 * Fractals & Sudoku ~ [slides](https://docs.google.com/presentation/d/1Ldf-nNRxyPClWlklRs75ow-qJky9cENpOvf8cmP8SKA/edit?usp=sharing) 
 * Wave Function Collapse ~ [slides](https://docs.google.com/presentation/d/19IBHS0Pv168sKje9wfQIleGQSAh_iC3xlOrqEjhKlws/edit?usp=sharing)
 * Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1Q31hh2u1h9h04sTeDpgaju85SFXi_zLa5F8CzFZ_244/edit?usp=sharing)
+* VR Locomotion and Evaluation ~ [slides](https://docs.google.com/presentation/d/14sE0AmveoIqscotvohytrewleRbCAHKXEGDtsTv6t90/edit?usp=sharing)
+* LLMs for PCG ~ [slides](https://docs.google.com/presentation/d/1RXwyqvkOa5VNk_SypFVCFskR2sBvjFjoBreNp2EeDk4/edit?usp=sharing)
 * Introduction to WebXR 
-* VR Locomotion and Evaluation 
 
 Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-WS2022>
 

@@ -16,7 +16,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 5. Shading ~ [slides](https://docs.google.com/presentation/d/12bcsXiSJKnOwBwiVEGHZsKlCqI3LOpUwpKbE4Hfj1fQ/edit?usp=sharing)
 6. Cameras ~ [slides](https://docs.google.com/presentation/d/15HC0nEQI3YYgwnoQG3K4eUMEj0_GiHbqn6YnIvtEX1c/edit?usp=sharing)
 7. Textures ~ [slides](https://docs.google.com/presentation/d/1FPGElTPDpqd6O5bhDb12vKEs0lX6jnLukmdZ-2nyfG0/edit?usp=sharing)
-7. Raytracing and Real Time Rendering
+7. Raytracing and Real Time Rendering ~ [slides](https://docs.google.com/presentation/d/1nxXdQUDcHllpCyQN-K4LF5ZACRl_biBVeZwHSu3RDlE/edit?usp=sharing)
 8. Blender Workshop
 
 ### References and Links

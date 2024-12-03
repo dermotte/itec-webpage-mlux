@@ -1,0 +1,145 @@
+<!doctype html>
+<html lang="en">
+
+	<head>
+		<meta charset="utf-8">
+
+		<title>reveal.js - Markdown Example</title>
+
+		<link rel="stylesheet" href="js/reveal.css">
+		<link rel="stylesheet" href="js/theme/dracula.css" id="theme">
+        <link rel="stylesheet" href="plugin/highlight/monokai.css">
+
+        <style type="text/css">
+            p, ul, li, h1, h2, h3, h4, h5, ol { text-align: left; }
+        </style>
+	</head>
+
+	<body>
+
+		<div class="reveal">
+
+			<div class="slides">
+
+                <!-- Slides are separated by three dashes (the default) -->
+                <section data-markdown>
+                    <script type="text/template">
+                        # Responsible Use of LLMs in Scientific Work
+                        
+                        ---
+                        
+                        ## What Can LLMs Do?
+                        
+                        * Generate text summaries or abstracts
+                        * Provide suggestions for literature searches
+                        * Assist with language translation
+                        * Help with grammar and spell checking
+                        
+                        ---
+                        
+                        ## What Can't LLMs Do?
+                        
+                        * Conduct original research or experiments
+                        * Develop new theories or hypotheses
+                        * Make independent judgments or decisions
+                        * Provide absolute certainty or guarantees
+                        
+                        ---
+                        
+                        ## Fact-Checking
+                        
+                        LLMs can assist with fact-checking, but also highlight potential limitations (e.g. LLMs may perpetuate errors or biases)
+                        
+                        ### Examples of Fact-Checking with LLMs:
+                        
+                        * Verifying references and citations
+                        * Checking for inconsistencies in data or results
+                        
+                        ---
+                        
+                        ## Paraphrasing and Re-phrasing
+                        
+                        Using LLMs to generate paraphrased text can be considered plagiarism if not properly cited or acknowledged.
+                        
+                        ### Avoiding Plagiarism:
+                        
+                        * Use quotes and proper citation
+                        * Rewrite original text without relying on LLM-generated phrases
+                        
+                        ---
+                        
+                        ## RAG (Retrieve, Analyze, Generate)
+                        
+                        Using RAG to create a related literature section can lead to over-reliance on automated tools and lack of critical evaluation and judgment.
+                        
+                        ### Responsible Use of RAG:
+                        
+                        * Use RAG to assist with literature searches
+                        * Critically evaluate the results and select relevant papers
+                        
+                        ---
+                        
+                        ## Best Practices for Using LLMs in Scientific Research
+                        
+                        * Clear and specific prompts
+                        * Correcting people and explaining why corrections are made
+                        * Regularly monitoring and updating LLM models to avoid biases and errors
+                        * Transparency and accountability when using LLMs
+                        
+                        ---
+                        
+                        ## Checking Ambiguity
+                        
+                        LLMs can help with checking ambiguity in scientific writing.
+                        
+                        ### Examples of Using LLMs for Clarity:
+                        
+                        * Identifying unclear or ambiguous language
+                        * Suggesting alternative phrasing or rewording
+                        
+                        ---
+                        
+                        ## Providing Common Structures
+                        
+                        LLMs can assist with providing common structures for documents, such as research papers, grant proposals, and reports.
+                        
+                        ### Examples of Using LLMs for Document Structure:
+                        
+                        * Generating templates or outlines
+                        * Suggesting organization and formatting suggestions
+                        
+                        ---
+                        
+                        ## Conclusion
+                        
+                        Responsible use of LLMs in scientific research requires clear guidelines and best practices. By understanding the limitations and capabilities of LLMs, researchers can harness their potential to improve efficiency and accuracy while maintaining the integrity of scientific inquiry.
+                    </script>
+                </section>
+            </div>
+		</div>
+
+		<script src="js/reveal.js"></script>
+        <script src="plugin/markdown/markdown.js"></script>
+        <script src="plugin/highlight/highlight.js"></script>
+        <script src="plugin/notes/notes.js"></script>
+        <script src="plugin/math/math.js"></script>
+
+		<script>
+
+			Reveal.initialize({
+				controls: true,
+				progress: true,
+				history: true,
+				center: true,
+                // The "normal" size of the presentation, aspect ratio will
+                // be preserved when the presentation is scaled to fit different
+                // resolutions. Can be specified using percentage units.
+                width: 1280,
+                height: 720,
+				plugins: [ RevealMarkdown, RevealHighlight, RevealNotes, RevealMath.KaTeX ]
+			});
+  
+		</script>
+
+	</body>
+</html>

@@ -18,9 +18,9 @@
                 send me a mail. For communication please respect the office hours and the <a
                         href="https://tools.ietf.org/html/rfc1855">netiquette</a>.</p>
 
-            <p> If you need a LaTeX style for a Bachelor's, Master's or PhD thesis you can consider the <a
-                        href="teaching/ItecThesisStyle-mlux.zip">ITEC style </a>provided by I. Kofler, K. Leopold, H.
-                Kosch et al. </p>
+            <p> If you are interested in a master's thesis, I have compiled a 
+                <a href="https://docs.google.com/presentation/d/1ynYMyuXsB22T8Eb9ir9za02t-c21FkpmR1A5dOOdAAs/edit?usp=sharing">presentation</a> 
+                and a detailed <a href="mdwiki">wiki</a> on how to approach that topic.</p>
             <p> Finally, there are quite some questions that come up every year, so I have a list of <a
                         href="?id=courses/faq.md">frequently asked questions (FAQ)</a> and their answers. </p></div>
     </div>

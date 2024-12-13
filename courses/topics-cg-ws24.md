@@ -16,7 +16,7 @@ Find the lecture schedule at the AAU Campus System. All courses start s.t. in [K
 * Introduction to VR ~ [slides](https://docs.google.com/presentation/d/1Q31hh2u1h9h04sTeDpgaju85SFXi_zLa5F8CzFZ_244/edit?usp=sharing)
 * VR Locomotion and Evaluation ~ [slides](https://docs.google.com/presentation/d/14sE0AmveoIqscotvohytrewleRbCAHKXEGDtsTv6t90/edit?usp=sharing)
 * LLMs for PCG ~ [slides](https://docs.google.com/presentation/d/1RXwyqvkOa5VNk_SypFVCFskR2sBvjFjoBreNp2EeDk4/edit?usp=sharing)
-* Introduction to WebXR ~ [slides](https://docs.google.com/presentation/d/1_S0TkIalejPSvOhPJdbnnVfDn9WJ4sOiaMt0RTdMYp0/edit?usp=sharing)
+* Introduction to WebXR ~ [slides](https://docs.google.com/presentation/d/1_S0TkIalejPSvOhPJdbnnVfDn9WJ4sOiaMt0RTdMYp0/edit?usp=sharing) ~ [video](https://youtu.be/ZHve3lU6rQg)
 
 Find the source code used in the lecture on Github: <https://github.com/dermotte/AdvancedTopicsCG-WS2022>
 

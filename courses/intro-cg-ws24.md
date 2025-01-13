@@ -17,7 +17,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 6. Cameras ~ [slides](https://docs.google.com/presentation/d/15HC0nEQI3YYgwnoQG3K4eUMEj0_GiHbqn6YnIvtEX1c/edit?usp=sharing)
 7. Textures ~ [slides](https://docs.google.com/presentation/d/1FPGElTPDpqd6O5bhDb12vKEs0lX6jnLukmdZ-2nyfG0/edit?usp=sharing)
 7. Raytracing and Real Time Rendering ~ [slides](https://docs.google.com/presentation/d/1nxXdQUDcHllpCyQN-K4LF5ZACRl_biBVeZwHSu3RDlE/edit?usp=sharing)
-8. Blender Workshop
+8. Blender Workshop ~ [slides](https://docs.google.com/presentation/d/1iGWl2tcVnSU5P6Ld8kUuUG3oQu4uSU4YL67gyAHxhP0/edit?usp=sharing) - [video](https://www.youtube.com/watch?v=uQgj7tk8tVE)
 
 ### References and Links
  1. [p5js](https://p5js.org/) - JavaScript based implementation for the first part of the course

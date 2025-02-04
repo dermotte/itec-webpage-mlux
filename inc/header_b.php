@@ -74,11 +74,11 @@ if (array_key_exists("id", $_GET)) {
                 <li class="dropdown">
                     <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Quick Links<span class="caret"></span></a>
                     <ul class="dropdown-menu">
-                        <li><a href="index.php?id=courses/topics-cg-ws24.md">Advanced Topics in Computer Graphics WS 2024/2025</a></li>
-<!--                        <li><a href="index.php?id=courses/topics-game-engineering-ss24.md">Advanced Topics in Game Engineering ST 2024</a></li>-->
-<!--                        <li><a href="index.php?id=courses/games-ss24.md">Interaktive Multimedia-Anwendungen B (Computer Games) ST 2024</a></li>-->
-                        <li><a href="index.php?id=courses/intro-cg-ws24.md">Introduction to Computer Graphics WT 2024/2025</a></li>
-                        <li><a href="index.php?id=courses/gameengineering-ws2425.md">Game Engineering WT 2024/2025</a></li>
+<!--                        <li><a href="index.php?id=courses/topics-cg-ws24.md">Advanced Topics in Computer Graphics WS 2024/2025</a></li> -->
+                        <li><a href="index.php?id=courses/topics-game-engineering-ss25.md">Advanced Topics in Game Engineering ST 2025</a></li>
+                        <li><a href="index.php?id=courses/games-ss25.md">Interaktive Multimedia-Anwendungen B (Computer Games) ST 2025</a></li>
+                        <li><a href="index.php?id=courses/intro-cg-ss25.md">Introduction to Computer Graphics ST 2025</a></li>
+<!--                        <li><a href="index.php?id=courses/gameengineering-ws2425.md">Game Engineering WT 2024/2025</a></li> -->
 <!--                        <li><a href="index.php?id=courses/seriousgames-ws2122.md">Non Entertainment Games WS 2021/2022</a></li> -->
 <!--                        <li role="separator" class="divider"></li>-->
 <!--                        <li><a href="index.php?id=courses/mmisss17">Multimedia Information Systems SS 2017</a></li>-->
@@ -87,7 +87,7 @@ if (array_key_exists("id", $_GET)) {
                     </ul>
                 </li>
                 <li><a href="publications.html" data-ajax="false">Publications</a></li>
-                <li><a href="http://www.lire-project.net/" rel="external">LIRE</a></li>
+                <!--li><a href="http://www.lire-project.net/" rel="external">LIRE</a></li-->
                 <!--li><a href="https://sites.google.com/view/gameactivitesaau" rel="external"><i class="fa fa-gamepad"></i> Games</a></li-->
                 <!--li><a href="https://bitbucket.org/dermotte/liresolr" rel="external">LIRE Solr</a></li>-->
                 <!--li><a href="http://www.semanticmetadata.net" rel="external">Blog</a></li-->

@@ -20,9 +20,9 @@ The course aims to teach in a practical as well as in a theoretical way. Through
 
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
 
-1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1PGWy6NHYbHfUMwFhURUwNKT5w2A4_9GFY5hYDCzxDok/edit?usp=sharing) ~ [readings: play AI Dungeon](https://aidungeon.com/)
-2. Business of Games 
-3. Game Loop 
+1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1ZXST-NnDGpDVXtG6R6FoleDLuAPDcWbXz9G_Krm8x74/edit?usp=sharing) ~ [readings: play AI Dungeon](https://aidungeon.com/)
+2. Business of Games ~ [slides](https://docs.google.com/presentation/d/1T2z7zjL4RrDtbflRWaq4DmOp8vB-WeDKRfp3dcBI13o/edit?usp=sharing)
+3. Game Loop ~ [slides](https://docs.google.com/presentation/d/1vh6vWsrw8KPFUZ5B8PP-OAmH8mhyfsxPTVZ9FhsAwrc/edit?usp=sharing)
 4. 2D Graphics 
 5. Game Design 
 6. Input and Sound 

@@ -7,9 +7,11 @@ Throughout the semester a game is produced and students take over a role in a te
 
 | Date  | Topic                                  | Type                         |
 |:------|:---------------------------------------|:-----------------------------|
-| 6.3.  | Modalities and Group Building          | Lecture                      |
+| 06.3. | Modalities and Group Building          | Lecture [slides](https://docs.google.com/presentation/d/1M1PoLJ6nsbfiwPrdDLtAqeds6VXFYVdM1UyhYgERieE/edit?usp=sharing) |
+| 13.3. | Project Planning and Role Distribution | Workshop |
+| 20.3. | Project Pitching                       | Workshop |
 
-Find a little more information in the slides from the first lecture: [slides](https://docs.google.com/presentation/d/1aG_Pu_oURhp99EB23B_nVHjkTGgWUAs9YM4GujbYg8Y/edit?usp=sharing).
+Find a little more information in the slides from the first lecture: [slides](https://docs.google.com/presentation/d/1M1PoLJ6nsbfiwPrdDLtAqeds6VXFYVdM1UyhYgERieE/edit?usp=sharing).
 
 ## Deliverables
 

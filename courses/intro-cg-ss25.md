@@ -9,7 +9,7 @@ Grading is based on (i) mandatory assignments, (ii) a final project, and (iii) a
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below). 
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1184ki-YXbEt8ZQ7vGIn4s-ZvhOUcdgaVdcKee0AvR5c/edit?usp=sharing)
-2. p5js 
+2. p5js ~ [slides](https://docs.google.com/presentation/d/11vam1TfBDA1Nf6NK6CND_JJ3akfzfV3jgnRiDFzb2TA/edit?usp=sharing)
 2. Math 101 
 3. Coordinates and Transformations 
 4. Meshes and Lights 

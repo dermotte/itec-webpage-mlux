@@ -10,7 +10,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1184ki-YXbEt8ZQ7vGIn4s-ZvhOUcdgaVdcKee0AvR5c/edit?usp=sharing)
 2. p5js ~ [slides](https://docs.google.com/presentation/d/11vam1TfBDA1Nf6NK6CND_JJ3akfzfV3jgnRiDFzb2TA/edit?usp=sharing)
-2. Math 101 
+2. Math 101 ~ [slides](https://docs.google.com/presentation/d/1qZr10x16GvkeGYYONGIeRG0zfGaDsotcsNmGGPgzelQ/edit?usp=sharing)
 3. Coordinates and Transformations 
 4. Meshes and Lights 
 5. Shading 

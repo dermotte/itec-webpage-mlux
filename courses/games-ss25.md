@@ -26,8 +26,8 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 4. 2D Graphics ~ [slides](https://docs.google.com/presentation/d/1RKm8qgmkA6qVhHKz48cHW_kGog9bGxzCUXygyB7WhNI/edit?usp=sharing)
 5. Game Design ~ [slides](https://docs.google.com/presentation/d/1gSlexJxZJutMaJJndn3pmklVL3QeTNROJdEIHHx4mzo/edit?usp=sharing)
 6. Input and Sound ~ [slides](https://docs.google.com/presentation/d/1OcrHLWer4c27pCNwER2A_oggAeVbv8okX2YxmVIMTXY/edit?usp=sharing)
-7. Game Concept and Postmortem ~ [slides]https://docs.google.com/presentation/d/16DDfqPReQKCwugFodwh0mzGWfnv_kl_sFXgyndWTrpU/edit?usp=sharing)
-8. Introduction to 3D Graphics 
+7. Game Concept and Postmortem ~ [slides](https://docs.google.com/presentation/d/16DDfqPReQKCwugFodwh0mzGWfnv_kl_sFXgyndWTrpU/edit?usp=sharing)
+8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/16o85-AHl-NHm8ybASIVDDsuBnDEPHfgBIyGAZzQhJ58/edit?usp=sharing)
 9. Game AI 
 10. Game Physics 
 11. Video Game History 

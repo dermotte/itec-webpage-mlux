@@ -30,7 +30,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/16o85-AHl-NHm8ybASIVDDsuBnDEPHfgBIyGAZzQhJ58/edit?usp=sharing)
 9. Game AI ~ [slides](https://docs.google.com/presentation/d/1dPTPGC33jQojvSUWQOAzsqJxB3oZCXWkL6iKniMdm0o/edit?usp=sharing)
 10. Game Physics ~ [slides](https://docs.google.com/presentation/d/1Bj4WnQrUDKx9G8Khtm65VQock2RdnUsHBpvQiOw4Eg8/edit?usp=sharing)
-11. Video Game History 
+11. Video Game History ~ [slides](https://docs.google.com/presentation/d/1IHQGHOWF10BfIBZ4X_M6hL9WOrc9lgoP9ACt3R-ifX8/edit?usp=sharing)
 
 ## Mandatory Exercise 01 - Pong with Löve
 For the first mandatory exercise you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:

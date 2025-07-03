@@ -25,6 +25,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
  1. [Thingiverse](https://www.thingiverse.com/) - Database of printable 3D objects
  1. [HDRI Haven](https://hdrihaven.com/) - CC0 licensed high quality HDRIs
  1. [Kenney Assets](https://www.kenney.nl/assets) - CC0 licensed assets that can be used in Blender
+ 1. [BlenderKit](https://www.blenderkit.com/) - Blender Asset Hub with a free plan
 
 ### Blender Workshop
 For the Blender Workshop please bring a full size keyboard and a mouse. There are several tutorials and videos that can get you into Blender in a self-guided manner:

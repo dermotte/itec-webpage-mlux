@@ -36,8 +36,8 @@
             the popular Apache Solr search server and his system is for instance powering the WIPO Global Brand Database.
             At Alpen-Adria-Universität Klagenfurt he has co-founded the master program Game Studies and Engineering and actively contributes to the program
             as head of the curriculum committee and regular lecturer. He established a lively community of game developers and enthusiasts who meet at
-            regular events and game jams in and around Klagenfurt. In the administration of the Alpen-Adria-Universität Klagenfurt, he serves as vice-chair
-            of the senate since 2013.
+            regular events and game jams in and around Klagenfurt. In the administration of the Alpen-Adria-Universität Klagenfurt, he served as vice-chair
+            of the senate from 2013-2022.
         </p>
 
         <p class="text-justify">

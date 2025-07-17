@@ -30,6 +30,29 @@
     </div>
 </div>
 
+<h2>Winter Semester 2025/2026</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/gameengineering-ws2526.md">VO Game Engineering</a> - Lecture on computer
+            game production and development as part of the Game Studies and Engineering master program.
+        </div>
+    </li>
+    <li>
+        <div class="li"><a href="?id=courses/topics-cg-ws25.md">VC Advanced Topics in Computer Graphics</a> -
+            Course on additional topics in computer graphics with focus on computer games from the Game Studies and Engineering master program.
+        </div>
+    </li>
+    <!--li>
+        <a href="?id=courses/intro-cg-ws24.md">VC Introduction to Computer Graphics</a> -
+        Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li-->
+    <li>
+        <div class="li"><a href="https://dermotte.github.io/menschamberg-webpage/">VI Mensch am Berg</a> -
+            Interdisciplinary lecture series at starting October 8th, 2025, exploring the complex relationship between humans and mountains from various perspectives.
+        </div>
+    </li>
+</ul>
+
 <h2>Summer Semester 2025</h2>
 <ul>
     <li>

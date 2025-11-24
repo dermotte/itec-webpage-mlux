@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="css/theme-lux-bootstrap.min.css">
+<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
+
+    <title>Random Groups</title>
+
+    <script language="JavaScript">
+        function createGroups() {
+            let myLines = $("#lines").val();
+            let lineArrayTmp = myLines.split('\n');
+            let lineArray = new Array();
+            let numGroups = $("#groups").val();
+            let groupOut = new Array();
+            for (let i = 0; i < numGroups; i++) {
+                groupOut[i] = "";
+            }
+            for (let i = 0; i < lineArrayTmp.length; i++) {
+                lineArrayTmp[i] = lineArrayTmp[i].trim();
+                if (lineArrayTmp[i].length > 1) {
+                    lineArray.push(lineArrayTmp[i]);
+                }
+            }
+            shuffle(lineArray);
+            for (let i = 0; i < lineArray.length; i++) {
+                groupOut[i%numGroups] += "<a href='#' class='list-group-item'>"+lineArray[i]+"</a>"
+            }
+            let out = "";
+            for (let i = 0; i < groupOut.length; i++) {
+                groupOut[i] = '<div class="col-sm-4 col-md-3 col-lg-3 col-xl-2"><div class="list-group"><div class="list-group-item-heading"><strong>Group #'+(i+1)+'</strong></div> '+groupOut[i]+'</div></div>';
+                out += groupOut[i];
+            }
+            console.log(groupOut);
+            $("#mygroups").html(out);
+            $("#nav-profile-tab").tab('show');
+            return true;
+        }
+
+        function shuffle(myArray) {
+            let j, x, i;
+            for (i = myArray.length; i; i -= 1) {
+                j = Math.floor(Math.random() * i);
+                x = myArray[i - 1];
+                myArray[i - 1] = myArray[j];
+                myArray[j] = x;
+            }
+        }
+        // $('#myTabs a').click(function (e) {
+        //     e.preventDefault();
+        //     $(this).tab('show');
+        // })
+    </script>
+
+</head>
+<body>
+<div class="container-fluid" style="padding: 12pt">
+
+<!--    <ul id="myTabs" role="tablist" class="nav nav-pills">-->
+<!--        <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>-->
+<!--        <li role="presentation"><a href="#output" id="output-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Groups</a></li>-->
+<!--    </ul>-->
+
+    <nav>
+        <div class="nav nav-tabs" id="nav-tab" role="tablist">
+            <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
+            <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Groups</a>
+        </div>
+    </nav>
+
+    <div class="tab-content" id="nav-tabContent">
+        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
+            <div class="row">
+                <div class="col-sm-12"><h1>Create Groups Randomly</h1></div>
+            </div>
+            <div class="row">
+                <div class="col-sm-8">
+                    <div class="form-group">
+                        <label for="lines">Lines to group:</label>
+                        <textarea class="form-control" id="lines" placeholder="" rows="10"></textarea>
+                    </div>
+
+                </div>
+                <div class="col-sm-4">
+                    <h3>How to do that?</h3>
+                    <p>Groups are randomly built from the lines in the textarea. Just copy and paste a column from for instance
+                        Excel to the text box and hit ths button.</p>
+                    <div class="form-group">
+                        <label for="lines">How many groups:</label>
+                        <input class="form-control" id="groups" placeholder="5" type="number" value="3"/>
+                    </div>
+                    <button type="submit" class="btn btn-default" onclick="createGroups()">Submit</button>
+                </div>
+            </div>
+        </div>
+        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
+            <div class="row" id="mygroups" style="margin-top: 2em">
+
+            </div>
+        </div>
+    </div>
+
+</div>
+
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+</body>
+</html>

@@ -1,116 +1,415 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
-    <!-- Required meta tags -->
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
+    <!-- vibe coded with Codestral 2508 on 2025-12-18 by Mathias -->
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Group Randomizer</title>
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="css/theme-lux-bootstrap.min.css">
-<!--    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">-->
-
-    <title>Random Groups</title>
-
-    <script language="JavaScript">
-        function createGroups() {
-            let myLines = $("#lines").val();
-            let lineArrayTmp = myLines.split('\n');
-            let lineArray = new Array();
-            let numGroups = $("#groups").val();
-            let groupOut = new Array();
-            for (let i = 0; i < numGroups; i++) {
-                groupOut[i] = "";
-            }
-            for (let i = 0; i < lineArrayTmp.length; i++) {
-                lineArrayTmp[i] = lineArrayTmp[i].trim();
-                if (lineArrayTmp[i].length > 1) {
-                    lineArray.push(lineArrayTmp[i]);
-                }
-            }
-            shuffle(lineArray);
-            for (let i = 0; i < lineArray.length; i++) {
-                groupOut[i%numGroups] += "<a href='#' class='list-group-item'>"+lineArray[i]+"</a>"
-            }
-            let out = "";
-            for (let i = 0; i < groupOut.length; i++) {
-                groupOut[i] = '<div class="col-sm-4 col-md-3 col-lg-3 col-xl-2"><div class="list-group"><div class="list-group-item-heading"><strong>Group #'+(i+1)+'</strong></div> '+groupOut[i]+'</div></div>';
-                out += groupOut[i];
-            }
-            console.log(groupOut);
-            $("#mygroups").html(out);
-            $("#nav-profile-tab").tab('show');
-            return true;
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: #f8f9fa;
         }
-
-        function shuffle(myArray) {
-            let j, x, i;
-            for (i = myArray.length; i; i -= 1) {
-                j = Math.floor(Math.random() * i);
-                x = myArray[i - 1];
-                myArray[i - 1] = myArray[j];
-                myArray[j] = x;
+        .tab-content {
+            padding: 20px;
+        }
+        .group-display {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+            align-items: stretch;
+            gap: 20px;
+            min-height: 80vh;
+        }
+        .group-card {
+            flex: 1 1 300px;
+            max-width: 400px;
+            border: none;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 10px;
+            overflow: hidden;
+            display: flex;
+            flex-direction: column;
+        }
+        .group-header {
+            background-color: #4a6fa5;
+            color: white;
+            padding: 15px;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+        }
+        .group-body {
+            flex-grow: 1;
+            padding: 20px;
+            background-color: white;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+        }
+        .group-member {
+            padding: 10px;
+            margin: 5px 0;
+            background-color: #f1f3f5;
+            border-radius: 5px;
+            text-align: center;
+            font-size: 1.2rem;
+        }
+        .fullscreen-btn {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            z-index: 1000;
+        }
+        .beamer-view {
+            background-color: white;
+            padding: 30px;
+            min-height: 100vh;
+        }
+        .beamer-group-row {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: space-between;
+            margin-bottom: 40px;
+        }
+        .beamer-group {
+            flex: 1 1 22%;
+            min-width: 22%;
+            margin: 0 1%;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .beamer-group-title {
+            font-size: 2rem;
+            color: #4a6fa5;
+            margin-bottom: 15px;
+            text-align: center;
+            font-weight: bold;
+        }
+        .beamer-member {
+            font-size: 1.5rem;
+            padding: 10px;
+            margin: 5px 0;
+            background-color: white;
+            border-radius: 5px;
+            display: block;
+            width: 100%;
+            text-align: center;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+        .group-name-emoji {
+            font-size: 1.5em;
+            margin-right: 10px;
+        }
+        @media (max-width: 768px) {
+            .group-card {
+                max-width: 100%;
+            }
+            .beamer-group {
+                flex: 1 1 45%;
+                min-width: 45%;
             }
         }
-        // $('#myTabs a').click(function (e) {
-        //     e.preventDefault();
-        //     $(this).tab('show');
-        // })
-    </script>
-
+        @media (max-width: 480px) {
+            .beamer-group {
+                flex: 1 1 100%;
+                min-width: 100%;
+            }
+        }
+    </style>
 </head>
 <body>
-<div class="container-fluid" style="padding: 12pt">
+    <div class="container-fluid">
+        <ul class="nav nav-tabs mt-3" id="myTab" role="tablist">
+            <li class="nav-item" role="presentation">
+                <button class="nav-link active" id="input-tab" data-bs-toggle="tab" data-bs-target="#input" type="button" role="tab">Input</button>
+            </li>
+            <li class="nav-item" role="presentation">
+                <button class="nav-link" id="results-tab" data-bs-toggle="tab" data-bs-target="#results" type="button" role="tab">Results</button>
+            </li>
+        </ul>
 
-<!--    <ul id="myTabs" role="tablist" class="nav nav-pills">-->
-<!--        <li role="presentation" class="active"><a href="#home" id="home-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Home</a></li>-->
-<!--        <li role="presentation"><a href="#output" id="output-tab" role="tab" data-toggle="tab" aria-controls="home" aria-expanded="true">Groups</a></li>-->
-<!--    </ul>-->
-
-    <nav>
-        <div class="nav nav-tabs" id="nav-tab" role="tablist">
-            <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="true">Home</a>
-            <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false">Groups</a>
-        </div>
-    </nav>
-
-    <div class="tab-content" id="nav-tabContent">
-        <div class="tab-pane fade show active" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
-            <div class="row">
-                <div class="col-sm-12"><h1>Create Groups Randomly</h1></div>
-            </div>
-            <div class="row">
-                <div class="col-sm-8">
-                    <div class="form-group">
-                        <label for="lines">Lines to group:</label>
-                        <textarea class="form-control" id="lines" placeholder="" rows="10"></textarea>
+        <div class="tab-content" id="myTabContent">
+            <div class="tab-pane fade show active" id="input" role="tabpanel">
+                <div class="row mt-4">
+                    <div class="col-md-6 offset-md-3">
+                        <div class="card">
+                            <div class="card-header bg-primary text-white">
+                                <h4>Group Randomizer</h4>
+                            </div>
+                            <div class="card-body">
+                                <form id="groupForm">
+                                    <div class="mb-3">
+                                        <label for="names" class="form-label">Enter names (one per line):</label>
+                                        <textarea class="form-control" id="names" rows="10" placeholder="John Doe&#10;Jane Smith&#10;Bob Johnson&#10;Alice Williams"></textarea>
+                                    </div>
+                                    <div class="mb-3">
+                                        <label for="groupCount" class="form-label">Number of groups:</label>
+                                        <input type="number" class="form-control" id="groupCount" min="2" max="20" value="4">
+                                    </div>
+                                    <button type="submit" class="btn btn-primary w-100">Randomize Groups</button>
+                                </form>
+                            </div>
+                        </div>
                     </div>
-
-                </div>
-                <div class="col-sm-4">
-                    <h3>How to do that?</h3>
-                    <p>Groups are randomly built from the lines in the textarea. Just copy and paste a column from for instance
-                        Excel to the text box and hit ths button.</p>
-                    <div class="form-group">
-                        <label for="lines">How many groups:</label>
-                        <input class="form-control" id="groups" placeholder="5" type="number" value="3"/>
-                    </div>
-                    <button type="submit" class="btn btn-default" onclick="createGroups()">Submit</button>
                 </div>
             </div>
-        </div>
-        <div class="tab-pane fade" id="nav-profile" role="tabpanel" aria-labelledby="nav-profile-tab">
-            <div class="row" id="mygroups" style="margin-top: 2em">
 
+            <div class="tab-pane fade" id="results" role="tabpanel">
+                <div class="d-flex justify-content-between align-items-center mb-3">
+                    <h2>Randomized Groups</h2>
+                    <div>
+                        <button id="beamerViewBtn" class="btn btn-outline-secondary me-2">Beamer View</button>
+                        <button id="backToInput" class="btn btn-outline-primary">Back to Input</button>
+                    </div>
+                </div>
+
+                <div id="normalView" class="group-display">
+                    <!-- Groups will be inserted here by JavaScript -->
+                </div>
+
+                <div id="beamerView" class="beamer-view d-none">
+                    <!-- Beamer view will be inserted here by JavaScript -->
+                </div>
             </div>
         </div>
     </div>
 
-</div>
+    <button id="fullscreenBtn" class="btn btn-primary fullscreen-btn">Fullscreen</button>
 
-<!-- Optional JavaScript -->
-<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>
-<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+    <!-- Bootstrap JS Bundle with Popper -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+    <script>
+        // Animal names with emojis for groups
+        const animalGroups = [
+            { name: 'Fox', emoji: '🦊' },
+            { name: 'Penguin', emoji: '🐧' },
+            { name: 'Eagle', emoji: '🦅' },
+            { name: 'Lion', emoji: '🦁' },
+            { name: 'Gnu', emoji: '🦒' },
+            { name: 'Owl', emoji: '🦉' },
+            { name: 'Tiger', emoji: '🐅' },
+            { name: 'Bear', emoji: '🐻' },
+            { name: 'Wolf', emoji: '🐺' },
+            { name: 'Shark', emoji: '🦈' },
+            { name: 'Hawk', emoji: '🦅' },
+            { name: 'Zebra', emoji: '🦓' },
+            { name: 'Koala', emoji: '🐨' },
+            { name: 'Raven', emoji: '🐦' },
+            { name: 'Jaguar', emoji: '🐆' },
+            { name: 'Cheetah', emoji: '🐆' },
+            { name: 'Moose', emoji: '🦌' },
+            { name: 'Otter', emoji: '🦦' },
+            { name: 'Viper', emoji: '🐍' },
+            { name: 'Hedgehog', emoji: '🦔' },
+            { name: 'Badger', emoji: '🦡' },
+            { name: 'Dolphin', emoji: '🐬' },
+            { name: 'Falcon', emoji: '🦅' },
+            { name: 'Gorilla', emoji: '🦍' },
+            { name: 'Hyena', emoji: '🦊' },
+            { name: 'Leopard', emoji: '🐆' },
+            { name: 'Mantis', emoji: '🦗' },
+            { name: 'Narwhal', emoji: '🐋' },
+            { name: 'Orangutan', emoji: '🦧' },
+            { name: 'Panda', emoji: '🐼' },
+            { name: 'Quokka', emoji: '🦘' },
+            { name: 'Rhino', emoji: '🦏' },
+            { name: 'Sloth', emoji: '🦥' },
+            { name: 'Toucan', emoji: '🦜' },
+            { name: 'Duck', emoji: '🦆' },
+            { name: 'Vulture', emoji: '🦅' },
+            { name: 'Wombat', emoji: '🦨' },
+            { name: 'Xerus', emoji: '🐿️' },
+            { name: 'Yak', emoji: '🐃' },
+            { name: 'Zebu', emoji: '🐃' }
+        ];
+
+        document.addEventListener('DOMContentLoaded', function() {
+            const groupForm = document.getElementById('groupForm');
+            const namesTextarea = document.getElementById('names');
+            const groupCountInput = document.getElementById('groupCount');
+            const normalView = document.getElementById('normalView');
+            const beamerView = document.getElementById('beamerView');
+            const beamerViewBtn = document.getElementById('beamerViewBtn');
+            const backToInput = document.getElementById('backToInput');
+            const fullscreenBtn = document.getElementById('fullscreenBtn');
+
+            // Form submission
+            groupForm.addEventListener('submit', function(e) {
+                e.preventDefault();
+                const names = namesTextarea.value.split('\n').filter(name => name.trim() !== '');
+                const groupCount = parseInt(groupCountInput.value);
+
+                if (names.length < groupCount) {
+                    alert('You need at least as many names as groups!');
+                    return;
+                }
+
+                if (groupCount < 2) {
+                    alert('Please select at least 2 groups');
+                    return;
+                }
+
+                const groups = randomizeGroups(names, groupCount);
+                displayGroups(groups);
+
+                // Switch to results tab
+                const resultsTab = new bootstrap.Tab(document.getElementById('results-tab'));
+                resultsTab.show();
+            });
+
+            // Toggle between normal and beamer view
+            beamerViewBtn.addEventListener('click', function() {
+                normalView.classList.toggle('d-none');
+                beamerView.classList.toggle('d-none');
+
+                if (beamerView.classList.contains('d-none')) {
+                    beamerViewBtn.textContent = 'Beamer View';
+                } else {
+                    beamerViewBtn.textContent = 'Normal View';
+                }
+            });
+
+            // Back to input button
+            backToInput.addEventListener('click', function() {
+                const inputTab = new bootstrap.Tab(document.getElementById('input-tab'));
+                inputTab.show();
+            });
+
+            // Fullscreen button
+            fullscreenBtn.addEventListener('click', function() {
+                if (!document.fullscreenElement) {
+                    document.documentElement.requestFullscreen().catch(err => {
+                        console.error(`Error attempting to enable full-screen mode: ${err.message}`);
+                    });
+                } else {
+                    document.exitFullscreen();
+                }
+            });
+
+            // Randomize groups function
+            function randomizeGroups(names, groupCount) {
+                // Shuffle the names array
+                const shuffledNames = [...names].sort(() => Math.random() - 0.5);
+
+                // Create a shuffled copy of animal groups
+                const shuffledAnimalGroups = [...animalGroups].sort(() => Math.random() - 0.5);
+
+                // Create groups with equal distribution
+                const groups = [];
+                const baseSize = Math.floor(shuffledNames.length / groupCount);
+                let remaining = shuffledNames.length % groupCount;
+
+                let index = 0;
+
+                for (let i = 0; i < groupCount; i++) {
+                    // Determine the size of this group
+                    let groupSize = baseSize;
+                    if (remaining > 0) {
+                        groupSize++;
+                        remaining--;
+                    }
+
+                    // Get the group members
+                    const groupMembers = shuffledNames.slice(index, index + groupSize);
+                    index += groupSize;
+
+                    // Get the group info
+                    const groupInfo = shuffledAnimalGroups[i % shuffledAnimalGroups.length];
+
+                    groups.push({
+                        name: groupInfo.name,
+                        emoji: groupInfo.emoji,
+                        members: groupMembers
+                    });
+                }
+
+                return groups;
+            }
+
+            // Display groups function
+            function displayGroups(groups) {
+                // Clear previous content
+                normalView.innerHTML = '';
+                beamerView.innerHTML = '';
+
+                // Create normal view
+                groups.forEach(group => {
+                    const groupCard = document.createElement('div');
+                    groupCard.className = 'group-card';
+
+                    const groupHeader = document.createElement('div');
+                    groupHeader.className = 'group-header';
+
+                    const emojiSpan = document.createElement('span');
+                    emojiSpan.className = 'group-name-emoji';
+                    emojiSpan.textContent = group.emoji;
+
+                    const nameSpan = document.createElement('span');
+                    nameSpan.textContent = group.name;
+
+                    groupHeader.appendChild(emojiSpan);
+                    groupHeader.appendChild(nameSpan);
+
+                    const groupBody = document.createElement('div');
+                    groupBody.className = 'group-body';
+
+                    group.members.forEach(member => {
+                        const memberDiv = document.createElement('div');
+                        memberDiv.className = 'group-member';
+                        memberDiv.textContent = member;
+                        groupBody.appendChild(memberDiv);
+                    });
+
+                    groupCard.appendChild(groupHeader);
+                    groupCard.appendChild(groupBody);
+                    normalView.appendChild(groupCard);
+                });
+
+                // Create beamer view with up to 4 groups per row
+                let currentRow = null;
+                groups.forEach((group, index) => {
+                    // Start a new row every 4 groups
+                    if (index % 4 === 0) {
+                        currentRow = document.createElement('div');
+                        currentRow.className = 'beamer-group-row';
+                        beamerView.appendChild(currentRow);
+                    }
+
+                    const groupDiv = document.createElement('div');
+                    groupDiv.className = 'beamer-group';
+
+                    const groupTitle = document.createElement('h2');
+                    groupTitle.className = 'beamer-group-title';
+
+                    const emojiSpan = document.createElement('span');
+                    emojiSpan.className = 'group-name-emoji';
+                    emojiSpan.textContent = group.emoji;
+
+                    const nameSpan = document.createElement('span');
+                    nameSpan.textContent = group.name;
+
+                    groupTitle.appendChild(emojiSpan);
+                    groupTitle.appendChild(nameSpan);
+
+                    groupDiv.appendChild(groupTitle);
+
+                    group.members.forEach(member => {
+                        const memberDiv = document.createElement('div');
+                        memberDiv.className = 'beamer-member';
+                        memberDiv.textContent = member;
+                        groupDiv.appendChild(memberDiv);
+                    });
+
+                    currentRow.appendChild(groupDiv);
+                });
+            }
+        });
+    </script>
 </body>
 </html>

@@ -59,6 +59,10 @@
             <a href="maze.html" class="btn btn-success btn-lg btn-block">Maze Generator</a>
             <p>Maze generator based on Prim's algorithm</p>
         </div>
+        <div class="col-md-3 col-sm-6">
+            <a href="grading-scheme.html" class="btn btn-success btn-lg btn-block">Notenschema</a>
+            <p>Generates a grading scheme based on max points and HTML Code to copy.</p>
+        </div>
     </div>
 </div>
 

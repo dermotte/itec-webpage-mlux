@@ -1,0 +1,279 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sudoku Puzzle</title>
+    <!-- Bootstrap CSS from CDN -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome from CDN -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <style>
+        .sudoku-board {
+            max-width: 500px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #f8f9fa;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+        }
+        .sudoku-cell {
+            width: 11.11%;
+            aspect-ratio: 1;
+            border: 1px solid #ccc;
+            text-align: center;
+            font-size: 1.5rem;
+            font-weight: bold;
+            background-color: white;
+            transition: all 0.2s;
+        }
+        .sudoku-cell:focus {
+            outline: 2px solid #007bff;
+            z-index: 1;
+        }
+        .sudoku-cell.fixed {
+            background-color: #e9ecef;
+            color: #212529;
+        }
+        .sudoku-cell:nth-child(3n) {
+            border-right: 2px solid #333;
+        }
+        .sudoku-row:nth-child(3n) .sudoku-cell {
+            border-bottom: 2px solid #333;
+        }
+        .controls {
+            text-align: center;
+            margin: 20px 0;
+        }
+        .controls button {
+            margin: 0 10px;
+        }
+        .sudoku-cell.error {
+            background-color: #f8d7da;
+            color: #721c24;
+        }
+        .sudoku-cell.correct {
+            background-color: #d4edda;
+            color: #155724;
+        }
+        .sudoku-cell.highlighted {
+            border: 3px solid #007bff;
+            z-index: 2;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-12 text-center my-4">
+                <h1><i class="fas fa-dice"></i> Sudoku Puzzle</h1>
+                <p class="lead">Fill in the grid so that every row, column, and 3x3 box contains the digits 1-9</p>
+            </div>
+        </div>
+        
+        <div class="sudoku-board">
+            <div class="controls">
+                <button id="newGameBtn" class="btn btn-primary">
+                    <i class="fas fa-plus-circle"></i> New Puzzle
+                </button>
+                <button id="checkSolutionBtn" class="btn btn-success">
+                    <i class="fas fa-check"></i> Check Solution
+                </button>
+                <button id="solveBtn" class="btn btn-info">
+                    <i class="fas fa-lightbulb"></i> Solve
+                </button>
+            </div>
+            
+            <!-- Toast container -->
+            <div class="toast-container position-fixed bottom-0 end-0 p-3">
+                <div id="solutionToast" class="toast" role="alert" aria-live="assertive" aria-atomic="true">
+                    <div class="toast-header">
+                        <strong class="me-auto">Solution Check</strong>
+                        <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+                    </div>
+                    <div class="toast-body">
+                        <!-- Toast message will be inserted here -->
+                    </div>
+                </div>
+            </div>
+            
+            <div id="sudokuGrid" class="d-flex flex-column">
+                <!-- Sudoku grid will be generated here -->
+            </div>
+        </div>
+    </div>
+
+    <!-- Bootstrap JS from CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Include the Sudoku logic -->
+    <script src="main.js"></script>
+    <script>
+        // Initialize the game when the page loads
+        document.addEventListener('DOMContentLoaded', function() {
+            // Create a new puzzle
+            let fullGrid = createFullSudoku(); // Store the full grid
+            let puzzleGrid = copyGrid(fullGrid); // Copy it before creating puzzle
+            puzzleGrid = createPuzzle(puzzleGrid);
+            
+            // Store the solution for checking
+            let solutionGrid = copyGrid(fullGrid); // Use the full grid as solution
+            
+            // Render the puzzle
+            renderSudoku(puzzleGrid);
+            
+            // Event listeners for buttons
+            document.getElementById('newGameBtn').addEventListener('click', function() {
+                // Generate a new puzzle
+                fullGrid = createFullSudoku(); // Store the full grid
+                puzzleGrid = copyGrid(fullGrid); // Copy it before creating puzzle
+                puzzleGrid = createPuzzle(puzzleGrid);
+                
+                // Store the solution for checking
+                solutionGrid = copyGrid(fullGrid); // Use the full grid as solution
+                
+                // Render the new puzzle
+                renderSudoku(puzzleGrid);
+            });
+            
+            document.getElementById('checkSolutionBtn').addEventListener('click', function() {
+                checkSolution(puzzleGrid, solutionGrid);
+            });
+            
+            document.getElementById('solveBtn').addEventListener('click', function() {
+                solvePuzzle(solutionGrid);
+            });
+            
+            // Function to render the Sudoku grid
+            function renderSudoku(grid) {
+                const sudokuGrid = document.getElementById('sudokuGrid');
+                sudokuGrid.innerHTML = '';
+                
+                for (let r = 0; r < 9; r++) {
+                    const rowDiv = document.createElement('div');
+                    rowDiv.className = 'sudoku-row d-flex';
+                    
+                    for (let c = 0; c < 9; c++) {
+                        const cellInput = document.createElement('input');
+                        cellInput.type = 'text';
+                        cellInput.className = 'sudoku-cell';
+                        cellInput.maxLength = 1;
+                        cellInput.dataset.row = r;
+                        cellInput.dataset.col = c;
+                        
+                        if (grid[r][c] !== 0) {
+                            cellInput.value = grid[r][c];
+                            cellInput.classList.add('fixed');
+                            // Add click event for highlighting
+                            cellInput.addEventListener('click', function() {
+                                highlightSameNumbers(this.value, this);
+                            });
+                            // Prevent editing of fixed cells
+                            cellInput.addEventListener('keydown', function(e) {
+                                e.preventDefault();
+                            });
+                        } else {
+                            cellInput.addEventListener('input', function() {
+                                // Remove any non-digit characters
+                                this.value = this.value.replace(/[^1-9]/g, '');
+                                // Update the grid
+                                grid[this.dataset.row][this.dataset.col] = this.value ? parseInt(this.value) : 0;
+                                // Update highlighting if needed
+                                if (this.value !== '') {
+                                    highlightSameNumbers(this.value, this);
+                                }
+                            });
+                        }
+                        
+                        rowDiv.appendChild(cellInput);
+                    }
+                    
+                    sudokuGrid.appendChild(rowDiv);
+                }
+            }
+            
+            // Function to check the solution
+            function checkSolution(puzzle, solution) {
+                const cells = document.querySelectorAll('.sudoku-cell');
+                let isCorrect = true;
+                
+                cells.forEach(cell => {
+                    const row = parseInt(cell.dataset.row);
+                    const col = parseInt(cell.dataset.col);
+                    
+                    // Only check non-fixed cells
+                    if (!cell.classList.contains('fixed')) {
+                        const userValue = cell.value ? parseInt(cell.value) : 0;
+                        const solutionValue = solution[row][col];
+                        
+                        if (userValue !== 0 && userValue === solutionValue) {
+                            cell.classList.remove('error');
+                            cell.classList.add('correct');
+                        } else if (userValue !== 0 && userValue !== solutionValue) {
+                            cell.classList.remove('correct');
+                            cell.classList.add('error');
+                            isCorrect = false;
+                        } else {
+                            cell.classList.remove('correct', 'error');
+                        }
+                    }
+                });
+                
+            // Show result message with toast
+            const toastElement = document.getElementById('solutionToast');
+            const toastBody = toastElement.querySelector('.toast-body');
+            
+            if (isCorrect) {
+                toastBody.textContent = 'Congratulations! Your solution is correct!';
+                toastElement.classList.remove('bg-danger');
+                toastElement.classList.add('bg-success');
+            } else {
+                toastBody.textContent = 'There are some errors in your solution. Keep trying!';
+                toastElement.classList.remove('bg-success');
+                toastElement.classList.add('bg-danger');
+            }
+            
+            const toast = new bootstrap.Toast(toastElement, {
+                delay: 3000 // Auto hide after 3 seconds
+            });
+            toast.show();
+        }
+        
+        // Function to highlight all cells with the same number
+        function highlightSameNumbers(number, clickedCell) {
+            const cells = document.querySelectorAll('.sudoku-cell');
+            let isHighlighted = clickedCell.classList.contains('highlighted');
+            
+            // Remove highlighting from all cells
+            cells.forEach(cell => {
+                cell.classList.remove('highlighted');
+            });
+            
+            // If the clicked cell was not already highlighted, highlight all cells with the same number
+            if (!isHighlighted && number !== '') {
+                cells.forEach(cell => {
+                    if (cell.value === number) {
+                        cell.classList.add('highlighted');
+                    }
+                });
+            }
+        }
+            
+            // Function to solve the puzzle
+            function solvePuzzle(solution) {
+                const cells = document.querySelectorAll('.sudoku-cell');
+                
+                cells.forEach(cell => {
+                    const row = parseInt(cell.dataset.row);
+                    const col = parseInt(cell.dataset.col);
+                    
+                    if (!cell.classList.contains('fixed')) {
+                        cell.value = solution[row][col];
+                        cell.classList.remove('error');
+                        cell.classList.add('correct');
+                    }
+                });
+            }
+        });
+    </script>
+</body>
+</html>

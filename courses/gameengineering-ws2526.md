@@ -12,17 +12,17 @@ Due to the international nature of the Game Studies and Engineering program and 
 
 ## Topics
 
-1. Introduction & Computer Game History 
-2. Game Projects: Processes and Roles 
-4. Prototyping 
-5. Introduction to Programming 
-6. Basic Concepts in Game Programming 
-7. Playtests and Evaluation 
-8. Evaluation of Game Prototypes 
-9. Game Engineering and the Scientific Method 
-10. Animation 
-11. Sound & Interactive Music 
-11. Tools & Tool Chain 
+1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/1HtAxVv2wEitJGAaTsSm4YztqKyuXxhrBZHmUPjdeFuQ/edit?usp=sharing)
+2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1kOKwMePmQUHpeNm-Gv2aOHCqhBI9d85hGR3VsOEoTYE/edit?usp=sharing)
+3. Prototyping ~ [slides](https://docs.google.com/presentation/d/1ePVsvXFA-ISnhUZyoWQ5pB8dLuLQ2EjokKlwCJrsuus/edit?usp=sharing)
+4. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/19LTk-9whjqyhBVrn4FlPZiqe5uxrqpCaclqdCbYbPRY/edit?usp=sharing)
+5. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/10DADVoqCL1EzcVtmB8MN9KYCU2ZMWDTidCKAo9B6ezE/edit?usp=sharing)
+6. Playtests and Evaluation ~ [slides](https://docs.google.com/presentation/d/1wVk04qP_sr0kv6DXvnwwE6LveIpkZSrhqLXKKqyd_Yc/edit?usp=sharing)
+7. Evaluation of Game Prototypes ~ [slides](https://docs.google.com/presentation/d/1LniiPjPjm5cy_Epy-rAyIIu_W8wZjp9LnHuv2Eo3m84/edit?usp=sharing)
+8. Animation ~ [slides](https://docs.google.com/presentation/d/1BdSLkLzXRHEg-1EeCrn-z11YNB6MfmDqDrZ2WDNslcI/edit?usp=sharing)
+9. Game Jam Survival Guide ~ [slides](https://docs.google.com/presentation/d/16JOfXB_G7FZlsttWBuD90a4GLcN7i5U8kR_JFAg77uE/edit?usp=sharing)
+10. Sound & Interactive Music ~ [slides](https://docs.google.com/presentation/d/1g-Ik4um_33zcf7rCRPD_G0ngAKythkvxcqZmhT9Z3uE/edit?usp=sharing)
+11. Tools & Tool Chain ~ [slides](https://docs.google.com/presentation/d/11GbWvOkxtspRpaKHapBNvUahauNFpgtHMt_hVCwJ1-o/edit?usp=sharing)
 
 ## Modalities
 

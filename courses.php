@@ -30,6 +30,28 @@
     </div>
 </div>
 
+<h2>Summer Semester 2026</h2>
+<ul>
+    <li>
+        <div class="li"><a href="?id=courses/games-ss26.md">Interaktive Multimedia-Anwendungen B (Computer Games)</a> -
+            Course on computer games planning and development for the computer science bachelor program.
+        </div>
+    </li>
+    <li>
+        <a href="?id=courses/intro-cg-ss26.md">Introduction to Computer Graphics</a> -
+        Course on computer graphics with focus on computer games from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="?id=courses/topics-game-engineering-ss26.md">Advanced Topics in Game Engineering</a> -
+        Course on additional topics in game engineering with focus on creating games in a team from the Game Studies and Engineering master program.
+    </li>
+    <li>
+        <a href="https://campus.aau.at/studium/course/125067">Modeling Sustainability in Board Games</a> -
+        Seminar on developing board games implementing and communicating sustainability models.
+    </li>
+</ul>
+
+
 <h2>Winter Semester 2025/2026</h2>
 <ul>
     <li>

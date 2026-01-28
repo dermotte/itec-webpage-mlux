@@ -178,7 +178,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Winter Semester 2018/2019
 
 * [VO Einführung in die
-  strukturierte und objektbasierte Programmierung](?data=courses/esop18) - Basic course on object oriented programming
+  strukturierte und objektbasierte Programmierung](?data=courses/esop18.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [VO Game Engineering](?data=courses/gameengineering-ws1819.md) - Lecture on computer
   game production and development as part of the Game Studies and Engineering master programme.
@@ -203,7 +203,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Winter Semester 2017/2018
 
 * [VO Einführung in die
-  strukturierte und objektbasierte Programmierung](?data=courses/esop17) - Basic course on object oriented programming
+  strukturierte und objektbasierte Programmierung](?data=courses/esop17.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [PR Einführung
   in die Informatik](https://campus.aau.at/studium/course/90420) - Practical course for the introductory computer science lecture.
@@ -221,7 +221,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Winter Semester 2016/2017
 
 * [VO Einführung in die
-  strukturierte und objektbasierte Programmierung](?data=courses/esop16) - Basic course on object oriented programming
+  strukturierte und objektbasierte Programmierung](?data=courses/esop16.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [PR Einführung
   in die Informatik](?data=courses/einfuehrungindieinformatikws1617) - Practical course for the introductory computer science lecture.
@@ -239,7 +239,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Winter Semester 2015/2016
 
 * [VO Einführung in die
-  strukturierte und objektbasierte Programmierung](?data=courses/esop15) - Basic course on object oriented programming
+  strukturierte und objektbasierte Programmierung](?data=courses/esop15.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [PR Einführung
   in die Informatik](?data=courses/einfuehrungindieinformatikws1516) - Practical course for the introductory computer science lecture.
@@ -259,7 +259,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [Seminar aus Angewandte Informatik](?data=courses/sem14 "courses:sem11") -
   Seminar as part of the bachelor course round-up
 * [VO Einführung in die
-  strukturierte und objektbasierte Programmierung](?data=courses/esop14 "courses:esop14") - Basic course on object oriented programming
+  strukturierte und objektbasierte Programmierung](?data=courses/esop14.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [PR Einführung
   in die Informatik](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=80393 "https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=80393")

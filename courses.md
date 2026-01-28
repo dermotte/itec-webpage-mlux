@@ -250,7 +250,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 
 * [Ringvorlesung Informatik und Informationstechnik](?data=courses/ringvorlesungss15) - Lecture with
   rotating speakers for PhD students
-* [Interaktive Multimedia-Anwendungen B (Computer Games)](?data=courses/gamesss15) - Course on computer
+* [Interaktive Multimedia-Anwendungen B (Computer Games)](?data=courses/gamesss15.md) - Course on computer
   games planning and development.
 * [Multimedia Information Systems](?data=courses/mmisss15) - Course on multimedia information systems.
 
@@ -271,7 +271,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [VK Multimedia
   Information Systems](?data=courses/mmisss14 "courses:mmisss14") - Course on multimedia information systems.
 * [VK Computer
-  Games](?data=courses/gamesss14 "courses:gamesss14") - Course on computer games planning and development.
+  Games](?data=courses/gamesss14.md) - Course on computer games planning and development.
 * [Introduction to
   Multimedia Technology (DMS)](?data=courses/mmtech14 "courses:mmtech14") - Basic course on multimedia technologies
 * [Scientific Poster Presentation](?data=courses/posterpresentation2014 "courses:posterpresentation2014") - Half day
@@ -287,7 +287,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [VK Multimedia
   Information Systems](?data=courses/mmisss13 "courses:mmisss13") - Course on multimedia information systems.
 * [VK Computer
-  Games](?data=courses/gamesss13 "courses:gamesss13") - Course on computer games planning and development.
+  Games](?data=courses/gamesss13.md) - Course on computer games planning and development.
 
 ## Winter Semester 2012 / 2013
 
@@ -299,7 +299,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [VK Multimedia
   Information Systems](?data=courses/mmisss12 "courses:mmisss12") - Course on multimedia information systems.
 * [VK Computer
-  Games](?data=courses/gamesss12 "courses:gamesss12") - Course on computer games planning and development.
+  Games](?data=courses/gamesss12.md) - Course on computer games planning and development.
 * [Seminar aus
   Betriebsinformatik für Informationsmanagement](?data=courses/semss12 "courses:semss12")
 
@@ -316,7 +316,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [VK Multimedia
   Information Systems](?data=courses/mmisss11 "courses:mmisss11") - Course on multimedia information systems.
 * [VK Computer
-  Games](?data=courses/gamesss11 "courses:gamesss11") - Course on computer games planning and development.
+  Games](?data=courses/gamesss11.md) - Course on computer games planning and development.
 
 ## Winter Semester 2010 / 2011
 
@@ -346,7 +346,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [PR
   Compiler Construction](https://campus.uni-klu.ac.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=60609 "https://campus.uni-klu.ac.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=60609") - Practical course on compilers.
 * [VK Computer
-  Games](?data=courses/gamesss09 "courses:gamesss09") - Course on basics for computer game development focusing on 2D arcade games.
+  Games](?data=courses/gamesss09.md) - Course on basics for computer game development focusing on 2D arcade games.
 * [VK Multimediale
   Informationssysteme](?data=courses/mmisss09 "courses:mmisss09") - Course on multimedia information systems.
 
@@ -363,7 +363,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [VK Multimediale
   Informationssysteme](?data=courses/mmisss08 "courses:mmisss08") - Course on multimedia information systems.
 * [VK Computer
-  Games](?data=courses/gamesss08 "courses:gamesss08") - Course on computer games development.
+  Games](?data=courses/gamesss08.md) - Course on computer games development.
 * [PR
   Compiler Construction](https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&rlvkey=57089 "https://wwws.uni-klu.ac.at/uniklu/studien/lvkarte.jsp?sprache_nr=35&rlvkey=57089") - Practical course on compiler construction
 

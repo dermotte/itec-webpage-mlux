@@ -178,7 +178,7 @@ The site is deployed to the University of Klagenfurt's web server:
 
 - [ ] Test all links and navigation
 - [ ] Verify responsive design on mobile devices
-- [ ] Check Markdown rendering for all pages
+- [ ] Check Markdown rendering for all pages according to [Showdown syntax](https://github.com/showdownjs/showdown/wiki/Showdown's-Markdown-syntax)
 - [ ] Ensure images load correctly
 - [ ] Test all interactive tools
 - [ ] Update any version references if needed

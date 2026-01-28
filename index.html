@@ -89,7 +89,7 @@
                 if (!response.ok) throw new Error('File not found');
                 
                 const markdownText = await response.text();
-                const converter = new showdown.Converter();
+                const converter = new showdown.Converter({tables: true});
                 const htmlContent = converter.makeHtml(markdownText);
                 
                 // Hide spinner and show content

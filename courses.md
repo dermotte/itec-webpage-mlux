@@ -214,7 +214,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 
 * [Interaktive Multimedia-Anwendungen B (Computer Games)](?data=courses/games-ss17.md) -
   Course on computer games planning and development from the computer science bachelor program.
-* [Multimedia Information Systems](?data=courses/mmisss17) - Course on multimedia information systems and
+* [Multimedia Information Systems](?data=courses/mmisss17.md) - Course on multimedia information systems and
   visual information retrieval.
 * [Seminar in Distributed Systems](?data=courses/seminardms-ss17.md) - Seminar in the master studies on computer science focusing on distributed multimedia systems.
 
@@ -224,7 +224,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
   strukturierte und objektbasierte Programmierung](?data=courses/esop16.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [PR Einführung
-  in die Informatik](?data=courses/einfuehrungindieinformatikws1617) - Practical course for the introductory computer science lecture.
+  in die Informatik](?data=courses/einfuehrungindieinformatikws1617.md) - Practical course for the introductory computer science lecture.
 * [Introduction to Computer Game Production](?data=courses/games-ws1617.md) - ERASMUS
   lecture in Toulouse on computer games production and development.
 
@@ -233,7 +233,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [Interaktive Multimedia-Anwendungen B (Computer Games)](?data=courses/games-ss16.md) -
   Course on computer games planning and development.
 * [PR Einführung
-  in die Informatik](?data=courses/einfuehrungindieinformatikss16) - Practical course for the introductory computer science lecture.
+  in die Informatik](?data=courses/einfuehrungindieinformatikss16.md) - Practical course for the introductory computer science lecture.
 * [Seminar in Distributed Systems](?data=courses/seminardms-ss16.md) - Seminar in the master studies on computer science focusing on distributed multimedia systems.
 
 ## Winter Semester 2015/2016
@@ -242,21 +242,21 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
   strukturierte und objektbasierte Programmierung](?data=courses/esop15.md) - Basic course on object oriented programming
   focusing on Java as example.
 * [PR Einführung
-  in die Informatik](?data=courses/einfuehrungindieinformatikws1516) - Practical course for the introductory computer science lecture.
+  in die Informatik](?data=courses/einfuehrungindieinformatikws1516.md) - Practical course for the introductory computer science lecture.
 * [Introduction to
-  Media Informatics](?data=courses/mediainformatik2015) - Introduction to media technologies course.
+  Media Informatics](?data=courses/mediainformatik2015.md) - Introduction to media technologies course.
 
 ## Summer Semester 2015
 
-* [Ringvorlesung Informatik und Informationstechnik](?data=courses/ringvorlesungss15) - Lecture with
+* [Ringvorlesung Informatik und Informationstechnik](?data=courses/ringvorlesungss15.md) - Lecture with
   rotating speakers for PhD students
 * [Interaktive Multimedia-Anwendungen B (Computer Games)](?data=courses/gamesss15.md) - Course on computer
   games planning and development.
-* [Multimedia Information Systems](?data=courses/mmisss15) - Course on multimedia information systems.
+* [Multimedia Information Systems](?data=courses/mmisss15.md) - Course on multimedia information systems.
 
 ## Winter Semester 2014/2015
 
-* [Seminar aus Angewandte Informatik](?data=courses/sem14 "courses:sem11") -
+* [Seminar aus Angewandte Informatik](?data=courses/sem14.md) -
   Seminar as part of the bachelor course round-up
 * [VO Einführung in die
   strukturierte und objektbasierte Programmierung](?data=courses/esop14.md) - Basic course on object oriented programming
@@ -264,28 +264,28 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [PR Einführung
   in die Informatik](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=80393 "https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=80393")
 * [Introduction to
-  Media Informatics](?data=courses/mediainformatik2014 "courses:mediainformatik2014")
+  Media Informatics](?data=courses/mediainformatik2014.md)
 
 ## Summer Semester 2014
 
 * [VK Multimedia
-  Information Systems](?data=courses/mmisss14 "courses:mmisss14") - Course on multimedia information systems.
+  Information Systems](?data=courses/mmisss14.md) - Course on multimedia information systems.
 * [VK Computer
   Games](?data=courses/gamesss14.md) - Course on computer games planning and development.
 * [Introduction to
-  Multimedia Technology (DMS)](?data=courses/mmtech14 "courses:mmtech14") - Basic course on multimedia technologies
-* [Scientific Poster Presentation](?data=courses/posterpresentation2014 "courses:posterpresentation2014") - Half day
+  Multimedia Technology (DMS)](?data=courses/mmtech14.md) - Basic course on multimedia technologies
+* [Scientific Poster Presentation](?data=courses/posterpresentation2014.md) - Half day
   course on scientific poster presentation.
 
 ## Winter Semester 2013 / 2014
 
 * [Introduction to Media Informatics and Media
-  Informatics Lab](?data=courses/mediainformatik2014 "courses:mediainformatik2014") - Introductory course on media informatics.
+  Informatics Lab](?data=courses/mediainformatik2014.md) - Introductory course on media informatics.
 
 ## Summer Semester 2013
 
 * [VK Multimedia
-  Information Systems](?data=courses/mmisss13 "courses:mmisss13") - Course on multimedia information systems.
+  Information Systems](?data=courses/mmisss13.md) - Course on multimedia information systems.
 * [VK Computer
   Games](?data=courses/gamesss13.md) - Course on computer games planning and development.
 
@@ -297,16 +297,16 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Summer Semester 2012
 
 * [VK Multimedia
-  Information Systems](?data=courses/mmisss12 "courses:mmisss12") - Course on multimedia information systems.
+  Information Systems](?data=courses/mmisss12.md) - Course on multimedia information systems.
 * [VK Computer
   Games](?data=courses/gamesss12.md) - Course on computer games planning and development.
 * [Seminar aus
-  Betriebsinformatik für Informationsmanagement](?data=courses/semss12 "courses:semss12")
+  Betriebsinformatik für Informationsmanagement](?data=courses/semss12.md)
 
 ## Winter Semester 2011 / 2012
 
 * [Proseminar
-  Angewandte Informatik](?data=courses/prosem11 "courses:prosem11") - Proseminar
+  Angewandte Informatik](?data=courses/prosem11.md) - Proseminar
 * [Einführung
   in die Informatik](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=69474 "https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=69474")
 * [Games course in Passau, DE](?data=courses/gamespassau11.md) - Lecture
@@ -314,14 +314,14 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Summer Semester 2011
 
 * [VK Multimedia
-  Information Systems](?data=courses/mmisss11 "courses:mmisss11") - Course on multimedia information systems.
+  Information Systems](?data=courses/mmisss11.md) - Course on multimedia information systems.
 * [VK Computer
   Games](?data=courses/gamesss11.md) - Course on computer games planning and development.
 
 ## Winter Semester 2010 / 2011
 
 * [Proseminar
-  Angewandte Informatik](?data=courses/prosem10 "courses:prosem10") - Proseminar
+  Angewandte Informatik](?data=courses/prosem10.md) - Proseminar
 * [Einführung
   in die Informatik](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=66991 "https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=66991")
 
@@ -330,7 +330,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [PR
   Compiler Construction](https://campus.aau.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=63651 "https://campus.uni-klu.ac.at/studien/lvkarte.jsp?sprache_nr=35&rlvkey=63651") - Practical course on compilers.
 * [VK Multimediale
-  Informationssysteme](?data=courses/mmisss10 "courses:mmisss10") - Course on multimedia information systems.
+  Informationssysteme](?data=courses/mmisss10.md) - Course on multimedia information systems.
 
 ## Winter Semester 2009 / 2010
 
@@ -348,7 +348,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 * [VK Computer
   Games](?data=courses/gamesss09.md) - Course on basics for computer game development focusing on 2D arcade games.
 * [VK Multimediale
-  Informationssysteme](?data=courses/mmisss09 "courses:mmisss09") - Course on multimedia information systems.
+  Informationssysteme](?data=courses/mmisss09.md) - Course on multimedia information systems.
 
 ## Winter Semester 2008 / 2009
 
@@ -361,7 +361,7 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Summer Semester 2008
 
 * [VK Multimediale
-  Informationssysteme](?data=courses/mmisss08 "courses:mmisss08") - Course on multimedia information systems.
+  Informationssysteme](?data=courses/mmisss08.md) - Course on multimedia information systems.
 * [VK Computer
   Games](?data=courses/gamesss08.md) - Course on computer games development.
 * [PR
@@ -370,14 +370,14 @@ If you are interested in a master's thesis, I have compiled a [presentation](htt
 ## Winter Semester 2007 / 2008
 
 * [PR Einführung in die
-  Informatik](?data=courses/einfuehrungindieinformatikws0708 "courses:einfuehrungindieinformatikws0708") - Practical part of an introductory course to computer science.
-* [PR Rechnernetze](?data=courses/rechnernetzews0708 "courses:rechnernetzews0708") - Practical part of a course on
+  Informatik](?data=courses/einfuehrungindieinformatikws0708.md) - Practical part of an introductory course to computer science.
+* [PR Rechnernetze](?data=courses/rechnernetzews0708.md) - Practical part of a course on
   computer networks
 
 ## Summer Semester 2007
 
 * [VK Multimediale
-  Informationssysteme](?data=courses/mmisss07 "courses:mmisss07") - Course on multimedia information systems.
+  Informationssysteme](?data=courses/mmisss07.md) - Course on multimedia information systems.
 * RE Rechnernetze - Revision course on computer networks
 
 ## Winter Semester 2006 / 2007

@@ -17,7 +17,7 @@ Beyond the classroom, he has fostered a vibrant local ecosystem of developers an
 ### Background & Professional Journey
 Mathias earned his M.S. in Mathematics (2004) and his PhD in Telematics (2006) from Graz University of Technology, both with distinction. He received his Habilitation (*venia docendi*) from the University of Klagenfurt in 2013.
 
-His career includes a mix of industry and academia, having worked on web applications for various companies and as a researcher at the *Know-Center* in Graz. He has served as an external lecturer for institutions including ENSEEHIT Toulouse, the University of Passau, and FH Kärnten, and has consulted for organizations like the United Nations. 
+His career includes a mix of industry and academia, having worked on web applications for various companies and as a researcher at the *Know-Center* in Graz. He has served as an external lecturer for institutions including ENSEEIHT Toulouse, the University of Passau, and FH Kärnten, and has consulted for organizations like the United Nations. 
 
 His reach extends to the creator economy; his most successful Android app, [Artist Grid](https://play.google.com/store/apps/details?id=at.juggle.imagegrid), has surpassed 500k downloads, and his [YouTube channel](https://www.youtube.com/@dermotte) has reached over 230k views.
 

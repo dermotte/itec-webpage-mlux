@@ -2,3 +2,7 @@ td {
     padding: 3pt;
     border-width: 1pt;
 }
+table {
+    margin-bottom: 12pt;
+    margin-top: 6pt;
+}

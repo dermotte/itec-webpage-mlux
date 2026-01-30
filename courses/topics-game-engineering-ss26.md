@@ -2,7 +2,11 @@
 
 Throughout this semester, students will work in teams to produce a complete game. Each student will take on a specific role within their team, mirroring a professional studio environment. The process covers the entire development lifecycle: planning, design, development, testing, marketing, and roll-out.
 
-The course is a hybrid of workshops, stand-up meetings, self-organized development sessions, student presentations, and lectures. Guest lectures may be held online (via Twitch.tv) or as inverted classrooms. The ultimate goal is to prepare a high-quality submission for the **PGDA Young Talent Award** (see [Talent Award 2025](https://pgda.at/talent-award-2025/) for more information).
+The course is a hybrid of workshops, stand-up meetings, self-organized development sessions, student presentations, and lectures. Guest lectures may be held online (via Twitch.tv) or as inverted classrooms. The ultimate goal is to prepare a high-quality submission for a competitive venture, including but not limited to:
+
+- [**PGDA Young Talent Award**](https://pgda.at/talent-award-2025/) - submission ~ April 5th '26, details to be announced
+- [**SILC Ideenwettbewerb**](https://www.aau.at/silc/ideenwettbewerb/) - submission ~ mid June '26, details to be announced
+- **Playing Art** - submission ~ July 3rd '26, details to be announced
 
 ## Proposed Schedule
 
@@ -45,9 +49,9 @@ Each student must submit an individual report of **4,000 words**, structured as 
 
 1. **Role-Specific Documentation (3,000 words):** Detailed technical/creative documentation as assigned to your role.
 2. **Reflection (1,000 words):**
-    * **Victories:** What went well? Describe key moments and achievements you are proud of.
-    * **Challenges:** What went wrong? Analyze mistakes, technical hurdles, or interpersonal issues within the group.
-    * **Conclusion:** Provide three "take-home messages." How has this experience impacted your professional development? What would you do differently in your next project?
+    - **Victories:** What went well? Describe key moments and achievements you are proud of.
+    - **Challenges:** What went wrong? Analyze mistakes, technical hurdles, or interpersonal issues within the group.
+    - **Conclusion:** Provide three "take-home messages." How has this experience impacted your professional development? What would you do differently in your next project?
 
 ## Grading & Course Policies
 

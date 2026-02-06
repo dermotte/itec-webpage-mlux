@@ -99,6 +99,7 @@ To meet the scope of the project, you must:
 * The project must be created in **Blender**.
 * The visual style must be **Low Poly**.
 * Use the **Eevee** rendering engine.
+* You are not allowed to submit the result from Blender Guru's *donut tutorial*.
 
 ## Grading & Course Policies
 

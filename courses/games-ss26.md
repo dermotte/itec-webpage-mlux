@@ -16,7 +16,7 @@ The course aims to teach in a practical as well as a theoretical way. Throughout
 
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
 
-1. Introduction and motivation 
+1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1YJcKP6A3DlBUtT-T6n2T2udb91oAmmyxhWTMVW9LmZo/edit?usp=sharing)
 2. Business of Games 
 3. Game Loop 
 4. 2D Graphics 

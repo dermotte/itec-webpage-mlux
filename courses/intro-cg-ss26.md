@@ -12,8 +12,8 @@ Grading is based on:
 
 All sessions start **s.t. (sine tempore)** in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) unless otherwise noted. Slides are available online (see the "Additional Materials" section).
 
-1. Introduction
-2. p5.js
+1. Introduction ~ [slides](https://docs.google.com/presentation/d/1VNNOtAWio-Xp4LiEwRQyx7eH1dR_fMURSamkKQQxIw0/edit?usp=sharing)
+2. p5.js ~ [slides](https://docs.google.com/presentation/d/1ZrDWp0f2KjNLmiafVr7LR46Eu4a2Td1dsnvywCboup4/edit?usp=sharing)
 3. Math 101
 4. Coordinates and Transformations
 5. Meshes and Lights

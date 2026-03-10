@@ -14,12 +14,12 @@ All sessions start **s.t. (sine tempore)** in [Klagenfurt local time](https://ww
 
 1. Introduction ~ [slides](https://docs.google.com/presentation/d/1VNNOtAWio-Xp4LiEwRQyx7eH1dR_fMURSamkKQQxIw0/edit?usp=sharing)
 2. p5.js ~ [slides](https://docs.google.com/presentation/d/1ZrDWp0f2KjNLmiafVr7LR46Eu4a2Td1dsnvywCboup4/edit?usp=sharing)
-3. Math 101
-4. Coordinates and Transformations
-5. Meshes and Lights
-6. Shading
-7. Cameras
-8. Textures
+3. Math 101 ~ [slides](https://docs.google.com/presentation/d/144i3KI8A7am0oiSlO8OxtmHjrlXc-IK3sJfJ9EhkErM/edit?usp=sharing)
+4. Coordinates and Transformations ~ [slides](https://docs.google.com/presentation/d/1zlJwz_4LpXxg7YiJ4cFG-S0_koe6CG_OIUCVw3FG-R0/edit?usp=sharing)
+5. Meshes and Lights ~ [slides](https://docs.google.com/presentation/d/1ROPosQ09w70tdauvAV4VTswxqJXJyED_B8U6RskjYYk/edit?usp=sharing)
+6. Shading and Materials ~ [slides](https://docs.google.com/presentation/d/17_dTLKaoGj4viJVaXMBcuwBLdGAO8SeLBREu5EYg0SU/edit?usp=sharing)
+7. Cameras ~ [slides](https://docs.google.com/presentation/d/1UDeyTMXh5spbl5boRr8tTvGRhdtSw86sH2sY8_C9x1A/edit?usp=sharing)
+8. Textures ~ [slides](https://docs.google.com/presentation/d/1gh91RJFHQMySBudEuaEZxv8x-eLfr2tujpEKXaQdnyQ/edit?usp=sharing)
 9. Raytracing and Real-Time Rendering
 10. Blender Workshop
 

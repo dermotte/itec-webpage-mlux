@@ -17,10 +17,10 @@ The course aims to teach in a practical as well as a theoretical way. Throughout
 All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/worldclock/austria/klagenfurt) if not otherwise noted. Slides are available online (see below).
 
 1. Introduction and motivation ~ [slides](https://docs.google.com/presentation/d/1YJcKP6A3DlBUtT-T6n2T2udb91oAmmyxhWTMVW9LmZo/edit?usp=sharing)
-2. Business of Games 
-3. Game Loop 
-4. 2D Graphics 
-5. Game Design 
+2. Business of Games ~ [slides](https://docs.google.com/presentation/d/1yE6d34VBwz8K5WYAni9mWMkW53uRqvrFf-ZhmUh2w64/edit?usp=sharing)
+3. Game Loop ~ [slides](https://docs.google.com/presentation/d/1FiKXr54XC9VyiQyHlz2Dv9TcMMNgIEnPTQaprb7O6vc/edit?usp=sharing)
+4. 2D Graphics ~ [slides](https://docs.google.com/presentation/d/13FrxNADskmp_LwgWOkLPUdms2ITeR4xKscTeNn-RlN4/edit?usp=sharing)
+5. Game Design ~ [slides](https://docs.google.com/presentation/d/1YTOtS75IAMmPAWzYXSvCnLvs5GSwDDMewQcPc6lEnNw/edit?usp=sharing)
 6. Input and Sound 
 7. Game Concept and Postmortem 
 8. Introduction to 3D Graphics 

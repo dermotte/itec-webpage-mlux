@@ -7,7 +7,7 @@ The course has already taken place in previous years, so you can look at the [20
 ## Modalities
 The course aims to teach in a practical as well as a theoretical way. Throughout the lecture, you will have (i) readings, (ii) practical assignments, (iii) a final exam, and (iv) a final game project. The readings are specific to the lecture topic and will be referenced from the web page. Make sure you read (or watch or play) them. Questions might pop up in the final exam. The final grade comes from (i) the assignments, (ii) the final project, and (iii) the final exam.
 
-* Readings - For the course, it's mandatory to read (or view, listen to,  or play in case of games) the readings. They will be announced throughout the course in the schedule table.
+* Readings - For the course, it's mandatory to read (or view, listen to, or play in case of games) the readings. They will be announced throughout the course in the schedule table.
 * Practical assignment - Two practical assignments prior to the final project.
 * Written exam - A final, short exam on the course topics on June 29th, 2026, in the first 30 minutes of the course. [Catalogue of Questions](https://docs.google.com/document/d/1yNdsC9UoJUaKBskKzgA7Zw-z6bd81pMxrL2XxLX7FDU/edit?usp=sharing).     
 * Final project - Create a game in a group, more information can be found below 
@@ -23,7 +23,7 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 5. Game Design ~ [slides](https://docs.google.com/presentation/d/1YTOtS75IAMmPAWzYXSvCnLvs5GSwDDMewQcPc6lEnNw/edit?usp=sharing)
 6. Input and Sound ~ [slides](https://docs.google.com/presentation/d/1MBSoveoXNi2LY9X-ZUmr_ph-727yiRPLtA2Bn4n0MtA/edit?usp=sharing)
 7. Game Concept and Postmortem ~ [slides](https://docs.google.com/presentation/d/1zt9LOlVzxKvsjwAH3ZitdItuVZ6RHOEvH8rwoE8IFGM/edit?usp=sharing)
-8. Introduction to 3D Graphics 
+8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1Qmjiva6MyIRwAG9t_dh_FxmU3kZk-VNsU4Urcr95wKs/edit?usp=sharing)
 9. Game AI 
 10. Game Physics 
 11. Video Game History 
@@ -32,8 +32,8 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 For the first mandatory exercise, you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:
 
 1. Submit as a runnable `.love` file
-1. Use `love.graphics.rectangle(...)` to paint the bars and the ball
-1. Control by keyboard
+2. Use `love.graphics.rectangle(...)` to paint the bars and the ball
+3. Control by keyboard
 
 Submit your Pong clone on Moodle as a `.love` file on Moodle until **April 28th, 2026, midnight**.
 
@@ -43,9 +43,9 @@ Are you not challenged enough? - Use [Löve2D Physics](https://love2d.org/wiki/l
 For the second mandatory exercise, you are to create a game where you land a rocket on a small plateau with [Godot](https://godotengine.org/).  Your game should fulfil the following requirements:
 
 1. Use the built-in Godot physics engine with the rocket/spaceship being a _RigidBody2D_ and the plateau being a _StaticBody2D_
-1. Use the arrow keys to rotate and fire up the rocket
-1. Let the game be similar to the example: [play in browser](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/) or [download for Windows](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/example-game-windows.zip) - the Godot 4.0 version is available at [itch.io](https://dermotte.itch.io/lunar-lander-clone)
-1. Submit as a zipped Godot Project.
+2. Use the arrow keys to rotate and fire up the rocket
+3. Let the game be similar to the example: [play in browser](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/) or [download for Windows](http://www.itec.uni-klu.ac.at/~mlux/games/cg2020/example-game-windows.zip) - the Godot 4.0 version is available at [itch.io](https://dermotte.itch.io/lunar-lander-clone)
+4. Submit as a zipped Godot Project.
 
 Submit your game, the zipped project folder, on Moodle until **May 31st, 2026, midnight**.
 
@@ -93,10 +93,3 @@ Plagiarism is defined as use of intellectual material produced by another person
 For computer science classes, this includes source code, video tutorials, and web pages used to create software for the course. It is mandatory to check for license compatibility, like (i) can it be used, (ii) how to attribute, and (iii) what license is implied by including this source. It is also mandatory to cite the sources in the report. Failing to do that counts as plagiarism.
 
 Note that the [Code of Conduct of the AAU](https://www.aau.at/en/research/research-profile/good-academic-practice/) applies. Students caught plagiarising or violating the code of conduct will be removed from class immediately.
-A paper has a bibliography referencing all employed sources, including but not limited to online videos, web pages, and code repositories
-- Adequate reliance on research literature:
-    - Selection of citations
-    - Provision of a well-formatted bibliography
-- Reliance on theoretical resources
-- Self-made observations on the discussed primary resource
-- Critical reflection on self-made observations

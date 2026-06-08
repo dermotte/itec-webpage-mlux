@@ -26,7 +26,8 @@ All courses start s.t. in [Klagenfurt local time](https://www.timeanddate.com/wo
 8. Introduction to 3D Graphics ~ [slides](https://docs.google.com/presentation/d/1Qmjiva6MyIRwAG9t_dh_FxmU3kZk-VNsU4Urcr95wKs/edit?usp=sharing)
 9. Game AI ~ [slides](https://docs.google.com/presentation/d/1-rowh4a-ICxjX3nymUqAiEncHGcioKqZXzcInptMcWw/edit?usp=sharing)
 10. Game Physics ~ [slides](https://docs.google.com/presentation/d/1kZG8d2jrmymshwfXGpSJ_eUll7t15jhHBrO78TPfBxI/edit?usp=sharing) / [IKT and Particles](https://docs.google.com/presentation/d/1tIdBHGaRL5fqAQKO9QkKgUODuXgYQ9j5lLlA0BKVzj4/edit?usp=sharing)
-11. Video Game History 
+11. Video Game History ~ [slides](https://docs.google.com/presentation/d/1FvWgwN-sfT64sSi-cinIbjE-w-sbbSQ3KmSQ9M2W1hI/edit?usp=sharing)
+12. Virtual Reality and the Uncanny Valley ~ [slides](https://docs.google.com/presentation/d/15mvrcl4tGSz-MuCscWQYlGq9cXq86eXbLihNaW051CE/edit?usp=sharing)
 
 ## Mandatory Exercise 01 - Pong with Löve
 For the first mandatory exercise, you are to create a Pong clone with [Löve2D](https://love2d.org/). It does not need to be an accurate copy (graphically or otherwise), but just let two people play a game of pong and count the points. Your Pong clone should fulfil the following requirements:

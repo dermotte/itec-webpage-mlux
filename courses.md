@@ -4,6 +4,14 @@ This and the subsequent pages give an overview of my teaching activities. If you
 
 If you are interested in a master's thesis, I have compiled a [presentation](https://docs.google.com/presentation/d/1ynYMyuXsB22T8Eb9ir9za02t-c21FkpmR1A5dOOdAAs/edit?usp=sharing) and a detailed [wiki](mdwiki) on how to approach that topic.
 
+## Winter Semester 2025/2026
+
+* [VO Game Engineering](?data=courses/gameengineering-ws2627.md) - Lecture on computer
+  game production and development as part of the Game Studies and Engineering master program.
+* [VC Advanced Topics in Computer Graphics](?data=courses/topics-cg-ws26.md) -
+  Course on additional topics in computer graphics with focus on computer games from the Game Studies and
+  Engineering master program.
+
 ## Summer Semester 2026
 
 * [Interaktive Multimedia-Anwendungen B (Computer Games)](?data=courses/games-ss26.md) -

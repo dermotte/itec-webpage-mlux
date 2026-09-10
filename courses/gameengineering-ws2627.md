@@ -26,7 +26,7 @@ Due to the international nature of the Game Studies and Engineering program and 
 
 ## Modalities
 
-This course is a *Vorlesung*, meaning the final grade is awarded based on an examination. The exam lasts 60 minutes and covers the topics discussed throughout the course. A [list of sample exam questions is available here](https://docs.google.com/document/d/1Vi0aqM1jASQqXgQTUN9Z0KXKXlC2yfp3jJaxMq9V4LM/edit?usp=sharing).
+This course is a *Vorlesung*, meaning the final grade is awarded based on an examination. The exam lasts 60 minutes and covers the topics discussed throughout the course. A [list of sample exam questions is available here](https://docs.google.com/document/d/1it9QYdgt4t7j7fG5YChkyIZTcWyVsbWJtl0EpT2XXks/edit?usp=sharing).
 
 ## Links
 

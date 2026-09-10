@@ -1,6 +1,6 @@
-# Assoc. Prof. Dr. DI Mathias Lux
+# Mathias Lux
 
-**Associate Professor** | [Institute for Information Technology (ITEC)](https://www.itec.aau.at/) | University of Klagenfurt, Austria
+**Professor for Video Games** | [Institute for Information Technology (ITEC)](https://www.itec.aau.at/) | University of Klagenfurt, Austria
 
 Mathias Lux is an Associate Professor at the Institute for Information Technology (ITEC), University of Klagenfurt. His work bridges the gap between user intentions and multimedia systems, with a current focus on interdisciplinary research within **(video) games**.
 

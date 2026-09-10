@@ -2,7 +2,7 @@
 
 This and the subsequent pages give an overview of my teaching activities. If you have questions on courses, an open master's or bachelor's thesis project, send me an email. <i class="fa-regular fa-envelope"></i> For communication, please respect the office hours and the [netiquette](https://tools.ietf.org/html/rfc1855).
 
-If you are interested in a master's thesis, I have compiled a [presentation](https://docs.google.com/presentation/d/1ynYMyuXsB22T8Eb9ir9za02t-c21FkpmR1A5dOOdAAs/edit?usp=sharing) and a detailed [wiki](mdwiki) on how to approach that topic.
+If you are interested in a master's thesis, I have compiled a [presentation](https://docs.google.com/presentation/d/1ynYMyuXsB22T8Eb9ir9za02t-c21FkpmR1A5dOOdAAs/edit?usp=sharing) on how to approach that topic.
 
 ## Winter Semester 2025/2026
 

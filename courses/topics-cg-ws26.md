@@ -13,7 +13,8 @@ Find the complete lecture schedule on the AAU Campus System. Unless stated other
 *Note: This course webpage will be updated continuously.*
 
 * Introduction to Procedurally Generated Content ~ [slides](https://docs.google.com/presentation/d/1UbFoitqbf66L44Aht5CdiZ17pyO-CcCGPAJUYUFX_5U/edit?usp=sharing)
-* Large Language Models in Video Games
+* Large Language Models in Video Games ~ [slides](https://docs.google.com/presentation/d/15sSEQwtWfdF9ez0FJ0KYwKQeBOgO_T0Q_8jmA4-TLBg/edit?usp=sharing)
+* Gradio and Retrieval Augmented Generation ~ [slides](https://docs.google.com/presentation/d/14Y0rDiEeo_Hp3qHoupQZ4mMj1I9nx6NOfioz8lKCTdE/edit?usp=sharing)
 * Overview of PCG Algorithms and Pseudo-Random Number Generators (PRNGs)
 * Noise Functions
 * Labyrinths and Maze Generation

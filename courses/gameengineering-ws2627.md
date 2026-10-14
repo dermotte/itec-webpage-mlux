@@ -4,7 +4,7 @@ The goal of this course is to introduce students to computer game engineering. G
 
 After completing this course, students will understand the key concepts and roles within a game project, how a game project is set up and executed, and the specific processes involved.
 
-The practical course associated with the lecture takes place as a game jam in December. Further information regarding the game jam will be shared under Practical Game Engineering later in the semester.
+The practical course associated with the lecture takes place as a [game jam](https://itch.io/jam/klujam-ws26) in December. Further information regarding the game jam will be shared under Practical Game Engineering later in the semester.
 
 ## Online Lectures
 
@@ -13,8 +13,8 @@ Due to the international nature of the Game Studies and Engineering program and 
 ## Topics
 
 1. Introduction & Computer Game History ~ [slides](https://docs.google.com/presentation/d/19zoAtcXthXKHT5mkWP2rym-BH4i_LexUHHo-5fvf4qA/edit?usp=sharing) [handout](https://docs.google.com/document/d/1GYZHYQIhKzd9U0XRPZY_LOOGLzcHGGh48vdoQdX116k/edit?usp=sharing) 
-2. Game Projects: Processes and Roles
-3. Prototyping
+2. Game Projects: Processes and Roles ~ [slides](https://docs.google.com/presentation/d/1ZC6VP7jo-pyEBSHfM7An5PgnbrGaL3jR0lAIE2o4odU/edit?usp=sharing)
+3. Prototyping ~ [slides](https://docs.google.com/presentation/d/1Dn-kyu5xDFn42zQ0kgWsfFF32o0S5PNnm3F_0EA80nA/edit?usp=sharing)
 4. Introduction to Programming
 5. Basic Concepts in Game Programming
 6. Playtests and Evaluation

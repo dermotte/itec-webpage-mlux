@@ -15,8 +15,8 @@ Find the complete lecture schedule on the AAU Campus System. Unless stated other
 * Introduction to Procedurally Generated Content ~ [slides](https://docs.google.com/presentation/d/1UbFoitqbf66L44Aht5CdiZ17pyO-CcCGPAJUYUFX_5U/edit?usp=sharing)
 * Large Language Models in Video Games ~ [slides](https://docs.google.com/presentation/d/15sSEQwtWfdF9ez0FJ0KYwKQeBOgO_T0Q_8jmA4-TLBg/edit?usp=sharing)
 * Gradio and Retrieval Augmented Generation ~ [slides](https://docs.google.com/presentation/d/14Y0rDiEeo_Hp3qHoupQZ4mMj1I9nx6NOfioz8lKCTdE/edit?usp=sharing)
-* Overview of PCG Algorithms and Pseudo-Random Number Generators (PRNGs)
-* Noise Functions
+* Overview of PCG Algorithms and Pseudo-Random Number Generators (PRNGs) ~ [slides](https://docs.google.com/presentation/d/1DzkjyjzaPlF1ChCf5HylCfPwPcjypktuWMPcOfM6-3c/edit?usp=sharing)
+* Noise Functions ~ [slides](https://docs.google.com/presentation/d/1mDfdUQHIYDvnRhA6Aj0IXy8p4jjTQxHac9qKZFmrmHg/edit?usp=sharing)
 * Labyrinths and Maze Generation
 * L-Systems & Terrain Erosion
 * Fractals & Procedural Solvers (Sudoku)

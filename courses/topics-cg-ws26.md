@@ -17,11 +17,11 @@ Find the complete lecture schedule on the AAU Campus System. Unless stated other
 * Gradio and Retrieval Augmented Generation ~ [slides](https://docs.google.com/presentation/d/14Y0rDiEeo_Hp3qHoupQZ4mMj1I9nx6NOfioz8lKCTdE/edit?usp=sharing)
 * Overview of PCG Algorithms and Pseudo-Random Number Generators (PRNGs) ~ [slides](https://docs.google.com/presentation/d/1DzkjyjzaPlF1ChCf5HylCfPwPcjypktuWMPcOfM6-3c/edit?usp=sharing)
 * Noise Functions ~ [slides](https://docs.google.com/presentation/d/1mDfdUQHIYDvnRhA6Aj0IXy8p4jjTQxHac9qKZFmrmHg/edit?usp=sharing)
-* Labyrinths and Maze Generation
+* Labyrinths and Maze Generation ~ [slides](https://docs.google.com/presentation/d/10QGAEzBxsOPM-lBqXzUMtG5Y4xp53qFl0obw-knU5dg/edit?usp=sharing)
 * L-Systems & Terrain Erosion
 * Fractals & Procedural Solvers (Sudoku)
 * Wave Function Collapse
-* LLMs for PCG
+
 
 The source code used in lectures is available on GitHub: <https://github.com/dermotte/AdvancedTopicsCG>
 

@@ -17,8 +17,8 @@ Due to the international nature of the Game Studies and Engineering program and 
 3. Prototyping ~ [slides](https://docs.google.com/presentation/d/1Dn-kyu5xDFn42zQ0kgWsfFF32o0S5PNnm3F_0EA80nA/edit?usp=sharing) ~ [handout](https://docs.google.com/document/d/1OmRp7_AVFn6T7ihfgcV3jlpl_8AVv51gJtpH0P4I76w/edit?usp=sharing)
 4. Introduction to Programming ~ [slides](https://docs.google.com/presentation/d/1MAQsglzcmJp2E8XUrPJx9iKf79Al26iCWvfMKCIDErk/edit?usp=sharing) ~ [video](https://youtu.be/7WYtH6FAb58?si=7th5s-DxUQz5sP6e)
 5. Basic Concepts in Game Programming ~ [slides](https://docs.google.com/presentation/d/1Uq-OEXTfSlYt2jP-myzcFkixCrkjL7m7g2Xx800x5fE/edit?usp=sharing) ~ [handout 1](https://drive.google.com/file/d/1dE1pLBhVsebq8QyjZWWgwR0Nem48dHg-/view?usp=sharing) ~ [handout 2](https://drive.google.com/file/d/1Dvb25Q66FILFSNPXhzZDZ-UJscpR1QhS/view?usp=sharing)
-6. Playtests and Evaluation
-7. Evaluation of Game Prototypes
+6. Playtests and Evaluation ~ [slides](https://docs.google.com/presentation/d/1YK9t44MNANu8J9R91MC-bQBALlQN4Jf1C8vjOABKOok/edit?usp=sharing) ~ [handout](https://docs.google.com/document/d/1ZFNAnkMo3BIg5ljetnZ60w-UEkMjisqN/edit?usp=sharing&ouid=110300110919325770824&rtpof=true&sd=true)
+7. Evaluation of Game Prototypes ~ [slides](https://docs.google.com/presentation/d/1SX67MN8Xo2TxizERMDrC8h4KO_9VKpoKGVthqtVyUQw/edit?usp=sharing)
 8. Animation
 9. Game Jam Survival Guide
 10. Sound & Interactive Music
